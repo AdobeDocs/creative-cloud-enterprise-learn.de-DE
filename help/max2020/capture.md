@@ -1,10 +1,10 @@
 ---
 title: Capture
-description: Adobe [!DNL Capture] verwandelt Mobiltelefone und Tablets in ein Design-Sammlungswerkzeug
+description: Adobe [!DNL Capture] macht aus Smartphones und Tablets ein Design-Sammlungswerkzeug
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -15,56 +15,56 @@ ht-degree: 1%
 
 ![Tutorial Hero Image](../assets/Capture.jpg)
 
-Adobe [!DNL Capture] verwandelt Mobiltelefone und Tablets in ein Design-Sammlungswerkzeug. Benutzer können viele verschiedene Arten von Elementen erstellen (einzelne digitale Elemente für Grafiken).   Diese Elemente werden automatisch mit anderen Applikationen für Desktop- und mobile Adobe synchronisiert. Benutzer können sie in ihre kreativen Projekte einbinden oder sie für Mitwirkende freigeben.
+Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Design-Sammlung. Benutzer können verschiedene Arten von Elementen erstellen (individuelle digitale Elemente für Grafiken).   Diese Elemente werden automatisch mit anderen Adobe Apps synchronisiert. Benutzer können sie in ihre kreativen Projekte einbinden oder ganz einfach mit Mitwirkenden teilen.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="capture.md#tutorial1">
-      <img alt="Inspiration aus der Welt" src="../assets/capture_palmer_thumbnail.jpg" />
+      <img alt="Fange Inspiration aus deiner unmittelbaren Umgebung ein." src="../assets/capture_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="capture.md#tutorial1"><strong>Inspiration aus der Welt</strong></a>
+   <a href="capture.md#tutorial1"><strong>Fange Inspiration aus deiner unmittelbaren Umgebung ein.</strong></a>
     </div>
-    <em>Mit den leistungsstarken Werkzeugen zur Auswahl und Farbbearbeitung bei der Adobe-Aufnahme können Sie ein Bild ganz nach Ihren Branding-Anforderungen anpassen</em>
+    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Capture ein Bild mit Branding-Elementen aus.</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Inspiration aus der Welt um dich erfassen (2:56) {#tutorial1}
+## Inspiration aus der Welt um dich (2:56) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
 **Beschreibung**
-Transformieren Sie Bilder und Videos auf Ihrem Mobilgerät in kreative Bausteine für alle Ihre Designs.
+Wandle Bilder und Videos auf deinem Smartphone oder Tablet in Fertigkomponenten für dein Design um.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Design Anywhere
-* Integration mit Desktop-Applikationen über CC Libraries
-* Zugriff auf Tausende von Adobe Fonts
+* Überall designen.
+* Über Creative Cloud-Bibliotheken mit Desktop-Programmen arbeiten.
+* Zugriff auf mehrere Tausend Adobe Fonts
 
-**Vorgestellt von:**
-Emily Palmer, Solutions Consultant (Digital Media)
+**Präsentiert von:**
+Emily Palmer, Lösungsberaterin (Digitale Medien)
 
-![Logo aufnehmen](../assets/ca_appicon_96.png)
+![Capture-Logo](../assets/ca_appicon_96.png)
 
 **[!DNL Capture]Ressourcen**
 
-[Lernen und ](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) unterstützen Sie bei weiteren Tutorials und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) ist deine Anlaufstelle für weitere Tutorials und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
