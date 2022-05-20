@@ -15,20 +15,20 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Photoshop.jpg)
 
-Photoshop ist die weltweit beste Software für Bildbearbeitung und Grafikdesign und ermöglicht so eine unbegrenzte Kreativität für Profis auf allen Geräten. Jetzt kann jeder alles erschaffen, was er sich vorstellt, wo immer Inspiration einfallen mag. Wenn du es dir denken kannst, kannst du es mit Photoshop schaffen.
+Photoshop ist die führende Software für Bildbearbeitung und Grafik-Design. Damit können Profis auf allen Geräten Lasse deiner Kreativität freien Lauf. Egal wo du inspiriert wirst. Photoshop hat alles, was du brauchst - setze jede Idee um.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshop.md#tutorial1">
-      <img alt="Bilder so bearbeiten, dass sie mit Ihrer Kampagne übereinstimmen" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
+      <img alt="Bilder an Kampagnen anpassen." src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>Bilder so bearbeiten, dass sie mit Ihrer Kampagne übereinstimmen</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>Bilder an Kampagnen anpassen.</strong></a>
     </div>
-    <em>Mit den leistungsstarken Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop können Sie ein Bild ganz nach Ihren Branding-Anforderungen skalieren</em>
+    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
     <br>
   </td>
   <td>
@@ -38,54 +38,54 @@ Photoshop ist die weltweit beste Software für Bildbearbeitung und Grafikdesign 
     <div>
     <a href="photoshop.md#tutorial2"><strong>Himmel auswählen und ersetzen</strong></a>
     </div>
-    <em>Automatisches Auswählen des Himmels in einem Bild und Ersetzen durch einen Himmel Ihrer Wahl, automatische Anpassung der Bildfarben an Ihre Auswahl</em>
+    <em>Automatisches Auswählen des Himmels in einem Bild und Ersetzen durch einen Himmel deiner Wahl, automatisches Anpassen der Farben des Bildes an deine Auswahl</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Bilder an Ihre Kampagne anpassen (5:45) {#tutorial1}
+## Bilder an die Kampagne anpassen (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Beschreibung**
-Verwenden Sie die leistungsstarken Auswahl- und Farbbearbeitungswerkzeuge in Adobe Photoshop, um ein Bild entsprechend Ihren Branding-Anforderungen drastisch zu ändern.
+Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Photoshop kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Mit dem Objektauswahlwerkzeug können Sie Elemente schneller und einfacher auswählen
-* Die inhaltsbasierte Füllung ermöglicht eine bessere Kontrolle der Beispielbereiche innerhalb eines Quellbilds, um das Klonen und Patchen von Zielbereichen zu verbessern
-* Pinsel können unterschiedliche Formen sein, um bessere Ergebnisse zu erzielen
-* Adobe Sensei hilft bei der Nutzung künstlicher Intelligenz für allgemeinere Aufgaben
+* Mit dem Objektauswahl-Werkzeug lassen sich Objekte schneller und einfacher auswählen
+* Die inhaltsbasierte Füllung ermöglicht eine bessere Kontrolle der Musterbereiche innerhalb eines Quellbilds, um das Klonen und Patchen von Zielbereichen zu verbessern
+* Pinsel können verschiedene Formen haben, um bessere Ergebnisse zu erzielen
+* Adobe Sensei unterstützt die künstliche Intelligenz bei Routineaufgaben
 
-**Vorgestellt von:**
+**Präsentiert von:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ## Himmel auswählen und ersetzen (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
-****
-BeschreibungWählen Sie automatisch den Himmel in einem Bild aus und ersetzen Sie ihn durch einen Himmel Ihrer Wahl. Passen Sie die Farben des Bildes automatisch an Ihre Auswahl an.
+**Beschreibung**
+Wählt den Himmel in einem Bild automatisch aus, und ersetzt ihn durch einen anderen. Die Farben des Bildes werden automatisch an die Auswahl angepasst.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Sky Replacement bietet eine One-Click-Lösung zum sofortigen Austauschen von Himmel in Ihren Bildern
-* Sky Replacement speichert seine Ausgabe als Ebenengruppe mit jeder Maske, jeder Korrektur und jedem Bild zur weiteren Verbesserung
+* Sky Replacement bietet eine Ein-Klick-Lösung, um den Himmel in Ihren Bildern sofort zu tauschen
+* Sky Replacement speichert seine Ausgabe als Ebenengruppe mit jeder Maske, jeder Anpassung und jedem Bild, um sie weiter zu verfeinern
 
 
-**Vorgestellt von:**
+**Präsentiert von:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ![Photoshop-Logo](../assets/ps_appicon_96.png)
 
-**Photoshop Resources**
+**Ressourcen zu Photoshop**
 
-[Lernen und ](https://helpx.adobe.com/support/photoshop.html) unterstützen Sie bei weiteren Tutorials,  [Neuerungen](https://helpx.adobe.com/photoshop/using/whats-new.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/photoshop.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/photoshop/using/whats-new.html)und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

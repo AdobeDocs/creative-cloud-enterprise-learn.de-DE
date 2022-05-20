@@ -1,6 +1,6 @@
 ---
-title: Animationen für E-Mail mit Adobe [!DNL Stock] und Photoshop erstellen
-description: Empowerment Ihrer E-Mails mit Stopp-Action-Animation mit Adobe [!DNL Stock] und Photoshop
+title: Animationen für E-Mails mit Adobe erstellen [!DNL Stock] und Photoshop
+description: Emails mit Stopp-Action-Animation und Adobe versehen. [!DNL Stock] und Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Animationen für E-Mail mit Adobe [!DNL Stock] und Photoshop erstellen
+# Animationen für E-Mails mit Adobe erstellen [!DNL Stock] und Photoshop
 
-Empowerment Ihrer E-Mails mit Stopp-Action-Animation mit Adobe [!DNL Stock] und Photoshop.
+Emails mit Stopp-Action-Animation und Adobe versehen. [!DNL Stock] und Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

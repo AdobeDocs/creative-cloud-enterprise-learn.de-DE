@@ -1,24 +1,24 @@
 ---
-title: Creative Cloud für Kurzanleitungen für Unternehmen
-description: Tutorials, mit denen Sie das Creative Cloud für Unternehmensprodukte auf den neuesten Stand bringen können
+title: Kurzanleitungen für Creative Cloud für Unternehmen
+description: Tutorials, die euch bei der Einführung der Produkte für Enterprise-Creative Cloud unterstützen
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1254'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
-# Creative Cloud für Kurzanleitungen für Unternehmen
+# Kurzanleitungen für Creative Cloud für Unternehmen
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und Unternehmenssysteme und Richtlinien einhalten. Diese Kurzanleitung hilft Ihnen, neue Funktionen in Creative Cloud kennenzulernen.
+Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Kurzanleitungen helfen Ihnen, neue Funktionen in Creative Cloud zu erlernen.
 
 
-## Klicken Sie, um eine PDF-Datei der Kurzanleitung herunterzuladen.
+## Klicken Sie hier, um eine PDF der Kurzanleitung herunterzuladen
 
 ### Creative Cloud für Unternehmen
 
@@ -31,47 +31,47 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
    <a href="GettingStartedwithCloudDocuments.pdf"><strong>Erste Schritte mit Cloud-Dokumenten (PDF)</strong></a>
     </div>
-    <em>Erstellen Sie ein Dokument von einem Gerät aus und arbeiten Sie weiter mit diesem Dokument. Erfahren Sie, wie Sie Ihre Dokumente in die Cloud verschieben und wann immer und wo immer Sie wollen darauf zugreifen.</em>
+    <em>Erstellen Sie ein Dokument von einem Gerät aus und arbeiten Sie damit auf einem anderen Gerät weiter. Erfahren Sie, wie Sie Ihre Dokumente in die Cloud verschieben und jederzeit und überall darauf zugreifen können</em>
     <br>
   </td>
   <td>
    <a href="ScanShareandReviewPDFswithCreativeCloud.pdf">
-      <img alt="PDFs mit Creative Cloud scannen, freigeben und überprüfen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Scannen, Freigeben und Prüfen von PDF mit Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf"><strong>PDF-Dateien mit Creative Cloud scannen, freigeben und überprüfen (PDF)</strong></a>
+   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf"><strong>Scannen, Freigeben und Überprüfen von PDF mit Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Adobe Scan und Document Cloud ein Papierformular erfassen, freistellen und in eine voll funktionsfähige PDF-Datei konvertieren - dann Acrobat zum Ausfüllen, Unterschreiben und Teilen Ihrer Informationen verwenden</em>
+    <em>Erfahren Sie, wie Sie ein Papierformular mit Adobe Scan und Document Cloud erfassen, zuschneiden und in eine voll funktionsfähige PDF-Datei konvertieren. Verwenden Sie dann Acrobat, um Ihre Daten auszufüllen, zu signieren und zu teilen</em>
     <br>
   </td>
  <td>
    <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf">
-      <img alt="Fotos mit Creative Cloud aufnehmen, bearbeiten und veröffentlichen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mit Creative Cloud Fotos aufnehmen, bearbeiten und veröffentlichen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf"><strong>Fotos mit Creative Cloud aufnehmen, bearbeiten und veröffentlichen (PDF)</strong></a>
+   <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf"><strong>Aufnehmen, Bearbeiten und Veröffentlichen Ihrer Fotos mit Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Erfahren Sie die fantastischen Funktionen von Lightroom auf Ihrem Mobilgerät, um das Beste aus Ihren Bildern herauszuholen</em>
+    <em>Entdecke die Features von Lightroom auf deinem Smartphone oder Tablet.</em>
     <br>
   </td>
 </tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
-      <img alt="Broschüren-Layout mit Creative Cloud skizzieren, zusammensetzen und fertigstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Broschüren-Layout mit Creative Cloud skizzieren, fertigstellen und fertigstellen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Broschürenlayout mit Creative Cloud skizzieren, komprimieren und fertigstellen (PDF)</strong></a>
+   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Broschüren-Layout mit Creative Cloud skizzieren, fertigstellen und fertigstellen (PDF)</strong></a>
     </div>
-    <em>Entdecken Sie mit Adobe Comp schnell Layout-Ideen für Print, Web, Mobilgeräte oder Social Media auf Ihrem Mobilgerät</em>
+    <em>Entdecke mit Adobe Comp Layout-Ideen für Print, Web, Mobile und Social Media auf deinem Smartphone oder Tablet.</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -85,21 +85,21 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
  <td>
    <a href="CreateEditandShareaWebPagewithSpark.pdf">
-      <img alt="Web-Seite mit Spark erstellen, bearbeiten und freigeben" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Erstellen, Bearbeiten und Freigeben einer Webseite mit Spark" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Erstellen, Bearbeiten und Freigeben einer Webseite mit Spark (PDF)</strong></a>
     </div>
-    <em>Erstellen Sie ein interaktives, responsives und Leuchtkasten-fähiges Fotoraster für Ihre Webseite mithilfe einfacher und intuitiver Werkzeuge in Adobe Spark und schöner Bilder aus der Adobe [!DNL Stock].</em>
+    <em>Erstelle mit intuitiven Werkzeugen in Adobe Spark und Bildern aus Adobe ein interaktives, responsives und Lightbox-fähiges Fotoraster für deine Web-Seite [!DNL Stock]</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -112,22 +112,22 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
   <td>
     <a href="Decodingthealphabetsoupofgraphicformats.pdf">
-      <img alt="Decodieren der Alphabetsuppe von Grafikformaten" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Dekodieren der Buchstabensuppe von Grafikformaten" src="../assets/acrobat_PDF_96.png" />
     </a>
     <div>
-    <a href="Decodingthealphabetsoupofgraphicformats.pdf"><strong>Decoding the alphabet suppp of graphic formats (PDF)</strong></a>
+    <a href="Decodingthealphabetsoupofgraphicformats.pdf"><strong>Dekodieren der Buchstabensuppe von Grafikformaten (PDF)</strong></a>
     </div>
-    <em>JPG-, PNG-, SVG-, GIF- und EPS-Dateien werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und kreative Projekte. Aber was bedeuten sie und welche sollten Sie auswählen?</em>
+    <em>JPG-, PNG-, SVG-, GIF- und EPS-Dateien werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und Kreativprojekte. Aber was bedeuten sie, und was sollten Sie wählen?</em>
     <br>
   </td>
  <td>
    <a href="AnyonecanbecreativewithCreativeCloud.pdf">
-      <img alt="Mit Creative Cloud kann jeder kreativ sein" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Jeder kann mit Creative Cloud kreativ sein" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AnyonecanbecreativewithCreativeCloud.pdf"><strong>Jeder kann mit Creative Cloud kreativ sein (PDF)</strong></a>
     </div>
-    <em>Folgen Sie dieser schnellen Technik, die zeigt, wie Sie mit dem Camera Raw-Filter das Beste aus jedem Foto herausbringen</em>
+    <em>Lerne, wie du mit dem Camera Raw Filter das Beste aus deinen Fotos herausholst.</em>
     <br>
   </td>
   <td>
@@ -137,33 +137,33 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Erstellen von Cinemagrammen mit Photoshop (PDF)</strong></a>
     </div>
-    <em>Erstellen Sie ein lebendiges Foto, indem Sie Adobe [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop kombinieren. Bilder mit Bewegung und strategischem Schleifenpunkt zum Leben erwecken
-    <br></em>
+    <em>Adobe-Video zu einem Foto kombinieren. [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop. Erwecke deine Bilder mit Bewegung und einem strategischen Schleifpunkt zum Leben</em>
+    <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
-      <img alt="Erstellen von Kiefer-Dropping-Grafiken mit Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Grafiken mit Kiefer entfernen mit Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>Erstellen von Kiefer-Dropping-Grafiken mit Photoshop + After Effects (PDF)</strong></a>
+   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>Grafiken mit Kiefer entfernen mit Photoshop + After Effects (PDF)</strong></a>
     </div>
-    <em>Mit einer gängigen Videotechnik in After Effects können Sie eine Hintergrundfarbe in einem Foto schnell entfernen, um eine einzigartige Fotokomposition für Ihre Designprojekte zu erstellen</em>
+    <em>Use a common video technique, in After Effects, to quickly remove a background color in a photograph in order to create a unique photo composite for your design projects</em>
     <br>
   </td>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
-      <img alt="Photoshop auf dem iPad kennenlernen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Photoshop auf dem iPad kennenlernen." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="GettoknowPhotoshopontheiPad.pdf"><strong>Photoshop auf dem iPad kennenlernen (PDF)</strong></a>
     </div>
-    <em>Photoshop mit einer überarbeiteten Touch-basierten Oberfläche zur Hand</em>
+    <em>Nutze die Power von Photoshop dank einer überarbeiteten, Touch-basierten Oberfläche</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -176,21 +176,21 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
  <td>
    <a href="Frescoworkshop.pdf">
-      <img alt="Testen Sie Ihre Hand auf dem Fresco auf dem iPad (und iPhone)." src="../assets/acrobat_PDF_96.png" />
+      <img alt="Fresco auf dem iPad (und iPhone) ausprobieren" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="Frescoworkshop.pdf"><strong>Auf dem iPad (und iPhone) auf dem Fresco die Hand ausgeben (PDF)</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>Fresco auf dem iPad (und iPhone) (PDF)</strong></a>
     </div>
-    <em>In diesem 15-minütigen Workshop mit Adobe Fresco eine ganz neue Welt des digitalen Zeichnens und Gemäldes entdecken</em>
+    <em>Entdecke eine neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco in diesem 15-minütigen, praktischen Workshop</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -203,22 +203,22 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD: Advanced Voice Prototyping" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD: Erweitertes Voice Prototyping." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
     </div>
-    <em>Erstellen Sie einen interaktiven Prototyp, der auf Klicks, Touch- und Audioeingaben Ihrer Benutzer reagieren kann</em>
+    <em>Erstellen Sie einen interaktiven Prototyp, der auf Klick-, Touch- und Audio-Eingaben Ihrer Benutzer reagieren kann.</em>
     <br>
   </td>
    <td>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="Coediting: Echtzeit-Design-Zusammenarbeit mit Adobe XD" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Coediting: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Coediting: Echtzeit-Design-Zusammenarbeit mit Adobe XD (PDF)</strong></a>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Co-Editing: Design-Zusammenarbeit in Echtzeit mit Adobe XD (PDF)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Ihren Kollegen, Kunden und Entwicklern über interaktive Prototypen mit den einzigartigen Freigabewerkzeugen von Adobe XD und Creative Cloud zusammenarbeiten können</em>
+    <em>Erfahre, wie du in Adobe XD und Creative Cloud mit Kollegen, Kunden und Entwicklern an einem interaktiven Prototyp arbeitest.</em>
     <br>
   </td>
   <td>
@@ -228,28 +228,28 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Interaktive Projekte mit Creative Cloud entwerfen und Prototypen erstellen (PDF)</strong></a>
     </div>
-    <em>Erstellen Sie in wenigen Minuten eine vollständig interaktive und animierte Benutzererfahrung, indem Sie Adobe XD mit einer Vielzahl von einzigartigen und vielseitigen Elementen auf der Adobe kombinieren [!DNL Stock]</em>
+    <em>Erstelle in wenigen Minuten eine vollständig interaktive und animierte User Experience. Kombiniere Adobe XD mit einer Vielzahl einzigartiger und vielseitiger Elemente auf Adobe [!DNL Stock]</em>
     <br>
   </td>
  </tr>
  <tr>
   <td>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="XD - Siehe Design, Prototyp und Weitergabe an Teams" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Let’s XD - See How to Design, Prototype, and Handoff to Teams" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>XD - Siehe Design, Prototyp und Weitergabe an Teams (PDF)</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let’s XD - See How to Design, Prototype, and Handoff to Teams (PDF)</strong></a>
     </div>
-    <em>Komponenten bieten Ihnen beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz auf Ihren Design-Workflow</em>
+    <em>Komponenten bieten Ihnen beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz in Ihrem Design-Workflow</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -262,64 +262,64 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
   <td>
    <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
-      <img alt="Eindeutige Grafiken durch Kombinieren von Adobe [!DNL Stock]-Bildern erstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe zu einem Grafikelement kombinieren. [!DNL Stock] Bilder" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Eindeutige Grafiken durch Kombinieren von Adobe [!DNL Stock]-Bildern erstellen (PDF)</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Adobe zu einem Grafikelement kombinieren. [!DNL Stock] Bilder (PDF)</strong></a>
     </div>
-    <em>Kombinieren Sie Bilder aus Adobe [!DNL Stock], um ein völlig neues Bild für Ihre Designprojekte zu erstellen</em>
+    <em>Kombinieren von Bildern aus Adoben [!DNL Stock] , um ein völlig neues Bild für Ihre Design-Projekte zu erstellen</em>
     <br>
   </td>
   <td>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf">
-      <img alt="Portfolio mit einzigartigen Projekten und Adobe verbessern [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Portfolio mit einzigartigen Projekten und Adoben verbessern [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>Portfolio mit einzigartigen Projekten und Adobe verbessern [!DNL Stock] (PDF)</strong></a>
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>Portfolio mit einzigartigen Projekten und Adoben verbessern [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Kombinieren Sie Bilder aus Adobe [!DNL Stock], um ein völlig neues Bild für Ihre Designprojekte zu erstellen</em>
+    <em>Kombinieren von Bildern aus Adoben [!DNL Stock] , um ein völlig neues Bild für Ihre Design-Projekte zu erstellen</em>
     <br>
   </td>
    <td>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf">
-      <img alt="Mehr Aufmerksamkeit bei Motion von Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mehr Aufmerksamkeit mit Animationen von Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Mehr Aufmerksamkeit bei Bewegungen aus Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Mehr Aufmerksamkeit mit Animationen von Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] die Aufmerksamkeit Ihres Publikums auf jedem Bildschirm, durch Kombination von Fotografie und Adobe [!DNL Stock]</em>
+    <em>[!DNL Capture] die Aufmerksamkeit deiner Zielgruppen auf jedem Bildschirm durch die Kombination von Fotografie und Video aus der Adobe [!DNL Stock]</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
-      <img alt="Daten mit Adobe [!DNL Stock]-Animationsvorlagen anzeigen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Präsentiert eure Daten mit Adobe. [!DNL Stock] Animationsvorlagen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>Daten mit Adobe [!DNL Stock]-Animationsvorlagen anzeigen (PDF)</strong></a>
+   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>Präsentiert eure Daten mit Adobe. [!DNL Stock] Animationsvorlagen (PDF)</strong></a>
     </div>
-    <em>Einflussreichere Darstellung Ihrer Daten durch Hinzufügen von Bewegung und Design mit einer Animationsvorlage aus der Adobe [!DNL Stock]</em>
+    <em>Präsentiere deine Daten ansprechender, indem du Motion-Graphics-Templates von Adobe verwendest [!DNL Stock]</em>
     <br>
   </td>
   <td>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf">
-      <img alt="Design-Arbeiten in Echtzeit präsentieren" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Deine Design-Projekte in der realen Welt präsentieren." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowOffYourDesignWorkintheRealWorld.pdf"><strong>Design-Arbeiten in der realen Welt anzeigen (PDF)</strong></a>
+   <a href="ShowOffYourDesignWorkintheRealWorld.pdf"><strong>Design-Arbeit in der realen Welt zeigen (PDF)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihre Design-Arbeit mit Vorlagen aus der Adobe [!DNL Stock] testen können.</em>
+    <em>Mit Vorlagen aus Adobe erstellst du professionelle Mockups. [!DNL Stock]</em>
     <br>
   </td>
 <td>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf">
-      <img alt="Tipps zum Erstellen von Animationen per E-Mail mit Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Tipps zum Erstellen von Animationen in E-Mails mit Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Tipps zum Erstellen von Animationen per E-Mail mit Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Tipps zum Erstellen von Animationen in E-Mails mit Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Kombinieren Sie statische Bilder und Videos in Photoshop zu einem überzeugenden animierten GIF für Ihre Kampagne, das für eine Vielzahl von E-Mail-Anwendungen von Kunden geeignet ist</em>
+    <em>Kombiniere statische Bilder und Videos in Photoshop zu einer animierten GIF, die sich für zahlreiche E-Mail-Anwendungen eignet.</em>
     <br>
   </td>
 </tr>
@@ -331,21 +331,21 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
   <td>
    <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="Typografie mit Creative Cloud erstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Typografie mit Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Unbegrenzte Anzahl von Adobe Fonts an Ihren Fingertips (PDF)</strong></a>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Unbegrenztes Adobe Fonts-Angebot (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] mit der Adobe [!DNL Capture] auf Ihrem Mobilgerät interessante Schriften in der realen Welt erfassen, dann ähnliche Schriften mit Adobe Fonts- und Creative Cloud-Bibliotheken identifizieren und aktivieren und speichern</em>
+    <em>[!DNL Capture] realistisch aussehende Schriften mit Adobe [!DNL Capture] auf Ihrem Mobilgerät verwenden, um ähnliche Schriften mithilfe von Adobe Fonts und Bibliotheken für Creative Cloud zu identifizieren, zu aktivieren und zu speichern</em>
     <br>
   </td>
    <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -358,26 +358,26 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
    <td>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="Bildkompositionen mit Illustrator für das iPad erstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mit Illustrator für iPad eine Komposition aus Bildern und Formen erstellen." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Bildkompositionen mit Illustrator für iPad erstellen (PDF)</strong></a>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Create a composite using images and shapes with Illustrator for iPad (PDF)</strong></a>
     </div>
-    <em>Mit Illustrator können Sie Grafiken ähnlich formatieren wie Text.</em>
+    <em>Mit Illustrator können Sie Grafiken genauso formatieren wie Ihren Text</em>
     <br>
   </td>
    <td>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="Responsive und animierte SVG mit XD, Illustrator und CSS" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Responsives und animiertes SVG mit XD, Illustrator und CSS" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsive und Animated SVG mit XD, Illustrator und CSS (PDF)</strong></a>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsives und animiertes SVG mit XD, Illustrator und CSS (PDF)</strong></a>
     </div>
-    <em>SVG-Dateien mit wenigen CSS-Zeilen animieren</em>
+    <em>Verleihen Sie Ihren SVG-Dateien mit nur wenigen CSS-Zeilen eine Animation</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -390,26 +390,26 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
   <td>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf">
-      <img alt="Realistische 3D-Mockups mit Adobe [!DNL Stock] und [!DNL Dimension] erstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mit Adobe realistische 3D-Mockups erstellen. [!DNL Stock] und [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>Realistische 3D-Mockups mit Adobe [!DNL Stock] und [!DNL-Dimension] (PDF) erstellen</strong></a>
+   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>Mit Adobe realistische 3D-Mockups erstellen. [!DNL Stock] und [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Erfahren Sie, wie sich Ihr Design in echte Objekte verwandelt, indem Sie 3D-Modelle von Adobe [!DNL Stock] mit benutzerdefinierten Aufklebern in [!DNL Dimension] kombinieren.</em>
+    <em>Kombiniere 3D-Modelle aus Adobe, um zu sehen, wie dein Design realistische Objekte erschafft. [!DNL Stock] mit benutzerdefinierten Aufklebern in [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="SkiptheShootGettheShot.pdf">
-      <img alt="Schießen — Aufnahme abrufen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Zum Fotografieren wechseln - Zum Fotografieren" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SkiptheShootGettheShot.pdf"><strong>Schießen — Foto abrufen (PDF)</strong></a>
+   <a href="SkiptheShootGettheShot.pdf"><strong>Aufnahme überspringen - Aufnahme abrufen (PDF)</strong></a>
     </div>
-    <em>3D-Modelle in [!DNL-Dimension] mithilfe von Materialien, Umgebungseigenschaften, Beleuchtung und Fotografie anpassen und mit Branding versehen, um fotorealistische Bilder für jedes Design-Projekt zu erstellen</em>
+    <em>Anpassen und Branding eines 3D-Modells in [!DNL Dimension] Materialien, Umwelteigenschaften, Beleuchtung und Fotografie nutzen, um fotorealistische Bilder für jedes Design-Projekt zu erstellen</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
@@ -422,12 +422,12 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
   <td>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf">
-      <img alt="Animationen in Echtzeit mit Character Animator erstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mit Character Animator Animationen in Echtzeit erstellen." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf"><strong>Animationen in Echtzeit mit Character Animator erstellen (PDF)</strong></a>
     </div>
-    <em>Mit dem Gesicht eine ausdrucksstarke Animation mit Character Animator erstellen</em>
+    <em>Mit dem Character Animator eine ausdrucksstarke Animation erstellen.</em>
     <br>
   </td>
  <td>
@@ -437,37 +437,37 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
    <a href="IntrotoAnimationwithAfterEffects.pdf"><strong>Einführung in die Animation mit After Effects (PDF)</strong></a>
     </div>
-    <em>Animierte Komposition mit Grafiken und Text in After Effects erstellen</em>
+    <em>Mit After Effects eine Komposition aus Grafiken und Text erstellen.</em>
     <br>
   </td>
   <td>
    <a href="PremiereProforDesigners.pdf">
-      <img alt="Premiere Pro für Designer" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Premiere Pro für Designer." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="PremiereProforDesigners.pdf"><strong>Premiere Pro für Designer (PDF)</strong></a>
     </div>
-    <em>Social-Media-Erlebnisse durch Kombination von Video und Grafiken im Premiere Pro erzählen</em>
+    <em>Social-Media-Posts mit Grafiken und Videos in Premiere Pros untermalen.</em>
     <br>
   </td>
 <tr>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf">
-      <img alt="Fotos mit Creative Cloud aufnehmen, bearbeiten und veröffentlichen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Mit Creative Cloud Fotos aufnehmen, bearbeiten und veröffentlichen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf"><strong>Fotos mit Creative Cloud aufnehmen, bearbeiten und veröffentlichen (PDF)</strong></a>
+   <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf"><strong>Aufnehmen, Bearbeiten und Veröffentlichen Ihrer Fotos mit Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Kombinieren Sie Videos und Animationen, um eine überzeugende Geschichte für Social Media zu erzählen - mit intuitiven Bearbeitungswerkzeugen und Animationsvorlagen in Premiere [!DNL Rush]</em>
+    <em>Mit den intuitiven Bearbeitungswerkzeugen und Motion-Graphics-Templates von Premiere Pro kannst du Videos und Animationen kombinieren, um eine packende Story für Social Media zu erzählen [!DNL Rush]</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>

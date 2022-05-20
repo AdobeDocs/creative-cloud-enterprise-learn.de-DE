@@ -4,9 +4,9 @@ description: Adobe Adobe® InDesign® Server-Software bietet eine robuste und sk
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
+source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/InDesignServer.jpg)
 
-Die Adobe InDesign® Server-Software bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, damit Sie ansprechende automatisierte Dokumente programmatisch erstellen können.
+Adobe Adobe® InDesign® Server bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, sodass Sie ansprechende automatisierte Dokumente programmatisch erstellen können.
 
 ## Tutorials für Produkte durchsuchen
 

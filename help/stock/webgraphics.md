@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie ansprechende Webgrafiken, indem Sie Adobe [!DNL Stock] Bilder mit CSS kombinieren
-description: Mit der Kombination von Farben und Verläufen in Ihrer Werbekampagne eine Marke mit unterschiedlichen Bildern schaffen
+title: Adoben zu Webgrafiken kombinieren. [!DNL Stock] Bilder mit CSS
+description: Durch die Kombination von Farben und Verläufen in eurer Werbekampagne könnt ihr Markenkonsistenz in Form von unterschiedlichen Bildern erreichen.
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen Sie ansprechende Webgrafiken, indem Sie Bilder der Adobe [!DNL Stock] mit CSS kombinieren
+# Adoben zu Webgrafiken kombinieren. [!DNL Stock] Bilder mit CSS
 
-Erstellen Sie mit unterschiedlichen Bildern Markenidentität, indem Sie Farben und Farbverläufe in Ihrer Werbekampagne kombinieren.
+Erzeuge ein konsistentes Markenerlebnis mit unterschiedlichen Bildern. Wende Farben und Verläufe auf das gesamte Material deiner Werbekampagne an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

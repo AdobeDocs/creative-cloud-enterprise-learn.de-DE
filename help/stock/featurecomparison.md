@@ -1,6 +1,6 @@
 ---
-title: Produktfunktionsvergleichstabelle mit Adobe [!DNL Stock] erstellen
-description: Erstellen Sie eine Grafik, die die Preispläne vergleicht, um potenziellen Kunden auf einen Blick die Informationen zu geben, die sie benötigen
+title: Erstellen einer Vergleichsansicht von Produktmerkmalen mithilfe der Adobe [!DNL Stock]
+description: Erstellt eine Grafik, in der Preisoptionen für Produkte verglichen werden. So erhaltet ihr potenzielle Kunden auf einen Blick die Informationen, die sie benötigen.
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Produktfunktionsvergleichstabelle mit Adobe [!DNL Stock] erstellen
+# Erstellen einer Vergleichsansicht von Produktmerkmalen mithilfe der Adobe [!DNL Stock]
 
-Erstellen Sie eine Grafik, die die Preispläne vergleicht, um potenziellen Kunden auf einen Blick die Informationen zur Verfügung zu stellen, die sie benötigen.
+Erstellt eine Grafik, die Produktpreispläne vergleicht, um potenziellen Kunden die Informationen bereitzustellen, die sie auf einen Blick benötigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

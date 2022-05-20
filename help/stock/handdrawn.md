@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen einer handgezeichneten Ästhetik zu Adobe [!DNL Stock] images
-description: Mit Photoshop für iPad können Sie Ihr kreatives Marketing mit einzigartigen Techniken optimieren, die Ihren Bildern Tiefe und Dimension verleihen.
+title: Handgezeichnete Skizze einer Adobe hinzufügen. [!DNL Stock] images
+description: Optimiert euer Kreativ-Marketing mit innovativen Techniken, die euren Fotos mit Photoshop für iPad mehr Tiefe und Dimension verleihen.
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Bilder in Adobe [!DNL Stock] von Hand zeichnen
+# Handgezeichnete Skizze einer Adobe hinzufügen. [!DNL Stock] images
 
-Mit Photoshop für iPad können Sie Ihr kreatives Marketing mit einzigartigen Techniken optimieren, die Ihren Bildern Tiefe und Dimension verleihen.
+Optimiert euer Kreativ-Marketing mit innovativen Techniken, die euren Fotos mit Photoshop für iPad mehr Tiefe und Dimension verleihen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

@@ -4,7 +4,7 @@ description: Adobe [!DNL Capture] macht aus Smartphones und Tablets ein Design-S
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
+source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Des
     <div>
    <a href="capture.md#tutorial1"><strong>Fange Inspiration aus deiner unmittelbaren Umgebung ein.</strong></a>
     </div>
-    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Capture ein Bild mit Branding-Elementen aus.</em>
+    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Capture eine  aus, die sich an deinen Branding-Bedarf anpasst.</em>
     <br>
   </td>
   <td>

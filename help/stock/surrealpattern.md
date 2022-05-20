@@ -1,6 +1,6 @@
 ---
-title: Halbsurreales Muster mit Adobe [!DNL Stock] erstellen
-description: Ein nahtloses Muster auf Basis surrealer Bilder aus Adobe erstellen [!DNL Stock]
+title: Mit Adobe ein semi-surreales Muster erstellen. [!DNL Stock]
+description: Nahtlose Muster auf Basis von surrealen Bildern aus Adobe erstellen. [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Halbsurreales Muster mit Adobe [!DNL Stock] erstellen
+# Mit Adobe ein semi-surreales Muster erstellen. [!DNL Stock]
 
-Erstellen Sie ein nahtloses Muster, das auf surrealen Bildern aus der Adobe [!DNL Stock] basiert.
+Nahtlose Muster auf Basis von surrealen Bildern aus Adobe erstellen. [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

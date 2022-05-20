@@ -1,6 +1,6 @@
 ---
-title: Machen Sie sich mit [!UICONTROL Komponenten] in Adobe XD vertraut
-description: Erfahren Sie, wie Sie mithilfe von [!UICONTROL Komponenten] beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz auf Ihren Design-Workflow erhalten.
+title: Mache dich mit [!UICONTROL Komponenten] in Adobe XD
+description: Weitere Infos zur Verwendung von [!UICONTROL Komponenten] bietet Ihnen beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz in Ihrem Design-Workflow.
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Machen Sie sich mit [!UICONTROL Komponenten] in Adobe XD vertraut
+# Mache dich mit [!UICONTROL Komponenten] in Adobe XD
 
-Erfahren Sie, wie Sie mit [!UICONTROL Komponenten] beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz auf Ihren Design-Arbeitsablauf erhalten.
+Weitere Infos zur Verwendung von [!UICONTROL Komponenten] bietet Ihnen beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz in Ihrem Design-Workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-Klicken Sie auf das Symbol für eine PDF-Datei, um eine PDF-Datei dieses Tutorials herunterzuladen.
+Klicken Sie auf das PDF-Dateisymbol, um eine PDF dieses Tutorials herunterzuladen.
 
 [![PDF-Dateisymbol](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)

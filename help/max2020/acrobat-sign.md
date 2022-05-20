@@ -15,155 +15,155 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/DC.jpg)
 
-Mit Adobe Document Cloud — die weltweit führende Lösungen für PDF- und elektronische Signaturen umfasst — Sie können manuelle Dokumentvorgänge in effiziente digitale Prozesse umwandeln. Jetzt kann Ihr Team schnell an Dokumenten, Workflows und Aufgaben arbeiten — auf mehreren Bildschirmen und Geräten — überall, jederzeit und innerhalb Ihrer bevorzugten Microsoft- und Unternehmensanwendungen.
+Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektronische Unterschriften, verwandelt ihr manuelle Dokumentenprozesse in effiziente digitale Workflows. Team-Mitglieder können Dokumente, Workflows und Aufgaben ohne Verzögerung bearbeiten - überall, jederzeit und direkt aus Microsoft- oder Enterprise-Programmen heraus.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="Starten einer gemeinsamen Überprüfung durch Acrobat" src="../assets/acrobat_sharedreview_armstrong.jpg" />
+      <img alt="Initiieren einer gemeinsamen Acrobat-Überprüfung" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Starten einer gemeinsamen Überprüfung durch Acrobat</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Initiieren einer gemeinsamen Acrobat-Überprüfung</strong></a>
     </div>
-    <em>Überprüfer einladen, Kommentare zu einem PDF-Dokument hinzuzufügen</em>
+    <em>Lade Prüfer ein, ihr PDF-Dokument mit Kommentaren zu versehen.</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Web-Waiver Forms mit Adobe Sign erstellen" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
+        <img alt="Forms mit Adobe Sign erstellen und online verzichten" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Web-Waiver Forms mit Adobe Sign erstellen</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Forms mit Adobe Sign erstellen und online verzichten</strong></a>
     </div>
-    <em>Dokumente schnell in Online-Formulare umwandeln und online veröffentlichen, wo jeder, der sie benötigt, sie ausfüllen und signieren kann</em>
+    <em>Wandelt Dokumente in Online-Formulare um, und stellt sie online bereit, damit jeder, der sie braucht, sie ausfüllen und unterschreiben kann.</em>
     <br>
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="Unterschrift mit Adobe Sign anfordern" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
+      <img alt="Signatur mit Adobe Sign anfordern" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
    </a>
     <div>
-    <a href="acrobat-sign.md#tutorial3"><strong>Unterschrift mit Adobe Sign anfordern</strong></a>
+    <a href="acrobat-sign.md#tutorial3"><strong>Signatur mit Adobe Sign anfordern</strong></a>
     </div>
-    <em>Von Word zu PDF wechseln und zum Signieren mit Adobe Sign senden</em>
+    <em>Word in PDF umwandeln und mit Adobe Sign zum Unterschreiben versenden</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial4">
-      <img alt="Menüs im Liquid Mode-Modus auf iOS/Android anzeigen" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
+      <img alt="Anzeigen von Menüs auf Mobilgeräten mit Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>Menüs im Liquid Mode-Modus auf iOS/Android anzeigen</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>Anzeigen von Menüs auf Mobilgeräten mit Liquid Mode</strong></a>
     </div>
-    <em>Verwenden Sie den Liquid Mode, um das Lesererlebnis von PDF-Dateien auf mobilen Geräten zu verbessern</em>
+    <em>Verwenden des Liquid Mode zur Verbesserung des Leseerlebnisses beim PDF auf Mobilgeräten</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
-        <img alt="Dokumente von Ihrem Mobiltelefon aus in PDF-Dateien scannen" src="../assets/acrobat_scan_enke.jpg" />
+        <img alt="Scannen von Dokumenten in PDF über Ihr Mobiltelefon" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>Dokumente von Ihrem Mobiltelefon aus in PDF-Dateien scannen</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>Scannen von Dokumenten in PDF über Ihr Mobiltelefon</strong></a>
     </div>
-    <em>Mit Adobe Scan können Sie ganz einfach Dokumente, Formulare, Visitenkarten und Whiteboards erfassen und in hochwertige Adobe-PDFs umwandeln</em>
+    <em>Mit Adobe Scan kannst du Dokumente, Formulare, Visitenkarten und Whiteboards einfach abfotografieren und in hochwertige Adobe-PDF umwandeln</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Starten einer gemeinsamen Überprüfung durch Acrobat (3:49) {#tutorial1}
+## Initiieren einer gemeinsamen Acrobat-Überprüfung (3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
 **Beschreibung**
-Einladen von Reviewern, um Kommentare zu einem PDF-Dokument hinzuzufügen.
+Lade Prüfer ein, ihr PDF-Dokument mit Kommentaren zu versehen.
 
 In diesem Tutorial lernen Sie Folgendes:
 * PDF-Kommentare im Document Cloud hosten
-* Kommentare an einem Ort zusammenstellen
-* Gleichzeitiges Kommentieren fördert die Zusammenarbeit
+* Kommentare an zentraler Stelle zusammenführen
+* Gleichzeitiges Kommentieren fördert die Zusammenarbeit.
 
-**Adobe Review and Comment Options Comparate PDF**
+**Adobe Review and Comment Options Comparison PDF**
 
 [![Vergleichsbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Dan Armstrong, Solutions Consultant (Digital Media) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
+## Online-Verzicht auf Forms mit Adobe Sign erstellen (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
-****
-BeschreibungVerwandeln Sie Dokumente schnell in Online-Formulare und veröffentlichen Sie sie online, wo jeder, der sie benötigt, sie ausfüllen und unterschreiben kann.
+**Beschreibung**
+Wandelt Dokumente in Online-Formulare um, die jeder online ausfüllen und unterschreiben kann.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Digitales Arbeiten durch Umwandlung von Papierformularen in digitale Dokumente
-* Digitale Formulare auf Ihrer Website posten, auf die Kunden von ihrem eigenen Gerät aus zugreifen können
-* Ausgefüllte Formulare werden automatisch für Ihre Datensätze archiviert
+* Papierformulare digitalisieren.
+* Digitale Formulare auf eurer Website bereitstellen, sodass Kunden von ihrem eigenen Gerät aus darauf zugreifen können
+* Abgeschlossene Formulare werden automatisch für Ihre Unterlagen archiviert
 
-**Vorgestellt von:**
-Taylor Kobey, Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
+**Präsentiert von:**
+Taylor Kobey, Solutions Consultant (Digitale Medien) Emily Palmer, Solutions Consultant (Digitale Medien)
 
-## Signatur mit Adobe Sign anfordern (3:21) {#tutorial3}
+## Unterschrift bei Adobe Sign anfordern (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Beschreibung**
-Von Word zu PDF wechseln und mit Adobe Sign zum Unterschreiben senden.
+Von Word auf PDF umsteigen und Dokumente mit Adobe Sign zur Unterzeichnung versenden
 
 In diesem Tutorial lernen Sie Folgendes:
-* Nutzen Sie die Tools, mit denen Sie täglich digitale Dokumente zum Signieren versenden
+* Versendet Dokumente zur Unterzeichnung
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Menüs im Liquid Mode-Modus auf Mobilgeräten anzeigen (2:57) {#tutorial4}
+## Menüs auf Mobilgeräten mit Liquid Mode anzeigen (2:57) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
 **Beschreibung**
-Verwenden Sie den Liquid Mode, um das Lesererlebnis von PDF-Dateien auf Mobilgeräten zu verbessern.
+Verwenden Sie den Liquid Mode, um das Leseerlebnis beim PDF auf Mobilgeräten zu verbessern.
 
 In diesem Tutorial lernen Sie Folgendes:
-* PDF-Dateien für Mobilgeräte responsiv machen
+* Responsive PDF von Dateien auf Mobilgeräten
 * PDF-Layout optimieren
-* Schnelles Hinzufügen von Funktionen zum einfachen Lesen von Dokumenten auf Ihrem Smartphone oder Tablet
+* Zusätzliche Funktionen zum einfachen Lesen von Dokumenten auf dem Smartphone oder Tablet
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-## Dokumente von Ihrem Mobiltelefon aus in PDF-Dateien scannen (5:53) {#tutorial5}
+## Dokumente von Ihrem Mobiltelefon aus nach PDF scannen (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
 **Beschreibung**
-Mit Adobe Scan können Sie Dokumente, Formulare, Visitenkarten und Whiteboards einfach erfassen und in qualitativ hochwertige PDF-Adoben umwandeln.
+Mit Adobe Scan kannst du Dokumente, Formulare, Visitenkarten und Whiteboards einfach abfotografieren und in hochwertige Adobe-PDF umwandeln.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Mit Ihrem Mobiltelefon können Sie Dokumente, Formulare, Visitenkarten und Whiteboards erfassen und in hochwertige PDF-Adoben umwandeln
-* Automatisches Erkennen und Schärfen von handgeschriebenem oder gedrucktem Text beim Entfernen unerwünschter Elemente, z. B. Glanz und Schatten
-* Öffnen Sie die gescannte PDF-Datei in Acrobat Reader, um Anmerkungen und Kommentare zu machen und mit Ihrem Team zu überprüfen
+* Mit deinem Smartphone kannst du Dokumente, Formulare, Visitenkarten und Whiteboards aufnehmen und in hochwertige Adobe-PDF umwandeln.
+* Handgeschriebenen oder gedruckten Text automatisch erkennen und schärfen und unerwünschte Blendeffekte und Schatten entfernen
+* Öffne die gescannte PDF in Acrobat Reader, um sie mit Notizen und Kommentaren zu versehen und mit deinem Team abzustimmen
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 ![DC-Logo](../assets/Doc-Cloud-256.png)
 
 **Ressourcen für Acrobat und Adobe Sign**
 
-[Lernen und ](https://helpx.adobe.com/support/document-cloud.html) unterstützen Sie bei weiteren Tutorials,  [Neuerungen](https://helpx.adobe.com/acrobat/using/whats-new.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/document-cloud.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/acrobat/using/whats-new.html)und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

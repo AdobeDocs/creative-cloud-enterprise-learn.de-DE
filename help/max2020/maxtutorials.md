@@ -1,21 +1,21 @@
 ---
 title: MAX 2020 Tutorials
-description: Anhand dieser Tutorials lernen Sie die neuen Funktionen in der Version 2021 von Creative Cloud aus Unternehmensperspektive kennen
+description: Anhand dieser Tutorials können Sie sich mit den neuen Funktionen in der Version 2021 von Creative Cloud vertraut machen - aus der Sicht des Unternehmens.
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '322'
 ht-degree: 6%
 
 ---
 
 # Tutorials
 
-![Max. Hero-Bild 2020](../assets/MAX.jpg)
+![Max 2020 Hero Image](../assets/MAX.jpg)
 
-Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und Unternehmenssysteme und Richtlinien einhalten. Anhand dieser Tutorials lernen Sie die neuen Funktionen in der Version 2021 von Creative Cloud aus Unternehmensperspektive kennen.
+Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Anhand dieser Tutorials können Sie sich mit den neuen Funktionen in der Version 2021 von Creative Cloud vertraut machen - aus der Sicht des Unternehmens.
 
 ## Tutorials nach Desktop-Produkten
 
@@ -23,12 +23,12 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
 <tr>
  <td>
     <a href="acrobat-sign.md">
-      <img alt="Acrobat &amp; Adobe Sign" src="../assets/DC.jpg" />
+      <img alt="Acrobat und Adobe Sign" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>Acrobat &amp; Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>Acrobat und Adobe Sign</strong></a>
     </div>
-    <em>PDF-Dokumente und -Formulare erstellen, bearbeiten und signieren</em>
+    <em>Erstellen, Bearbeiten und Unterschreiben von PDF-Dokumenten und -Formularen</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Fotorealistische 3D-Bilder für Branding, Produktaufnahmen und Verpackungs-Design erstellen</em>
+    <em>Realistische 3D-Bilder für Produktfotos, Verpackungs- und Marketing-Designs.</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Vektorgrafiken und Illustrationen</em>
+    <em>Vektorgrafik und Illustration.</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Seitendesign und Layout für Print und digitale Veröffentlichung</em>
+    <em>Layouts für Print- und digitale Publikationen</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Bilder, Grafiken und Grafiken auf dem Desktop bearbeiten, zusammensetzen und erstellen</em>
+    <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop.</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Online-Videos überall erstellen und freigeben</em>
+    <em>Online-Videos überall erstellen und teilen</em>
     <br>
   </td>
 </tr>
@@ -92,23 +92,23 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Benutzererlebnisse entwerfen, Prototypen erstellen und freigeben</em>
+    <em>Design, Prototyping und Teilen von User Experiences</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Tutorials nach Mobilanwendung
+### Tutorials per Mobile App
 
 <table style="table-layout:fixed">
 <tr>
@@ -119,7 +119,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Bilder in Farbpaletten, Vektorgrafiken, Pinsel und mehr umwandeln</em>
+    <em>Bilder in Farbpaletten, Vektorgrafiken, Pinsel und andere Kreativelemente umwandeln</em>
     <br>
   </td>
   <td>
@@ -129,7 +129,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Die Freude am Zeichnen und Malen von überall wiederentdecken</em>
+    <em>Zeichnen und Malen weitergedacht. Mit Adobe Fresco für das iPad.</em>
     <br>
   </td>
   <td>
@@ -139,7 +139,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="illustratoripad.md"><strong>Illustrator auf dem iPad</strong></a>
     </div>
-    <em>Vektorgrafiken und Illustrationen</em>
+    <em>Vektorgrafik und Illustration.</em>
     <br>
   </td>
 </tr>
@@ -151,32 +151,32 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="photoshopipad.md"><strong>Photoshop auf dem iPad</strong></a>
     </div>
-    <em>Bilder, Grafiken und Grafiken auf dem Desktop und iPad bearbeiten, zusammensetzen und erstellen</em>
+    <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop und dem iPad.</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Tutorials nach Integration
+### Tutorials von Integration
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="aem.md">
-      <img alt="AEM Assets &amp; Asset Link" src="../assets/AEM.jpg" />
+      <img alt="AEM Assets und Asset Link" src="../assets/AEM.jpg" />
     </a>
     <div>
-    <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
+    <a href="aem.md"><strong>AEM Assets und Asset Link</strong></a>
     </div>
     <em>Digital Asset Management der nächsten Generation</em>
     <br>
@@ -186,9 +186,9 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
       <img alt="Creative Cloud-Client" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-Desktop-App</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-Desktop-Applikation</strong></a>
     </div>
-    <em>Die Creative Cloud-Desktop-Applikation ist die zentrale Anlaufstelle für die Verwaltung von CC-Applikationen, -Diensten und der Zusammenarbeit.</em>
+    <em>Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!</em>
     <br>
   </td>
   <td>
@@ -198,7 +198,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>Ihre Assets und Ihre Projekte unter dem Markennamen speichern</em>
+    <em>Deine Design-Elemente: überall abrufbar, immer konsistent.</em>
     <br>
   </td>
 </tr>
@@ -210,7 +210,7 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>Die anspruchsvollen Tools des InDesign gepaart mit individueller Automatisierung</em>
+    <em>Die fortschrittlichen Tools von InDesign gepaart mit individueller Automatisierung</em>
     <br>
   </td>
  <td>
@@ -224,34 +224,34 @@ Als kreatives Unternehmen müssen Sie mit verteilten Teams zusammenarbeiten, ska
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Hands-On-Projekt: Eigene Gesichtsmaske erstellen
+### Praxisprojekt: Erstellen einer eigenen Gesichtsmaske
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Eigene Gesichtsmaske erstellen" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Erstellen einer eigenen Gesichtsmaske" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Eigene Gesichtsmaske erstellen</strong></a>
+    <a href="handsonproject.md"><strong>Erstellen einer eigenen Gesichtsmaske</strong></a>
     </div>
-    <em>Mit dem Plug-in Adobe Design to Print können Sie Ihre Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen</em>
+    <em>Mit dem Plug-in "Adobe Design to Print" kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

@@ -1,6 +1,6 @@
 ---
 title: Creative Cloud-Client
-description: Die Creative Cloud-Desktop-Applikation ist die zentrale Anlaufstelle für die Verwaltung von CC-Applikationen, -Diensten und der Zusammenarbeit.
+description: Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
@@ -15,50 +15,49 @@ ht-degree: 5%
 
 ![Tutorial Hero Image](../assets/CCDA.jpg)
 
-Die Creative Cloud-Desktop-Applikation ist die zentrale Anlaufstelle für die Verwaltung von CC-Applikationen, -Diensten und der Zusammenarbeit.
+Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Entdecken Sie die CC Desktop-App: Ihr Hub für 
-Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Creative Cloud-Client kennenlernen: Ihr Hub für Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Entdecken Sie die CC Desktop-App: Ihr Hub für Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Creative Cloud-Client kennenlernen: Ihr Hub für Creative Cloud</strong></a>
     </div>
-    <em>Die Creative Cloud-Desktop-Applikation ist die zentrale Anlaufstelle für die Verwaltung von CC-Applikationen, -Diensten und der Zusammenarbeit.</em>
+    <em>Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Entdecken Sie die CC Desktop-App: Hub für Creative Cloud (2:50) {#tutorial1}
+## Creative Cloud-Client kennenlernen: Ihr Hub für Creative Cloud (2:50) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
 **Beschreibung**
-Die Creative Cloud-Desktop-Applikation ist Ihre Zentrale für die Verwaltung von CC-Applikationen, -Diensten und -Zusammenarbeit - und mehr!
+Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!
 
 In diesem Tutorial lernen Sie Folgendes:
 * Desktop-Applikationen starten und aktualisieren
-* Apps und Web-Applikationen suchen
-* Elemente verwalten und freigeben
-* Zugriff auf Adobe Fonts
-* Tutorials
-* Teilen Ihrer Arbeit auf Behance
+* Mobile Apps und Web-Anwendungen suchen
+* Elemente verwalten und teilen
+* Auf Adobe Fonts zugreifen
+* Tutorials entdecken
+* Arbeiten auf Behance teilen
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

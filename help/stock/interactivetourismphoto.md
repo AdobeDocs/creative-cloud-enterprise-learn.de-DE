@@ -1,6 +1,6 @@
 ---
-title: Interaktive Tourismusfotos mit Adobe [!DNL Stock] und XD erstellen
-description: Mit Adobe [!DNL Stock] & XD schnell ein interaktives Foto innerhalb Ihres Website-Prototyps erstellen
+title: Mit Adobe ein interaktives Tourismusfoto erstellen [!DNL Stock] und XD
+description: Schnelles Erstellen eines interaktiven Fotos innerhalb Ihres Website-Prototyps mit Adobe [!DNL Stock] & XD
 role: User
 level: Beginner, Intermediate
 thumbnail: 331820.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Interaktive Tourismusfotos mit Adobe [!DNL Stock] und XD erstellen
+# Mit Adobe ein interaktives Tourismusfoto erstellen [!DNL Stock] und XD
 
-Erstellen Sie schnell ein interaktives Foto in Ihrem Website-Prototyp mit Adobe [!DNL Stock] &amp; XD.
+Schnelles Erstellen eines interaktiven Fotos innerhalb Ihres Website-Prototyps mit Adobe [!DNL Stock] und XD.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

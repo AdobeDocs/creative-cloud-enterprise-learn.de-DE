@@ -1,6 +1,6 @@
 ---
-title: 'Bildfarben einer Adobe < a0/>an Textabschnitt anpassen [!DNL Stock] '
-description: Machen Sie ein großartiges Bild noch schwieriger, um Ihre Botschaft zu unterstützen. Suchen Sie ein einzigartiges Foto in der Adobe [!DNL Stock] und passen Sie die Farbe in Adobe Photoshop an Ihre Anforderungen an.
+title: Ändern von Adoben [!DNL Stock] Farben des Bilds anpassen.
+description: Mache es noch schwieriger, ein tolles Bild zu zeichnen. Ein Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an
 role: User
 level: Beginner, Intermediate
 thumbnail: 331810.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Bildfarben einer [!DNL Stock]-Adobe an Ihre Textstory anpassen
+# Ändern von Adoben [!DNL Stock] Farben des Bilds anpassen.
 
-Machen Sie ein großartiges Bild noch schwieriger, um Ihre Botschaft zu unterstützen. Suchen Sie ein einzigartiges Foto in der Adobe [!DNL Stock] und passen Sie die Farbe in Adobe Photoshop an Ihre Anforderungen an.
+Mache es noch schwieriger, ein tolles Bild zu zeichnen. Ein Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

@@ -1,12 +1,12 @@
 ---
 title: Illustrator auf dem iPad
-description: Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch, den Apple Pencil und das iPad neu konzipiert wurde
+description: Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch-Geräte, das Apple Pencil und iPad neu erdacht wurde
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/AIoniPad.jpg)
 
-Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch, den Apple Pencil und das iPad neu konzipiert wurde.
+Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch-Geräte, das Apple Pencil und iPad neu erdacht wurde.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch, de
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Einführung in Illustrator auf dem iPad</strong></a>
     </div>
-    <em>Erstellen Sie ein Symbol für eine problematische Position und verwandeln Sie es in ein Muster, das Sie auf Ihr [!DNL-Dimension]- und Zazzle-Projekt anwenden können!</em>
+    <em>Erstellen Sie ein Symbol für einen Problemort und wandeln Sie es in ein Muster um, das Sie auf Ihr [!DNL Dimension] und Zazzle-Projekt!</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -48,24 +48,24 @@ Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch, de
 
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
-****
-BeschreibungMit dieser schnellen Übersicht über Illustrator für das iPad können Sie schnell loslegen, um ein Symbol für eine problematische Position zu erstellen und es in ein Muster umzuwandeln, das Sie auf Ihr  [!DNL Dimension] und Zazzle-Projekt anwenden können!
+**Beschreibung**
+Mit dieser kurzen Übersicht über Illustrator für iPad können Sie schnell loslegen, um ein Symbol für einen Problemort zu erstellen und ein Muster zu erstellen, das Sie auf Ihre [!DNL Dimension] und Zazzle-Projekt!
 
 In diesem Tutorial lernen Sie Folgendes:
-* Illustrator für das iPad neu konzipiert, transformiert die Produktivität, beschleunigt die Zusammenarbeit, erweitert kreative Fähigkeiten und stärkt Kreativität für alle
-* Touch-Oberfläche ermöglicht mehr Taktik und Präzision mit dem Apple Pencil.
+* Das für iPad neu gestaltete Illustrator transformiert die Produktivität, beschleunigt die Zusammenarbeit, erweitert die kreativen Skills und ermöglicht kreativen Austausch für alle.
+* Touch-Oberfläche ermöglicht mit Apple Pencil ein fühlbareres und präziseres Erlebnis
 * Zugriff auf Grafiken und Farben aus CC Libraries
-* Roundtrip-Arbeitsablauf für Mobilgeräte und Desktop-Illustrator
+* Roundtrip-Arbeitsablauf für Illustrator auf Mobilgeräten und Desktops
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
-![Illustrator auf dem iPad Logo](../assets/ai_appicon_96.png)
+![Illustrator auf dem iPad](../assets/ai_appicon_96.png)
 
-**Illustrator auf iPad-Ressourcen**
+**Ressourcen zu Illustrator auf iPad**
 
-[Lernen und ](https://helpx.adobe.com/support/illustrator.html) unterstützen Sie bei weiteren Tutorials,  [Neuerungen](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

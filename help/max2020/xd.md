@@ -1,6 +1,6 @@
 ---
 title: XD
-description: Adobe XD ist ein Design- und Prototyping-Tool für User Experience Design, mit dem Sie Websites, Apps, Sprachschnittstellen, Spiele und andere digitale Erlebnisse entwerfen können
+description: Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice UI oder Spiele
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
@@ -15,30 +15,30 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/XD.jpg)
 
-Adobe XD ist ein Design- und Prototyping-Tool für User Experience Design und Design für Websites, Apps, Sprachschnittstellen, Spiele und andere digitale Erlebnisse.
+Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice UI oder Spiele.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Komponenten mit Hover-Status erstellen" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
+      <img alt="Erstellen von Komponenten mit Hover-Zuständen" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Komponenten mit Hover-Status erstellen</strong></a>
+   <a href="xd.md#tutorial1"><strong>Erstellen von Komponenten mit Hover-Zuständen</strong></a>
     </div>
-    <em>Wiederverwendbare, dynamisch skalierbare Schaltflächen für Ihre interaktiven Designs erstellen</em>
+    <em>Erstellen Sie wiederverwendbare, dynamisch skalierbare Schaltflächen für Ihre interaktiven Designs</em>
     <br>
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Wiederholungsraster erstellen und ausfüllen" src="../assets/XD_repeatgrid_thumbnail.jpg" />
+        <img alt="Erstellen und Auffüllen von Wiederholungsrastern" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Wiederholungsraster erstellen und ausfüllen</strong></a>
+    <a href="xd.md#tutorial2"><strong>Erstellen und Auffüllen von Wiederholungsrastern</strong></a>
     </div>
-    <em>Ein einzelnes Element in Wiederholungsraster umwandeln, indem Sie einfach klicken und ziehen</em>
+    <em>Ein einzelnes Element lässt sich durch Klicken und Ziehen in ein Wiederholungsraster umwandeln.</em>
     <br>
   </td>
   <td>
@@ -48,40 +48,39 @@ Adobe XD ist ein Design- und Prototyping-Tool für User Experience Design und De
     <div>
     <a href="xd.md#tutorial3"><strong>Arbeiten mit Stapeln</strong></a>
     </div>
-    <em>Elemente mithilfe der stack-Eigenschaft leicht neu anordnen</em>
+    <em>Verwenden der Stack-Eigenschaft zum einfachen Anordnen von Elementen</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Prototyp erstellen - Ankerverknüpfungen und 
-Gruppen scrollen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Prototyp erstellen - Ankerlinks und Bildlaufgruppen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Erstellen eines Prototyps: Ankerverknüpfungen und Bildlaufgruppen</strong></a>
+    <a href="xd.md#tutorial4"><strong>Prototyp erstellen - Ankerlinks und Bildlaufgruppen</strong></a>
     </div>
-    <em>Navigation und Bildlauf zu einem Prototyp hinzufügen</em>
+    <em>Hinzufügen von Navigation und Bildlauf zu einem Prototyp</em>
     <br>
   </td>
   <td>
     <a href="xd.md#tutorial5">
-        <img alt="Prototyp erstellen - Status interaktiver Komponenten" src="../assets/XD_interactiveprototypes_enke.jpg" />
+        <img alt="Prototyp erstellen - Interaktive Komponentenzustände" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Prototyp erstellen - Status interaktiver Komponenten</strong></a>
+    <a href="xd.md#tutorial5"><strong>Prototyp erstellen - Interaktive Komponentenzustände</strong></a>
     </div>
-    <em>Interaktivität und Überlagerungsmenü zu einem Prototyp hinzufügen</em>
+    <em>Interaktivität und ein Überlagerungsmenü zu einem Prototyp hinzufügen</em>
     <br>
   </td>
   <td>
    <a href="xd.md#tutorial6">
-      <img alt="E-Mail - Wiederholungsraster erstellen und ausfüllen" src="../assets/xd_repeat_torres.jpg" />
+      <img alt="E-Mail - Erstellen und Ausfüllen eines Wiederholungsrasters" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-Mail - Wiederholungsraster erstellen und ausfüllen</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-Mail - Erstellen und Ausfüllen eines Wiederholungsrasters</strong></a>
     </div>
-    <em>Ein einzelnes Element in Wiederholungsraster umwandeln, indem Sie einfach klicken und ziehen</em>
+    <em>Ein einzelnes Element lässt sich durch Klicken und Ziehen in ein Wiederholungsraster umwandeln.</em>
     <br>
   </td>
 </tr>
@@ -93,66 +92,66 @@ Gruppen scrollen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     <div>
     <a href="xd.md#tutorial7"><strong>E-Mail - Arbeiten mit Stapeln</strong></a>
     </div>
-    <em>Elemente mithilfe der stack-Eigenschaft leicht neu anordnen</em>
+    <em>Verwenden der Stack-Eigenschaft zum einfachen Anordnen von Elementen</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## [!UICONTROL Komponenten] mit Hover-Status erstellen (7:35) {#tutorial1}
+## Erstellen [!UICONTROL Komponenten] mit Hover-Status (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
 **Beschreibung**
-Erstellen Sie wiederverwendbare, dynamisch skalierbare Schaltflächen für Ihre interaktiven Designs.
+Erstelle wiederverwendbare Buttons mit dynamischer Skalierung für deine interaktiven Designs.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Änderungen an einer Quellmain-Komponente vornehmen und diese Änderungen werden automatisch an alle Instanzen dieser Komponente übertragen
-* Komponenten für Konsistenz, Zeitersparnis und weniger Klicks verwenden
+* Änderungen an einer Quellhauptkomponente vornehmen und diese Änderungen werden automatisch an alle Instanzen dieser Komponente übertragen
+* Komponenten für Konsistenz, Zeitersparnis und weniger Mausklicks verwenden
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Wiederholungsraster erstellen und ausfüllen (2:57) {#tutorial2}
+## Ein Wiederholungsraster erstellen und füllen (2:57) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
-****
-BeschreibungVerwandeln Sie ein einzelnes Element in sich wiederholende Raster mit einfachem Klicken und Ziehen.
+**Beschreibung**
+Verwandle ein einzelnes Element per Klicken und Ziehen in ein Wiederholungsraster.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Optimieren Sie Ihren Workflow und ziehen Sie jedes benötigte Raster heraus.
-* Inhalte und Daten einbinden und XD Bilder und Text auf Ihrem Raster platzieren
-* Nehmen Sie einmal Änderungen vor und wenden Sie sie in eine beliebige Richtung an.
+* Ziehe ein Raster in einer beliebigen Größe auf. Sofort verfügbar.
+* Fülle dein Raster mit Inhalten und Daten, und XD platzierst alle Bilder und Texte wie von Zauberhand
+* Nimm Änderungen an jeder beliebigen Stelle in deinem Design vor.
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-## Mit Stapeln arbeiten (5:33) {#tutorial3}
+## Arbeiten mit Stapeln (5:33) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
 **Beschreibung**
-Verwenden Sie die stack-Eigenschaft, um Elemente einfach neu anzuordnen.
+Verwenden Sie die Stack-Eigenschaft, um Elemente einfach neu anzuordnen.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Ausrichtung und Abstand zwischen Objekten auf der Arbeitsfläche beibehalten, selbst wenn sich das Design ändert
-* Neue Objekte in einen Stapel einfügen oder Objekte neu anordnen und alles automatisch anpassen
+* Die Ausrichtung von sowie Abstände zwischen Objekten auf der Arbeitsfläche bleiben auch bei Design-Änderungen erhalten
+* Füge neue Objekte ein, oder ändere die Anordnung in einem Stapel. Alle Elemente werden automatisch angepasst.
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Prototyp erstellen - Ankerverknüpfungen und Bildlaufgruppen (9:55) {#tutorial4}
+## Prototyp erstellen - Ankerlinks und Bildlaufgruppen (9:55) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
@@ -160,14 +159,14 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 Fügen Sie einem Prototyp Navigation und Bildlauf hinzu.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Fügen Sie Ihren Prototypen Verknüpfungen mit einer Aktion hinzu, mit der Benutzer zu verschiedenen Punkten auf derselben Zeichenfläche springen können
-* Erstellen Sie Aktivitäts-Feeds, Bildkarussells, Produktlisten und vieles mehr, indem Sie Bereiche definieren, die unabhängig vom Rest Ihres Designs scrollen
-* Gruppen erstellen, die vertikal, horizontal oder beide scrollen
+* Mit einer Aktion kannst du Links in deinem Prototyp setzen, über die User an verschiedene Stellen auf der Zeichenfläche springen können
+* Erstelle Aktivitäts-Feeds, Bilderkarussells oder Produktlisten, die User separat vom restlichen Design durchscrollen können
+* Erstellen von Gruppen, die vertikal und/oder horizontal gescrollt werden können
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Prototyp erstellen - Status interaktiver Komponenten (8:55) {#tutorial5}
+## Prototyp erstellen - Interaktive Komponentenzustände (8:55) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
@@ -175,47 +174,47 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 Fügen Sie einem Prototyp Interaktivität und ein Überlagerungsmenü hinzu.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Erstellen Sie ein nicht lineares interaktives und animiertes Benutzererlebnis ohne zusätzliche Zeichenflächen
-* Erstellen mehrerer Prototypen oder Interaktions-Textflüsse in einem einzelnen XD Dokument und Veröffentlichen eindeutiger, gemeinsam nutzbarer Verknüpfungen für jeden Textfluss
+* Interaktive und animierte User Experiences ohne zusätzliche Zeichenflächen.
+* Erstelle mehrere Prototyp- oder Interaktions-Flows im selben XD-Dokument. Veröffentliche jeden Flow über einen eigenen Link.
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-## E-Mail - Wiederholungsraster erstellen und ausfüllen (4:45) {#tutorial6}
+## E-Mail - Erstellen und Ausfüllen eines Wiederholungsrasters (4:45) {#tutorial6}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
-****
-BeschreibungVerwandeln Sie ein einzelnes Element in sich wiederholende Raster mit einfachem Klicken und Ziehen.
+**Beschreibung**
+Verwandle ein einzelnes Element per Klicken und Ziehen in ein Wiederholungsraster.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Optimieren Sie Ihren Workflow und ziehen Sie jedes benötigte Raster heraus.
-* Inhalte und Daten einbinden und XD Bilder und Text auf Ihrem Raster platzieren
-* Nehmen Sie einmal Änderungen vor und wenden Sie sie in eine beliebige Richtung an.
+* Ziehe ein Raster in einer beliebigen Größe auf. Sofort verfügbar.
+* Fülle dein Raster mit Inhalten und Daten, und XD platzierst alle Bilder und Texte wie von Zauberhand
+* Nimm Änderungen an jeder beliebigen Stelle in deinem Design vor.
 
-**Vorgestellt von:**
-Victoria Torres, Solutions Consultant (Digital Media)
+**Präsentiert von:**
+Victoria Torres, Lösungsberaterin (Digitale Medien)
 
-## E-Mail - Arbeiten mit Stapeln (3:38) {#tutorial7}
+## E-Mail - Mit Stapeln arbeiten (3:38) {#tutorial7}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
 **Beschreibung**
-Verwenden Sie die stack-Eigenschaft, um Elemente einfach neu anzuordnen.
+Verwenden Sie die Stack-Eigenschaft, um Elemente einfach neu anzuordnen.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Ausrichtung und Abstand zwischen Objekten auf der Arbeitsfläche beibehalten, selbst wenn sich das Design ändert
-* Neue Objekte in einen Stapel einfügen oder Objekte neu anordnen und alles automatisch anpassen
+* Die Ausrichtung von sowie Abstände zwischen Objekten auf der Arbeitsfläche bleiben auch bei Design-Änderungen erhalten
+* Füge neue Objekte ein, oder ändere die Anordnung in einem Stapel. Alle Elemente werden automatisch angepasst.
 
-**Vorgestellt von:**
-Victoria Torres, Solutions Consultant (Digital Media)
+**Präsentiert von:**
+Victoria Torres, Lösungsberaterin (Digitale Medien)
 
-![XD](../assets/xd_appicon_96.png)
+![XD Logo](../assets/xd_appicon_96.png)
 
 **XD**
 
-[Lernen und ](https://helpx.adobe.com/support/xd.html) unterstützen Sie bei weiteren Tutorials,  [Neuerungen](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/xd.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

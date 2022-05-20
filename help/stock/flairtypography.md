@@ -1,6 +1,6 @@
 ---
-title: Typografie mit Masken und Animationen gestalten
-description: Text mit Elementen aus der Adobe [!DNL Stock] und Animationstilen aus After Effects zum Leben erwecken
+title: Typografie mit Masken und Animationen gestalten.
+description: Text mithilfe von Elementen aus Adobe zum Leben erwecken. [!DNL Stock] und Animationsstile aus After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Typografie mit Masken und Animationen gestalten
+# Typografie mit Masken und Animationen gestalten.
 
-Gestalten Sie Ihren Text lebendiger mit Elementen aus der Adobe [!DNL Stock] und Animationsstilen aus After Effects.
+Text mithilfe von Elementen aus Adobe zum Leben erwecken. [!DNL Stock] und Animationsstile aus After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

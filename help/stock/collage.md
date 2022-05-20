@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer 3D-Collage für ein Poster mit Adobe [!DNL Stock] images
-description: Collage in Adobe Illustrator entwerfen, die einen auffallenden 3D-Effekt aus Bildern in der Adobe [!DNL Stock] aufweist
+title: Mit Adobe eine 3D-Collage für ein Poster erstellen. [!DNL Stock] images
+description: Gestalte in Adobe Illustrator eine Collage, die einen auffälligen 3D-Effekt aus Bildern in Adobe bietet. [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer 3D-Collage für ein Poster mit Adobe [!DNL Stock]-Bildern
+# Mit Adobe eine 3D-Collage für ein Poster erstellen. [!DNL Stock] images
 
-Erstellen Sie Poster, die Aufmerksamkeit erregen. Finden Sie relevante Bilder in der Adobe [!DNL Stock] und gestalten Sie eine Collage in Adobe Illustrator, die einen auffallenden 3D-Effekt bietet.
+Gestalte Poster, die neugierig machen. Relevante Bilder in Adobe suchen [!DNL Stock] Entwerfe in Adobe Illustrator eine Collage mit einem auffälligen 3D-Effekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

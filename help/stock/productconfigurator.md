@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines interaktiven Produktkonfigurators mit Adobe [!DNL Stock]
-description: Nutzen Sie die Leistungsfähigkeit von Interaktivität, Animation und bearbeitbaren Grafiken aus der Adobe [!DNL Stock] um Finanzinformationen visuell darzustellen
+title: Einen interaktiven Rechner mit Adobe erstellen. [!DNL Stock]
+description: Nutze die Möglichkeiten von Interaktivität, Animation und editierbarem Bildmaterial aus Adobe [!DNL Stock] Finanzinformationen visuell darstellen
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines interaktiven Produktkonfigurators mit Adobe [!DNL Stock]
+# Einen interaktiven Rechner mit Adobe erstellen. [!DNL Stock]
 
-Nutzen Sie die Leistungsfähigkeit von Interaktivität, Animation und bearbeitbarem Bildmaterial aus der Adobe [!DNL Stock], um Finanzinformationen visuell darzustellen.
+Nutze die Möglichkeiten von Interaktivität, Animation und editierbarem Bildmaterial aus Adobe [!DNL Stock] Finanzinformationen visuell darzustellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

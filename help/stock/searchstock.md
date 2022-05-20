@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Stock] Lizenzierungsverlauf
-description: 'Hier erfahren Sie, wie Sie schnell den Lizenzverlauf Ihrer Adobe in Creative Cloud für Unternehmen durchsuchen [!DNL Stock] '
+title: Adobe suchen [!DNL Stock] Lizenzierungsverlauf
+description: Erfahren Sie, wie Sie die Adobe Ihres Unternehmens schnell durchsuchen können [!DNL Stock] Lizenzierungsverlauf im Creative Cloud für Unternehmen
 role: User
 level: Beginner
 thumbnail: kt-8212.jpg
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Lizenzverlauf für Adobe [!DNL Stock] durchsuchen
+# Adobe suchen [!DNL Stock] Lizenzierungsverlauf
 
-In diesem Tutorial lernen Sie, wie Sie schnell den Lizenzverlauf [!DNL Stock] Ihrer Adobe in Creative Cloud for Enterprise durchsuchen.
+In diesem Video-Tutorial erfahren Sie, wie Sie die Adobe Ihres Unternehmens schnell durchsuchen können. [!DNL Stock] Lizenzierungsverlauf in Creative Cloud für Unternehmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

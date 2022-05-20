@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud für Videos zur Unternehmensbereitstellung
-description: Schnellere Bereitstellung und Verwaltung von Creative Cloud für Unternehmensanwendungen
+title: Creative Cloud für Bereitstellungsvideos für Unternehmen
+description: Erfahrt, wie ihr Creative Cloud-Programme für Unternehmen bereitstellt und verwaltet.
 role: User
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Creative Cloud für die Bereitstellung und Verwaltung von Themen in Unternehmen
+# Creative Cloud für Unternehmen - Bereitstellen und Verwalten von Themen
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-Creative Cloud für Unternehmen unterstützt benutzerdefinierte Bereitstellungen und flexible Lizenzanpassungen und arbeitet mit anderen Adobe-Unternehmensangeboten zusammen.
+Creative Cloud für Unternehmen unterstützt benutzerdefinierte Bereitstellungen und flexible Lizenzanpassungen und ist mit anderen Adobe-Unternehmenslösungen kompatibel.
 
-* [Creative Cloud für Unternehmen und Acrobat Seriennummer ](cceserial.md)
-ExpirationErfahren Sie mehr über das Ablaufdatum der Seriennummer für Creative Cloud für Unternehmen und Acrobat.
+* [Grundlegendes zum Ablauf der Seriennummernlizenzierung für Creative Cloud für Unternehmen und Acrobat](cceserial.md)
+Informationen zum Ablauf der Seriennummer für Creative Cloud für Unternehmen und Acrobat
 
-* [Laufende Seriennummern? Warum es Zeit für personengebundene Lizenzen ist
-Informieren Sie sich darüber, wie die Lizenzierung von Adobe-Produkten über die personengebundene Lizenzierung (NUL) IT-Administratoren die Bereitstellung und Verwaltung von Adobe-Tools mithilfe der Admin Console erleichtert und Endanwendern Zugriff auf erstklassige Kreativ- und Produktivitätsanwendungen sowie Adobe Cloud-Dienste gewährt, selbst wenn die gesamte Belegschaft über Remote-Zugriff verfügt.](nameduserlicensing.md)
+* [Ablaufende Seriennummern? Warum es Zeit für personengebundene Lizenzen ist](nameduserlicensing.md)
+Erfahren Sie, wie IT-Administratoren durch die Lizenzierung von Adobe-Produkten über NUL (Named User Licensing) Adobe-Tools über die Admin Console bereitstellen und verwalten können und Endbenutzern Zugriff auf erstklassige Kreativ- und Produktivitäts-Apps und Adobe Cloud-Services bietet, selbst wenn die gesamte Belegschaft remote arbeitet.

@@ -1,6 +1,6 @@
 ---
-title: Enterprise Administration
-description: Verwalten von Berechtigungen und Elementen für Adoben in Ihrem gesamten Unternehmen
+title: Unternehmensverwaltung
+description: Berechtigungen und Elemente der Adobe im gesamten Unternehmen verwalten
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -11,13 +11,13 @@ ht-degree: 3%
 
 ---
 
-# Enterprise Administration
+# Unternehmensverwaltung
 
 ![Tutorial Hero Image](../assets/hero_cce.jpg)
 
-Verwalten Sie Berechtigungen und Elemente für Adoben in Ihrem gesamten Unternehmen.
+Nutzt die Vorteile von Adobe-Berechtigungen und Assets im gesamten Unternehmen.
 
-## Tutorials für Unternehmensadministration durchsuchen
+## Tutorials für Enterprise-Administration durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ Verwalten Sie Berechtigungen und Elemente für Adoben in Ihrem gesamten Unterneh
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Entdecken Sie die fast 200 Familien in Adobe Fonts und die Benutzerfreundlichkeit des Adobe Fonts-Dienstes</em>
+    <em>Entdecken Sie die fast 200 Produktfamilien in Adobe Fonts und die Benutzerfreundlichkeit des Adobe Fonts-Dienstes</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -50,19 +50,19 @@ Verwalten Sie Berechtigungen und Elemente für Adoben in Ihrem gesamten Unterneh
 
 **Beschreibung:**
 
-Entdecken Sie die fast 200 Familien in Adobe Fonts und die einfache Nutzung des Adobe Fonts-Dienstes.
+Entdecken Sie die fast 200 Produktfamilien in Adobe Fonts und die Benutzerfreundlichkeit des Adobe Fonts-Dienstes.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Schnelles und einfaches Finden der passenden Schrift über die leistungsstarke Benutzeroberfläche
-* Sparen Sie Zeit und Geld durch die Nutzung nativer Creative Cloud-Integrationen
-* Alle Schriften auf dem Adobe Admin Console zentral verwalten
+* Verwenden Sie die leistungsstarke Suchoberfläche, um schnell und einfach die richtige Schriftart zu finden
+* Zeit- und Kosteneinsparungen durch native Creative Cloud-Integrationen
+* Alle Schriften zentral in der Adobe Admin Console verwalten
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Todd Burke, Principal Solutions Consultant (Digital Media)
 
-**Ressourcen für die Unternehmensverwaltung:**
+**Enterprise-Verwaltungsressourcen:**
 
 [Adobe Fonts-Benutzerhandbuch](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Enterprise Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Handbuch für Unternehmensadministratoren](https://helpx.adobe.com/enterprise/admin-guide.html)

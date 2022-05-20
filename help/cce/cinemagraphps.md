@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Kinofilmen mit Photoshop
-description: In diesem Schritt-für-Schritt-Workshop-Tutorial erstellen Sie ein lebendiges Foto, indem Sie Videos aus Adobe [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop kombinieren
+title: Cinemagramme mit Photoshop erstellen
+description: In diesem Video-Tutorial lernen Sie, wie Sie ein Foto erstellen, indem Sie ein Video aus einer Adobe kombinieren. [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop
 role: User
 level: Beginner, Intermediate
 exl-id: 858cdd40-5b23-4ef9-bdd3-e663d4d94002
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Kinofilmen mit Photoshop
+# Cinemagramme mit Photoshop erstellen
 
-In diesem Video-Tutorial erstellen Sie ein lebendiges Foto, indem Sie Videos aus der Adobe [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop kombinieren.
+In diesem Video-Tutorial lernen Sie, wie Sie ein Foto erstellen, indem Sie ein Video aus einer Adobe kombinieren. [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 
 <br> 
 
-[**Schnellreferenz-PDF-Handbuch herunterladen**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[**Kurzanleitung für PDF herunterladen**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
 
 [![Bild der ersten Seite der Kurzanleitung](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)

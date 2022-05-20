@@ -1,6 +1,6 @@
 ---
-title: Mit Adobe [!DNL Stock] erstellen Sie in kürzester Zeit beeindruckende Moodboards
-description: Erstellen Sie ein Projekt-Stimmung-Dashboard, um Informationen, Ideen, Grafiken und Farbpaletten an Teams/Kunden weiterzugeben
+title: Mit Adobe in wenigen Schritten Moodboards erstellen. [!DNL Stock]
+description: Erstelle ein Moodboard, um Kollegen/Kunden Informationen, Ideen, Visuals und Farbpaletten für dein Projekt vorzustellen.
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe [!DNL Stock] können Sie in kürzester Zeit beeindruckende Moodboards erstellen
+# Mit Adobe in wenigen Schritten Moodboards erstellen. [!DNL Stock]
 
-Erstellen Sie ein Projekt-Stimmung-Dashboard, um Informationen, Ideen, Grafiken und Farbpaletten an Teams/Kunden weiterzuleiten.
+Erstelle ein Moodboard, um Kollegen oder Kunden Informationen, Ideen, Visuals und Farbpaletten für dein Projekt vorzustellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

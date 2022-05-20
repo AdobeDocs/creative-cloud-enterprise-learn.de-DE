@@ -1,6 +1,6 @@
 ---
-title: Anpassen einer Ladebildschirmanimation mit Adobe [!DNL Stock] und XD
-description: Anpassen von Vektorgrafiken aus Adobe [!DNL Stock] zum Erstellen einer Animation für einen abkühlenden Ladebildschirm für eine App
+title: Mit Adobe einen animierten Lade-Screen erstellen. [!DNL Stock] und XD
+description: Vektorgrafiken aus Adobe anpassen [!DNL Stock] einen animierten Lade-Screen für eine Mobile App erstellen.
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Anpassen einer Ladebildschirmanimation mit der Adobe [!DNL Stock] und XD
+# Mit Adobe einen animierten Lade-Screen erstellen. [!DNL Stock] und XD
 
-Passen Sie Vektorgrafiken aus der Adobe [!DNL Stock] an, um eine Animation für einen abkühlenden Ladebildschirm für eine App zu erstellen.
+Vektorgrafiken aus Adobe anpassen [!DNL Stock] um einen animierten Lade-Screen für eine Mobile App zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

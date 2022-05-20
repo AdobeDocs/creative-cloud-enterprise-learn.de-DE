@@ -4,9 +4,9 @@ description: Tutorials helfen Ihnen bei der Einführung von Adobe-DVA-Produkten
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
+source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Kombinieren Sie Musik und Dialog oder Sprachkommentare mit automatischem Ducking in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Kombinieren Sie Musik und Dialog oder Sprachkommentare mit automatischem Ducking in Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Kombinieren Sie Musik und Dialog oder Sprachkommentare mit automatischem Ducking in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Kombinieren Sie Musik und Dialog oder Sprachkommentare mit automatischem Ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] bietet erweiterte Videobearbeitungsfunktionen in einer intuitiven Anwendung, sodass jeder in wenigen Minuten ein Video in Profiqualität erstellen kann</em>
     <br>

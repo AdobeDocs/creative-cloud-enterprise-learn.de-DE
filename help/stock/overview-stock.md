@@ -4,16 +4,16 @@ description: Tutorials, die dir helfen, dich mit der Adobe vertraut zu machen [!
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] Tutorials
 
-![Creative Cloud Hero Image](../assets/Stock.jpg)
+!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
 
 Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und wecken. Adobe [!DNL Stock] bietet Creative Cloud für Unternehmen Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt aus den Adoben-Programmen heraus, die sie jeden Tag verwenden.
 
@@ -344,7 +344,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
  <tr>
    <td>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf">
-         <img alt="Mit Adobe Kreativelemente in der echten Welt präsentieren. [!DNL Stock] und Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Mit Adobe Kreativelemente in der realen Welt präsentieren. [!DNL Stock] und Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Mit Adobe Kreativelemente in der echten Welt präsentieren. [!DNL Stock] und Photoshop (PDF)</strong></a>

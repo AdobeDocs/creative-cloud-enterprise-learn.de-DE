@@ -1,6 +1,6 @@
 ---
 title: CC Libraries
-description: Ihre Assets und Ihre Projekte unter dem Markennamen speichern
+description: 'Deine Design-Elemente: überall abrufbar, immer konsistent.'
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -15,74 +15,74 @@ ht-degree: 2%
 
 ![Tutorial Hero Image](../assets/CCLibs.jpg)
 
-Halten Sie Ihre Assets zur Hand und Ihre Projekte markenrechtlich fest.
+Deine Design-Elemente: überall abrufbar, immer konsistent.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Creative Cloud Libraries erstellen" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="CC-Bibliotheken erstellen" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>Creative Cloud Libraries erstellen</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>CC-Bibliotheken erstellen</strong></a>
     </div>
-    <em>Mit Adobe Creative Cloud Libraries können Sie Ihre Logos, Farben und vieles mehr in Ihren bevorzugten Creative Cloud-Apps verwalten, organisieren und darauf zugreifen</em>
+    <em>Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Logos oder Farben - egal mit welchem Creative Cloud-Programm du gerade arbeitest</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="CC Libraries freigeben" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="CC-Bibliotheken freigeben" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>CC Libraries freigeben</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>CC-Bibliotheken freigeben</strong></a>
     </div>
-    <em>Effizientere Arbeit, kreative Konsistenz und einfache Synchronisierung mit Ihrem Team</em>
+    <em>Bei Team-Projekten unterstützen euch die Bibliotheken dabei, effizient zu arbeiten, Konsistenz sicherzustellen und alle Beteiligten auf dem neuesten Stand zu halten.</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## CC Libraries erstellen (4:38) {#tutorial1}
+## CC-Bibliotheken erstellen (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **Beschreibung**
-Mit Adobe Creative Cloud Libraries können Sie Ihre Logos, Farben und vieles mehr in Ihren bevorzugten Creative Cloud-Apps verwalten, organisieren und darauf zugreifen.
+Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Logos oder Farben - egal mit welchem Creative Cloud-Programm du gerade arbeitest.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Ihre Assets und Ihre Projekte unter dem Markennamen speichern
+* Deine Design-Elemente: überall abrufbar, immer konsistent.
 * Neu! Vollständige Integration mit Adobe XD
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-## CC Libraries freigeben (4:14) {#tutorial2}
+## CC-Bibliotheken freigeben (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **Beschreibung**
-Arbeiten Sie effizienter, stellen Sie kreative Konsistenz sicher und bleiben Sie einfach mit Ihrem Team synchron.
+Bei Team-Projekten unterstützen euch die Bibliotheken dabei, effizient zu arbeiten, Konsistenz sicherzustellen und alle Beteiligten auf dem neuesten Stand zu halten.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Ihre Assets und Ihre Projekte unter dem Markennamen speichern
-* Projekte direkt aus Ihren bevorzugten Applikationen heraus bearbeiten
+* Deine Design-Elemente: überall abrufbar, immer konsistent.
+* Einfache Zusammenarbeit an Projekten direkt aus Ihren bevorzugten Programmen
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ![CC Libraries-Logo](../assets/cc_appicon_96.png)
 
-**CC Libraries-Ressourcen**
+**Ressourcen zu CC-Bibliotheken**
 
-[Lernen und ](https://helpx.adobe.com/creative-cloud/help/libraries.html) unterstützen Sie bei weiteren Tutorials, Neuerungen und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) ist die Anlaufstelle für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

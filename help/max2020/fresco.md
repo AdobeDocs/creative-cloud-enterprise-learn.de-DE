@@ -1,6 +1,6 @@
 ---
 title: Fresco
-description: Adobe Fresco ist eine plattformübergreifende App für die Erstellung von Zeichnungen und Gemälden mit pinselbasierten Methoden, die Vektor- und Rasterabläufe mit Cloud-Dokumenten kombinieren
+description: Adobe Fresco ist ein plattformübergreifendes Programm zum Erstellen von Zeichnungen und Gemälden mit pinselbasierten Methoden, das Vektor- und Raster-Workflows mit Cloud-Dokumenten kombiniert
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
@@ -15,77 +15,77 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Fresco.jpg)
 
-Adobe Fresco ist eine plattformübergreifende App für die Erstellung von Zeichnungen und Gemälden mit pinselbasierten Methoden, die Vektor- und Rasterabläufe mit Cloud-Dokumenten kombinieren.
+Adobe Fresco ist eine plattformübergreifende App zum Erstellen von Zeichnungen und Gemälden mithilfe von pinselbasierten Methoden, die Vektor- und Raster-Workflows mit Cloud-Dokumenten kombinieren.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Mit Adobe Fresco zeichnen" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
+      <img alt="Einführung in das Zeichnen mit Adobe Fresco" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Mit Adobe Fresco zeichnen</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Einführung in das Zeichnen mit Adobe Fresco</strong></a>
     </div>
-    <em>Verwenden Sie die leistungsstarken Auswahl- und Farbbearbeitungswerkzeuge in Adobe Fresco, um ein Bild dramatisch an Ihre Branding-Anforderungen anzupassen</em>
+    <em>Mit den leistungsstarken Auswahl- und Farbbearbeitungswerkzeugen in Adobe Fresco können Sie ein Bild Ihren Branding-Anforderungen entsprechend grundlegend verändern</em>
     <br>
   </td>
   <td>
    <a href="fresco.md#tutorial2">
-      <img alt="Strukturierte Grafik erstellen - Fresco zu Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
+      <img alt="Erstellen von strukturierten Grafiken - Fresco in Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Strukturierte Grafik erstellen - Fresco zu Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Erstellen von strukturierten Grafiken - Fresco in Illustrator</strong></a>
     </div>
-    <em>Zeichnen und Malen von Texturen in Adobe Fresco und ihre Verwendung in Illustrator</em>
+    <em>Malen und zeichnen Sie Strukturen in Adobe Fresco und erfahren Sie, wie Sie sie in Illustrator verwenden können</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Zeichnen mit Adobe Fresco (19:07) {#tutorial1}
+## Einführung in das Zeichnen mit Adobe Fresco (19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
 **Beschreibung**
-Entdecken Sie Adobe Fresco für die Erstellung von Zeichnungen und Gemälden mithilfe von pinselbasierten Methoden, die Vektor- und Rasterabläufe mit Cloud-Dokumenten kombinieren.
+Entdecke, wie du mit Adobe Fresco auf Basis von Pinseln Zeichnungen und Bilder erstellen kannst, die Vektor- und Raster-Workflows mit Cloud-Dokumenten kombinieren.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Verwenden Sie einzigartige Live-Pinsel, die Aquarell- und Ölgemälde mit Ihren bevorzugten Pixel- und Vektorpinseln nachahmen
-* Erstellen Sie strukturierte Effekte, indem Sie verschiedene Pinsel überlagern und Masken verwenden
-* Mit der neuen Fresco-App für iPhone überall erstellen
-* Exportieren Sie Ihre Arbeit in verschiedene Formate, um sie in anderen Appi- und Desktop-Apps zu verwenden
+* Verwenden Sie einzigartige interaktive Pinsel, die Aquarell und Ölfarbe zusammen mit Ihren bevorzugten Pixel- und Vektorpinseln nachahmen
+* Erstellen von strukturierten Effekten durch Überlagerung verschiedener Pinsel und Verwendung von Masken
+* Überall kreativ - mit der neuen Fresco-Applikation für iPhone
+* Exportieren Sie Ihre Arbeit in verschiedene Formate, um sie in anderen mobilen Apps und Desktop-Applikationen zu verwenden
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Liz Tanonis, Solutions Consultant (Digital Media)
 
-## Strukturierte Grafik erstellen - Fresco zu Illustrator (4:10) {#tutorial2}
+## Texturierte Grafiken erstellen - Fresco in Illustrator (4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
 **Beschreibung**
-Malen und Zeichnen von Texturen in Adobe Fresco und lernen Sie, wie Sie sie in Illustrator verwenden.
+Zeichne und male Strukturen in Adobe Fresco. Erfahre, wie du sie in Illustrator einsetzt.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Grafiken in der Adobe Fresco App für iPhone erstellen und für andere Creative Cloud-Apps exportieren
-* Bildnachzeichner-Werkzeug in Illustrator zum Konvertieren von Grafiken in Vektoren verwenden
-* Anwenden von Strukturen auf Vektorgrafiken in Illustrator
+* Grafiken in Adobe Fresco für iPhone erstellen und zur Verwendung in anderen Creative Cloud-Programmen exportieren
+* Mit dem Bildnachzeichner-Werkzeug in Illustrator Vektorgrafiken erstellen
+* Anwenden handgefertigter Strukturen auf Vektorgrafiken in Illustrator
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Liz Tanonis, Solutions Consultant (Digital Media)
 
 ![Fresco-Logo](../assets/fr_appicon_96.png)
 
-**Fresco-Ressourcen**
+**Ressourcen für Fresco**
 
-[Lernen und ](https://helpx.adobe.com/support/adobe-fresco.html) unterstützen Sie bei weiteren Tutorials,  [Neuerungen](https://helpx.adobe.com/fresco/using/whats-new.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/adobe-fresco.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/fresco/using/whats-new.html)und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

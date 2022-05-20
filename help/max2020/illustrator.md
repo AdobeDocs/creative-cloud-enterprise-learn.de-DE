@@ -1,6 +1,6 @@
 ---
 title: Illustrator
-description: Logos, Symbole, Illustrationen und andere Designs erstellen, die Sie sich für das Web, Mobilgeräte oder den Druck vorstellen können
+description: Gestalte Logos, Icons, Illustrationen und andere Designs für Web, Mobile oder Print.
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
@@ -15,72 +15,72 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Illustrator.jpg)
 
-Die moderne App für Illustrationen und Grafiken. Erstellen Sie Logos, Symbole, Illustrationen und andere Designs, die Sie sich für das Web, Mobilgeräte oder den Druck vorstellen können.
+Das moderne Programm für Illustrationen und Grafiken. Gestalte Logos, Icons, Illustrationen und andere Designs für Web, Mobile oder Print.
 
-## Tutorials durchsuchen
+## Tutorials für Produkte durchsuchen
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="Symbole zum Aktualisieren mehrerer Symbolinstanzen verwenden" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
+      <img alt="Verwenden von Symbolen zum Aktualisieren mehrerer Symbolinstanzen" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Symbole zum Aktualisieren mehrerer Symbolinstanzen verwenden</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Verwenden von Symbolen zum Aktualisieren mehrerer Symbolinstanzen</strong></a>
     </div>
-    <em>Reduzierung der manuellen Arbeit und Beibehaltung der Konsistenz mit Symbolen</em>
+    <em>Weniger manuelle Arbeit - Symbole sorgen für Konsistenz.</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="Text und Bilder mit Glyphenausrichtung ausrichten" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="Ausrichten von Text und Bildern an Glyphen" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Text und Bilder mit Glyphenausrichtung ausrichten</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Ausrichten von Text und Bildern an Glyphen</strong></a>
     </div>
-    <em>Schnelles Ausrichten von Glyphen an wichtigen Bereichen des Dokuments</em>
+    <em>Richten Sie Glyphen schnell an wichtigen Bereichen des Dokuments aus</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Symbole zum Aktualisieren mehrerer Symbolinstanzen verwenden (5:08) {#tutorial1}
+## Mit Symbolen mehrere Symbolinstanzen aktualisieren (5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-****
-BeschreibungReduzieren Sie die manuelle Arbeit und bewahren Sie die Konsistenz mit Symbolen auf.
+**Beschreibung**
+Reduziere den manuellen Aufwand, und sorge für Konsistenz mit Symbolen.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Reduzierung der manuellen Arbeit und Beibehaltung der Konsistenz mit Symbolen
+* Weniger manuelle Arbeit - Symbole sorgen für Konsistenz.
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
-## Text und Bilder mit Glyphenausrichtung ausrichten (6:48) {#tutorial2}
+## Text und Bilder an Glyphenausrichtung ausrichten (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-****
-BeschreibungSchnelles Ausrichten von Glyphen an wichtigen Bereichen des Dokuments.
+**Beschreibung**
+Richten Sie Glyphen schnell an wichtigen Bereichen des Dokuments aus.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Schnelles Ausrichten von Glyphen an wichtigen Bereichen des Dokuments
+* Richten Sie Glyphen schnell an wichtigen Bereichen des Dokuments aus
 
-**Vorgestellt von:**
+**Präsentiert von:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![Illustrator-Logo](../assets/ai_appicon_96.png)
 
-**Illustrator Resources**
+**Ressourcen zu Illustrator**
 
-[Lernen und ](https://helpx.adobe.com/support/illustrator.html) unterstützen Sie bei weiteren Tutorials und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist deine Anlaufstelle für weitere Tutorials und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Verwendung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrer Creative Cloud-Desktop-App herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

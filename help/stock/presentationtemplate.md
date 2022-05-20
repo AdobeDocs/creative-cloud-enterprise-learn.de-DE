@@ -1,6 +1,6 @@
 ---
-title: Passen Sie eine Adobe [!DNL Stock] Präsentationsvorlage so an, dass sie professionell und dennoch auffällig aussieht.
-description: Erstellen Sie innerhalb weniger Minuten mit Bildern und Vorlagen aus der Adobe [!DNL Stock] und einigen einfachen Spezialeffekten eine ansprechende, stilisierte Präsentation
+title: Anpassen einer Adobe [!DNL Stock] Professionelle, aber dennoch ansprechende Präsentationsvorlage
+description: Gestalte mit Bildern und Templates von Adobe in Minuten eine professionelle Präsentation. [!DNL Stock] und einige leicht zu bedienende Spezialeffekte
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Passen Sie eine Präsentationsvorlage für die [!DNL Stock]-Adobe an, um sie professionell und dennoch auffallend aussehen zu lassen
+# Anpassen einer Adobe [!DNL Stock] Professionelle, aber dennoch ansprechende Präsentationsvorlage
 
-Erstellen Sie innerhalb weniger Minuten eine ansprechende, stilisierte Präsentation mit Bildern und Vorlagen aus der Adobe [!DNL Stock] und einigen einfachen Spezialeffekten.
+Gestalte mit Bildern und Templates von Adobe in Minuten eine professionelle Präsentation. [!DNL Stock] und ein paar leicht zu bedienende Spezialeffekte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

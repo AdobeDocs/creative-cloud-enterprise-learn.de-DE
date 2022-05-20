@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer halbsurrealen Komposition mit Adobe [!DNL Stock]
-description: Erstellen Sie ein unvergessliches Editorial-Bild, indem Sie mehrere Bilder mit Farb-, Bewegungs- und Maskierungseffekten kombinieren
+title: Mit Adobe eine Komposition mit surrealem Touch erstellen. [!DNL Stock]
+description: Gestalte ein redaktionelles Bild mit einer Kombination aus mehreren Bildern, Farbe, Bewegung und Maskierungseffekten.
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Halbsurreale Komposition mit Adobe [!DNL Stock] erstellen
+# Mit Adobe eine Komposition mit surrealem Touch erstellen. [!DNL Stock]
 
-Erstellen Sie ein unvergessliches Editorial-Bild, indem Sie mehrere Bilder mit Farb-, Bewegungs- und Maskierungseffekten kombinieren.
+Gestalte ein redaktionelles Bild mit einer Kombination aus mehreren Bildern, Farbe, Bewegung und Maskierungseffekten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Decodieren der Alphabet-Quelle für Grafikformate
-description: JPG-, PNG-, SVG-, GIF- und EPS-Dateien werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und kreative Projekte. Aber was bedeuten sie und welche sollten Sie auswählen?
+title: Dekodieren der Buchstabensuppe von Grafikformaten
+description: JPG-, PNG-, SVG-, GIF- und EPS-Dateien werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und Kreativprojekte. Aber was bedeuten sie, und was sollten Sie wählen?
 role: User
 level: Beginner, Intermediate
 kt: 8038
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Decodieren der Alphabetsuppe von Grafikformaten
+# Dekodieren der Buchstabensuppe von Grafikformaten
 
-JPG-, PNG-, SVG-, GIF- und EPS-Dateien werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und kreative Projekte. Aber was bedeuten sie und welche sollten Sie auswählen? Erfahren Sie mehr in diesem 15-minütigen praktischen Workshop. Erfahren Sie, wie Sie Transparenzeffekte in Photoshop anwenden, die Ihre Präsentationsfähigkeiten auf ein neues Niveau bringen, während Sie verschiedene Einstellungen für Grafikexport und -optimierung erkunden. Folgen Sie dem Designer/Entwickler Chris Converse, um eine überzeugende Animation in PowerPoint mithilfe von benutzerdefinierten Grafiken zu erstellen, die aus Photoshop exportiert werden.
+JPG-, PNG-, SVG-, GIF- und EPS-Dateien werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und Kreativprojekte. Aber was meinen sie und was sollten Sie wählen? In diesem 15-minütigen Praxis-Workshop erfahren Sie mehr. Erfahren Sie schnell, wie Sie in Photoshop Transparenzeffekte anwenden, die Ihre Präsentationsfähigkeiten auf ein neues Level heben, während Sie verschiedene Einstellungen für den Grafikexport und die Optimierung ausprobieren. Lerne die Schritte des Designers und Entwicklers Chris Converse kennen, mit denen du in PowerPoint eine animierte Figur erstellen kannst, die du anschließend in Photoshop exportierst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 
 <br> 
 
-[**Schnellreferenz-PDF-Handbuch herunterladen**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[**Kurzanleitung für PDF herunterladen**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
 [![Bild der ersten Seite der Kurzanleitung](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

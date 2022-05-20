@@ -1,6 +1,6 @@
 ---
-title: Fett formatierte Beschriftung mit Adobe [!DNL Stock] Vorlagen und Photoshop-Smartobjekten erstellen
-description: Entwerfen und visualisieren Sie Ihre benutzerdefinierten Designs mit realistischen Verpackungsvorlagen aus der Adobe [!DNL Stock]
+title: Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte
+description: Gestalte und visualisiere deine Designs mit realistischen Verpackungsvorlagen von Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Fettformatierte Beschriftung mit Vorlagen der Adobe [!DNL Stock] und Photoshop-Smartobjekten erstellen
+# Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte
 
-Entwerfen und visualisieren Sie Ihre benutzerdefinierten Designs mit realistischen Verpackungsvorlagen aus der Adobe [!DNL Stock]    .
+Gestalte und visualisiere deine Designs mit realistischen Verpackungsvorlagen von Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)
