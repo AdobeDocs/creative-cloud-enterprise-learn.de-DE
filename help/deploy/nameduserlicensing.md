@@ -4,9 +4,9 @@ description: Die Lizenzierung von Adobe-Produkten über Named User Licensing (NU
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ In der heutigen Zeit musste sich das IT-Management schnell auf ein vollständig 
 
 Die Lizenzierung von Adobe-Produkten über Named User Licensing (NUL) ermöglicht IT-Administratoren die einfache Bereitstellung und Verwaltung von Adobe-Tools über die Admin Console und bietet Endbenutzern Zugriff auf erstklassige Kreativ- und Produktivitäts-Apps und Adobe Cloud-Services, selbst wenn die gesamte Belegschaft remote arbeitet.
 
-Wenn Ihr Unternehmen keine NUL verwendet und weiterhin Produkte mit Seriennummernlizenzierung verwendet, laufen Ihre Seriennummern möglicherweise bald ab. Um Unterbrechungen des Diensts zu vermeiden, ist es wichtig, Ihre Migration zu NUL vor dem [Seriennummern laufen ab](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Wenn Ihr Unternehmen keine NUL verwendet und weiterhin Produkte mit Seriennummernlizenzierung verwendet, laufen Ihre Seriennummern möglicherweise bald ab. Um Unterbrechungen des Diensts zu vermeiden, ist es wichtig, die Migration auf NUL zu planen, bevor Ihre Seriennummern ablaufen.
 
 ## Personengebundene Lizenzen
 
