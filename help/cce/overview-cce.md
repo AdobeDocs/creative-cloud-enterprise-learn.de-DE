@@ -4,10 +4,10 @@ description: Tutorials, die euch bei der Einführung der Produkte für Enterpris
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat für Content-Ersteller (PDF)</strong></a>
     </div>
     <em>Tools von Acrobat zur Optimierung von Kreativ-Workflows.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Hinzufügen einer Diashow zu Ihrer Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Express bietet einige erstaunliche und benutzerfreundliche Layout-Komponenten, die Ihre Web-Storys zum Leben erwecken</em>
+    <em>Adobe Spark bietet einige fantastische und benutzerfreundliche Layout-Komponenten, die Ihre Web-Storys zum Leben erwecken</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Adobe Express erleichtert die Definition eurer Marke.</em>
+    <em>Mit Adobe Spark ist die Definition von Branding ganz einfach.</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Lerne deinen neuen Produktionsspezialisten kennen: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Express lernt, wie Sie Layouts erstellen, Farben definieren, Grafiken importieren und Elemente in Ihren Kompositionen anordnen</em>
+    <em>Adobe Spark hat von Ihnen gelernt, wie Sie Layouts erstellen, Farben definieren, Grafiken importieren und Elemente in Ihren Kompositionen anordnen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="Dekodieren der Buchstabensuppe von Grafikformaten" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>In diesem Schritt-für-Schritt-Tutorial erstellen Sie ein lebendiges Foto, indem Sie ein Video aus einer Adobe kombinieren [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Mit Photoshop und After Effects außergewöhnliche Lichteffekte erzeugen." src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     </div>
     <em>Erfahren Sie, wie Sie mit dem Effekt "Lichtburst" in Adobe After Effects ein Foto dramatisch verbessern können</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Mit Photoshop und Adobe im Handumdrehen Cinemagramme erstellen [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Auf der Adobe nach Videos in Endlosschleife suchen [!DNL Stock] für das schnelle Zusammenstellen von Cinemagrammen in Photoshop</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Fotos lebendig gestalten mit Photoshop - Teil 1." src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Mit Adobe Photoshop kannst du deine Kurzvideos schnell in lebendige Fotos verwandeln, die deine Zielgruppe auf jeder sozialen Plattform faszinieren.</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Fotos lebendig gestalten mit Photoshop - Teil 2." src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Kombiniere Photoshop und After Effects zu atemberaubenden Bildern und Effekten. Diese How-tos zeigen dir Schritt für Schritt, wie du sie für die Verwendung auf jedem Gerät brauchst</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Instagram-Fotos mit Adobe Photoshop-Aktionen schnell mit Branding versehen" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Intelligenter arbeiten mit Photoshop." src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Änderungen an Photoshop können zeitaufwendig sein, müssen aber nicht</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Jeder, der kreativ sein kann, mit Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Greenscreen ist nicht nur für Video (PDF)</strong></a>
     </div>
     <em>Sie können Greenscreen in einem Fotostudio verwenden und After Effects verwenden, um die Fotoverwendung in Photoshop vorzubereiten</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Mit Adobe Portfolio können Sie Ihre besten Arbeiten präsentieren und so Ihren Erfolg sowie neue Kreativtalente gewinnen</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Verbinden von Lightroom und Bēhance mit Ihrem Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Präsentieren Ihrer besten Arbeit mit Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Mit Adobe Portfolio können Sie Ihre Arbeit hochladen, organisieren und mit potenziellen Mitarbeitern und Kunden auf der ganzen Welt teilen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Creative Cloud-Bibliotheken bieten ein integriertes Markensystem, über das Designer Branding-Elemente an Kreativteams weitergeben können</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Textformate aus Illustrator mit Creative Cloud Libraries teilen" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Freigeben von Textformaten aus Illustrator mit Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Intelligenter arbeiten mit Illustrator.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Das OpenType-Format ermöglicht eine Schrift mit bis zu 65.536 Glyphen</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Wussten Sie, dass Sie die Leistungsfähigkeit von InDesign nutzen können, um HTML- und Webgrafiken auszugeben?</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="Interaktives PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse von InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Erfahren Sie, wie Sie die Inhaltsverzeichnisfunktion auf dem InDesign verwenden, um sowohl Lesezeichen als auch Hyperlinks zu generieren, die Ihren Lesern helfen, Informationen in Ihren PDF-Dateien schnell zu finden</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten beim InDesign (PDF)</strong></a>
     </div>
     <em>Durch das Anwenden von Hyperlinks auf Masterseiten können Sie ein Navigationssystem auf allen Ihren Seiten schnell verwalten</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Illustrator bietet eine einzigartige Unterstützung für das SVG-Format, einschließlich der Möglichkeit, Symbole, Gruppen, IDs und präzise Vektordefinitionen Ihres Bildmaterials zu erstellen</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Produkt in einer realistischen Umgebung visualisieren (PDF)</strong></a>
     </div>
     <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen, [!DNL Dimension] ist Ihre bevorzugte Anwendung</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
