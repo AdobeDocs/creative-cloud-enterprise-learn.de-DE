@@ -4,10 +4,10 @@ description: Tutorials, die euch bei der Einführung der Produkte für Enterpris
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 
 
 ## Klicken Sie hier, um ein Produkt-Tutorial anzuzeigen
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="Acrobat für Content-Ersteller" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat für Content-Ersteller (PDF)</strong></a>
+    </div>
+    <em>Tools von Acrobat zur Optimierung von Kreativ-Workflows.</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud für Unternehmen
 
@@ -53,7 +70,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 </table>
 
 
-### Spark
+### Adobe Express (früher Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Hinzufügen einer Diashow zu Ihrer Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page bietet einige fantastische und benutzerfreundliche Layout-Komponenten, die Ihre Web-Storys zum Leben erwecken</em>
+    <em>Adobe Express bietet einige erstaunliche und benutzerfreundliche Layout-Komponenten, die Ihre Web-Storys zum Leben erwecken</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Mit Adobe Spark ist die Definition von Branding ganz einfach.</em>
+    <em>Adobe Express erleichtert die Definition eurer Marke.</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Lerne deinen neuen Produktionsspezialisten kennen: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark hat von Ihnen gelernt, wie Sie Layouts erstellen, Farben definieren, Grafiken importieren und Elemente in Ihren Kompositionen anordnen</em>
+    <em>Adobe Express lernt, wie Sie Layouts erstellen, Farben definieren, Grafiken importieren und Elemente in Ihren Kompositionen anordnen</em>
     <br>
   </td>
 </tr>

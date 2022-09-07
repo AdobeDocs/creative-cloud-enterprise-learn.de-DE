@@ -4,9 +4,9 @@ description: Tutorials, die euch bei der Einführung der Produkte für Enterpris
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 </table>
 
 
-### Spark
+### Adobe Express (früher Adobe Spark)
 
 <table>
 <tr>
@@ -149,7 +149,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>Grafiken mit Kiefer entfernen mit Photoshop + After Effects (PDF)</strong></a>
     </div>
-    <em>Use a common video technique, in After Effects, to quickly remove a background color in a photograph in order to create a unique photo composite for your design projects</em>
+    <em>Mit einer in After Effects üblichen Videotechnik können Sie schnell eine Hintergrundfarbe aus einem Foto entfernen und so eine individuelle Fotokomposition für Ihre Design-Projekte erstellen</em>
     <br>
   </td>
   <td>
@@ -206,14 +206,14 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Adobe XD: Erweitertes Voice Prototyping." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Erweitertes Voice Prototyping (PDF)</strong></a>
     </div>
     <em>Erstellen Sie einen interaktiven Prototyp, der auf Klick-, Touch- und Audio-Eingaben Ihrer Benutzer reagieren kann.</em>
     <br>
   </td>
    <td>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="Coediting: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Co-Editing: Design-Zusammenarbeit in Echtzeit mit Adobe XD" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Co-Editing: Design-Zusammenarbeit in Echtzeit mit Adobe XD (PDF)</strong></a>
@@ -361,7 +361,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Mit Illustrator für iPad eine Komposition aus Bildern und Formen erstellen." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Create a composite using images and shapes with Illustrator for iPad (PDF)</strong></a>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Erstellen einer Komposition mit Bildern und Formen mit Illustrator für iPad (PDF)</strong></a>
     </div>
     <em>Mit Illustrator können Sie Grafiken genauso formatieren wie Ihren Text</em>
     <br>
