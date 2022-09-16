@@ -4,19 +4,18 @@ description: Tutorials, die dir helfen, dich mit der Adobe vertraut zu machen [!
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] Tutorials
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und wecken. Adobe [!DNL Stock] bietet Creative Cloud für Unternehmen Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt aus den Adoben-Programmen heraus, die sie jeden Tag verwenden.
-
+Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustellen. Über Adobe Stock können Kreativteams auf über 300 Millionen lizenzfreie Bilder, Videos, Audiodateien, Vorlagen, Illustrationen und 3D-Stockmedien zugreifen, die sie täglich in ihren Creative Cloud-Programmen verwenden. Unbegrenzter Zugriff auf Adobe Stock Standard-Stockmedien mit der Creative Cloud Pro-Edition. Entdecken Sie die neuesten Sammlungen auf stock.adobe.com
 
 ## Klicken Sie hier, um eine Adobe anzuzeigen [!DNL Stock] Tutorial
 
@@ -88,10 +87,10 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Ändern von Adoben [!DNL Stock] Farben des Bilds anpassen." src="assets/changecolors.jpg" />
+         <img alt="Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Ändern von Adoben [!DNL Stock] Farben des Bilds anpassen.</strong></a>
+      <a href="changecolors.md"><strong>Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen</strong></a>
       </div>
       <em>Ein Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an</em>
       <br>
@@ -344,7 +343,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
  <tr>
    <td>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf">
-         <img alt="Mit Adobe Kreativelemente in der realen Welt präsentieren. [!DNL Stock] und Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Mit Adobe Kreativelemente in der echten Welt präsentieren. [!DNL Stock] und Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>Mit Adobe Kreativelemente in der echten Welt präsentieren. [!DNL Stock] und Photoshop (PDF)</strong></a>
