@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud für Unternehmen
 user-guide-description: Sehen Sie sich Tutorials und Kurzanleitungen zum Thema Creative Cloud für Unternehmen an.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 8%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -20,13 +20,15 @@ ht-degree: 8%
    + Tutorials {#ccetutorials}
       + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
       + [CC-Workflows mit CC-Bibliotheken verbessern](cce/cc-workflows-cc-libraries.md)
+      + [Angst vor der Zähmung](cce/Taming-font-anxiety.md)
       + [Teambibliotheken für Creative Cloud erstellen](cce/ccteamlibraries.md)
       + [Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams](cce/sharecclibraries.md)
       + [Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad](cce/compositepsipad.md)
       + [Cinemagramme mit Photoshop erstellen](cce/cinemagraphps.md)
       + [Dekodieren der Buchstabensuppe von Grafikformaten](cce/alphabetsoup.md)
       + [Fresco auf dem iPad und iPhone ausprobieren](cce/frescoworkshop.md)
-   + [Kurzanleitungen](quick-reference/overview-ref.md)
+   + Kurzanleitungen {#ccerefguides}
+   + [Produktliste](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [Übersicht](stock/overview-stock.md)
    + Tutorials {#stocktutorials}
@@ -63,7 +65,8 @@ ht-degree: 8%
    + [Übersicht](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Videoüberprüfung mit Frame.io](dva/video-review-frame-io.md)
-   + [Kurzanleitungen](dva/overview-dva-ref.md)
+   + Kurzanleitungen {#stockrefguides}
+      + [Stock-Leitfäden](dva/overview-dva-ref.md)
 + XD {#xdoverview}
    + [Übersicht](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
