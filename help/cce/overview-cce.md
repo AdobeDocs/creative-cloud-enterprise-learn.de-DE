@@ -4,9 +4,9 @@ description: Tutorials, die euch bei der Einführung der Produkte für Enterpris
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="Acrobat für Content-Ersteller" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat für Content-Ersteller (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat für Content-Ersteller (PDF)</strong></a>
     </div>
     <em>Tools von Acrobat zur Optimierung von Kreativ-Workflows.</em>
     <br>
@@ -141,6 +141,16 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="CC-Workflows mit CC-Bibliotheken verbessern" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC-Workflows mit CC-Bibliotheken verbessern</strong></a>
+    </div>
+    <em>Erfahre, wie Creative Cloud-Bibliotheken die Design-Elemente zusammenhalten und so die Projektkonsistenz für Designer und Teams gewährleisten.</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="Teambibliotheken für Creative Cloud erstellen" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Creative Cloud-Bibliotheken bieten ein integriertes Markensystem, über das Designer Branding-Elemente an Kreativteams weitergeben können</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Textformate aus Illustrator mit Creative Cloud Libraries teilen" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Freigeben von Textformaten aus Illustrator mit Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Intelligenter arbeiten mit Illustrator.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
