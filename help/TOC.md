@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud für Unternehmen
 user-guide-description: Sehen Sie sich Tutorials und Kurzanleitungen zum Thema Creative Cloud für Unternehmen an.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '374'
 ht-degree: 8%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 8%
 + CCE {#cceoverview}
    + [Übersicht](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
+      + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
       + [Teambibliotheken für Creative Cloud erstellen](cce/ccteamlibraries.md)
       + [Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams](cce/sharecclibraries.md)
       + [Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad](cce/compositepsipad.md)
@@ -34,7 +35,7 @@ ht-degree: 8%
       + [Eine Adobe animieren. [!DNL Stock] Vektorgrafik in Photoshop](stock/animatevector.md)
       + [Den Jahresbericht mit einem Video beginnen, das mit Adobe erstellt wurde [!DNL Stock] und Spark Video](stock/annualreport.md)
       + [Mit Adobe eigene Animationen gestalten. [!DNL Stock]](stock/customanimations.md)
-      + [Ändern von Adoben [!DNL Stock] Farben des Bilds anpassen.](stock/changecolors.md)
+      + [Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen](stock/changecolors.md)
       + [Mit Adobe eine 3D-Collage für ein Poster erstellen. [!DNL Stock] images](stock/collage.md)
       + [Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte](stock/boldlabel.md)
       + [Infografik zu Unternehmensrichtlinien mit Adobe erstellen [!DNL Stock]](stock/infographic.md)
@@ -51,10 +52,6 @@ ht-degree: 8%
       + [Mit Adobe einen animierten Lade-Screen erstellen. [!DNL Stock] und XD](stock/loadingscreen.md)
       + [Anpassen einer Adobe [!DNL Stock] Professionelle Präsentationsvorlage](stock/presentationtemplate.md)
       + [Anpassen der Farben in einer Adobe [!DNL Stock] Vektorillustration](stock/customizecolors.md)
-+ XD {#xdoverview}
-   + [Übersicht](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
-   + [Mache dich mit [!UICONTROL Komponenten] in Adobe XD](xd/components.md)
 + 3D/VR. {#3doverview}
    + [Übersicht](3di/overview-3di.md)
    + Tutorials {#3dtutorials}
@@ -62,7 +59,14 @@ ht-degree: 8%
       + [Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotografie erstellen](3di/photorealistic.md)
       + [3D-Modell mit [!DNL Dimension] und Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Video {#videooverview}
-   + [Tutorials](dva/overview-dva.md)
+   + [Übersicht](dva/overview-dva.md)
+   + Tutorials {#videotutorials}
+      + [Videoüberprüfung mit Frame.io](dva/video-review-frame-io.md)
+   + [Kurzanleitungen](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+   + [Übersicht](xd/overview-xd.md)
+   + Tutorials {#xdtutorials}
+   + [Mache dich mit [!UICONTROL Komponenten] in Adobe XD](xd/components.md)
 + Bereitstellung und Verwaltung {#deploy}
    + [Übersicht](deploy/overview-deploy.md)
    + [Ablauf der Seriennummer](deploy/cceserial.md)
