@@ -1,17 +1,17 @@
 ---
-title: Tutorials
-description: Willkommen beim Learning Hub "Creative Cloud für Unternehmen"
+title: Creative Cloud für Enterprise-Tutorials
+description: Willkommen beim Lernzentrum für Creative Cloud für Unternehmen
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud für Enterprise-Tutorials
+# Tutorials zu Creative Cloud für Unternehmen.
 
 ![Creative Cloud Hero Image](assets/hero_cce.jpg)
 
@@ -42,18 +42,6 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Design, Prototyping und Teilen von User Experiences</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D/VR." src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
     <em>Realistische 3D-Bilder für Produktfotos, Verpackungs- und Marketing-Designs.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
    <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
     </div>
     <em>Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Design, Prototyping und Teilen von User Experiences</em>
     <br>
   </td>
   <td>
