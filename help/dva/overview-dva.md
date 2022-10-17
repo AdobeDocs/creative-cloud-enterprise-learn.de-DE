@@ -4,7 +4,7 @@ description: Tutorials helfen Ihnen bei der Einführung von Adobe-DVA-Produkten
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
-Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation.
-
-## Klicken Sie hier, um ein Adobe-Videotutorial anzuzeigen
+Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
 
 <table>
 <tr>
