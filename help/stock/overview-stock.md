@@ -4,9 +4,9 @@ description: Tutorials, die dir helfen, dich mit der Adobe vertraut zu machen [!
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
     <em>Verfeinere deine Projekte mit professionellen Illustrationen. Finde den perfekten Vektor in Adobe [!DNL Stock], und passen Sie dann die Farben mit Adobe Illustrator an die Palette Ihres Projekts an</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Mit Adobe Dynamik in Standbilder bringen. [!DNL Stock] und Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <em>Kombiniere zwei verschiedene Bilder zu einer völlig neuen Szene für deine Design-Projekte. Adobe [!DNL Stock] und Adobe Photoshop.</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Mit Photoshop CC und Adobe ein Halloween-Cinemagramm erstellen. [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <em>Mit Adobe Photoshop ein Cinemagramm erstellen.</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Daten mit Adobe animieren. [!DNL Stock] und Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <em>Führe die folgenden Schritte aus, um deine Arbeit in einer realistischen Adobe zu präsentieren [!DNL Stock] Vorlage mit Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Faszinierende Details in Adobe entdecken. [!DNL Stock] images with Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <em>Entdecke die Power von Lightroom auf deinem Smartphone oder Tablet.</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Poster-Designs in der realen Welt visualisieren - mit Adobe [!DNL Stock] und Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>

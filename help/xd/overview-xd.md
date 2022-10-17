@@ -4,9 +4,9 @@ description: Tutorials für den Einstieg in Adobe XD
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -91,8 +91,6 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <em>Adobe XD bietet interaktive Designtools, die mit Ihrem Workflow zusammenarbeiten und Ihnen dabei helfen, Ihre Ideen umzusetzen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="Entwerfen einer mobilen Web-Erfahrung mit XD" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -103,6 +101,8 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <em>Wirf einen Blick hinter die Kulissen des Designprozesses für die mobile Web-Galerie Russell Brown MAX Madness mit Adobe XD</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Mit Adobe XD ein mobiles Weberlebnis prototypisieren" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -131,6 +131,11 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Hinter den Kulissen des MAX Madness mit Adobe XD (PDF)</strong></a>
     </div>
     <em>Die Bereitstellung eines optimierten mobilen Web-Erlebnisses kann bei Ihren Benutzern großen Anklang finden</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
