@@ -4,7 +4,7 @@ description: Die wichtigsten Tools in Adobe Acrobat zur Optimierung von Kreativ-
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: 6234a6496321536c1a36d91e72322e4cc4911862
+source-git-commit: 05689444c056feb01a147579150b20ce4b8e0f20
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Als Content-Ersteller erstellen Sie wahrscheinlich PDF und zeigen diese PDF-Date
 
 <br> 
 
-[![Bild der ersten Seite des Tutorials](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](&quot;assets/AcrobatforContentCreators.pdf&quot; target=&quot;_blank&quot;)
+[![Bild der ersten Seite des Tutorials](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatforContentCreators.pdf target=&quot;_blank&quot;)
