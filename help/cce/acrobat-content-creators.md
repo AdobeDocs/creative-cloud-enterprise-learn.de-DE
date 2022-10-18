@@ -4,7 +4,7 @@ description: Die wichtigsten Tools in Adobe Acrobat zur Optimierung von Kreativ-
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als Content-Ersteller erstellen Sie wahrscheinlich PDF und zeigen diese PDF-Dateien dann regelmäßig in Acrobat an. Acrobat bietet jedoch auch zahlreiche Tools, die zur Optimierung typischer Kreativ-Workflows beitragen.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
