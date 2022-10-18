@@ -4,7 +4,7 @@ description: Mit der Erweiterung Frame.io für Adobe Premiere Pro können Sie As
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Zusammenarbeit an jedem Ort. Mit der Erweiterung &quot;Frame.io&quot; für Adobe
 
 Wählen Sie die Abbildung unten, um dieses PDF-Tutorial anzuzeigen oder herunterzuladen.
 
-[![Bild der ersten Seite des Tutorials](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
+[![Bild der ersten Seite des Tutorials](assets/Videoreviewwithframe.png){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}

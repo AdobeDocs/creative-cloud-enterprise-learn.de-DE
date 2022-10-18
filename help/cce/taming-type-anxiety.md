@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie in Creative Cloud auf über 20.000 profession
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Zu den vielen Vorteilen eines Adobe Creative Cloud-Abonnements gehört der koste
 
 Wählen Sie die Abbildung unten, um dieses PDF-Tutorial anzuzeigen oder herunterzuladen.
 
-[![Bild der ersten Seite des Tutorials](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
+[![Bild der ersten Seite des Tutorials](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
