@@ -4,9 +4,9 @@ description: Erfahre, wie Creative Cloud-Bibliotheken die Design-Elemente zusamm
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 In diesen How-tos erfahrt ihr, wie Creative Cloud-Bibliotheken die Design-Elemente zusammenhalten und so die Projektkonsistenz für Designer und Teams gewährleisten.
 
-**Wählen Sie die folgende Abbildung aus, um &quot;Verbessern von CC-Workflows mit CC-Bibliotheken (PDF)&quot; herunterzuladen.**
+Wählen Sie die Abbildung unten, um dieses PDF-Tutorial anzuzeigen oder herunterzuladen.
 
-[![Tutorialbild zu CC-Bibliotheken](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)
+[![Bild der ersten Seite des Tutorials](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}

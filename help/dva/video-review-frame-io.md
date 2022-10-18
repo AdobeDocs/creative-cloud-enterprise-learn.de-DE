@@ -4,9 +4,9 @@ description: Mit der Erweiterung Frame.io für Adobe Premiere Pro können Sie As
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Zusammenarbeit an jedem Ort. Mit der Erweiterung &quot;Frame.io&quot; für Adobe Premiere Pro können Sie Assets zentralisieren und freigeben, Kommentare in Echtzeit erhalten, Überarbeitungen verfolgen und Genehmigungen schneller einholen, ohne die Zeitleiste verlassen zu müssen.
 
-**Wählen Sie die unten stehende Abbildung aus, um die Videoüberprüfung mit Frame.io (PDF) herunterzuladen.**
+Wählen Sie die Abbildung unten, um dieses PDF-Tutorial anzuzeigen oder herunterzuladen.
 
-[![Tutorialbild zu Acrobat](assets/Videoreviewwithframe_400.jpg)](assets/Video-review-with-Frame.io.pdf)
+[![Bild der ersten Seite des Tutorials](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
