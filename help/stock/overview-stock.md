@@ -4,9 +4,9 @@ description: Tutorials, die dir helfen, dich mit der Adobe vertraut zu machen [!
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1240'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Beeindruckende digitale Assets" src="assets/Stunningdigitalassets.png" />
+         <img alt="Beeindruckende digitale Assets (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Beeindruckende digitale Assets</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Beeindruckende digitale Assets (PDF)</strong></a>
       </div>
       <em>In diesem praktischen Tutorial erfährst du, wie du Adobe Stock mit Creative Cloud Libraries integrierst, um konsistente und professionelle Designergebnisse für Druck und Leinwand zu erzielen</em>
       <br>
