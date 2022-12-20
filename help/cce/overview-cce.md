@@ -4,9 +4,9 @@ description: Tutorials, die euch bei der Einführung der Produkte für Enterpris
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express: Content, der heraussticht" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content, der heraussticht</strong></a>
+    </div>
+    <em> Grafiken, Websites und Video-Storys innerhalb von Minuten mit Adobe Express erstellen</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Branding-Designs mit Adobe Spark erstellen" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>Mit Adobe Spark ist die Definition von Branding ganz einfach.</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="Hinzufügen einer Diashow zu Ihrer Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Lerne deinen neuen Produktionsspezialisten kennen: Adobe Spark Post (PDF)</strong></a>
     </div>
     <em>Adobe Spark hat von Ihnen gelernt, wie Sie Layouts erstellen, Farben definieren, Grafiken importieren und Elemente in Ihren Kompositionen anordnen</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="Zusammenarbeit: Die Zukunft der Kreativität" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Zusammenarbeit: Die Zukunft der Kreativität</strong></a>
+    </div>
+    <em>Zu den vielen Vorteilen eines Adobe Creative Cloud-Abonnements gehört der kostenlose Zugriff auf mehr als 20.000 professionell gestaltete und kuratierte Schriftarten von Adobe Fonts</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="Von Handlettering zu Illustrator per Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Von Lightroom Web auf InDesign per Creative Cloud (PDF)</strong></a>
     </div>
     <em>Lasse deiner Kreativität freien Lauf - mit Creative Clouden und Bibliotheken, die du für deine Videoprojekte brauchst.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
