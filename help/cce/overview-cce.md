@@ -4,9 +4,9 @@ description: Tutorials, die euch bei der Einführung der Produkte für Enterpris
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -156,10 +156,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="CC-Workflows mit CC-Bibliotheken verbessern (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="CC-Workflows mit CC-Bibliotheken verbessern" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>CC-Workflows mit CC-Bibliotheken verbessern (PDF)</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC-Workflows mit CC-Bibliotheken verbessern</strong></a>
     </div>
     <em>Erfahre, wie Creative Cloud-Bibliotheken die Design-Elemente zusammenhalten und so die Projektkonsistenz für Designer und Teams gewährleisten.</em>
     <br>
@@ -331,10 +331,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Beklemmung (PDF)" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Bezähmung" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>Beklemmung (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Bezähmung</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie in Creative Cloud auf über 20.000 professionell gestaltete Schriftarten zugreifen und diese verwenden.</em>
     <br>

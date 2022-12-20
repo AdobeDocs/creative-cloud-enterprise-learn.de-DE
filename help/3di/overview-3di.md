@@ -4,9 +4,9 @@ description: Tutorials für den Einstieg in Adobe 3D und VR
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="3D-Design und Rendering" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>3D-Design und Rendering</strong></a>
+    </div>
+    <em>Importiere Inhalte. Ordne deine Szene an. Wende Materialien und Strukturen an. Passe die Beleuchtung auf Bild- und physikalischer Ebene an. Speichere Kameras mit unterschiedlichen Auflösungen. Rendere fotorealistisches Bildmaterial.</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="Realistische 3D-Mockups mit Adobe erstellen. [!DNL Stock] und [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -49,6 +59,8 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
     <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen werden, [!DNL Dimension] ist Ihre bevorzugte Anwendung</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="Tipps und Techniken für das Mastering von 3D-Beleuchtung in CGI" src="assets/Mastering3dlighting_1.gif" />
@@ -59,8 +71,6 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
     <em>Erfahren Sie mehr über 3D-Beleuchtung und wie Sie verschiedene Lichtbedingungen erstellen, die eine computergenerierte Szene vollständig verändern können, sowie darüber, wie Objekte darin aussehen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotografie erstellen" src="assets/Photorealistic_TOC.png" />
@@ -79,11 +89,6 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
    <a href="3ddimensionstock.md"><strong>3D-Modell mit [!DNL Dimension] und Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Anpassen und Branding eines 3D-Modells in [!DNL Dimension] Materialien, Umwelteigenschaften, Beleuchtung und Fotografie nutzen, um fotorealistische Bilder für jedes Design-Projekt zu erstellen</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
