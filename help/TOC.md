@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 9%
       + Integrationen {#integrations}
          + [AEM](max2020/aem.md)
          + [Creative Cloud-Client](max2020/creativeclouddesktopapp.md)
-         + [CC Libraries](max2020/cclibraries.md)
+         + [CC-Bibliotheken](max2020/cclibraries.md)
          + [InDesign Server](max2020/indesignserver.md)
          + [[!DNL Stock]](max2020/stock.md)
          + [Unternehmensverwaltung](max2020/enterprise.md)
