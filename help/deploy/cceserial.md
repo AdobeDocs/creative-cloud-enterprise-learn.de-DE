@@ -4,9 +4,9 @@ description: Informationen zum Ablauf der Seriennummer für Creative Cloud für 
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Sowohl Acrobat als auch Creative Cloud für Unternehmen-Apps zeigen ab 60 Tage v
 
 ### Creative Cloud für Unternehmenserfahrung
 
-Die folgenden Informationen geben einen Überblick über die Benutzererfahrung. Im Folgenden finden Sie ein kurzes Video mit anschließendem Review des Endbenutzererlebnisses.
+Die folgenden Informationen geben einen Überblick über die Benutzererfahrung. Im Folgenden finden Sie ein kurzes Video, gefolgt von einer Überprüfung der Endbenutzerfunktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
@@ -65,7 +65,7 @@ Bei allen folgenden Versuchen, die Applikationen zu starten, wird der Endbenutze
 
 ### Acrobat
 
-Die folgenden Informationen geben einen Überblick über die Benutzererfahrung. Im Folgenden finden Sie ein kurzes Video mit anschließendem Review des Endbenutzererlebnisses.
+Die folgenden Informationen geben einen Überblick über die Benutzererfahrung. Im Folgenden finden Sie ein kurzes Video, gefolgt von einer Überprüfung der Endbenutzerfunktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
@@ -84,13 +84,13 @@ Sobald die Seriennummer abgelaufen ist, haben die Benutzer keinen Zugriff mehr a
 
 Bei allen folgenden Versuchen, Acrobat zu starten, wird der Endbenutzer aufgefordert, **Jetzt anmelden** gefolgt von der Option, eine eigene Adobe ID zu erstellen und in den Testmodus zu wechseln. Jede neue Adobe ID, die vom Endbenutzer erstellt wird, wird jedoch nicht mit den Lizenzen Ihres Unternehmens verknüpft und führt zu zusätzlichen Verwirrungen für die Benutzer.
 
-![Acrobat-Anmeldedialogfeld 1](assets/acrobatsignin1.png)
+![Acrobat Sign in Dialog 1](assets/acrobatsignin1.png)
 
-![Acrobat-Anmeldedialogfeld 2](assets/acrobatsignin2.png)
+![Acrobat Sign in Dialog 2](assets/acrobatsignin2.png)
 
 ## Kontaktieren Sie uns, wenn Sie Hilfe benötigen
 
 Wenn Sie Fragen zur Verwendung der [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) -Tool verwenden oder Hilfe bei der Migration von der Bereitstellung der Seriennummer zu personengebundenen Lizenzen benötigen, haben Sie einige Möglichkeiten:
 * Senden Sie eine E-Mail an das Adobe Enterprise Onboarding-Team - **entonb@adobe.com**
 * Öffnen Sie ein Support-Ticket in [Admin Console](https://adminconsole.adobe.com/support)
-* Wenden Sie sich an Ihren Adobe Account Manager oder Customer Success Manager.
+* Wenden Sie sich an Ihr Adobe-Account-Team.
