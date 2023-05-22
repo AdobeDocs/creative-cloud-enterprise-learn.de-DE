@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-Beleuchtung, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Erfahren Sie mehr über 3D-Beleuchtung und wie Sie verschiedene Lichtbedingungen erstellen, die eine computergenerierte Szene vollständig verändern können, sowie darüber, wie Objekte darin aussehen.
 
-Wir nehmen die Welt um uns herum mit unseren Sinnen wahr: wir hören, wir fühlen, wir riechen, wir sehen. Wir können sehen, weil unsere Augen Informationen aufnehmen, die uns durch Elementarteilchen, Fotonen genannt, gebracht werden. This information is processed by our brain to produce an image. What we interpret as an object color, glossiness, translucency or metallic qualities are all products of the interaction between the photons and the object’s surface.
+Wir nehmen die Welt um uns herum mit unseren Sinnen wahr: wir hören, wir fühlen, wir riechen, wir sehen. Wir können sehen, weil unsere Augen Informationen aufnehmen, die uns durch Elementarteilchen, Fotonen genannt, gebracht werden. Diese Information wird von unserem Gehirn verarbeitet, um ein Bild zu erzeugen. Was wir als Objektfarbe, Glanz, Lichtdurchlässigkeit oder metallische Eigenschaften interpretieren, sind alle Produkte der Wechselwirkung zwischen den Fotonen und der Oberfläche des Objekts.
 
-Die Lichtmechanik in einer Computer-generierten 3D-Szene folgt dem gleichen natürlichen Prinzip der Fotonenstreuung, das durch einen Prozess namens [Strahlverfolgung](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Rays bounce off shapes and interact with their materials, effectively defining how objects appear in the final image. Beleuchtung macht die Dimensionalität aller Elemente einer 3D-Szene sichtbar.
+Die Lichtmechanik in einer Computer-generierten 3D-Szene folgt dem gleichen natürlichen Prinzip der Fotonenstreuung, das durch einen Prozess namens [Strahlverfolgung](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Strahlen springen von Formen ab und interagieren mit ihren Materialien. So wird effektiv definiert, wie Objekte im endgültigen Bild erscheinen. Beleuchtung macht die Dimensionalität aller Elemente einer 3D-Szene sichtbar.
 
-Some materials are more sensitive to lighting conditions than others. Nehmen wir zum Beispiel Metalle: ein Chromobjekt im Grunde alles um es herum reflektiert. Wenn ein Licht bewegt wird, heller oder größer wird, sind alle diese Informationen direkt auf der Chromoberfläche in nahezu spiegelähnlichen Details sichtbar, sodass sie von einem Lichtzustand zum anderen völlig unterschiedlich erscheinen können.
+Einige Materialien sind lichtempfindlicher als andere. Nehmen wir zum Beispiel Metalle: ein Chromobjekt im Grunde alles um es herum reflektiert. Wenn ein Licht bewegt wird, heller oder größer wird, sind alle diese Informationen direkt auf der Chromoberfläche in nahezu spiegelähnlichen Details sichtbar, sodass sie von einem Lichtzustand zum anderen völlig unterschiedlich erscheinen können.
 
 ![Eine 3D CGI-Szene eines Autos auf einem Parkplatz mit einem Neon-Schild an der Wand. Die Beleuchtung wechselt vom Tageslicht zu einer Neon-LED, die vom Schild ausgeht](assets/Mastering3dlighting_1.gif)
 
@@ -99,7 +99,7 @@ Wenn du die Lichtquelle kleiner machst als das Objekt, werden die Schatten schä
 
 ### Sonne und Himmel
 
-Sunlight is a special type of directional light. The process of setting it up is very similar to a regular directional light, however this light will automatically change the color with height; when it is close to the horizon (low height angle values), it will gradually become warmer to simulate the sunset. Die Farbe kann auch mithilfe von Vorgaben geändert werden. In der Zwischenzeit wird der Schatten durch Wolken weicher.
+Sonnenlicht ist eine spezielle Art von gerichtetem Licht. Der Einrichtungsvorgang ähnelt sehr stark dem eines normalen Licht, jedoch ändert dieses Licht automatisch die Farbe mit der Höhe. wenn er sich in der Nähe des Horizonts befindet (niedrige Höhenwinkelwerte), wird es allmählich wärmer, um den Sonnenuntergang zu simulieren. Die Farbe kann auch mithilfe von Vorgaben geändert werden. In der Zwischenzeit wird der Schatten durch Wolken weicher.
 
 ![Bearbeiten der Beleuchtungseigenschaften für die Sonnenlichtbeleuchtung eines 3D-Automodells in Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
@@ -191,11 +191,11 @@ Die Intensität des Lichts wird über die Eigenschaft &quot;Glühen&quot; in den
 
 ![Szene eines Baumstumpfs auf einem Waldboden, der mit CGI-Drähten und Bändern verwoben ist, die mit 3D-Beleuchtung im Freien beleuchtet werden](assets/Mastering3dlighting_32.jpg)
 
-Das Erstellen von Außenbeleuchtung ist ziemlich einfach und es kommt auf die Verwendung eines Sun- und Sky-Lichtsystems (siehe oben). It is important to match the sunlight correctly with the sky-based environment light – paying attention to both the orientation and the cloudiness value.
+Das Erstellen von Außenbeleuchtung ist ziemlich einfach und es kommt auf die Verwendung eines Sun- und Sky-Lichtsystems (siehe oben). Es ist wichtig, das Sonnenlicht korrekt an das himmelbasierte Umgebungslicht anzupassen - und dabei sowohl die Ausrichtung als auch den Bewölkungsgrad zu beachten.
 
-Die Szene selbst spielt dabei eine große Rolle. To produce compelling results, use objects in your scene as catalysts that interact with the light. Beim oben gezeigten Waldrendering werden die Objekte (verschiedene Pflanzen, Stämme und Bäume) dicht beieinander platziert.
+Die Szene selbst spielt dabei eine große Rolle. Verwende Objekte in deiner Szene als Katalysatoren, die mit dem Licht interagieren, um überzeugende Ergebnisse zu erzielen. Beim oben gezeigten Waldrendering werden die Objekte (verschiedene Pflanzen, Stämme und Bäume) dicht beieinander platziert.
 
-![Objects in a 3D forest scene indicate how light will interact with the environment](assets/Mastering3dlighting_33.png)
+![Objekte in einer 3D-Waldszene zeigen, wie Licht mit der Umgebung interagiert](assets/Mastering3dlighting_33.png)
 
 Das bedeutet, dass es eine Menge komplexer Interaktionen mit dem Raytracing geben wird, da das Licht zwischen den Objekten reflektiert wird. Schattierte Flecken erscheinen (wie erwartet) dunkel, während exponierte Bereiche hell bleiben.
 
@@ -203,4 +203,4 @@ Das bedeutet, dass es eine Menge komplexer Interaktionen mit dem Raytracing gebe
 
 Ich hoffe, dieser Überblick zeigt, wie wichtig es ist, 3D-Lichter in verschiedenen Situationen zu beherrschen. Du solltest anfangen, überzeugendere Ergebnisse zu erzielen.
 
-Alles Gute zur Beleuchtung! Laden Sie die [neueste Version](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) der Dimension heute.
+Alles Gute zur Beleuchtung! Laden Sie die [neueste Version](https://creativecloud.adobe.com/apps/download/Dimension) der Dimension heute.

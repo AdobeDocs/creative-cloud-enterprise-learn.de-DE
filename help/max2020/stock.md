@@ -1,19 +1,19 @@
 ---
-title: '"[!DNL Stock]"'
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] bietet Kreativ-Teams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![Tutorial Hero Image](../assets/Stock.jpg)
 
 Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] bietet Creative Cloud für Unternehmen Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt in den Adobe-Programmen, die sie jeden Tag verwenden.
 
