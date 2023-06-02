@@ -1,22 +1,28 @@
 ---
-title: Adobe [!DNL Firefly] overview
+title: Adobe [!DNL Firefly] Übersicht
 description: Euer schneller Einstieg in die Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: e6f761def0a06f38af529baf4e6ea1fe56291050
+source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] Übersicht
+# Adobe [!DNL Firefly] overview
 
 ![Bild von Firefly Hero](../assets/firefly.png)
 
 Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte. Ihr Schwerpunkt liegt auf der Erstellung von Bild- und Texteffekten. Firefly bietet neue Möglichkeiten für Ideenfindung, Kreativität und Kommunikation. Gleichzeitig werden die Workflows im Kreativbereich deutlich verbessert.
 
+<br> 
+
+## Möglichkeiten mit Adobe Firefly.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
+
+<br> 
 
 ## Weitere Informationen zu Adobe Firefly
 
