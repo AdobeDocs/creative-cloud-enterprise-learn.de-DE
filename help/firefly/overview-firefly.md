@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] Übersicht
 description: Euer schneller Einstieg in die Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
+source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,9 +20,9 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
 
 ## Möglichkeiten mit Adobe Firefly.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
 <br> 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Informationen zu Adobe Firefly
 
