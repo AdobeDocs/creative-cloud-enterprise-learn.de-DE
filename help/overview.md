@@ -4,10 +4,10 @@ description: Willkommen beim Lernzentrum für Creative Cloud für Unternehmen
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '201'
+ht-degree: 12%
 
 ---
 
@@ -32,6 +32,26 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>Ein benutzerfreundliches Kreativ-Tool ohne Erfahrung</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
+    </div>
+    <em>Die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte.</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
     <em>Hochwertige digitale Bilder, Illustrationen, Videos, Audio, Vorlagen und mehr</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D/VR." src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
     <em>Realistische 3D-Bilder für Produktfotos, Verpackungs- und Marketing-Designs.</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
@@ -70,7 +89,7 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>Design, Prototyping und Teilen von User Experiences</em>
+    <em>Anwendererlebnisse entwerfen, konzipieren und teilen</em>
     <br>
   </td>
   <td>
