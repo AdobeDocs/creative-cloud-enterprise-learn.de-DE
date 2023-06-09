@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-Beleuchtung, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Erfahren Sie mehr über 3D-Beleuchtung und wie Sie verschiedene Lichtbedingungen
 
 Wir nehmen die Welt um uns herum mit unseren Sinnen wahr: wir hören, wir fühlen, wir riechen, wir sehen. Wir können sehen, weil unsere Augen Informationen aufnehmen, die uns durch Elementarteilchen, Fotonen genannt, gebracht werden. Diese Information wird von unserem Gehirn verarbeitet, um ein Bild zu erzeugen. Was wir als Objektfarbe, Glanz, Lichtdurchlässigkeit oder metallische Eigenschaften interpretieren, sind alle Produkte der Wechselwirkung zwischen den Fotonen und der Oberfläche des Objekts.
 
-Die Lichtmechanik in einer Computer-generierten 3D-Szene folgt dem gleichen natürlichen Prinzip der Fotonenstreuung, das durch einen Prozess namens [Strahlverfolgung](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Strahlen springen von Formen ab und interagieren mit ihren Materialien. So wird effektiv definiert, wie Objekte im endgültigen Bild erscheinen. Beleuchtung macht die Dimensionalität aller Elemente einer 3D-Szene sichtbar.
+Die Lichtmechanik in einer computergenerierten 3D-Szene folgt dem gleichen natürlichen Prinzip der Fotonenstreuung, das auch als Raytracing bezeichnet wird. Strahlen springen von Formen ab und interagieren mit ihren Materialien. So wird effektiv definiert, wie Objekte im endgültigen Bild erscheinen. Beleuchtung macht die Dimensionalität aller Elemente einer 3D-Szene sichtbar.
 
 Einige Materialien sind lichtempfindlicher als andere. Nehmen wir zum Beispiel Metalle: ein Chromobjekt im Grunde alles um es herum reflektiert. Wenn ein Licht bewegt wird, heller oder größer wird, sind alle diese Informationen direkt auf der Chromoberfläche in nahezu spiegelähnlichen Details sichtbar, sodass sie von einem Lichtzustand zum anderen völlig unterschiedlich erscheinen können.
 
@@ -35,15 +35,15 @@ Der Prozess der Erstellung eines 3D-Renderings ist nie ganz derselbe, aber dies 
 1. Materialerstellung oder -zuordnung
 1. Rendern
 
-Wenn du in die Beleuchtungsphase kommst, ist es ideal, deine Lichter einzurichten, bevor du an den Materialien arbeitest. Dazu können Sie der gesamten Szene ein neutrales graues, mattes Material zuweisen. Auf diese Weise kannst du besser sehen und verstehen, wie sich die Lichter auf die Silhouetten des Objekts in der Szene auswirken. Wenn die Materialien fertig sind, muss die Beleuchtung möglicherweise weiter verfeinert werden.
+Wenn du in die Beleuchtungsphase kommst, ist es ideal, deine Lichter einzurichten, bevor du an den Materialien arbeitest. Dazu können Sie der gesamten Szene ein neutrales graues, mattes Material zuweisen. So kannst du besser sehen und verstehen, wie sich die Lichter auf die Silhouetten des Objekts in der Szene auswirken. Wenn die Materialien fertig sind, muss die Beleuchtung möglicherweise weiter verfeinert werden.
 
 ![CGI Wohnzimmer Rendering Vergleich mit neutralem grauem Matte Material auf der linken Seite im Vergleich zu fertigen Materialien auf der rechten](assets/Mastering3dlighting_2.jpg)
 
-Es ist am besten, nacheinander an den Lichtern zu arbeiten. Das aktive Licht sollte das einzige in der Szene sichtbare sein, während alle anderen Lichter vorübergehend ausgeschaltet sein sollten. Auf diese Weise kannst du sehen, wie sich ein bestimmtes Licht auf die Szene auswirkt. Du kannst das ändern, indem du an den Eigenschaften der Szene arbeitest, z. B. Position, Richtung, Intensität.
+Es ist am besten, nacheinander an den Lichtern zu arbeiten. Das aktive Licht sollte das einzige in der Szene sichtbare sein, während alle anderen Lichter vorübergehend ausgeschaltet sein sollten. Auf diese Weise kannst du sehen, wie sich ein bestimmtes Licht auf die Szene auswirkt. Du kannst das ändern, indem du an den Eigenschaften der Szene arbeitest, z. B. Position, Richtung, Intensität usw.
 
 ![Beispiel von 3 Leuchten, die ein 3D-Automodell einzeln beleuchten und alle 3 zusammen funktionieren](assets/Mastering3dlighting_3.gif)
 
-Ein weiterer nützlicher Trick ist es, eine Kugel mit einem glänzenden Metallmaterial (einem Chrom oder einem Spiegel) zu erstellen. Dieser &quot;Spiegelball&quot; spiegelt praktisch die gesamte Szene um sich herum wider, sodass du die Position, Richtung oder Größe des Lichts leicht bestimmen kannst. Bei Umgebungslichtern kannst du die Spiegelung in der Spiegelkugel sehen. So kannst du die Ausrichtung der Kugel im Raum leichter festlegen.
+Ein weiterer nützlicher Trick ist es, eine Kugel mit einem glänzenden Metallmaterial (einem Chrom oder einem Spiegel) zu erstellen. Dieser &quot;Spiegelball&quot; spiegelt die gesamte Szene um sich herum wider, sodass du die Position, Richtung oder Größe des Lichts leicht bestimmen kannst. Bei Umgebungslichtern können Sie ihre Reflexion in der Spiegelkugel sehen, was dazu beiträgt, ihre Ausrichtung im Raum festzulegen.
 
 ![Verwendung einer Spiegelkugel (Kugel mit metallischer Struktur), um das Umgebungslicht in einer 3D-Szene zu sehen und auszurichten](assets/Mastering3dlighting_4.gif)
 
@@ -125,7 +125,7 @@ Sie können die Weichheit der Schatten steuern, indem Sie das leuchtende Objekt 
 
 ![Wenn du die Größe des Objektlichts änderst, wird die Lichtmenge erhöht und die Schatten weicher.](assets/Mastering3dlighting_19.gif)
 
-Anders als bei den vorherigen Arten von Lichtern, die wir abgedeckt haben, können diese Lichter neben normalen Farben auch Texturen verwenden. Die Texturen können der Grundfarbe ihrer Materialien zugeordnet werden, und die Lichtintensität wird über einen Glühregler gesteuert.
+Anders als bei den früheren Typen von Lichtern, die wir abgedeckt haben, können diese Lichter zusätzlich zu den normalen Farben auch Texturen verwenden. Die Texturen können der Grundfarbe ihrer Materialien zugeordnet werden, und die Lichtintensität wird über einen Glühregler gesteuert.
 
 ![Anwenden einer Textur auf ein Objektlicht, das ein 3D-Automodell beleuchtet](assets/Mastering3dlighting_20.gif)
 
@@ -183,7 +183,7 @@ Die einfachste Möglichkeit, dieses Licht einzustellen, besteht darin, Ebenen mi
 
 ![Illustration, die zeigt, wie Keying- und Fülllichter in einem 3D-Wohnzimmer positioniert sind, um die Szene zu beleuchten](assets/Mastering3dlighting_30.jpg)
 
-Die Intensität des Lichts wird über die Eigenschaft &quot;Glühen&quot; in den Materialien der Ebene gesteuert. Du kannst eine Farbe oder sogar eine Struktur hinzufügen, die verwendet werden kann, um interessante Schatten zu werfen. Die Verwendung von Glühmaterialien sorgt auch für den Abfall der Lichtintensität, der für die Innenbeleuchtung sehr wichtig ist.
+Die Intensität des Lichts wird durch die Eigenschaft &quot;Glühen&quot; in den Materialien der Ebenen gesteuert. Du kannst eine Farbe oder sogar eine Struktur hinzufügen, die verwendet werden kann, um interessante Schatten zu werfen. Die Verwendung von Glühmaterialien sorgt auch für den Abfall der Lichtintensität, der für die Innenbeleuchtung sehr wichtig ist.
 
 ![Beispiel für Umgebungslicht, Umgebung und Schlüssellicht und Umgebung, Schlüssel- und Fülllichter, die eine 3D-Wohnzimmerszene beleuchten](assets/Mastering3dlighting_31.gif)
 
