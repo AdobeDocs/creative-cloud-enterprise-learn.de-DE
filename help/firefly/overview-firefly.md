@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Übersicht
 description: Euer schneller Einstieg in die Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
 
 <br> 
 
-## Möglichkeiten mit Adobe Firefly.
+## Möglichkeiten mit Adobe Firefly
 
 <br> 
 
@@ -45,13 +45,18 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Firefly in Photoshop entdecken</strong></a>
       </div>
-      <em>"Firefly" ist jetzt in Photoshop verfügbar und deine Kreationen werden nicht mehr dieselbe sein</em>
+      <em>Firefly ist jetzt in Photoshop und die Art und Weise, wie Sie erstellen, wird nie die gleiche sein</em>
       <br>
   </td>
   <td>
       <a href="webinar-experimenting.md">
          <img alt="Mit Adobe Firefly experimentieren" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Webinar zum Experimentieren mit Fireflys</strong></a>
+      </div>
+      <em>Erfahre in diesem Webinar, wie Howard Pinsky in die Firefly-Beta-Version eintaucht.</em>
+      <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
