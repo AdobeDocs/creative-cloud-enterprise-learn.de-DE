@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Übersicht
 description: Euer schneller Einstieg in die Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,11 +15,11 @@ ht-degree: 0%
 
 ![Bild von Firefly Hero](../assets/firefly.png)
 
-Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte, die sich zunächst auf die Erstellung von Bild- und Texteffekten konzentrieren. Firefly bietet neue Möglichkeiten für Ideenfindung, Kreativität und Kommunikation. Gleichzeitig werden die Workflows im Kreativbereich deutlich verbessert.
+Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte. Ihr Schwerpunkt liegt auf der Erstellung von Bild- und Texteffekten. Firefly bietet neue Möglichkeiten für Ideenfindung, Kreativität und Kommunikation. Gleichzeitig werden die Workflows im Kreativbereich deutlich verbessert.
 
 <br> 
 
-## Möglichkeiten mit Adobe Firefly
+## Möglichkeiten mit Adobe Firefly.
 
 <br> 
 
@@ -69,4 +70,30 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Varianten für Bannerwerbung in Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Varianten für Bannerwerbung in Photoshop</strong></a>
+      </div>
+      <em>Erfahren Sie, wie Sie die generative Füllung verwenden können, um die Erstellung von Web-Werbebannern zu beschleunigen</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
