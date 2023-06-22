@@ -4,9 +4,9 @@ description: Euer schneller Einstieg in die Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ![Bild von Firefly Hero](../assets/firefly.png)
 
-Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte. Ihr Schwerpunkt liegt auf der Erstellung von Bild- und Texteffekten. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
+Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte, die sich zunächst auf die Erstellung von Bild- und Texteffekten konzentrieren. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
 
 <br> 
 
-## Möglichkeiten mit Adobe Firefly.
+## Möglichkeiten mit Adobe Firefly
 
 <br> 
 
@@ -56,7 +56,7 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Generative Füllung in Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
       </a>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="Texteffekte" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
