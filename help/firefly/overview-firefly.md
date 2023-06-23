@@ -3,19 +3,20 @@ title: Adobe [!DNL Firefly] Übersicht
 description: Euer schneller Einstieg in die Adobe [!DNL Firefly]
 role: User
 level: Beginner
+jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
+source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] overview
 
-![Bild von Firefly Hero](../assets/firefly.png)
+![Firefly Hero Image](../assets/firefly.png)
 
-Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte, die sich zunächst auf die Erstellung von Bild- und Texteffekten konzentrieren. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
+Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte. Ihr Schwerpunkt liegt auf der Erstellung von Bild- und Texteffekten. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
 
 <br> 
 
@@ -72,9 +73,9 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
       </a>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Generative Neufärbung in Illustrator" src="assets/firefly-recolor.png" />
+      </a>
   </td>
 </tr>
 </table>
