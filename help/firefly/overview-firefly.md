@@ -5,18 +5,18 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
+source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] overview
 
-![Firefly Hero Image](../assets/firefly.png)
+![Bild von Firefly Hero](../assets/firefly.png)
 
-Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte. Ihr Schwerpunkt liegt auf der Erstellung von Bild- und Texteffekten. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
+Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte, die sich zunächst auf die Erstellung von Bild- und Texteffekten konzentrieren. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
 
 <br> 
 
@@ -58,10 +58,15 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="overview-of-firefly.md">
+         <img alt="Überblick über den Adobe Firefly" src="assets/firefly-overview.png" />
+      </a>
+   </td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Generative Füllung in Photoshop" src="assets/generative-fill.png" />
       </a>
-  </td>
+   </td>
    <td>
       <a href="web-banner-ad.md">
          <img alt="Varianten für Bannerwerbung in Photoshop" src="assets/banner-ad-variations.png" />
@@ -72,10 +77,27 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
          <img alt="Texteffekte" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+<td>
       <a href="generative-recolor.md">
          <img alt="Generative Neufärbung in Illustrator" src="assets/firefly-recolor.png" />
       </a>
+  </td>
+<td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
