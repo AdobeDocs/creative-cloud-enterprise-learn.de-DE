@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud für Unternehmen
 user-guide-description: Sehen Sie sich Tutorials und Kurzanleitungen zum Thema Creative Cloud für Unternehmen an.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '523'
 ht-degree: 9%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 9%
    + Tutorials {#expresstutorials}
       + [Erste Schritte mit Adobe Expreß](express/get-started.md)
       + [Adobe Expreß für Einsteiger](express/adobe-express-beginners.md)
+      + [Recruiting- und Onboarding-Inhalte mit Firefly erstellen](express/create-on-boarding.md)
       + [Mit Firefly grafische Inhalte für Blogs erstellen](express/create-blog-graphics.md)
       + [Social-Media-Poster mit Firefly erstellen](express/create-social-posters.md)
       + [Webinar-Poster mit Firefly erstellen](express/create-webinar-poster.md)
