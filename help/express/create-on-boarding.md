@@ -1,11 +1,11 @@
 ---
 title: Recruiting- und Onboarding-Inhalte mit Firefly erstellen
-description: Erfahre, wie du einzigartige Grafiken für Mitarbeiter-Recruiting und Onboarding-Inhalte erstellen kannst.
+description: Erfahren Sie, wie Sie mit Text-to-Image auf Basis von Adobe Firefly einzigartige Grafiken für die Anwerbung von Mitarbeitern und Onboarding-Inhalte im Adobe Expreß erstellen.
 role: User
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '90'
 ht-degree: 3%
 
 ---
