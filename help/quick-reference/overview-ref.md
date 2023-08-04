@@ -3,8 +3,9 @@ title: Creative Cloud für Unternehmen - Kurzübersicht
 description: Tutorials, die euch bei der Einführung der Produkte für Enterprise-Creative Cloud unterstützen
 role: User
 level: Beginner, Intermediate
+jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Kurzanleitungen (PDF) helfen Ihnen, neue Funktionen in Creative Cloud zu erlernen.
 
-## Adobe Express (früher Adobe Spark)
+## Adobe Expreß (früher Adobe Spark)
 
 <table>
 <tr>
@@ -70,7 +71,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="ScanShareandReviewPDFswithCreativeCloud.pdf" target="_blank"><strong>Scannen, Freigeben und Überprüfen von PDF mit Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein Papierformular mit Adobe Scan und Document Cloud erfassen, zuschneiden und in eine voll funktionsfähige PDF-Datei konvertieren. Verwenden Sie dann Acrobat, um Ihre Daten auszufüllen, zu signieren und zu teilen</em>
+    <em>Erfahren Sie, wie Sie ein Papierformular mit Adobe Scan und Document Cloud erfassen, zuschneiden und in eine voll funktionsfähige PDF-Datei konvertieren. Verwenden Sie dann Acrobat, um Ihre Daten auszufüllen, zu signieren und zu teilen.</em>
     <br>
   </td>
  <td>
@@ -105,9 +106,9 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Typografie mit Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Unbegrenztes Adobe Fonts-Angebot (PDF)</strong></a>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Unbegrenztes Adobe Fonts-Kontingent mit wenigen Klicks (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] realistisch aussehende Schriften mit Adobe [!DNL Capture] auf Ihrem Mobilgerät verwenden, um ähnliche Schriften mithilfe von Adobe Fonts und Bibliotheken für Creative Cloud zu identifizieren, zu aktivieren und zu speichern</em>
+    <em>[!DNL Capture] realistisch aussehende Schriften mithilfe von Adobe [!DNL Capture] auf Ihrem Mobilgerät verwenden, um ähnliche Schriften mithilfe von Adobe Fonts und Bibliotheken für Creative Cloud zu identifizieren, zu aktivieren und zu speichern</em>
     <br>
   </td>
    <td>
@@ -134,7 +135,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
  <td>
    <a href="Frescoworkshop.pdf" target="_blank">
-      <img alt="Fresco auf dem iPad (und iPhone) ausprobieren" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Fresco auf dem iPad (und iPhone) testen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="Frescoworkshop.pdf" target="_blank"><strong>Fresco auf dem iPad (und iPhone) (PDF)</strong></a>
@@ -171,7 +172,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>Erstellen einer Komposition mit Bildern und Formen mit Illustrator für iPad (PDF)</strong></a>
     </div>
-    <em>Mit Illustrator können Sie Grafiken genauso formatieren wie Ihren Text</em>
+    <em>Mit Illustrator kannst du Elemente ähnlich formatieren wie Text</em>
     <br>
   </td>
    <td>
@@ -238,7 +239,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf" target="_blank"><strong>Grafiken mit Kiefer entfernen mit Photoshop + After Effects (PDF)</strong></a>
     </div>
-    <em>Mit einer in After Effects üblichen Videotechnik können Sie schnell eine Hintergrundfarbe aus einem Foto entfernen und so eine individuelle Fotokomposition für Ihre Design-Projekte erstellen</em>
+    <em>Mit einer in After Effects üblichen Videotechnik können Sie eine Hintergrundfarbe in einem Foto schnell entfernen und so eine einzigartige Fotokomposition für Ihre Design-Projekte erstellen</em>
     <br>
   </td>
 </tr>
@@ -361,7 +362,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Mit Adobe realistische 3D-Mockups erstellen. [!DNL Stock] und [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Kombiniere 3D-Modelle aus Adobe, um zu sehen, wie dein Design realistische Objekte erschafft. [!DNL Stock] mit benutzerdefinierten Aufklebern in [!DNL Dimension]</em>
+    <em>Kombiniere 3D-Modelle aus Adobe, um zu sehen, wie dein Design realistische Objekte erschafft. [!DNL Stock] mit benutzerdefinierten Aufklebern [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -398,7 +399,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf" target="_blank"><strong>Animationen in Echtzeit mit Character Animator erstellen (PDF)</strong></a>
     </div>
-    <em>Mit dem Character Animator eine ausdrucksstarke Animation erstellen.</em>
+    <em>Mit dem Gesicht eine ausdrucksstarke Animation mit Character Animator erstellen</em>
     <br>
   </td>
  <td>
@@ -408,7 +409,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="IntrotoAnimationwithAfterEffects.pdf" target="_blank"><strong>Einführung in die Animation mit After Effects (PDF)</strong></a>
     </div>
-    <em>Mit After Effects eine Komposition aus Grafiken und Text erstellen.</em>
+    <em>Mit After Effects eine Composite-Animation aus Video-, Grafik- und Textmaterial erstellen</em>
     <br>
   </td>
   <td>
@@ -440,7 +441,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank">
-      <img alt="Adobe XD: Erweitertes Voice Prototyping." src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD: Prototyping mit Sprachunterstützung." src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: Erweitertes Voice Prototyping (PDF)</strong></a>
@@ -450,27 +451,27 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
    <td>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank">
-      <img alt="Co-Editing: Design-Zusammenarbeit in Echtzeit mit Adobe XD" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Co-Editing: Designen in Echtzeit mit Adobe XD" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Co-Editing: Design-Zusammenarbeit in Echtzeit mit Adobe XD (PDF)</strong></a>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Co-Editing: Designzusammenarbeit in Echtzeit mit Adobe XD (PDF)</strong></a>
     </div>
     <em>Erfahre, wie du in Adobe XD und Creative Cloud mit Kollegen, Kunden und Entwicklern an einem interaktiven Prototyp arbeitest.</em>
     <br>
   </td>
   <td>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank">
-      <img alt="Interaktive Projekte mit Creative Cloud entwerfen und Prototypen erstellen" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Interaktive Projekte mit Creative Cloud entwerfen und in Prototypen umwandeln" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>Interaktive Projekte mit Creative Cloud entwerfen und Prototypen erstellen (PDF)</strong></a>
     </div>
-    <em>Erstelle in wenigen Minuten eine vollständig interaktive und animierte User Experience. Kombiniere Adobe XD mit einer Vielzahl einzigartiger und vielseitiger Elemente auf Adobe [!DNL Stock]</em>
+    <em>Erstellen Sie in nur wenigen Minuten ein vollständig interaktives und animiertes Anwendererlebnis, indem Sie Adobe XD mit einer Vielzahl einzigartiger und vielseitiger Assets auf Adobe kombinieren [!DNL Stock]</em>
     <br>
   </td>
   <td>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank">
-      <img alt="Let's XD - See How to Design, Prototype, and Handoff to Teams" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Let&apos;s XD - See How to Design, Prototype, and Handoff to Teams" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>Let's XD - See How to Design, Prototype, and Handoff to Teams (PDF)</strong></a>

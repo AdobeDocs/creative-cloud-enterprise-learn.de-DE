@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Dimension]"
 description: "[!DNL Dimension] erleichtert die Erstellung von Branding-Visualisierungen, Illustrationen, Produktmodellen, Verpackungs-Designs und anderen kreativen Arbeiten."
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -52,7 +53,7 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
 Substance-Materialien unterstützen mehrere Tausend Muster- und Design-Varianten in einem einzigen Material.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materialien und Lichteffekten.
+* Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materialien und Lichtern.
 
 **Präsentiert von:**
 Jim Babbage, Senior Solutions Consultant (Digital Media)

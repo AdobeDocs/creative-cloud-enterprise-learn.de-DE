@@ -2,9 +2,10 @@
 title: Illustrator
 description: Gestalte Logos, Icons, Illustrationen und andere Designs für Web, Mobile oder Print.
 role: User
+feature: Vector Editing
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Das moderne Programm für Illustrationen und Grafiken. Gestalte Logos, Icons, Il
     <div>
    <a href="illustrator.md#tutorial1"><strong>Verwenden von Symbolen zum Aktualisieren mehrerer Symbolinstanzen</strong></a>
     </div>
-    <em>Weniger manuelle Arbeit - Symbole sorgen für Konsistenz.</em>
+    <em>Manuelle Eingriffe reduzieren und Konsistenz mit Symbolen gewährleisten</em>
     <br>
   </td>
   <td>
@@ -57,7 +58,7 @@ Das moderne Programm für Illustrationen und Grafiken. Gestalte Logos, Icons, Il
 Reduziere den manuellen Aufwand, und sorge für Konsistenz mit Symbolen.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Weniger manuelle Arbeit - Symbole sorgen für Konsistenz.
+* Manuelle Eingriffe reduzieren und Konsistenz mit Symbolen gewährleisten
 
 **Präsentiert von:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

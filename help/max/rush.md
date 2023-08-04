@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für die Videobearbeitung, mit der sich Online-Inhalte einfacher als je zuvor erstellen und teilen lassen
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -23,12 +24,12 @@ Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für
 <tr>
  <td>
    <a href="rush.md#tutorial1">
-      <img alt="Ein Social-Media-Video erstellen." src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
+      <img alt="Video für Social Media erstellen" src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
    </a>
     <div>
-   <a href="rush.md#tutorial1"><strong>Ein Social-Media-Video erstellen.</strong></a>
+   <a href="rush.md#tutorial1"><strong>Video für Social Media erstellen</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] ermöglicht die Arbeit auf jedem Gerät und macht professionellen Output für Einsteiger einfach genug</em>
+    <em>Adobe [!DNL Rush] ermöglicht die Arbeit auf jedem Gerät und macht professionelle Ausgaben für Einsteiger einfach genug.</em>
     <br>
   </td>
   <td>
@@ -55,7 +56,7 @@ In diesem Tutorial lernen Sie Folgendes:
 * Videos auf dem Desktop, Tablet oder Smartphone bearbeiten
 * Motivzentrierung auf horizontale, quadratische und vertikale Formfaktoren mit KI-Technologie von Auto Reframe
 * Motion Graphic Templates (MoGRTs) ermöglichen professionelle Aufnahmen und sind leicht anpassbar - auch für Titel und Bauchbinden
-* Einfaches Exportieren und Veröffentlichen direkt in Social-Media-Kanälen
+* Einfaches Exportieren und Veröffentlichen direkt in Social Media-Kanälen
 * Öffnen [!DNL Rush] Projekte in Adobe Premiere Pro
 
 **Präsentiert von:**

@@ -1,10 +1,11 @@
 ---
 title: AEM Assets und Asset Link
 description: Eine Liste AEM Elemente und Links
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
@@ -58,7 +59,7 @@ Aktualisiert Assets in Echtzeit, die mit Asset Link in AEM gespeichert sind.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Über ein eigenes Bedienfeld, in dem Sie Elemente in Ihren Design-Programmen suchen und durchsuchen können, finden Sie genau das, was Sie brauchen
-* Elemente direkt aus Design-Programmen hochladen
+* Einfaches Hochladen von Elementen aus Design-Programmen
 * Checkt Assets aus dem DAM aus und checkt sie in euer Design-Programm ein, um in Echtzeit Aktualisierungen vorzunehmen
 
 **Präsentiert von:**
@@ -118,7 +119,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **Ressourcen zu Asset Link und AEM**
 
-[Training und Support](https://helpx.adobe.com/support/experience-manager.html) ist die Anlaufstelle für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/experience-manager.html) Hier findest du weitere Tutorials, neue Funktionen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

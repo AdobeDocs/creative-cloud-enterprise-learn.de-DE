@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 - The Enterprise Sessions
-description: Informationen zu den Demo-Assets
+description: Informationen zu den Demo-Elementen
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
@@ -23,9 +24,9 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
 
 **Beschreibung**
 
-Verbringen Ihre kreativen Mitarbeiter zu viel Zeit mit manuellen, routinemäßigen Arbeiten? Helfen Sie Ihrem Unternehmen, Kreativprofis optimal zu nutzen. Enterprise-Systeme wie AEM und InDesign Server bieten Kreativ- und Produktionspersonal die Möglichkeit, Inhalte schnell in die Hände der Zielgruppe zu legen.
+Verbringen Ihre kreativen Mitarbeiter zu viel Zeit mit manuellen, routinemäßigen Arbeiten? Helfen Sie Ihrem Unternehmen, das Beste aus Kreativprofis herauszuholen. Enterprise-Systeme wie AEM und InDesign Server bieten Kreativ- und Produktionspersonal die Möglichkeit, Inhalte schnell in die Hände der Zielgruppe zu legen.
 
-In dieser aufgezeichneten Live-Sitzung werden Beispiele für vorlagenbasierte Workflows angezeigt:
+In dieser aufgezeichneten Live-Sitzung werden Beispiele für vorlagenbasierte Arbeitsabläufe in folgenden Fenstern angezeigt:
 * Adobe Experience Manager (AEM) Assets ist eine DAM-Lösung (Digital Asset Management), die mit Adobe Creative Cloud integriert werden kann, um DAM-Anwendern die Zusammenarbeit mit Kreativteams zu erleichtern und die Zusammenarbeit bei der Content-Erstellung zu optimieren
 * Adobe InDesign Server ist eine Layout- und Kompositions-Engine, die Lösungen für automatisiertes Publishing unterstützt, indem sie in andere Systeme integriert werden
 
@@ -41,7 +42,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solu
 
 Das WFH hat Herausforderungen mit sich gebracht, aber es hat auch Kreative und ihre Unternehmen dazu gezwungen, mit neuen Tools und neuen Möglichkeiten zu experimentieren, um kreativ zu werden. Erkunde vertraute Werkzeuge wie Illustrator und Photoshop in den neuen iPad-Versionen. Zeichne mit Fresco auf Tablets (iPad, Microsoft Surface) und jetzt auf iPhone!
 
-Themen:
+In dieser aufgezeichneten Live-Sitzung lernen Sie Folgendes:
 * In Fresco mit verschiedenen Pinsel- und Schattierungstechniken handgezeichnete Kampagnengrafiken erstellen
 * Erstellen und Freigeben von Symbolen in unruhigen Bereichen in Illustrator auf dem iPad entsprechend dem Branding
 * Unterwegs mit Photoshop auf dem iPad Grafiken aus Fresco und Illustrator zusammenstellen, um Inhalte für Social-Media-Kanäle zu erstellen
@@ -66,9 +67,9 @@ In diesem Tutorial lernen Sie Folgendes:
 
 Ashley Dvorin, Senior Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
 
-## Informationen zu den Demo Assets: LOKAL
+## Informationen zu den Demo Assets: LOCAL
 
-Das Team hat sich an die Erstellung der Demo-Assets gewandt, wie es ein Unternehmen könnte. Wir haben uns eine Kampagne vorgestellt und Stockmedien für verschiedene Kanäle erstellt. Wir haben auch eine CC-Bibliothek mit Markenelementen erstellt, um Zusammenarbeit und Konsistenz zu unterstützen.
+Das Team hat sich an die Erstellung der Demo-Assets gewandt, wie es ein Unternehmen tun könnte. Wir haben uns eine Kampagne vorgestellt und Kreativelemente für verschiedene Kanäle erstellt. Wir haben auch eine CC-Bibliothek mit Markenelementen erstellt, um Zusammenarbeit und Konsistenz zu unterstützen.
 
 Als Reaktion auf COVID-19 hat LOCAL, ein Unternehmen, das Live-Veranstaltungen veranstaltet, die lustige, verrückte Ferien feiern, sich auf Online-Zusammenkünfte verlegt und arbeitet mit kleinen, lokalen Food-Trucks und Restaurants zusammen, um seine Unternehmen zu fördern und ihnen zu helfen, offen zu bleiben.
 

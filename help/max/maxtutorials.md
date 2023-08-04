@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 Tutorials
 description: Anhand dieser Tutorials können Sie sich mit den neuen Funktionen in der Version 2021 von Creative Cloud vertraut machen - aus der Sicht des Unternehmens.
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 25%
@@ -70,7 +71,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop.</em>
+    <em>Bearbeitet und kombiniert Bilder und Grafiken auf dem Desktop.</em>
     <br>
   </td>
   <td>
@@ -108,7 +109,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
 </tr>
 </table>
 
-### Tutorials per Mobile App
+### Tutorials per Mobile App.
 
 <table style="table-layout:fixed">
 <tr>
@@ -242,7 +243,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="handsonproject.md"><strong>Erstellen einer eigenen Gesichtsmaske</strong></a>
     </div>
-    <em>Mit dem Plug-in "Adobe Design to Print" kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen</em>
+    <em>Mit dem Plug-in "Adobe Design to Print" kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen.</em>
     <br>
   </td>
   <td>

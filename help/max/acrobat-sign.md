@@ -1,17 +1,18 @@
 ---
-title: Acrobat & Sign
+title: Acrobat & Sign.
 description: Eine Liste der Tutorials zu Acrobat und Adobe Sign
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
 
 ---
 
-# Acrobat &amp; Sign
+# Acrobat &amp; Sign.
 
 ![Tutorial Hero Image](../assets/DC.jpg)
 
@@ -28,15 +29,15 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>Initiieren einer gemeinsamen Acrobat-Überprüfung</strong></a>
     </div>
-    <em>Lade Prüfer ein, ihr PDF-Dokument mit Kommentaren zu versehen.</em>
+    <em>Reviewer einladen, einem PDF-Dokument Kommentare hinzuzufügen</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Forms mit Adobe Sign erstellen und online verzichten" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
+        <img alt="Forms mit Adobe Sign erstellen und auf Online-Services verzichten" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Forms mit Adobe Sign erstellen und online verzichten</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Forms mit Adobe Sign erstellen und auf Online-Services verzichten</strong></a>
     </div>
     <em>Wandelt Dokumente in Online-Formulare um, und stellt sie online bereit, damit jeder, der sie braucht, sie ausfüllen und unterschreiben kann.</em>
     <br>
@@ -48,7 +49,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Signatur mit Adobe Sign anfordern</strong></a>
     </div>
-    <em>Word in PDF umwandeln und mit Adobe Sign zum Unterschreiben versenden</em>
+    <em>Word in PDF umwandeln und mit Adobe Sign Dokumente zum Unterschreiben versenden</em>
     <br>
   </td>
 </tr>
@@ -91,7 +92,7 @@ Lade Prüfer ein, ihr PDF-Dokument mit Kommentaren zu versehen.
 In diesem Tutorial lernen Sie Folgendes:
 * PDF-Kommentare im Document Cloud hosten
 * Kommentare an zentraler Stelle zusammenführen
-* Gleichzeitiges Kommentieren fördert die Zusammenarbeit.
+* Gleichzeitiges Kommentieren fördert die Zusammenarbeit
 
 **Adobe Review and Comment Options Comparison PDF**
 
@@ -120,10 +121,10 @@ Taylor Kobey, Solutions Consultant (Digitale Medien) Emily Palmer, Solutions Con
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Beschreibung**
-Von Word auf PDF umsteigen und Dokumente mit Adobe Sign zur Unterzeichnung versenden
+Von Word auf PDF umsteigen und Dokumente mit Adobe Sign zur Unterzeichnung versenden.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Versendet Dokumente zur Unterzeichnung
+* Versendet Dokumente zur Unterzeichnung - mit den Tools, die ihr täglich nutzt
 
 **Präsentiert von:**
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)

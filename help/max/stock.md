@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] bietet Kreativ-Teams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Stock.jpg)
 
-Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] bietet Creative Cloud für Unternehmen Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt in den Adobe-Programmen, die sie jeden Tag verwenden.
+Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] bietet Creative Cloud für Unternehmen Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt aus den Adobe-Programmen heraus, die sie jeden Tag verwenden.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -59,23 +60,23 @@ Mit Adobe Sensei, unserer Engine für künstliche Intelligenz, findet ihr passen
 In diesem Tutorial lernen Sie Folgendes:
 * Nimm dir die Zeit und den Stress aus der Suche nach hochwertigen Bildern und Videos
 * Einfaches Management und Tracking von Elementlizenzen und -nutzung im gesamten Unternehmen
-* Direkt in Adobe Creative Cloud-Programmen suchen, testen und lizenzieren
+* Adobe Creative Cloud-Programme durchsuchen, testen und lizenzieren
 
 **Präsentiert von:**
 
-Victoria Torres [!DNL Stock] Lösungsberater (Digital Media)
+Victoria Torres, [!DNL Stock] Lösungsberater (Digital Media)
 
 ## Suchen und Lizenzieren [!DNL Stock] Elemente in AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Beschreibung**
-Vereinfachen Sie den Vorgang des Hochladens Ihrer lizenzierten Adobe [!DNL Stock] Assets in Ihr Digital Asset Management-System importieren.
+Vereinfachen Sie den Vorgang des Hochladens Ihrer lizenzierten Adobe [!DNL Stock] Assets in Ihr Digital Asset Management-System integrieren.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Adobe ausführen [!DNL Stock] Asset-Suche ohne AEM Arbeitsbereich zu verlassen
 * Lizenzierte Stockmedien zum Zeitpunkt der Lizenzierung direkt in einem AEM Ordner speichern
-* Von AEM in Ihrem [!DNL Stock] Lizenzverlauf auf der [!DNL Stock] Website.
+* Stockmedien anzeigen, die von AEM in Ihrem [!DNL Stock] Lizenzverlauf auf der [!DNL Stock] Website.
 
 **Präsentiert von:**
 Emily Palmer, Lösungsberaterin (Digitale Medien)

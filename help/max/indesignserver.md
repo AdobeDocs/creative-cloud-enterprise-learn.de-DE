@@ -1,12 +1,13 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® Server-Software bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, sodass Sie ansprechende automatisierte Dokumente programmatisch erstellen können.
+description: Adobe Adobe&reg; InDesign&reg; Server-Software bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, um die programmgesteuerte Erstellung ansprechender automatisierter Dokumente zu ermöglichen
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ Datengestütztes Design lässt sich programmatisch mit InDesign Server realisier
 In diesem Tutorial lernen Sie Folgendes:
 * Erstellen von InDesign-Vorlagen mit vorformatiertem Text oder vorformatierten Objektstilen
 * Einbindung von externem, datengestütztem Content für schnellere Personalisierung von Content.
-* Generieren Sie spontane PDF oder tippen Sie auf andere AEM Ausgabeformate Ihres Layouts
+* Generieren von Spot-on-PDF oder Verknüpfen mit anderen AEM Ausgabeformaten Ihres Layouts
 
 **Präsentiert von:**
 Eric Rowse, Senior Solutions Consultant (Digital Media)
@@ -70,7 +71,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Auswahlhilfe</strong></a>
     </div>
-    <em>Verfügbare Ressourcen für interne Entwickler oder Partner</em>
+    <em>Ressourcen für interne Entwickler oder Partner</em>
     <br>
   </td>
   <td>
@@ -80,7 +81,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Unsere Partner.</strong></a>
     </div>
-    <em>Sie verfügen über das Know-how, um intern Entwicklungen durchzuführen, und Adobe empfiehlt, mit Partnern zusammenzuarbeiten, um die Lösung zu finden, die Ihren Anforderungen entspricht</em>
+    <em>Sie verfügen über das Know-how, um intern Entwicklungen durchzuführen, und Adobe empfiehlt, mit Partnern zusammenzuarbeiten, um die Lösung zu finden, die Ihren Anforderungen entspricht.</em>
     <br>
   </td>
   <td>
@@ -95,7 +96,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **InDesign Server-Ressourcen**
 
-[Training und Support](https://www.adobe.com/products/indesignserver.html) ist die Anlaufstelle für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
+[Training und Support](https://www.adobe.com/products/indesignserver.html) Hier findest du weitere Tutorials, neue Funktionen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

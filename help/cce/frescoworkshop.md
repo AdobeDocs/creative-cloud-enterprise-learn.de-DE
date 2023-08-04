@@ -1,21 +1,22 @@
 ---
-title: Fresco auf dem iPad (und iPhone) ausprobieren
+title: Fresco auf dem iPad (und iPhone) testen
 description: Entdecke eine neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco in diesem 15-minütigen, praktischen Workshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
-kt: 8039
+jira: KT-8039
 thumbnail: KT-8039.jpg
 exl-id: 575a18f7-7927-42e7-bd0b-58994536a9f7
-source-git-commit: a3fa682d11269ca94ca5b7d9a5a00178722d3cce
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Fresco auf dem iPad (und iPhone) ausprobieren
+# Fresco auf dem iPad (und iPhone) testen
 
-Entdecke eine neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco in diesem 15-minütigen, praktischen Workshop. Erfahren Sie, wie Sie mit Ebenen und Schnittmasken arbeiten, um Farbe und Strukturen an eine Grundform anzupassen. Folge dem Designer und Entwickler Chris Converse, um mit Fresco und Adobe Stock eine Stilllebenillustration teilweise neu zu gestalten.
+Entdecke in diesem 15-minütigen, praxisorientierten Workshop eine neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco. Erfahren Sie, wie Sie mit Ebenen und Schnittmasken arbeiten können, um Farbe und Strukturen an eine Grundform anzupassen. Folge dem Designer und Entwickler Chris Converse, um mit Fresco und Adobe Stock eine Stilllebenillustration teilweise neu zu gestalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 

@@ -1,10 +1,11 @@
 ---
 title: XD
 description: Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice UI oder Spiele
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -33,10 +34,10 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Erstellen und Auffüllen von Wiederholungsrastern" src="../assets/XD_repeatgrid_thumbnail.jpg" />
+        <img alt="Wiederholungsraster erstellen und füllen" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Erstellen und Auffüllen von Wiederholungsrastern</strong></a>
+    <a href="xd.md#tutorial2"><strong>Wiederholungsraster erstellen und füllen</strong></a>
     </div>
     <em>Ein einzelnes Element lässt sich durch Klicken und Ziehen in ein Wiederholungsraster umwandeln.</em>
     <br>
@@ -48,17 +49,17 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <div>
     <a href="xd.md#tutorial3"><strong>Arbeiten mit Stapeln</strong></a>
     </div>
-    <em>Verwenden der Stack-Eigenschaft zum einfachen Anordnen von Elementen</em>
+    <em>Verwenden Sie die Stack-Eigenschaft, um Elemente einfach neu anzuordnen</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Prototyp erstellen - Ankerlinks und Bildlaufgruppen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Erstellen eines Prototyps - Ankerlinks und Bildlaufgruppen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Prototyp erstellen - Ankerlinks und Bildlaufgruppen</strong></a>
+    <a href="xd.md#tutorial4"><strong>Erstellen eines Prototyps - Ankerlinks und Bildlaufgruppen</strong></a>
     </div>
     <em>Hinzufügen von Navigation und Bildlauf zu einem Prototyp</em>
     <br>
@@ -92,7 +93,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <div>
     <a href="xd.md#tutorial7"><strong>E-Mail - Arbeiten mit Stapeln</strong></a>
     </div>
-    <em>Verwenden der Stack-Eigenschaft zum einfachen Anordnen von Elementen</em>
+    <em>Verwenden Sie die Stack-Eigenschaft, um Elemente einfach neu anzuordnen</em>
     <br>
   </td>
   <td>
@@ -108,7 +109,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
 </tr>
 </table>
 
-## Erstellen [!UICONTROL Komponenten] mit Hover-Status (7:35) {#tutorial1}
+## Erstellen [!UICONTROL Komponenten] mit Hover-Zuständen (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
@@ -117,7 +118,7 @@ Erstelle wiederverwendbare Buttons mit dynamischer Skalierung für deine interak
 
 In diesem Tutorial lernen Sie Folgendes:
 * Änderungen an einer Quellhauptkomponente vornehmen und diese Änderungen werden automatisch an alle Instanzen dieser Komponente übertragen
-* Komponenten für Konsistenz, Zeitersparnis und weniger Mausklicks verwenden
+* Komponenten für Konsistenz, Zeitersparnis und weniger Mausklicks einsetzen
 
 **Präsentiert von:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
@@ -127,7 +128,7 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
 **Beschreibung**
-Verwandle ein einzelnes Element per Klicken und Ziehen in ein Wiederholungsraster.
+Wandle ein einzelnes Element in ein Wiederholungsraster um. Einfach klicken und ziehen.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Ziehe ein Raster in einer beliebigen Größe auf. Sofort verfügbar.
@@ -185,7 +186,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
 **Beschreibung**
-Verwandle ein einzelnes Element per Klicken und Ziehen in ein Wiederholungsraster.
+Wandle ein einzelnes Element in ein Wiederholungsraster um. Einfach klicken und ziehen.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Ziehe ein Raster in einer beliebigen Größe auf. Sofort verfügbar.

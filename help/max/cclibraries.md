@@ -1,10 +1,11 @@
 ---
 title: CC-Bibliotheken
 description: 'Deine Design-Elemente: überall abrufbar, immer konsistent.'
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
@@ -72,7 +73,7 @@ Bei Team-Projekten unterstützen euch die Bibliotheken dabei, effizient zu arbei
 
 In diesem Tutorial lernen Sie Folgendes:
 * Deine Design-Elemente: überall abrufbar, immer konsistent.
-* Einfache Zusammenarbeit an Projekten direkt aus Ihren bevorzugten Programmen
+* Einfache Zusammenarbeit an Projekten direkt aus Ihren bevorzugten Apps
 
 **Präsentiert von:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
@@ -81,7 +82,7 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **Ressourcen zu CC-Bibliotheken**
 
-[Training und Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) ist die Anlaufstelle für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) Hier findest du weitere Tutorials, neue Funktionen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

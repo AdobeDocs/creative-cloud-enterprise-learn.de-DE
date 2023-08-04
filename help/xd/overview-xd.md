@@ -1,10 +1,12 @@
 ---
 title: Tutorials zu Adobe XD
-description: Tutorials für den Einstieg in Adobe XD
+description: Tutorials, die dir helfen, dich mit Adobe XD vertraut zu machen
+feature: UI Design
 role: User
 level: Beginner, Intermediate
+jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -41,10 +43,10 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
   </td>
   <td>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank">
-      <img alt="E-Commerce-Fotos mit XD und Adobe zoomen [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
+      <img alt="E-Commerce-Fotos mit XD und Adobe zoomen. [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>E-Commerce-Fotos mit XD und Adobe zoomen [!DNL Stock] (PDF)</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>E-Commerce-Fotos mit XD und Adobe zoomen. [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Durch die Kombination von Fotos in hoher Auflösung mit der Auto-Animate-Funktion von Adobe XD können Sie ansprechendere Erlebnisse für Ihre Website gestalten</em>
     <br>
@@ -93,7 +95,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
   </td>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
-      <img alt="Entwerfen einer mobilen Web-Erfahrung mit XD" src="assets/MobileWebExperienceswithXD.jpg" />
+      <img alt="Gestalten einer mobilen Web-Erfahrung mit XD" src="assets/MobileWebExperienceswithXD.jpg" />
    </a>
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Gestalten einer mobilen Web-Erfahrung mit XD (PDF)</strong></a>
@@ -130,7 +132,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <div>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Hinter den Kulissen des MAX Madness mit Adobe XD (PDF)</strong></a>
     </div>
-    <em>Die Bereitstellung eines optimierten mobilen Web-Erlebnisses kann bei Ihren Benutzern großen Anklang finden</em>
+    <em>Die Bereitstellung eines optimierten mobilen Web-Erlebnisses kann bei Ihren Benutzern großen Anklang finden.</em>
     <br>
   </td>
   <td>

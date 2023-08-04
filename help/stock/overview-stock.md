@@ -1,21 +1,22 @@
 ---
-title: Adobe [!DNL Stock] Tutorials
+title: Adobe [!DNL Stock] Übungen
 description: Tutorials, die dir helfen, dich mit der Adobe vertraut zu machen [!DNL Stock]
 role: User
 level: Beginner, Intermediate
+jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Stock] Tutorials
+# Adobe [!DNL Stock] Übungen
 
 ![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustellen. Über Adobe Stock können Kreativteams auf über 300 Millionen lizenzfreie Bilder, Videos, Audiodateien, Vorlagen, Illustrationen und 3D-Stockmedien zugreifen, die sie täglich in ihren Creative Cloud-Programmen verwenden. Unbegrenzter Zugriff auf Adobe Stock Standard-Stockmedien mit der Creative Cloud Pro-Edition. Entdecke die neuesten Sammlungen auf stock.adobe.com. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
+Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustellen. Über Adobe Stock können Kreativteams auf über 300 Millionen lizenzfreie Bilder, Videos, Audiodateien, Vorlagen, Illustrationen und 3D-Stockmedien zugreifen, die sie Tag für Tag in ihren Creative Cloud-Programmen verwenden. Unbegrenzter Zugriff auf Adobe Stock-Standard-Stockmedien mit der Creative Cloud Pro-Edition. Entdecken Sie die neuesten Sammlungen unter stock.adobe.com. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
 
 <table>
 <tr>
@@ -26,7 +27,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="stunning-digital-assets.md"><strong>Beeindruckende digitale Assets (PDF)</strong></a>
       </div>
-      <em>In diesem praktischen Tutorial erfährst du, wie du Adobe Stock mit Creative Cloud Libraries integrierst, um konsistente und professionelle Designergebnisse für Druck und Leinwand zu erzielen</em>
+      <em>In diesem praktischen Tutorial erfährst du, wie du Adobe Stock mit Creative Cloud Libraries integrierst, um konsistente und professionelle Designergebnisse für Druck und Leinwand zu erzielen.</em>
       <br>
   </td>
   <td>
@@ -36,15 +37,15 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="searchstock.md"><strong>Adobe suchen [!DNL Stock] Lizenzierungsverlauf</strong></a>
       </div>
-      <em>Erfahren Sie, wie Sie die Adobe Ihres Unternehmens schnell durchsuchen können [!DNL Stock] Lizenzierungsverlauf im Creative Cloud für Unternehmen</em>
+      <em>Erfahren Sie, wie Sie die Adobe Ihres Unternehmens schnell durchsuchen können. [!DNL Stock] Lizenzierungsverlauf im Creative Cloud für Unternehmen</em>
       <br>
   </td>
   <td>
       <a href="handdrawn.md">
-         <img alt="Handgezeichnete Skizze einer Adobe hinzufügen. [!DNL Stock] images" src="assets/handdrawn.jpg" />
+         <img alt="Handgezeichnete Skizze zu einer Adobe hinzufügen. [!DNL Stock] images" src="assets/handdrawn.jpg" />
       </a>
       <div>
-      <a href="handdrawn.md"><strong>Handgezeichnete Skizze einer Adobe hinzufügen. [!DNL Stock] images</strong></a>
+      <a href="handdrawn.md"><strong>Handgezeichnete Skizze zu einer Adobe hinzufügen. [!DNL Stock] images</strong></a>
       </div>
       <em>Optimiert euer Kreativ-Marketing mit innovativen Techniken, die euren Fotos mit Photoshop für iPad mehr Tiefe und Dimension verleihen.</em>
       <br>
@@ -73,10 +74,10 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
   </td>
  <td>
       <a href="annualreport.md">
-         <img alt="Den Jahresbericht mit einem Video beginnen, das mit Adobe erstellt wurde [!DNL Stock] und Spark Video" src="assets/annualreport.jpg" />
+         <img alt="Einen Jahresbericht erstellen, der mit Adobe erstellt wurde [!DNL Stock] und Spark Video" src="assets/annualreport.jpg" />
       </a>
       <div>
-      <a href="annualreport.md"><strong>Den Jahresbericht mit einem Video beginnen, das mit Adobe erstellt wurde [!DNL Stock] und Spark Video</strong></a>
+      <a href="annualreport.md"><strong>Einen Jahresbericht erstellen, der mit Adobe erstellt wurde [!DNL Stock] und Spark Video</strong></a>
       </div>
       <em>Mit Adobe einen Geschäftsbericht erstellen. [!DNL Stock] und Spark Video</em>
       <br>
@@ -88,7 +89,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="customanimations.md"><strong>Mit Adobe eigene Animationen gestalten. [!DNL Stock]</strong></a>
       </div>
-      <em>Adobe verwenden [!DNL Stock] Bilder, Strukturen, Muster zu benutzerdefinierten Animationen in Photoshop</em>
+      <em>Adobe verwenden [!DNL Stock] Bilder, Texturen, Muster zu benutzerdefinierten Animationen in Photoshop</em>
       <br>
   </td>
   <td>
@@ -98,7 +99,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="changecolors.md"><strong>Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen</strong></a>
       </div>
-      <em>Ein Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an</em>
+      <em>Ein individuelles Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an</em>
       <br>
   </td>
 </tr>
@@ -120,7 +121,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="boldlabel.md"><strong>Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte</strong></a>
       </div>
-      <em>Gestalte und visualisiere deine Designs mit realistischen Verpackungsvorlagen von Adobe [!DNL Stock]</em>
+      <em>Mit realistischen Verpackungsvorlagen von Adobe eigene Designs gestalten und visualisieren [!DNL Stock]</em>
       <br>
   </td>
   <td>
@@ -130,7 +131,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="infographic.md"><strong>Infografik zu Unternehmensrichtlinien mit Adobe erstellen [!DNL Stock]</strong></a>
       </div>
-      <em>Verschiedene Elemente aus einer Adobe kombinieren. [!DNL Stock] Richtlinien in Form von Infografiken kommunizieren</em>
+      <em>Verschiedene Elemente aus einer Adobe kombinieren. [!DNL Stock] Leitlinien in Form von visuell überzeugenden Infografiken kommunizieren</em>
       <br>
   </td>
  <td>
@@ -231,12 +232,12 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
 <tr>
    <td>
       <a href="realisticcomposite.md">
-         <img alt="Realistische Foto-Composites mit Adobe erstellen. [!DNL Stock] images" src="assets/realisticcomposite.jpg" />
+         <img alt="Mit Adobe realistische Foto-Composites erstellen. [!DNL Stock] images" src="assets/realisticcomposite.jpg" />
       </a>
       <div>
-      <a href="realisticcomposite.md"><strong>Realistische Foto-Composites mit Adobe erstellen. [!DNL Stock] images</strong></a>
+      <a href="realisticcomposite.md"><strong>Mit Adobe realistische Foto-Composites erstellen. [!DNL Stock] images</strong></a>
       </div>
-      <em>Zwei großartige Adoben kombinieren. [!DNL Stock] Social-Media-Posts mit Personen gestalten</em>
+      <em>Zwei großartige Adoben kombinieren. [!DNL Stock] Personen in Social-Media-Posts einbinden</em>
       <br>
   </td>
    <td>
@@ -251,12 +252,12 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
   </td>
   <td>
    <a href="presentationtemplate.md">
-      <img alt="Anpassen einer Adobe [!DNL Stock] Professionelle, aber dennoch ansprechende Präsentationsvorlage" src="assets/presentationtemplate.jpg" />
+      <img alt="Adobe anpassen [!DNL Stock] Professionelle, aber dennoch ansprechende Präsentationsvorlage" src="assets/presentationtemplate.jpg" />
    </a>
     <div>
-   <a href="presentationtemplate.md"><strong>Anpassen einer Adobe [!DNL Stock] Professionelle, aber dennoch ansprechende Präsentationsvorlage</strong></a>
+   <a href="presentationtemplate.md"><strong>Adobe anpassen [!DNL Stock] Professionelle, aber dennoch ansprechende Präsentationsvorlage</strong></a>
     </div>
-    <em>Gestalte mit Bildern und Templates von Adobe in Minuten eine professionelle Präsentation. [!DNL Stock] und einige leicht zu bedienende Spezialeffekte</em>
+    <em>Gestalte mit Bildern und Templates von Adobe in Minuten eine professionelle Präsentation. [!DNL Stock] und ein paar leicht zu bedienende Spezialeffekte</em>
     <br>
   </td>
    <td>
@@ -315,10 +316,10 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
 <tr>
   <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
-         <img alt="Mit Photoshop CC und Adobe ein Halloween-Cinemagramm erstellen. [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
+         <img alt="Mit Photoshop CC und Adobe ein Halloween-Cinemagramm erstellen [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
       <div>
-      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Mit Photoshop CC und Adobe ein Halloween-Cinemagramm erstellen. [!DNL Stock] (PDF)</strong></a>
+      <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank"><strong>Mit Photoshop CC und Adobe ein Halloween-Cinemagramm erstellen [!DNL Stock] (PDF)</strong></a>
       </div>
       <em>Mit Adobe Photoshop ein Cinemagramm erstellen.</em>
       <br>
@@ -338,7 +339,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
          <img alt="Adobe neu färben [!DNL Stock] Vektorgrafiken mit Adobe Illustrator für den perfekten Look" src="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.jpg" />
       </a>
       <div>
-      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Adobe neu färben [!DNL Stock] Vektorgrafiken mit Adobe Illustrator für den gewünschten Look (PDF)</strong></a>
+      <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Adobe neu färben [!DNL Stock] Vektorgrafiken mit Adobe Illustrator, um genau den Look zu erzielen, den Sie möchten (PDF)</strong></a>
       </div>
       <em>Adobe [!DNL Stock] findest du leicht einzigartige Vektorgrafiken. Mit Adobe Illustrator kannst du sie schnell an deine Vorstellungen anpassen.</em>
       <br>

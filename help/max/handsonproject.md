@@ -1,10 +1,11 @@
 ---
 title: Design to Print Plug-in - Anpassen einer Gesichtsmaske
 description: Praktisches Projekt zum Anpassen einer Gesichtsmaske
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
 
-Wäre es nicht cool, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpassen könntest? Mit dem Plug-in &quot;Adobe Design to Print&quot; kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen.
+Wäre es nicht toll, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpassen könntest? Mit dem Plug-in &quot;Adobe Design to Print&quot; kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen.
 
 ## Tutorials für Facemask-Projekte durchsuchen
 
@@ -28,7 +29,7 @@ Wäre es nicht cool, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpass
     <div>
    <a href="handsonproject.md#tutorial1"><strong>Photoshop Design to Print-Plug-in installieren</strong></a>
     </div>
-    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
+    <em>Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Photoshop kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.</em>
     <br>
   </td>
   <td>
@@ -63,12 +64,12 @@ Hier erfahren Sie, wie Sie das Plug-in &quot;Design to Print&quot; für Photosho
 
 In diesem Tutorial lernen Sie Folgendes:
 * Visualisiere deine Designs für Produkte wie Bekleidung, Accessoires, Briefpapier und Wanddekoration in Echtzeit.
-* Veröffentlichung auf dem Online-Marktplatz von Dazzle
+* Veröffentlichung auf dem Online-Marktplatz von Adobe.
 
 **Präsentiert von:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
-## Anpassen einer Gesichtsmaske mit &quot;Design to Print&quot; (7:54) {#tutorial2}
+## Anpassen einer Gesichtsmaske mit &quot;Drucken&quot; (7:54) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
@@ -77,7 +78,7 @@ Anpassen Ihrer eigenen Azzle Gesichtsmaske
 
 In diesem Tutorial lernen Sie Folgendes:
 * Visualisiere deine Designs für Produkte wie Bekleidung, Accessoires, Briefpapier und Wanddekoration in Echtzeit.
-* Veröffentlichung auf dem Online-Marktplatz von Dazzle
+* Veröffentlichung auf dem Online-Marktplatz von Adobe.
 
 **Klicken Sie auf Bild , um die PDF &quot;Design to Print erlernen&quot; herunterzuladen.**
 

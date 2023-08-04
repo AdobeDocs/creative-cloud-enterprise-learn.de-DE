@@ -1,10 +1,11 @@
 ---
 title: Photoshop auf dem iPad
 description: Setze jede kreative Idee um - egal wo du gerade bist. Mit Photoshop auf dem iPad
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 2%
@@ -15,7 +16,7 @@ ht-degree: 2%
 
 ![Tutorial Hero Image](../assets/PSoniPad.jpg)
 
-Photoshop ist die führende Software für Bildbearbeitung und Grafik-Design. Damit können Profis auf allen Geräten Lasse deiner Kreativität freien Lauf. Egal wo du inspiriert wirst. Photoshop hat alles, was du brauchst - setze jede Idee um.
+Photoshop ist die weltweit führende Software für Bildbearbeitung und Grafik-Design. Sie bietet Profis auf allen Geräten uneingeschränkte kreative Freiheit. Lasse deiner Kreativität freien Lauf. Egal wo du inspiriert wirst. Photoshop hat alles, was du brauchst - setze jede Idee um.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -52,15 +53,15 @@ Photoshop ist die führende Software für Bildbearbeitung und Grafik-Design. Dam
 In einer Einführung lernst du die Funktionen von Photoshop kennen, die speziell für die Verwendung auf dem Apple iPad entwickelt wurden.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Greife über die
-* Präzise Bearbeitung auf Mobilgeräten ohne Qualitätsverlust.
-* Immersive und natürliche Erlebnisse
+* Greifen Sie auf Ihre bevorzugten Photoshop Tools im
+* Präzise Bearbeitung auf dem Smartphone oder Tablet ohne Qualitätsverlust.
+* Immersive und natürliche Erlebnisse.
 * Nahtloser Workflow mit Cloud-Dokumenten
 
 **Präsentiert von:**
 Dan Armstrong, Lösungsberater (Digitale Medien)
 
-![Photoshop auf dem iPad](../assets/ps_appicon_96.png)
+![Logo von Photoshop auf dem iPad](../assets/ps_appicon_96.png)
 
 **Ressourcen zu Photoshop auf dem iPad**
 

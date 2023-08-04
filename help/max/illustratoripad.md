@@ -1,10 +1,11 @@
 ---
 title: Illustrator auf dem iPad
 description: Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch-Geräte, das Apple Pencil und iPad neu erdacht wurde
+feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -49,7 +50,7 @@ Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch-Ger
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **Beschreibung**
-Mit dieser kurzen Übersicht über Illustrator für iPad können Sie schnell loslegen, um ein Symbol für einen Problemort zu erstellen und ein Muster zu erstellen, das Sie auf Ihre [!DNL Dimension] und Zazzle-Projekt!
+Mit dieser kurzen Übersicht über Illustrator für iPad können Sie schnell loslegen, um ein Symbol für einen Problemort zu erstellen und es in ein Muster umzuwandeln, das Sie auf Ihr [!DNL Dimension] und Zazzle-Projekt!
 
 In diesem Tutorial lernen Sie Folgendes:
 * Das für iPad neu gestaltete Illustrator transformiert die Produktivität, beschleunigt die Zusammenarbeit, erweitert die kreativen Skills und ermöglicht kreativen Austausch für alle.
@@ -60,7 +61,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
-![Illustrator auf dem iPad](../assets/ai_appicon_96.png)
+![Logo von Illustrator auf iPad](../assets/ai_appicon_96.png)
 
 **Ressourcen zu Illustrator auf iPad**
 

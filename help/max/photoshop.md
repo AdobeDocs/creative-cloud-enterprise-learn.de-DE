@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: Eine Liste der Photoshop-Tutorials
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/Photoshop.jpg)
 
-Photoshop ist die führende Software für Bildbearbeitung und Grafik-Design. Damit können Profis auf allen Geräten Lasse deiner Kreativität freien Lauf. Egal wo du inspiriert wirst. Photoshop hat alles, was du brauchst - setze jede Idee um.
+Photoshop ist die weltweit führende Software für Bildbearbeitung und Grafik-Design. Sie bietet Profis auf allen Geräten uneingeschränkte kreative Freiheit. Lasse deiner Kreativität freien Lauf. Egal wo du inspiriert wirst. Photoshop hat alles, was du brauchst - setze jede Idee um.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -28,7 +29,7 @@ Photoshop ist die führende Software für Bildbearbeitung und Grafik-Design. Dam
     <div>
    <a href="photoshop.md#tutorial1"><strong>Bilder an Kampagnen anpassen.</strong></a>
     </div>
-    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
+    <em>Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Photoshop kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.</em>
     <br>
   </td>
   <td>
@@ -57,8 +58,8 @@ Photoshop ist die führende Software für Bildbearbeitung und Grafik-Design. Dam
 Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Photoshop kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Mit dem Objektauswahl-Werkzeug lassen sich Objekte schneller und einfacher auswählen
-* Die inhaltsbasierte Füllung ermöglicht eine bessere Kontrolle der Musterbereiche innerhalb eines Quellbilds, um das Klonen und Patchen von Zielbereichen zu verbessern
+* Mit dem Objektauswahl-Werkzeug lassen sich Objekte schneller und einfacher auswählen.
+* Die inhaltsbasierte Füllung ermöglicht eine bessere Kontrolle der Musterbereiche innerhalb eines Quellbilds, um das Klonen und Patchen von Zielbereichen zu verbessern.
 * Pinsel können verschiedene Formen haben, um bessere Ergebnisse zu erzielen
 * Adobe Sensei unterstützt die künstliche Intelligenz bei Routineaufgaben
 

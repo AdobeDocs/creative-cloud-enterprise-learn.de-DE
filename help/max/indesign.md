@@ -1,10 +1,11 @@
 ---
 title: InDesign
 description: 'Bücher, Reports und Whitepaper: für umfassende digitale und Print-Erlebnisse wie eBooks, elektronische Magazine und Broschüren'
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -48,7 +49,7 @@ Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstel
     <div>
     <a href="indesign.md#tutorial3"><strong>Importieren von PDF-Kommentaren aus einem Document Cloud Review</strong></a>
     </div>
-    <em>Kommentare von einem PDF direkt auf einen InDesign importieren und die angeforderten Änderungen schnell übernehmen</em>
+    <em>Importieren von Kommentaren von einem PDF direkt auf einen InDesign und schnelles Anwenden der angeforderten Änderungen</em>
     <br>
   </td>
 </tr>
@@ -60,7 +61,7 @@ Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstel
     <div>
    <a href="indesign.md#tutorial4"><strong>Videodatei zu InDesign-Dokument hinzufügen</strong></a>
     </div>
-    <em>InDesign-Videos hinzufügen. Auf PDF ausgeben und online veröffentlichen.</em>
+    <em>InDesign mit Video aufwerten. Auf PDF ausgeben und online veröffentlichen.</em>
     <br>
   </td>
  <td>
@@ -111,7 +112,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Emily Palmer, Lösungsberaterin (Digitale Medien)
 
-## Importieren von PDF-Kommentaren aus einem Document Cloud Review (4:52) {#tutorial3}
+## Importieren von PDF-Kommentaren aus einem Document Cloud-Review (4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
@@ -119,8 +120,8 @@ Emily Palmer, Lösungsberaterin (Digitale Medien)
 Importieren Sie Kommentare von einem PDF direkt auf einen InDesign und übernehmen Sie die angeforderten Änderungen schnell.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Unterstützt bestehende Arbeitsabläufe für PDF-Kommentare
-* Funktioniert für PDF aus mehreren Quellen.
+* Unterstützt bestehende Arbeitsabläufe zum Kommentieren von PDF
+* Kann für PDF verwendet werden, die aus mehreren Quellen stammen
 
 **Adobe Review and Comment Options Comparison PDF**
 
@@ -134,7 +135,7 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
 **Beschreibung**
-InDesign-Videos hinzufügen. Auf PDF ausgeben und online veröffentlichen.
+InDesign mit Video aufwerten. Auf PDF ausgeben und online veröffentlichen.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Video zu InDesign hinzufügen

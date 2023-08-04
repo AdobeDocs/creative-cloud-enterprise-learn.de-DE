@@ -1,12 +1,13 @@
 ---
 title: Cinemagramme mit Photoshop erstellen
 description: In diesem Video-Tutorial lernen Sie, wie Sie ein Foto erstellen, indem Sie ein Video aus einer Adobe kombinieren. [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 858cdd40-5b23-4ef9-bdd3-e663d4d94002
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---

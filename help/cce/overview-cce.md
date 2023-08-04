@@ -1,13 +1,15 @@
 ---
 title: Creative Cloud für Enterprise-Tutorials
 description: Tutorials, die euch bei der Einführung der Produkte für Enterprise-Creative Cloud unterstützen
+feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
+jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '1529'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -30,7 +32,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="acrobat-content-creators.md"><strong>Acrobat für Content-Ersteller</strong></a>
     </div>
-    <em>Tools von Acrobat zur Optimierung von Kreativ-Workflows.</em>
+    <em>Tools von Acrobat zur Optimierung von Kreativ-Workflows</em>
     <br>
   </td>
   <td>
@@ -51,28 +53,28 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 </tr>
 </table>
 
-### Adobe Express (früher Adobe Spark)
+### Adobe Expreß (früher Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: Content, der heraussticht" src="assets/Adobe-Express-content-that-stands-out.png" />
+      <img alt="Adobe Expreß: Content, der sich abhebt" src="assets/Adobe-Express-content-that-stands-out.png" />
    </a>
     <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content, der heraussticht</strong></a>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Expreß: Content, der sich abhebt</strong></a>
     </div>
-    <em> Grafiken, Websites und Video-Storys innerhalb von Minuten mit Adobe Express erstellen</em>
+    <em> Grafiken, Websites und Video-Storys innerhalb von Minuten mit Adobe Expreß erstellen</em>
     <br>
   </td>
   <td>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Branding-Designs mit Adobe Spark erstellen" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+      <img alt="Branding-Designs mit Adobe Spark erstellen." src="assets/CreatingYourBrandinAdobeSpark.jpg" />
    </a>
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Mit Adobe Spark ist die Definition von Branding ganz einfach.</em>
+    <em>Mit Adobe Spark ist die Definition von Branding einfach.</em>
     <br>
   </td>
   <td>
@@ -82,17 +84,17 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Hinzufügen einer Diashow zu Ihrer Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark bietet einige fantastische und benutzerfreundliche Layout-Komponenten, die Ihre Web-Storys zum Leben erwecken</em>
+    <em>Adobe Spark bietet einige fantastische und benutzerfreundliche Layout-Komponenten, die deine Web-Storys zum Leben erwecken</em>
     <br>
   </td>
   <td>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Branding-Designs mit Adobe Spark erstellen" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+      <img alt="Branding-Designs mit Adobe Spark erstellen." src="assets/CreatingYourBrandinAdobeSpark.jpg" />
    </a>
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Mit Adobe Spark ist die Definition von Branding ganz einfach.</em>
+    <em>Mit Adobe Spark ist die Definition von Branding einfach.</em>
     <br>
   </td>
   <td>
@@ -150,7 +152,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
  </tr>
  </table>
 
-### CC Libraries
+### CC-Bibliotheken
 
 <table  style="table-layout:fixed">
 <tr>
@@ -161,17 +163,17 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>CC-Workflows mit CC-Bibliotheken verbessern</strong></a>
     </div>
-    <em>Erfahre, wie Creative Cloud-Bibliotheken die Design-Elemente zusammenhalten und so die Projektkonsistenz für Designer und Teams gewährleisten.</em>
+    <em>Mithilfe von Creative Cloud-Bibliotheken werden Designelemente zusammengehalten, sodass Designer und Teams ein konsistentes Projekt erhalten</em>
     <br>
   </td>
   <td>
    <a href="ccteamlibraries.md">
-      <img alt="Teambibliotheken für Creative Cloud erstellen" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="Erstellen von Teambibliotheken für Creative Cloud" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="ccteamlibraries.md"><strong>Teambibliotheken für Creative Cloud erstellen</strong></a>
+   <a href="ccteamlibraries.md"><strong>Erstellen von Teambibliotheken für Creative Cloud</strong></a>
     </div>
-    <em>Elemente über Team-Bibliotheken für Creative Cloud für Gruppen oder Teams freigeben</em>
+    <em>Elemente über Team-Bibliotheken für Creative Cloud in einer Gruppe oder einem Team freigeben</em>
     <br>
   </td>
   <td>
@@ -272,7 +274,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Produkt in einer realistischen Umgebung visualisieren (PDF)</strong></a>
     </div>
-    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen, [!DNL Dimension] ist Ihre bevorzugte Anwendung</em>
+    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen, [!DNL Dimension] ist Ihre Lösung für Endanwender</em>
     <br>
   </td>
   <td>
@@ -299,10 +301,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
  <td>
    <a href="frescoworkshop.md">
-      <img alt="Fresco auf dem iPad (und iPhone) ausprobieren" src="assets/Fresco.png" />
+      <img alt="Fresco auf dem iPad (und iPhone) testen" src="assets/Fresco.png" />
    </a>
     <div>
-   <a href="frescoworkshop.md"><strong>Fresco auf dem iPad (und iPhone) ausprobieren</strong></a>
+   <a href="frescoworkshop.md"><strong>Fresco auf dem iPad (und iPhone) testen</strong></a>
     </div>
     <em>Entdecke eine neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco in diesem 15-minütigen, praktischen Workshop</em>
     <br>
@@ -331,10 +333,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Bezähmung" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Bezähmungstyp" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>Bezähmung</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Bezähmungstyp</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie in Creative Cloud auf über 20.000 professionell gestaltete Schriftarten zugreifen und diese verwenden.</em>
     <br>
@@ -354,9 +356,9 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Schriften in Creative Cloud erkennen" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Schriften beim Creative Cloud erkennen (PDF)</strong></a>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Erkennen von Schriftarten mit Creative Clouden (PDF)</strong></a>
     </div>
-    <em>Die richtige Schrift für ein Projekt zu finden, kann manchmal überfordern. Mit verschiedenen Creative Cloud-Programmen und -Services findest du jetzt die richtige Schriftart, die Spaß macht und inspiriert</em>
+    <em>Die richtige Schrift für ein Projekt zu finden, kann manchmal eine überwältigende Aufgabe sein. Mit verschiedenen Creative Cloud-Programmen und -Services findest du jetzt die richtige Schriftart, die Spaß macht und inspiriert</em>
     <br>
   </td>
   <td>
@@ -382,7 +384,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Lernen Sie Grafikstile in Illustrator kennen (PDF)</strong></a>
     </div>
-    <em>Mit Illustrator können Sie Grafiken genauso formatieren wie Ihren Text</em>
+    <em>Mit Illustrator kannst du Elemente ähnlich formatieren wie Text</em>
     <br>
   </td>
    <td>
@@ -400,7 +402,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Illustrator Symbols + Layers = Perfekte Struktur für responsives SVG!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
    </a>
     <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Perfekte Struktur für responsives SVG! (PDF)</strong></a>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Perfekte Struktur für responsives SVG! (PDF-Format)</strong></a>
     </div>
     <em>Illustrator bietet eine einzigartige Unterstützung für das SVG-Format, einschließlich der Möglichkeit, Symbole, Gruppen, IDs und präzise Vektordefinitionen Ihres Bildmaterials zu erstellen</em>
     <br>
@@ -439,7 +441,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
   <td>
    <a href="assets/StyleWebContentwithInDesign.pdf">
-      <img alt="Web-Inhalte mit Adobe InDesign CC formatieren." src="assets/StyleWebContentwithInDesign.jpg" />
+      <img alt="Web-Inhalte mit Adobe InDesign CC formatieren" src="assets/StyleWebContentwithInDesign.jpg" />
    </a>
     <div>
    <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Web-Inhalte mit Adobe InDesign CC formatieren (PDF)</strong></a>
@@ -452,7 +454,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Interaktives PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse von InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interaktives PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse vom InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interaktives PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse von InDesign (PDF)</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die Inhaltsverzeichnisfunktion auf dem InDesign verwenden, um sowohl Lesezeichen als auch Hyperlinks zu generieren, die Ihren Lesern helfen, Informationen in Ihren PDF-Dateien schnell zu finden</em>
     <br>
@@ -461,10 +463,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
   <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten auf dem InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten beim InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten auf dem InDesign (PDF)</strong></a>
     </div>
     <em>Durch das Anwenden von Hyperlinks auf Masterseiten können Sie ein Navigationssystem auf allen Ihren Seiten schnell verwalten</em>
     <br>
@@ -518,7 +520,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
     <a href="cinemagraphps.md"><strong>Erstellen von Cinemagrammen mit Photoshop</strong></a>
     </div>
-    <em>In diesem Schritt-für-Schritt-Tutorial erstellen Sie ein lebendiges Foto, indem Sie ein Video aus einer Adobe kombinieren [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop</em>
+    <em>In diesem Schritt-für-Schritt-Tutorial erstellen Sie ein lebendiges Foto, indem Sie ein Video aus Adobe kombinieren [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop</em>
     <br>
   </td>
   <td>
@@ -612,7 +614,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Greenscreen ist nicht nur für Video (PDF)</strong></a>
     </div>
-    <em>Sie können Greenscreen in einem Fotostudio verwenden und After Effects verwenden, um die Fotoverwendung in Photoshop vorzubereiten</em>
+    <em>Sie können Greenscreen in einem Fotostudio verwenden und After Effects verwenden, um die Fotoverwendung in Photoshop vorzubereiten.</em>
     <br>
   </td>
 </tr>  

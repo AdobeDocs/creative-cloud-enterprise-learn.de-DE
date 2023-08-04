@@ -1,9 +1,11 @@
 ---
 title: Schnelle Inspiration
 description: Zeige, wie du dein erstes Design erstellst.
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 2608daf8-eec4-4e67-acda-e0ea047e6688
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
@@ -12,6 +14,6 @@ ht-degree: 0%
 
 # Kurze Inspirationsquelle
 
-Kein Designer? Kein Problem. Erfahren Sie, wie Sie sich schnell im Adobe Express inspirieren lassen.
+Kein Designer? Kein Problem. Erfahren Sie, wie Sie sich schnell im Adobe Expreß inspirieren lassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420207?quality=12&learn=on&hidetitle=true)

@@ -1,10 +1,11 @@
 ---
 title: Fresco
 description: Adobe Fresco ist ein plattformübergreifendes Programm zum Erstellen von Zeichnungen und Gemälden mit pinselbasierten Methoden, das Vektor- und Raster-Workflows mit Cloud-Dokumenten kombiniert
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -38,7 +39,7 @@ Adobe Fresco ist eine plattformübergreifende App zum Erstellen von Zeichnungen 
     <div>
    <a href="fresco.md#tutorial2"><strong>Erstellen von strukturierten Grafiken - Fresco in Illustrator</strong></a>
     </div>
-    <em>Malen und zeichnen Sie Strukturen in Adobe Fresco und erfahren Sie, wie Sie sie in Illustrator verwenden können</em>
+    <em>Malen und zeichnen Sie Strukturen in Adobe Fresco und erfahren Sie, wie Sie sie in Illustrator verwenden können.</em>
     <br>
   </td>
   <td>

@@ -1,17 +1,18 @@
 ---
-title: Tutorials zu Adobe 3D und VR.
+title: Tutorials zu Adobe 3D und VR
 description: Tutorials für den Einstieg in Adobe 3D und VR
 role: User
 level: Beginner, Intermediate
+jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-# Tutorials zu Adobe 3D und VR.
+# Tutorials zu Adobe 3D und VR
 
 ![Creative Cloud Hero Image](../assets/Dimenio.jpg)
 
@@ -36,15 +37,15 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
     <div>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Realistische 3D-Mockups mit Adobe erstellen. [!DNL Stock] und [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Einfaches Kombinieren eines 2D-Designs mit einem 3D-Modell mithilfe von Adobe [!DNL Stock] und platzierte Grafiken in Adobe [!DNL Dimension]</em>
+    <em>2D-Design mit einem 3D-Modell über Adobe kombinieren [!DNL Stock] und platzierte Grafiken in Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="Textil- oder Mustergrafiken auf 3D-Objekten mit Adobe visualisieren [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
+      <img alt="Textil-Designs und -Muster auf 3D-Objekten mit Adobe visualisieren [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Textil- oder Mustergrafiken auf 3D-Objekten mit Adobe visualisieren [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Textil-Designs und -Muster auf 3D-Objekten mit Adobe visualisieren [!DNL Dimension] (PDF)</strong></a>
     </div>
     <em>Erstellen Sie innerhalb weniger Minuten eine ultrarealistische Darstellung Ihres Endprodukts</em>
     <br>
@@ -56,7 +57,7 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Produkt in einer realistischen Umgebung visualisieren (PDF)</strong></a>
     </div>
-    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen werden, [!DNL Dimension] ist Ihre bevorzugte Anwendung</em>
+    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen werden, [!DNL Dimension] ist Ihre Lösung für Endanwender</em>
     <br>
   </td>
 </tr>
@@ -73,20 +74,20 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
   </td>
   <td>
    <a href="photorealistic.md">
-      <img alt="Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotografie erstellen" src="assets/Photorealistic_TOC.png" />
+      <img alt="Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen" src="assets/Photorealistic_TOC.png" />
    </a>
     <div>
-   <a href="photorealistic.md"><strong>Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotografie erstellen</strong></a>
+   <a href="photorealistic.md"><strong>Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen</strong></a>
     </div>
     <em>Erfahre, wie du mit 3D-Compositing und -Rendering in Adobe eine virtuelle fotorealistische Fotografie erstellst [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="3D-Modell mit [!DNL Dimension] und Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
+      <img alt="Anpassen und Branding eines 3D-Modells mit [!DNL Dimension] und Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
-   <a href="3ddimensionstock.md"><strong>3D-Modell mit [!DNL Dimension] und Adobe [!DNL Stock]</strong></a>
+   <a href="3ddimensionstock.md"><strong>Anpassen und Branding eines 3D-Modells mit [!DNL Dimension] und Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Anpassen und Branding eines 3D-Modells in [!DNL Dimension] Materialien, Umwelteigenschaften, Beleuchtung und Fotografie nutzen, um fotorealistische Bilder für jedes Design-Projekt zu erstellen</em>
     <br>
