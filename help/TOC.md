@@ -1,12 +1,13 @@
 ---
 user-guide-title: Creative Cloud für Enterprise-Tutorials
 breadcrumb-title: Creative Cloud für Unternehmen
-user-guide-description: Sehen Sie sich Tutorials und Kurzanleitungen zum Thema Creative Cloud für Unternehmen an.
+user-guide-description: Tutorials und Kurzanleitungen zum Creative Cloud für Unternehmen
 solution: Creative Cloud
 feature-set: Creative Cloud
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 9%
@@ -25,12 +26,12 @@ ht-degree: 9%
       + [Angst vor der Zähmung](cce/taming-type-anxiety.md)
       + [Adobe Expreß: Content, der sich abhebt](cce/adobe-express-content-that-stands-out.md)
       + [Zusammenarbeit: Die Zukunft der Kreativität](cce/collaboration-the-future-of-creativity.md)
-      + [Erstellen von Teambibliotheken für Creative Cloud](cce/ccteamlibraries.md)
+      + [Erstellen von Creative Cloud-Bibliotheken für Teams](cce/ccteamlibraries.md)
       + [Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams](cce/sharecclibraries.md)
-      + [Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad](cce/compositepsipad.md)
+      + [Erstellen einzigartiger Kompositionen mit dem Adobe [!DNL Stock] und Photoshop für iPad](cce/compositepsipad.md)
       + [Cinemagramme mit Photoshop erstellen](cce/cinemagraphps.md)
       + [Dekodieren der Buchstabensuppe von Grafikformaten](cce/alphabetsoup.md)
-      + [Fresco auf dem iPad und iPhone ausprobieren](cce/frescoworkshop.md)
+      + [Jetzt Fresco auf dem iPad und iPhone ausprobieren](cce/frescoworkshop.md)
    + Kurzanleitungen {#ccerefguides}
       + [Hilfslinien für CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
@@ -38,7 +39,7 @@ ht-degree: 9%
    + Tutorials {#expresstutorials}
       + [Erste Schritte mit Adobe Expreß](express/get-started.md)
       + [Adobe Expreß für Einsteiger](express/adobe-express-beginners.md)
-      + [Flyer-Content für eine Marketing-Kampagne mit Firefly erstellen.](express/create-local-marketing.md)
+      + [Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly.](express/create-local-marketing.md)
       + [Recruiting- und Onboarding-Inhalte mit Firefly erstellen](express/create-on-boarding.md)
       + [Social-Media-Poster mit Firefly erstellen](express/create-social-posters.md)
       + [Mit Firefly grafische Inhalte für Blogs erstellen](express/create-blog-graphics.md)
@@ -63,7 +64,7 @@ ht-degree: 9%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Überblick über den Adobe Firefly](firefly/overview-of-firefly.md)
+      + [Überblick über Adobe Firefly](firefly/overview-of-firefly.md)
       + [Varianten für Bannerwerbung in [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generative Füllung [!DNL Photoshop]](firefly/generative-fill.md)
       + [Texteffekte](firefly/text-effects.md)
@@ -75,36 +76,36 @@ ht-degree: 9%
    + Tutorials {#stocktutorials}
       + [Beeindruckende digitale Assets](stock/stunning-digital-assets.md)
       + [Adobe suchen [!DNL Stock] Lizenzierungsverlauf](stock/searchstock.md)
-      + [Handgezeichnete Skizze zu einer Adobe hinzufügen. [!DNL Stock] images](stock/handdrawn.md)
+      + [Handgezeichnete Skizze zum Adobe hinzufügen. [!DNL Stock] images](stock/handdrawn.md)
       + [Typografie mit Masken und Animationen gestalten.](stock/flairtypography.md)
-      + [Eine Adobe animieren. [!DNL Stock] Vektorgrafik in Photoshop](stock/animatevector.md)
-      + [Einen Jahresbericht erstellen, der mit Adobe erstellt wurde [!DNL Stock] und Spark Video](stock/annualreport.md)
+      + [Animieren einer Adobe [!DNL Stock] Vektorgrafik in Photoshop](stock/animatevector.md)
+      + [Jahresbericht mit einem Adobe-Video beginnen [!DNL Stock] und Spark Video](stock/annualreport.md)
       + [Mit Adobe eigene Animationen gestalten. [!DNL Stock]](stock/customanimations.md)
-      + [Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen](stock/changecolors.md)
-      + [Mit Adobe eine 3D-Collage für ein Poster erstellen. [!DNL Stock] images](stock/collage.md)
-      + [Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte](stock/boldlabel.md)
-      + [Infografik zu Unternehmensrichtlinien mit Adobe erstellen [!DNL Stock]](stock/infographic.md)
-      + [Erstellen einer Vergleichsansicht von Produktmerkmalen mithilfe der Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Mit Adobe eine Komposition mit surrealem Touch erstellen. [!DNL Stock]](stock/surrealcomposite.md)
-      + [Mit Adobe ein semi-surreales Muster erstellen. [!DNL Stock]](stock/surrealpattern.md)
+      + [Ändern einer Adobe [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen](stock/changecolors.md)
+      + [Erstellen einer 3D-Collage für ein Poster mit Adobe [!DNL Stock] images](stock/collage.md)
+      + [Erstellen eines fetten Etiketts mit Adobe [!DNL Stock] Vorlagen und Photoshop-Smartobjekte](stock/boldlabel.md)
+      + [Erstellen einer Infografik zu Unternehmensrichtlinien mit Adobe [!DNL Stock]](stock/infographic.md)
+      + [Erstellen einer Vergleichsansicht von Produktmerkmalen mithilfe von Adobe [!DNL Stock]](stock/featurecomparison.md)
+      + [Mit dem Adobe eine Komposition mit surrealem Touch erstellen. [!DNL Stock]](stock/surrealcomposite.md)
+      + [Mit dem Adobe ein semi-surreales Muster erstellen. [!DNL Stock]](stock/surrealpattern.md)
       + [Einen interaktiven Rechner mit Adobe erstellen. [!DNL Stock]](stock/productconfigurator.md)
       + [Mit Adobe ein interaktives Tourismusfoto erstellen [!DNL Stock] und XD](stock/interactivetourismphoto.md)
-      + [Animationen für E-Mails mit Adobe erstellen [!DNL Stock] und Photoshop](stock/animationemail.md)
-      + [Mit Farbverläufen und Adoben markenkonformes Bildmaterial erstellen. [!DNL Stock] Elemente](stock/brandgradients.md)
-      + [Adoben zu Webgrafiken kombinieren. [!DNL Stock] Bilder mit CSS](stock/webgraphics.md)
-      + [Mit Adobe in wenigen Schritten Moodboards erstellen. [!DNL Stock]](stock/moodboard.md)
-      + [Mit Adobe realistische Foto-Composites erstellen. [!DNL Stock] images](stock/realisticcomposite.md)
-      + [Mit Adobe einen animierten Lade-Screen erstellen. [!DNL Stock] und XD](stock/loadingscreen.md)
-      + [Adobe anpassen [!DNL Stock] Professionelle Präsentationsvorlage](stock/presentationtemplate.md)
-      + [Anpassen der Farben in einer Adobe [!DNL Stock] Vektorillustration](stock/customizecolors.md)
-+ Adobe 3D/VR. {#3doverview}
+      + [Erstellen von Animationen für E-Mails mit Adobe [!DNL Stock] und Photoshop](stock/animationemail.md)
+      + [Mit Adobe und Verläufen markenkonformes Bildmaterial erstellen. [!DNL Stock] Elemente](stock/brandgradients.md)
+      + [Adobe zu Webgrafiken kombinieren. [!DNL Stock] Bilder mit CSS](stock/webgraphics.md)
+      + [Mit dem Adobe in wenigen Schritten Moodboards erstellen. [!DNL Stock]](stock/moodboard.md)
+      + [Realistische Foto-Composites auf dem Adobe erstellen. [!DNL Stock] images](stock/realisticcomposite.md)
+      + [Passen Sie die Animation eines Lade-Bildschirms mit dem Adobe an [!DNL Stock] und XD](stock/loadingscreen.md)
+      + [Anpassen einer Adobe [!DNL Stock] Professionelle Präsentationsvorlage](stock/presentationtemplate.md)
+      + [Anpassen der Farben auf einem Adobe [!DNL Stock] Vektorillustration](stock/customizecolors.md)
++ Adobe 3D/VR {#3doverview}
    + [Übersicht](3di/overview-3di.md)
    + Tutorials {#3dtutorials}
       + [3D-Design und Rendering](3di/substance-3d-stager.md)
       + [Tipps und Techniken für das Mastering von 3D-Beleuchtung in CGI](3di/mastering3dlighting.md)
       + [Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen](3di/photorealistic.md)
       + [Anpassen und Branding eines 3D-Modells mit [!DNL Dimension] und Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Adobe-Video {#videooverview}
    + [Übersicht](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Professionelle Animationsvorlagen](dva/motion-graphics-templates.md)

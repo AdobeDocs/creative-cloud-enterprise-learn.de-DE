@@ -1,18 +1,19 @@
 ---
-title: Tutorials zu Adobe 3D und VR
-description: Tutorials für den Einstieg in Adobe 3D und VR
+title: Adobe 3D- und VR-Tutorials.
+description: Tutorials für Adobe 3D und VR.
+feature: 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-# Tutorials zu Adobe 3D und VR
+# Adobe 3D- und VR-Tutorials.
 
 ![Creative Cloud Hero Image](../assets/Dimenio.jpg)
 
@@ -32,20 +33,20 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
   </td>
   <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="Realistische 3D-Mockups mit Adobe erstellen. [!DNL Stock] und [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Erstellen realistischer 3D-Mockups mit Adobe [!DNL Stock] und [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Realistische 3D-Mockups mit Adobe erstellen. [!DNL Stock] und [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Erstellen realistischer 3D-Mockups mit Adobe [!DNL Stock] und [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>2D-Design mit einem 3D-Modell über Adobe kombinieren [!DNL Stock] und platzierte Grafiken in Adobe [!DNL Dimension]</em>
+    <em>2D-Design mit 3D-Modell auf dem Adobe kombinieren [!DNL Stock] und platzierte Grafiken auf dem Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="Textil-Designs und -Muster auf 3D-Objekten mit Adobe visualisieren [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
+      <img alt="Textil-Designs oder -Muster auf 3D-Objekten mit dem Adobe visualisieren [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Textil-Designs und -Muster auf 3D-Objekten mit Adobe visualisieren [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Textil-Designs oder -Muster auf 3D-Objekten mit dem Adobe visualisieren [!DNL Dimension] (PDF)</strong></a>
     </div>
     <em>Erstellen Sie innerhalb weniger Minuten eine ultrarealistische Darstellung Ihres Endprodukts</em>
     <br>
@@ -57,7 +58,7 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Produkt in einer realistischen Umgebung visualisieren (PDF)</strong></a>
     </div>
-    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen werden, [!DNL Dimension] ist Ihre Lösung für Endanwender</em>
+    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen werden, Adobe [!DNL Dimension] ist Ihre Lösung für Endanwender</em>
     <br>
   </td>
 </tr>
@@ -79,7 +80,7 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
     <div>
    <a href="photorealistic.md"><strong>Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen</strong></a>
     </div>
-    <em>Erfahre, wie du mit 3D-Compositing und -Rendering in Adobe eine virtuelle fotorealistische Fotografie erstellst [!DNL Dimension]</em>
+    <em>Erfahre, wie du mit 3D-Compositing und Rendering auf dem Adobe fotorealistische virtuelle Fotos erstellst. [!DNL Dimension]</em>
     <br>
   </td>
   <td>
