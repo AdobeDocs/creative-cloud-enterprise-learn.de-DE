@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 - The Enterprise Sessions
 description: Informationen zu den Demo-Elementen
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
@@ -40,12 +40,12 @@ Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solu
 
 **Beschreibung**
 
-Das WFH hat Herausforderungen mit sich gebracht, aber es hat auch Kreative und ihre Unternehmen dazu gezwungen, mit neuen Tools und neuen Möglichkeiten zu experimentieren, um kreativ zu werden. Erkunde vertraute Werkzeuge wie Illustrator und Photoshop in den neuen iPad-Versionen. Zeichne mit Fresco auf Tablets (iPad, Microsoft Surface) und jetzt auf iPhone!
+Das WFH hat Herausforderungen mit sich gebracht, aber es hat auch Kreative und ihre Unternehmen dazu gezwungen, mit neuen Tools und neuen Möglichkeiten zu experimentieren, um kreativ zu werden. Entdecke vertraute Tools wie Illustrator und Photoshop in den neuen iPad-Versionen. Zeichne mit Fresco auf Tablets (iPad, Microsoft Surface) und jetzt auch auf iPhone!
 
 In dieser aufgezeichneten Live-Sitzung lernen Sie Folgendes:
-* In Fresco mit verschiedenen Pinsel- und Schattierungstechniken handgezeichnete Kampagnengrafiken erstellen
+* Fresco mit verschiedenen Pinseln und Schattierungstechniken für handgezeichnete Kampagnengrafiken
 * Erstellen und Freigeben von Symbolen in unruhigen Bereichen in Illustrator auf dem iPad entsprechend dem Branding
-* Unterwegs mit Photoshop auf dem iPad Grafiken aus Fresco und Illustrator zusammenstellen, um Inhalte für Social-Media-Kanäle zu erstellen
+* Unterwegs mit Photoshop auf dem iPad Grafiken von Fresco und Illustrator kombinieren, um Inhalte für Social-Media-Kanäle zu erstellen
 
 **Präsentiert von:**
 
@@ -57,7 +57,7 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media) Liz Tanonis, Solution
 
 **Beschreibung**
 
-Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Creative Cloud-Programme und kannst Logos, Farben und andere Kreativelemente verwalten und organisieren. Bei Team-Projekten unterstützen euch die Bibliotheken dabei, effizient zu arbeiten, Konsistenz sicherzustellen und alle Beteiligten auf dem neuesten Stand zu halten.
+Mit Adobe Creative Cloud-Bibliotheken lassen sich Creative Cloud-Logos, Farben und andere Kreativelemente direkt von den wichtigsten Creative Cloud-Programmen aus verwalten, organisieren und abrufen. Bei Team-Projekten unterstützen euch die Bibliotheken dabei, effizient zu arbeiten, Konsistenz sicherzustellen und alle Beteiligten auf dem neuesten Stand zu halten.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Benötigte Elemente lassen sich ganz einfach in all Ihren Kreativprogrammen finden

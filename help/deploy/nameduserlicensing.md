@@ -3,8 +3,9 @@ title: Ablaufende Seriennummern? Warum es Zeit für personengebundene Lizenzen i
 description: Die Lizenzierung von Adobe-Produkten über Named User Licensing (NUL) ermöglicht IT-Administratoren die einfache Bereitstellung und Verwaltung von Adobe-Tools über die Admin Console und bietet Endbenutzern Zugriff auf erstklassige Kreativ- und Produktivitäts-Apps sowie Adobe Cloud-Services, selbst wenn die gesamte Belegschaft remote arbeitet
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%
