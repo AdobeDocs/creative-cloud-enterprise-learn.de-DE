@@ -1,14 +1,14 @@
 ---
 title: Adobe [!DNL Express] Übersicht
-description: Euer schneller Einstieg in die Adobe [!DNL Express]
+description: Immer auf dem Laufenden - auf dem Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner
 jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -37,43 +37,50 @@ Adobe Expreß ist ein benutzerfreundliches Kreativ-Tool ohne Erfahrung.
       </a>
   </td>
   <td>
-      <a href="create-local-marketing.md">
-         <img alt="Flyer-Content für eine Marketing-Kampagne mit Firefly erstellen." src="assets/local-marketing.png" />
+      <a href="jumpstart-ideation.md">
+         <img alt="Kreative Starthilfe" src="assets/marketing-ideation.png" />
       </a>
-  <td>
+   </td>     
+   <td>
+      <a href="create-local-marketing.md">
+         <img alt="Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly." src="assets/local-marketing.png" />
+      </a>
+   </td>    
+   <td>
       <a href="create-on-boarding.md">
          <img alt="Recruiting- und Onboarding-Inhalte mit Firefly erstellen" src="assets/on-boarding.png" />
       </a>
-  <td>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="create-social-posters.md">
          <img alt="Social-Media-Poster mit Firefly erstellen" src="assets/social-firefly.png" />
       </a>
-  </td>
-</tr>
-<tr>
- <td>
+   </td>
+   <td>
       <a href="create-blog-graphics.md">
          <img alt="Mit Firefly grafische Inhalte für Blogs erstellen" src="assets/blog-graphic.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="create-webinar-poster.md">
          <img alt="Webinar-Poster mit Firefly erstellen" src="assets/webinar-poster.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="schedule.md">
          <img alt="Social-Media-Posts planen" src="assets/schedule.png" />
       </a>
-  </td>
- <td>
+   </td>
+</tr>
+<tr>
+  <td>
    <a href="collaborate.md">
       <img alt="Projektmitarbeiter einladen" src="assets/collaborate.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+    <td>
       <a href="get-inspiration.md">
          <img alt="Kurze Inspirationsquelle" src="assets/inspiration.png" />
       </a>
@@ -88,13 +95,13 @@ Adobe Expreß ist ein benutzerfreundliches Kreativ-Tool ohne Erfahrung.
             <img alt="Design-Elemente hinzufügen." src="assets/design-assets.png" />
          </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
          <a href="group-objects.md">
             <img alt="Gruppieren von Objekten" src="assets/group-objects.png" />
          </a>
    </td>
-</tr>
-<tr>
   <td>
          <a href="layers.md">
             <img alt="Ebenen auswählen und verschieben" src="assets/layers.png" />
@@ -110,14 +117,14 @@ Adobe Expreß ist ein benutzerfreundliches Kreativ-Tool ohne Erfahrung.
          <img alt="Rückgängig machen und Wiederholen" src="assets/undo-redo.png" />
       </a>
    </td>
+</tr>
+<tr>
  <td>
       <a href="cc-libraries.md">
          <img alt="CC Libraries verwenden" src="assets/cc-libraries.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="brand.md">
          <img alt="Branding anwenden." src="assets/brand.png" />
       </a>
@@ -132,14 +139,14 @@ Adobe Expreß ist ein benutzerfreundliches Kreativ-Tool ohne Erfahrung.
          <img alt="Hintergrund entfernen" src="assets/background.png" />
       </a>
   </td>
-  <td>
-      <a href="refine-cutout.md">
-         <img alt="Ausschnitt verfeinern." src="assets/cutouts.png" />
-      </a>
-  </td>
 </tr>
 <tr>
  <td>
+      <a href="text-effects.md">
+         <img alt="Texteffekte verwenden" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
       <a href="text-effects.md">
          <img alt="Texteffekte verwenden" src="assets/text-effects.png" />
       </a>
@@ -153,11 +160,6 @@ Adobe Expreß ist ein benutzerfreundliches Kreativ-Tool ohne Erfahrung.
       <a href="create-curved-text.md">
          <img alt="Erstellen von gebogenem Text" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
 </tr>
 </table>

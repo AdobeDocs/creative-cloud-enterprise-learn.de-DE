@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '534'
 ht-degree: 9%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 9%
    + [Übersicht](express/overview-express.md)
    + Tutorials {#expresstutorials}
       + [Erste Schritte mit Adobe Expreß](express/get-started.md)
+      + [Kreative Starthilfe](express/jumpstart-ideation.md)
       + [Adobe Expreß für Einsteiger](express/adobe-express-beginners.md)
       + [Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly.](express/create-local-marketing.md)
       + [Recruiting- und Onboarding-Inhalte mit Firefly erstellen](express/create-on-boarding.md)

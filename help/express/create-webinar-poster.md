@@ -1,17 +1,17 @@
 ---
 title: Webinar-Poster mit Firefly erstellen
-description: Lerne, wie du mit "Text to Image" (Text zu Bild) auf Basis von Adobe Firefly ein Webinar-Poster für ein Virtual-Reality-Event erstellen kannst.
-feature: Image Editing
+description: Lerne, wie du mit Adobe Firefly auf Basis von Text-to-Image ein Webinar-Poster für ein Virtual-Reality-Event designen kannst.
+feature: Image Editing, Gen AI
 level: Beginner
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 4%
 
 ---
 
 # Webinar-Poster mit Firefly erstellen
 
-Lerne, wie du mit &quot;Text to Image&quot; (Text zu Bild) auf Basis von Adobe Firefly ein Webinar-Poster für ein Virtual-Reality-Event erstellen kannst. In diesem Tutorial wird das neue [Adobe Expreß Beta](https://www.adobe.com/express/).
+Lerne, wie du mit dem Adobe Firefly-Tool &quot;Text to Image&quot; ein Webinar-Poster für ein Virtual-Reality-Event designen kannst. In diesem Tutorial wird das neue [Adobe Expreß](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
