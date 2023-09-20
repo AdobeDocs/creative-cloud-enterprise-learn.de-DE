@@ -1,11 +1,11 @@
 ---
-title: Unterstützung verteilter Teams bei der Lokalisierung von Inhalten
+title: Unterstützung verteilter Teams bei der Lokalisierung von Content
 description: Erfahrt, wie Teams für verteiltes Field Marketing Content für lokale Marketing-Kampagnen an ihre Region anpassen können.
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13991
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%

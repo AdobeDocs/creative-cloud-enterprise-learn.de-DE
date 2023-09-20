@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: b8c6d0f08927f3bd86df16d4c05098f471247c6a
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '546'
 ht-degree: 9%
 
 ---
@@ -38,32 +38,34 @@ ht-degree: 9%
    + [Übersicht](express/overview-express.md)
    + How-tos {#expresshowto}
       + [Übersicht](express/overview-express-how-to.md)
-         + [Erste Schritte mit Adobe Expreß](express/get-started.md)
-         + [Social-Media-Posts planen](express/schedule.md)
-         + [Projektmitarbeiter einladen](express/collaborate.md)
-         + [Kurze Inspirationsquelle](express/get-inspiration.md)
-         + [Vorlagen erstellen](express/create-templates.md)
-         + [Design-Elemente hinzufügen.](express/add-design-assets.md)
-         + [Gruppieren von Objekten](express/group-objects.md)
-         + [Ebenen auswählen und verschieben](express/layers.md)
-         + [Mehrere Seiten erstellen.](express/multiple-pages.md)
-         + [Rückgängig machen und Wiederholen](express/undo-redo.md)
-         + [CC Libraries verwenden](express/cc-libraries.md)
-         + [Branding anwenden.](express/brand.md)
-         + [Integration mit Google Drive](express/google-drive.md)
-         + [Hintergrund entfernen](express/remove-background.md)
-         + [Ausschnitt verfeinern.](express/refine-cutout.md)
-         + [Texteffekte verwenden](express/text-effects.md)
-         + [Bildeffekte verwenden](express/image-effects.md)
-         + [Erstellen von gebogenem Text](express/create-curved-text.md)
-      + Tutorials zu Nutzungsszenarien {expressusecase}
-         + [Kreative Starthilfe](express/jumpstart-ideation.md)
-         + [Adobe Expreß für Einsteiger](express/adobe-express-beginners.md)
-         + [Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly.](express/create-local-marketing.md)
-         + [Recruiting- und Onboarding-Inhalte mit Firefly erstellen](express/create-on-boarding.md)
-         + [Social-Media-Poster mit Firefly erstellen](express/create-social-posters.md)
-         + [Mit Firefly grafische Inhalte für Blogs erstellen](express/create-blog-graphics.md)
-         + [Webinar-Poster mit Firefly erstellen](express/create-webinar-poster.md)
+      + [Erste Schritte mit Adobe Expreß](express/get-started.md)
+      + [Social-Media-Posts planen](express/schedule.md)
+      + [Projektmitarbeiter einladen](express/collaborate.md)
+      + [Kurze Inspirationsquelle](express/get-inspiration.md)
+      + [Vorlagen erstellen](express/create-templates.md)
+      + [Design-Elemente hinzufügen.](express/add-design-assets.md)
+      + [Gruppieren von Objekten](express/group-objects.md)
+      + [Ebenen auswählen und verschieben](express/layers.md)
+      + [Mehrere Seiten erstellen.](express/multiple-pages.md)
+      + [Rückgängig machen und Wiederholen](express/undo-redo.md)
+      + [CC Libraries verwenden](express/cc-libraries.md)
+      + [Branding anwenden.](express/brand.md)
+      + [Integration mit Google Drive](express/google-drive.md)
+      + [Hintergrund entfernen](express/remove-background.md)
+      + [Ausschnitt verfeinern.](express/refine-cutout.md)
+      + [Texteffekte verwenden](express/text-effects.md)
+      + [Bildeffekte verwenden](express/image-effects.md)
+      + [Erstellen von gebogenem Text](express/create-curved-text.md)
+      + Tutorials zu Nutzungsszenarien {#expressusecase}
+      + [Übersicht](express/overview-express-use-case-tutorials.md)
+      + [Unterstützung verteilter Teams bei der Lokalisierung von Inhalten](express/localized-marketing-content.md)
+      + [Kreative Starthilfe](express/jumpstart-ideation.md)
+      + [Adobe Expreß für Einsteiger](express/adobe-express-beginners.md)
+      + [Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly.](express/create-local-marketing.md)
+      + [Recruiting- und Onboarding-Inhalte mit Firefly erstellen](express/create-on-boarding.md)
+      + [Social-Media-Poster mit Firefly erstellen](express/create-social-posters.md)
+      + [Mit Firefly grafische Inhalte für Blogs erstellen](express/create-blog-graphics.md)
+      + [Webinar-Poster mit Firefly erstellen](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
