@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
@@ -19,147 +19,33 @@ ht-degree: 0%
 
 Adobe Expreß ist ein benutzerfreundliches Kreativ-Tool ohne Erfahrung.
 
-<br> 
-
-## Dein erstes Design mit Adobe Expreß erstellen.
-
-<br> 
-
->[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
-
-## Adobe Expreß-Tutorials
+## Lernpfade
 
 <table style="table-layout:fixed">
 <tr>
    <td>
-      <a href="get-started.md">
-         <img alt="Erste Schritte mit Adobe Expreß" src="assets/get-started.png" />
+      <a href="overview-express-how-to.md">
+         <img alt="How-tos für Adobe Expreß Tutorials" src="assets/how-to-tutorials.png" />
       </a>
   </td>
   <td>
-      <a href="jumpstart-ideation.md">
-         <img alt="Kreative Starthilfe" src="assets/marketing-ideation.png" />
-      </a>
-   </td>     
-   <td>
-      <a href="create-local-marketing.md">
-         <img alt="Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly." src="assets/local-marketing.png" />
-      </a>
-   </td>    
-   <td>
-      <a href="create-on-boarding.md">
-         <img alt="Recruiting- und Onboarding-Inhalte mit Firefly erstellen" src="assets/on-boarding.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="create-social-posters.md">
-         <img alt="Social-Media-Poster mit Firefly erstellen" src="assets/social-firefly.png" />
+      <a href="overview-express-use-case-tutorials.md">
+         <img alt="Tutorials zu Adobe Expreß und Anwendungsfällen" src="assets/use-case-tutorials.png" />
       </a>
    </td>
    <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Mit Firefly grafische Inhalte für Blogs erstellen" src="assets/blog-graphic.png" />
-      </a>
-   </td>
-   <td>
-      <a href="create-webinar-poster.md">
-         <img alt="Webinar-Poster mit Firefly erstellen" src="assets/webinar-poster.png" />
-      </a>
-   </td>
-   <td>
-      <a href="schedule.md">
-         <img alt="Social-Media-Posts planen" src="assets/schedule.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-  <td>
-   <a href="collaborate.md">
-      <img alt="Projektmitarbeiter einladen" src="assets/collaborate.png" />
-   </a>
-  </td>
-    <td>
-      <a href="get-inspiration.md">
-         <img alt="Kurze Inspirationsquelle" src="assets/inspiration.png" />
-      </a>
-  </td>
-   <td>
-   <a href="create-templates.md">
-      <img alt="Vorlagen erstellen" src="assets/templates.png" />
-   </a>
-  </td>
-   <td>
-         <a href="add-design-assets.md">
-            <img alt="Design-Elemente hinzufügen." src="assets/design-assets.png" />
-         </a>
-   </td>
-</tr>
-<tr>
-  <td>
-         <a href="group-objects.md">
-            <img alt="Gruppieren von Objekten" src="assets/group-objects.png" />
-         </a>
-   </td>
-  <td>
-         <a href="layers.md">
-            <img alt="Ebenen auswählen und verschieben" src="assets/layers.png" />
-         </a>
-   </td>
-  <td>
-      <a href="multiple-pages.md">
-         <img alt="Mehrere Seiten erstellen." src="assets/multiple-pages.png" />
-      </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
   <td>
-      <a href="undo-redo.md">
-         <img alt="Rückgängig machen und Wiederholen" src="assets/undo-redo.png" />
-      </a>
-   </td>
-</tr>
-<tr>
- <td>
-      <a href="cc-libraries.md">
-         <img alt="CC Libraries verwenden" src="assets/cc-libraries.png" />
-      </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Branding anwenden." src="assets/brand.png" />
-      </a>
-  </td>
-   <td>
-      <a href="google-drive.md">
-         <img alt="Integration mit Google Drive" src="assets/google-drive.png" />
-      </a>
-  </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Hintergrund entfernen" src="assets/background.png" />
-      </a>
-  </td>
-</tr>
-<tr>
- <td>
-      <a href="text-effects.md">
-         <img alt="Texteffekte verwenden" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Texteffekte verwenden" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Bildeffekte verwenden" src="assets/image-effects.png" />
-      </a>
-  </td>
-   <td>
-      <a href="create-curved-text.md">
-         <img alt="Erstellen von gebogenem Text" src="assets/curved-text.png" />
-      </a>
-   </td>
 </tr>
 </table>
+
+## Dein erstes Design mit Adobe Expreß erstellen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
