@@ -1,19 +1,19 @@
 ---
-title: Entfernen des Hintergrunds
+title: Hintergrund aus einem Foto entfernen
 description: Erfahren Sie, wie Sie den Hintergrund aus Ihren Bildern entfernen.
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: cc8f9193-a9a9-4b77-992a-a0abc4cb8b85
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 9%
+source-wordcount: '40'
+ht-degree: 0%
 
 ---
 
-# Hintergrund entfernen
+# Hintergrund aus einem Foto entfernen
 
 Erfahren Sie, wie Sie den Hintergrund aus Ihren Bildern entfernen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423769?quality=12&learn=on&hidetitle=true)
