@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
 # Photoshop
-
-![Tutorial Hero Image](../assets/Photoshop.jpg)
 
 Photoshop ist die weltweit führende Software für Bildbearbeitung und Grafik-Design. Sie bietet Profis auf allen Geräten uneingeschränkte kreative Freiheit. Lasse deiner Kreativität freien Lauf. Egal wo du inspiriert wirst. Photoshop hat alles, was du brauchst - setze jede Idee um.
 
@@ -29,7 +27,7 @@ Photoshop ist die weltweit führende Software für Bildbearbeitung und Grafik-De
     <div>
    <a href="photoshop.md#tutorial1"><strong>Bilder an Kampagnen anpassen.</strong></a>
     </div>
-    <em>Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Photoshop kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.</em>
+    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
     <br>
   </td>
   <td>

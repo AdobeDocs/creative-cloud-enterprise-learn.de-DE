@@ -5,16 +5,14 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
 
 # Acrobat &amp; Sign.
-
-![Tutorial Hero Image](../assets/DC.jpg)
 
 Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektronische Unterschriften, verwandelt ihr manuelle Dokumentenprozesse in effiziente digitale Workflows. Team-Mitglieder können Dokumente, Workflows und Aufgaben ohne Verzögerung bearbeiten - überall, jederzeit und direkt aus Microsoft- oder Enterprise-Programmen heraus.
 
@@ -90,7 +88,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
 Lade Prüfer ein, ihr PDF-Dokument mit Kommentaren zu versehen.
 
 In diesem Tutorial lernen Sie Folgendes:
-* PDF-Kommentare im Document Cloud hosten
+* PDF-Kommentare auf dem Document Cloud hosten
 * Kommentare an zentraler Stelle zusammenführen
 * Gleichzeitiges Kommentieren fördert die Zusammenarbeit
 

@@ -5,18 +5,16 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
 
-![Tutorial Hero Image](../assets/Capture.jpg)
-
-Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Design-Sammlung. Benutzer können viele verschiedene Arten von Elementen erstellen (individuelle digitale Elemente für Grafiken).   Diese Elemente werden automatisch mit anderen Adobe Apps synchronisiert. Benutzer können sie in ihre kreativen Projekte einbinden oder ganz einfach mit Mitwirkenden teilen.
+Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Design-Sammlung. Benutzer können viele verschiedene Arten von Elementen erstellen (individuelle digitale Elemente für Grafiken).   Diese Medienelemente werden automatisch mit anderen Adobe-Programmen für Desktop, Smartphone und Tablet synchronisiert. Benutzer können sie in ihre kreativen Projekte einbinden oder ganz einfach mit Mitwirkenden teilen.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -29,7 +27,7 @@ Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Des
     <div>
    <a href="capture.md#tutorial1"><strong>Fange Inspiration aus deiner unmittelbaren Umgebung ein.</strong></a>
     </div>
-    <em>Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Capture kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.</em>
+    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Capture ein Bild mit Branding-Elementen aus.</em>
     <br>
   </td>
   <td>

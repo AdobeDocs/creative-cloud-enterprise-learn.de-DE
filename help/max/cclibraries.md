@@ -5,16 +5,14 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '234'
 ht-degree: 3%
 
 ---
 
 # CC-Bibliotheken
-
-![Tutorial Hero Image](../assets/CCLibs.jpg)
 
 Deine Design-Elemente: überall abrufbar, immer konsistent.
 
@@ -29,7 +27,7 @@ Deine Design-Elemente: überall abrufbar, immer konsistent.
     <div>
    <a href="cclibraries.md#tutorial1"><strong>CC-Bibliotheken erstellen</strong></a>
     </div>
-    <em>Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Logos oder Farben - egal mit welchem Creative Cloud-Programm du gerade arbeitest</em>
+    <em>Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Creative Cloud-Logos oder Farbpaletten</em>
     <br>
   </td>
    <td>
@@ -55,7 +53,7 @@ Deine Design-Elemente: überall abrufbar, immer konsistent.
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **Beschreibung**
-Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Logos oder Farben - egal mit welchem Creative Cloud-Programm du gerade arbeitest.
+Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Creative Cloud-Logos oder Farbpaletten.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Deine Design-Elemente: überall abrufbar, immer konsistent.

@@ -1,22 +1,20 @@
 ---
 title: Video-Kurzanleitungen
-description: Kurzanleitungen, die Ihnen helfen, sich mit den Adobe-DVA-Produkten vertraut zu machen
+description: Kurzanleitungen, die Ihnen helfen, sich mit Adobe DVA-Produkten vertraut zu machen
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
 
 # Video-Kurzanleitungen
 
-![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
-
-Lasse deine Ideen Wirklichkeit werden - mit den Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation. Wählen Sie ein Bild aus, um eine PDF der Kurzanleitung herunterzuladen oder anzuzeigen.
+Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation. Wählen Sie ein Bild aus, um eine PDF der Kurzanleitung herunterzuladen oder anzuzeigen.
 
 ## Adobe Audition
 
@@ -108,12 +106,12 @@ Lasse deine Ideen Wirklichkeit werden - mit den Programmen, Mobile Apps und Serv
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank">
-      <img alt="Eine Illustration aus einer Adobe erstellen. [!DNL Stock] Foto mit After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Eine Illustration von einer Adobe aus erstellen. [!DNL Stock] Foto mit After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Eine Illustration aus einer Adobe erstellen. [!DNL Stock] Foto mit After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Eine Illustration von einer Adobe aus erstellen. [!DNL Stock] Foto mit After Effects (PDF)</strong></a>
     </div>
-    <em>Kombiniere die Effekte "Farbton/Sättigung" und "Tonwertkorrektur" in After Effects, um eine stilisierte Illustration aus einer Adobe zu erstellen [!DNL Stock] Foto</em>
+    <em>Kombiniere die Effekte "Farbton/Sättigung" und "Tonwertkorrektur" in After Effects, um eine Adobe-Illustration zu erstellen. [!DNL Stock] Foto</em>
     <br>
   </td>
    <td>

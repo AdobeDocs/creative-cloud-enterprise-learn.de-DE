@@ -5,16 +5,14 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
-
-![Tutorial Hero Image](../assets/Rush.jpg)
 
 Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für die Videobearbeitung, mit der sich Online-Inhalte einfacher als je zuvor erstellen und teilen lassen. Mit der integrierten Lösung für Desktop, Smartphone und Tablet werden Projekte und alle Änderungen automatisch mit der Cloud synchronisiert. So kannst du überall und auf jedem Gerät arbeiten.
 
@@ -50,7 +48,7 @@ Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Beschreibung**
-Adobe für Video- und Audiobearbeitung. [!DNL Stock]. Adobe [!DNL Rush] kannst du auf jedem Gerät arbeiten. Professionelle Ergebnisse sind für Einsteiger genauso einfach wie für Profis.
+Erzähle deine Story mit Video- und Audioelementen von Adobe [!DNL Stock]. Adobe [!DNL Rush] kannst du auf jedem Gerät arbeiten. Professionelle Ergebnisse sind für Einsteiger genauso einfach wie für Profis.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Videos auf dem Desktop, Tablet oder Smartphone bearbeiten

@@ -5,16 +5,14 @@ feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
-
-![Tutorial Hero Image](../assets/Dimenio.jpg)
 
 Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materialien und Lichteffekten. [!DNL Dimension] erleichtert die Erstellung von Branding-Visualisierungen, Illustrationen, Produktmodellen, Verpackungs-Designs und anderen kreativen Inhalten.
 
@@ -45,7 +43,7 @@ Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materi
 </tr>
 </table>
 
-## Substance-Materialien auf 3D-Modelle anwenden (11:42) {#tutorial1}
+## Anwenden von Substance-Materialien auf 3D-Modelle (11:42) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 

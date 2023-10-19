@@ -1,21 +1,19 @@
 ---
 title: Creative Cloud für Enterprise-Tutorials
-description: Tutorials, die euch bei der Einführung der Produkte für Enterprise-Creative Cloud unterstützen
+description: Tutorials, die Sie bei der Einführung der Creative Cloud für Unternehmensprodukte unterstützen
 feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # Tutorials zu Creative Cloud für Unternehmen.
-
-![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Tutorials helfen Ihnen, neue Funktionen im Creative Cloud zu erlernen - aus der Sicht eines Unternehmens.
 
@@ -163,17 +161,17 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>CC-Workflows mit CC-Bibliotheken verbessern</strong></a>
     </div>
-    <em>Mithilfe von Creative Cloud-Bibliotheken werden Designelemente zusammengehalten, sodass Designer und Teams ein konsistentes Projekt erhalten</em>
+    <em>Erfahre, wie Creative Cloud-Bibliotheken die Design-Elemente zusammenhalten und so die Projektkonsistenz für Designer und Teams gewährleisten.</em>
     <br>
   </td>
   <td>
    <a href="ccteamlibraries.md">
-      <img alt="Erstellen von Teambibliotheken für Creative Cloud" src="assets/CCTeamLibraries_1280.jpg" />
+      <img alt="Erstellen von Creative Cloud-Bibliotheken für Teams" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="ccteamlibraries.md"><strong>Erstellen von Teambibliotheken für Creative Cloud</strong></a>
+   <a href="ccteamlibraries.md"><strong>Erstellen von Creative Cloud-Bibliotheken für Teams</strong></a>
     </div>
-    <em>Elemente über Team-Bibliotheken für Creative Cloud in einer Gruppe oder einem Team freigeben</em>
+    <em>Elemente über Creative Cloud-Bibliotheken für Teams innerhalb einer Gruppe oder eines Teams freigeben</em>
     <br>
   </td>
   <td>
@@ -183,15 +181,15 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <div>
    <a href="sharecclibraries.md"><strong>Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams</strong></a>
     </div>
-    <em>Hier erfahren Sie, wie Sie Branding-Elemente mithilfe von Teambibliotheken für Creative Cloud für Ihre Gruppe oder Ihr Team erstellen, verwenden und freigeben.</em>
+    <em>Erfahren Sie, wie Sie Branding-Elemente für Ihre Gruppe oder Ihr Team mithilfe von Creative Cloud-Bibliotheken für Teams erstellen, verwenden und freigeben.</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Branding-Elemente über Creative Cloud-Bibliotheken erstellen, hinzufügen und weitergeben" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+      <img alt="Branding-Elemente mithilfe von Creative Cloud-Bibliotheken erstellen, hinzufügen und weitergeben" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Branding-Elemente mit Creative Cloud-Bibliotheken erstellen, hinzufügen und freigeben (PDF)</strong></a>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Branding-Elemente mithilfe von Creative Cloud-Bibliotheken erstellen, hinzufügen und freigeben (PDF)</strong></a>
     </div>
     <em>Creative Cloud-Bibliotheken bieten ein integriertes Markensystem, über das Designer Branding-Elemente an Kreativteams weitergeben können</em>
     <br>
@@ -200,10 +198,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="Textformate aus Illustrator mit Creative Cloud Libraries teilen" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+      <img alt="Freigeben von Textformaten aus Illustrator mit Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Freigeben von Textformaten aus Illustrator mit Creative Cloud Libraries (PDF)</strong></a>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Freigeben von Textformaten aus Illustrator mit Creative Cloud-Bibliotheken (PDF)</strong></a>
     </div>
     <em>Intelligenter arbeiten mit Illustrator.</em>
     <br>
@@ -242,22 +240,22 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
   <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
-      <img alt="Von Handlettering zu Illustrator per Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
+      <img alt="Von Handlettering zu Illustrator via Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Von Handlettering bis Illustrator per Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Von Handlettering zu Illustrator per Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Mit den Creative Cloud-Tools für Unternehmen kannst du mit Mobile Apps und Desktop-Programmen von Adobe überall Inhalte erfassen, umwandeln und gestalten - auf jedem Gerät.</em>
+    <em>Mit der Power von Creative Cloud für Unternehmen können Sie mit den Adobe-Apps für Mobilgeräte und Desktops von überall aus Inhalte erfassen, konvertieren und erstellen - auf jedem Gerät</em>
     <br>
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
-      <img alt="Vom Lightroom Web zum InDesign per Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
+      <img alt="Von Lightroom Web auf InDesign über Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Von Lightroom Web auf InDesign per Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Von Lightroom Web auf InDesign über Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Lasse deiner Kreativität freien Lauf - mit Creative Clouden und Bibliotheken, die du für deine Videoprojekte brauchst.</em>
+    <em>Lasse deiner Kreativität freien Lauf, und erstelle mit Creative Cloud-Dateien und -Bibliotheken ein fertiges Design.</em>
     <br>
   </td>
 </tr>
@@ -274,7 +272,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Produkt in einer realistischen Umgebung visualisieren (PDF)</strong></a>
     </div>
-    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen, [!DNL Dimension] ist Ihre Lösung für Endanwender</em>
+    <em>Wenn du sehen willst, wie deine Produkte in der realen Welt aussehen, Adobe [!DNL Dimension] ist Ihre Lösung für Endanwender</em>
     <br>
   </td>
   <td>
@@ -301,10 +299,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
  <td>
    <a href="frescoworkshop.md">
-      <img alt="Fresco auf dem iPad (und iPhone) testen" src="assets/Fresco.png" />
+      <img alt="Fresco auf dem iPad (und iPhone) ausprobieren" src="assets/Fresco.png" />
    </a>
     <div>
-   <a href="frescoworkshop.md"><strong>Fresco auf dem iPad (und iPhone) testen</strong></a>
+   <a href="frescoworkshop.md"><strong>Fresco auf dem iPad (und iPhone) ausprobieren</strong></a>
     </div>
     <em>Entdecke eine neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco in diesem 15-minütigen, praktischen Workshop</em>
     <br>
@@ -338,7 +336,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="taming-type-anxiety.md"><strong>Bezähmungstyp</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie in Creative Cloud auf über 20.000 professionell gestaltete Schriftarten zugreifen und diese verwenden.</em>
+    <em>Erfahren Sie, wie Sie auf über 20.000 professionell gestaltete Schriften in Creative Cloud zugreifen und diese verwenden können</em>
     <br>
   </td>
   <td>
@@ -353,12 +351,12 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
    <td>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
-      <img alt="Schriften in Creative Cloud erkennen" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
+      <img alt="Erkennen von Schriftarten beim Creative Cloud" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Erkennen von Schriftarten mit Creative Clouden (PDF)</strong></a>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Erkennen von Schriftarten beim Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Die richtige Schrift für ein Projekt zu finden, kann manchmal eine überwältigende Aufgabe sein. Mit verschiedenen Creative Cloud-Programmen und -Services findest du jetzt die richtige Schriftart, die Spaß macht und inspiriert</em>
+    <em>Die richtige Schrift für ein Projekt zu finden, kann manchmal eine überwältigende Aufgabe sein. Mit verschiedenen Creative Cloud-Apps und -Diensten ist es jetzt lustig und inspirierend, die richtige Schriftart zu finden</em>
     <br>
   </td>
   <td>
@@ -505,12 +503,12 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad" src="assets/CompositePSiPad.jpg" />
+      <img alt="Erstellen einzigartiger Kompositionen mit dem Adobe [!DNL Stock] und Photoshop für iPad" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad</strong></a>
+    <a href="compositepsipad.md"><strong>Erstellen einzigartiger Kompositionen mit dem Adobe [!DNL Stock] und Photoshop für iPad</strong></a>
     </div>
-    <em>Nutze die Power von Photoshop. Lerne, wie du eine deiner Lieblings-Creative Cloud-Anwendungen mit einer neu gestalteten, Touch-basierten Oberfläche ganz neu verwenden kannst</em>
+    <em>Nutze die Power von Photoshop. Erfahren Sie, wie Sie eine Ihrer bevorzugten Creative Cloud-Anwendungen mit einer neu gestalteten, Touch-basierten Oberfläche ganz neu verwenden können.</em>
     <br>
   </td>
   <td>
@@ -520,7 +518,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
     <a href="cinemagraphps.md"><strong>Erstellen von Cinemagrammen mit Photoshop</strong></a>
     </div>
-    <em>In diesem Schritt-für-Schritt-Tutorial erstellen Sie ein lebendiges Foto, indem Sie ein Video aus Adobe kombinieren [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop</em>
+    <em>In diesem Schritt-für-Schritt-Tutorial erstellen Sie ein lebendiges Foto, indem Sie ein Video von Adobe kombinieren [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop</em>
     <br>
   </td>
   <td>
@@ -542,7 +540,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Mit Photoshop und Adobe im Handumdrehen Cinemagramme erstellen [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Auf der Adobe nach Videos in Endlosschleife suchen [!DNL Stock] für das schnelle Zusammenstellen von Cinemagrammen in Photoshop</em>
+    <em>Auf dem Adobe nach Videos in Endlosschleife suchen [!DNL Stock] für das schnelle Zusammenstellen von Cinemagrammen in Photoshop</em>
     <br>
   </td>
   <td>

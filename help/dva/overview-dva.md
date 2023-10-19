@@ -1,23 +1,21 @@
 ---
-title: Adobe Video Tutorials
-description: Tutorials helfen Ihnen bei der Einführung von Adobe-DVA-Produkten
+title: Adobe Video-Tutorials
+description: Tutorials, die Ihnen helfen, Adobe-DVA-Produkte auf den neuesten Stand zu bringen
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Videotutorials zu Adobe
+# Adobe-Videotutorials
 
-![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
-
-Lasse deine Ideen Wirklichkeit werden - mit den Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
+Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps und Services von Adobe für Videobearbeitung, Motion Graphics, Visual Effects und Animation. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
 
 <table>
 <tr>

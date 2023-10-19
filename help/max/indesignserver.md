@@ -1,20 +1,18 @@
 ---
 title: InDesign Server
-description: Adobe Adobe&reg; InDesign&reg; Server-Software bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, um die programmgesteuerte Erstellung ansprechender automatisierter Dokumente zu ermöglichen
+description: Adobe Adobe&reg; InDesign&reg; Server-Software bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, um programmatisch ansprechende automatisierte Dokumente erstellen zu können
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '269'
 ht-degree: 1%
 
 ---
 
 # InDesign Server
-
-![Tutorial Hero Image](../assets/InDesignServer.jpg)
 
 Die Adobe InDesign® Server-Software bietet eine robuste und skalierbare Engine, die die Design-, Layout- und Typografiefunktionen von InDesign nutzt, damit Sie ansprechende automatisierte Dokumente programmatisch erstellen können.
 
@@ -81,7 +79,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Unsere Partner.</strong></a>
     </div>
-    <em>Sie verfügen über das Know-how, um intern Entwicklungen durchzuführen, und Adobe empfiehlt, mit Partnern zusammenzuarbeiten, um die Lösung zu finden, die Ihren Anforderungen entspricht.</em>
+    <em>Adobe empfiehlt die Zusammenarbeit mit Partnern, um die Lösung zu finden, die Ihren Anforderungen entspricht.</em>
     <br>
   </td>
   <td>

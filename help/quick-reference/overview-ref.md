@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1190'
 ht-degree: 0%
 
 ---
 
 # Creative Cloud für Unternehmen - Kurzanleitungen
-
-![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Kurzanleitungen (PDF) helfen Ihnen, neue Funktionen auf dem Creative Cloud zu erlernen.
 

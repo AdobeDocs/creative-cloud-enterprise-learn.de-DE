@@ -5,18 +5,16 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-![Tutorial Hero Image](../assets/Stock.jpg)
-
-Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] bietet Creative Cloud für Unternehmen Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt aus den Adobe-Programmen heraus, die sie jeden Tag verwenden.
+Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] bietet Kreativ-Teams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt aus den Adobe-Programmen heraus, die sie jeden Tag verwenden.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -24,10 +22,10 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="Schnelleres Auffinden der besten Assets mit Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
+      <img alt="Finden Sie die besten Assets schneller mit Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Schnelleres Auffinden der besten Assets mit Adobe [!DNL Stock]</strong></a>
+   <a href="stock.md#tutorial1"><strong>Finden Sie die besten Assets schneller mit Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Mit Adobe Sensei, unserer Engine für künstliche Intelligenz, findet ihr passende lizenzfreie Bilder, die eure Kreativprojekte schneller optimieren.</em>
     <br>
@@ -50,7 +48,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
 </tr>
 </table>
 
-## Schnelleres Auffinden der besten Assets mit Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Finden Sie die besten Assets schneller mit Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 

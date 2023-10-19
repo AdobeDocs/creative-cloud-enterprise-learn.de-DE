@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
-
-![Tutorial Hero Image](../assets/InDesign.jpg)
 
 Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstellen. Bücher, Reports und Whitepaper - vom eBook bis zum elektronischen Magazin - werden digital und gedruckt.
 
@@ -44,10 +42,10 @@ Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstel
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importieren von PDF-Kommentaren aus einem Document Cloud Review" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importieren von PDF-Kommentaren aus einer Document Cloud-Überprüfung" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importieren von PDF-Kommentaren aus einem Document Cloud Review</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importieren von PDF-Kommentaren aus einer Document Cloud-Überprüfung</strong></a>
     </div>
     <em>Importieren von Kommentaren von einem PDF direkt auf einen InDesign und schnelles Anwenden der angeforderten Änderungen</em>
     <br>
@@ -112,7 +110,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Emily Palmer, Lösungsberaterin (Digitale Medien)
 
-## Importieren von PDF-Kommentaren aus einem Document Cloud-Review (4:52) {#tutorial3}
+## PDF-Kommentare aus einer Document Cloud-Überprüfung importieren (4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 

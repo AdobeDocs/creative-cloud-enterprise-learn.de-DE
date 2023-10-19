@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # Adobe 3D- und VR-Tutorials.
-
-![Creative Cloud Hero Image](../assets/Dimenio.jpg)
 
 Gestalte überzeugenden 3D-Content schneller - mit hochwertigen Modellen, Materialien und Lichteffekten. [!DNL Dimension] erleichtert die Erstellung von Branding-Visualisierungen, Illustrationen, Produktmodellen, Verpackungs-Designs und anderen kreativen Inhalten. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
 

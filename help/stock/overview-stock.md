@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] Übungen
-
-![Creative Cloud Hero Image](../assets/Stock.jpg)
 
 Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustellen. Über Adobe Stock können Kreativteams auf über 300 Millionen lizenzfreie Bilder, Videos, Audiodateien, Vorlagen, Illustrationen und 3D-Stockmedien zugreifen, die sie täglich in ihren Creative Cloud-Programmen verwenden. Unbegrenzter Zugriff auf Adobe Stock Standard-Stockmedien mit Creative Cloud Pro Edition. Entdecken Sie die neuesten Sammlungen unter stock.adobe.com. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
 

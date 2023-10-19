@@ -1,22 +1,20 @@
 ---
-title: Creative Cloud für Tutorials
-description: Willkommen beim Learning Hub "Creative Cloud für Unternehmen"
+title: Creative Cloud für Enterprise-Tutorials
+description: Willkommen beim Learning Hub für Creative Cloud für Unternehmen
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # Tutorials zu Creative Cloud für Unternehmen.
 
-![Creative Cloud Hero Image](assets/hero_cce.jpg)
-
-Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sich auf Creative Cloud für Unternehmen konzentrieren. Mit unseren Tutorials, Webinaren und Use Cases möchten wir Einsteiger und Administratoren schnell auf den neuesten Stand bei Enterprise-Produkten bringen.
+Willkommen beim Learning Hub für Creative Cloud für Unternehmen. Hier finden Sie eine Vielzahl von Lernerfahrungen rund um das Creative Cloud für Unternehmen. Mit unseren Tutorials, Webinaren und Use Cases möchten wir Einsteiger und Administratoren schnell auf den neuesten Stand der Creative Cloud für Unternehmensprodukte bringen.
 
 ## Themen durchsuchen
 
@@ -45,12 +43,12 @@ Willkommen beim Learning Hub &quot;Creative Cloud für Unternehmen&quot;. Hier f
 </tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe 3D/VR." src="assets/3Dcard.png" />
+      <img alt="Adobe 3D/VR" src="assets/3Dcard.png" />
     </a>
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe Video" src="assets/Videocard.png" />
+      <img alt="Adobe-Video" src="assets/Videocard.png" />
     </a>
   </td>
   <td>

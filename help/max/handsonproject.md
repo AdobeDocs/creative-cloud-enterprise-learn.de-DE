@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
 # Design to Print Plug-in - Anpassen einer Gesichtsmaske
-
-![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
 
 Wäre es nicht toll, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpassen könntest? Mit dem Plug-in &quot;Adobe Design to Print&quot; kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen.
 
@@ -29,7 +27,7 @@ Wäre es nicht toll, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpass
     <div>
    <a href="handsonproject.md#tutorial1"><strong>Photoshop Design to Print-Plug-in installieren</strong></a>
     </div>
-    <em>Mit den Auswahlwerkzeugen und den Farbwerkzeugen von Adobe Photoshop kannst du ein Bild komplett verändern, sodass es deinen Branding-Anforderungen entspricht.</em>
+    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
     <br>
   </td>
   <td>

@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Fresco
-
-![Tutorial Hero Image](../assets/Fresco.jpg)
 
 Adobe Fresco ist eine plattformübergreifende App zum Erstellen von Zeichnungen und Gemälden mithilfe von pinselbasierten Methoden, die Vektor- und Raster-Workflows mit Cloud-Dokumenten kombinieren.
 
@@ -60,13 +58,13 @@ Entdecke, wie du mit Adobe Fresco auf Basis von Pinseln Zeichnungen und Bilder e
 In diesem Tutorial lernen Sie Folgendes:
 * Verwenden Sie einzigartige interaktive Pinsel, die Aquarell und Ölfarbe zusammen mit Ihren bevorzugten Pixel- und Vektorpinseln nachahmen
 * Erstellen von strukturierten Effekten durch Überlagerung verschiedener Pinsel und Verwendung von Masken
-* Überall kreativ - mit der neuen Fresco-Applikation für iPhone
+* Überall kreativ - mit der neuen Fresco-App für iPhone
 * Exportieren Sie Ihre Arbeit in verschiedene Formate, um sie in anderen mobilen Apps und Desktop-Applikationen zu verwenden
 
 **Präsentiert von:**
 Liz Tanonis, Solutions Consultant (Digital Media)
 
-## Texturierte Grafiken erstellen - Fresco in Illustrator (4:10) {#tutorial2}
+## Erstellen von strukturierten Grafiken - Fresco in Illustrator (4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
@@ -74,7 +72,7 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 Zeichne und male Strukturen in Adobe Fresco. Erfahre, wie du sie in Illustrator einsetzt.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Grafiken in Adobe Fresco für iPhone erstellen und zur Verwendung in anderen Creative Cloud-Programmen exportieren
+* Grafiken in Adobe Fresco für iPhone erstellen und für die Verwendung in anderen Creative Cloud-Programmen exportieren
 * Mit dem Bildnachzeichner-Werkzeug in Illustrator Vektorgrafiken erstellen
 * Anwenden handgefertigter Strukturen auf Vektorgrafiken in Illustrator
 
@@ -83,7 +81,7 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 ![Fresco-Logo](../assets/fr_appicon_96.png)
 
-**Ressourcen für Fresco**
+**Fresco-Ressourcen**
 
 [Training und Support](https://helpx.adobe.com/support/adobe-fresco.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/fresco/using/whats-new.html)und Links zu Community-Foren.
 
