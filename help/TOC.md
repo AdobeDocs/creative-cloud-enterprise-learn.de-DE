@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 8%
+source-wordcount: '579'
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,9 @@ ht-degree: 8%
    + [Übersicht](express/overview-express.md)
    + How-tos {#expresshowto}
       + [Übersicht](express/overview-express-how-to.md)
-      + [Erste Schritte mit Adobe Expreß](express/get-started.md)
+      + [Was befindet sich auf der Startseite?](express/get-started.md)
+      + [Einführung in Schnellaktionen](express/quick-actions.md)
+      + [Einführung in Vorlagen](express/introduction-templates.md)
       + [Social-Media-Posts planen](express/schedule.md)
       + [Projektmitarbeiter einladen](express/collaborate.md)
       + [Kurze Inspirationsquelle](express/get-inspiration.md)
