@@ -1,19 +1,20 @@
 ---
-title: Texteffekte verwenden
-description: Schlagschatten, Formen und Konturtext hinzufügen
+title: Text hinzufügen
+description: Lernen Sie die verschiedenen Methoden kennen, mit denen Sie Text zu Ihren kreativen Projekten hinzufügen können
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 6dfab6fe-897e-4914-b9f4-4306eebec6a2
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13421
+exl-id: 38a01482-11c9-4117-8626-59679eca2c4f
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Texteffekte verwenden
+# Text hinzufügen
 
-Erfahren Sie, wie Sie Schlagschatten, Formen und Konturtext hinzufügen.
+Lernen Sie die verschiedenen Methoden kennen, mit denen Sie Text und Texteffekte zu Ihren kreativen Projekten hinzufügen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)

@@ -1,19 +1,20 @@
 ---
-title: Branding anwenden
-description: Lernen Sie, wie Sie Ihre Logos und Markenfarben in Vorlagen einfügen können.
+title: Einrichten einer Corporate Identity
+description: Hier erfahren Sie, wie Sie eine Sammlung von Branding-Elementen für Ihre geschäftlichen oder privaten Projekte erstellen.
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 21bbcd5a-a762-4169-a944-d8f1252699b9
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13417
+exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Branding anwenden.
+# Branding-Elemente definieren.
 
-Lernen Sie, wie Sie Ihre Logos und Markenfarben in Vorlagen einfügen können.
+Lerne, wie du eine Sammlung von Branding-Elementen erstellst, um konsistente und professionelle Designs für deine Unternehmens- oder Privatprojekte zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
