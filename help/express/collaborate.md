@@ -1,18 +1,19 @@
 ---
-title: Projektmitarbeiter einladen
+title: Zusammenarbeit
 description: Erfahren Sie, wie Sie Ihr Team einladen, an demselben Projekt zu arbeiten
 feature: Collaboration
 role: User
 level: Beginner
-exl-id: 29f137a4-d322-4d36-ad56-dd9265e88809
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: null
+exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
 
 ---
 
-# Projektmitarbeiter einladen
+# Zusammenarbeit
 
 Hier erfahren Sie, wie Sie Ihr Team einladen, an demselben Projekt zu arbeiten.
 

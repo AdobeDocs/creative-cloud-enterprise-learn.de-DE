@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [Text hinzufügen](express/text-effects.md)
       + [Bild hinzufügen](express/image-effects.md)
       + [KI-Bild der Generation hinzufügen](express/add-gen-ai-image.md)
+      + [Raster verwenden](express/grids.md)
+      + [Verwenden von Elementen](express/add-design-assets.md)
+      + [Arbeiten mit Ebenen und Zeichenflächen](express/layers.md)
+      + [Zusammenarbeit](express/collaborate.md)
+      + [Teilen und herunterladen](express/share.md)
+      + [Versionsverlauf verwenden](express/version-history.md)
       + [Social-Media-Posts planen](express/schedule.md)
-      + [Projektmitarbeiter einladen](express/collaborate.md)
       + [Kurze Inspirationsquelle](express/get-inspiration.md)
       + [Vorlagen erstellen](express/create-templates.md)
-      + [Design-Elemente hinzufügen.](express/add-design-assets.md)
       + [Gruppieren von Objekten](express/group-objects.md)
-      + [Ebenen auswählen und verschieben](express/layers.md)
       + [Mehrere Seiten erstellen.](express/multiple-pages.md)
       + [Rückgängig machen und Wiederholen](express/undo-redo.md)
       + [CC Libraries verwenden](express/cc-libraries.md)
