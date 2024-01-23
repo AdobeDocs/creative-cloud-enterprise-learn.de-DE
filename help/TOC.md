@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '620'
 ht-degree: 5%
 
 ---
@@ -54,12 +54,16 @@ ht-degree: 5%
       + [Zusammenarbeit](express/collaborate.md)
       + [Teilen und herunterladen](express/share.md)
       + [Versionsverlauf verwenden](express/version-history.md)
-      + [Social-Media-Posts planen](express/schedule.md)
+      + [Rückgängig machen und Wiederholen](express/undo-redo.md)
       + [Kurze Inspirationsquelle](express/get-inspiration.md)
+      + [Einführung in Animationen](express/intro-animation.md)
+      + [Verschiedene Animationstypen.](express/different-types-animation.md)
+      + [Einstellungen der Animationen anpassen](express/tweak-animation.md)
+      + [Was ist die Zeitleiste der Animation?](express/animation-timeline.md)
+      + [Social-Media-Posts planen](express/schedule.md)
       + [Vorlagen erstellen](express/create-templates.md)
       + [Gruppieren von Objekten](express/group-objects.md)
       + [Mehrere Seiten erstellen.](express/multiple-pages.md)
-      + [Rückgängig machen und Wiederholen](express/undo-redo.md)
       + [CC Libraries verwenden](express/cc-libraries.md)
       + [Integration mit Google Drive](express/google-drive.md)
       + [Hintergrund aus einem Foto entfernen](express/remove-background.md)
