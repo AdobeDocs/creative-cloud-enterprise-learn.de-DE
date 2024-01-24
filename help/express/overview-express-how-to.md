@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
+source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
    </td>
   <td>
          <a href="different-types-animation.md">
-            <img alt="Verschiedene Animationstypen." src="assets/different-animations.png" />
+            <img alt="Verschiedene Animationstypen" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
@@ -160,6 +160,50 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
          <a href="animation-timeline.md">
             <img alt="Was ist die Zeitleiste der Animation?" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="Animationen zeitlich versetzen." src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animation.md">
+            <img alt="Hinzufügen von Abschnitten zu Ihrer Animation" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="Hinzufügen von Audio zu Animationen" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-animations.md">
+            <img alt="Die Größe von Animationen ändern." src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="Exportieren Ihrer Animationen" src="assets/exporting-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>

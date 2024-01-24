@@ -5,14 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Verschiedene Animationstypen.
+# Verschiedene Animationstypen
 
 Erfahren Sie mehr über die drei verschiedenen Animationstypen, die Sie Ihren Projekten hinzufügen können, um sie ansprechender zu gestalten.
 
