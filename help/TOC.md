@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [Hinzufügen von Audio zu Animationen](express/audio-animation.md)
       + [Die Größe von Animationen ändern.](express/resize-animations.md)
       + [Exportieren Ihrer Animationen](express/export-animations.md)
-      + [Social-Media-Posts planen](express/schedule.md)
+      + [Hintergrund aus Bildern entfernen](express/remove-background.md)
+      + [Was sind die neuen Funktionen der Generation KI in der Adobe Expreß?](express/intro-gen-ai.md)
+      + [Verwenden des Objektradiergummis](express/object-eraser.md)
+      + [Verwenden der generativen Füllung](express/generative-fill.md)
+      + [Text-Design mit Gen AI verbessern.](express/gen-text.md)
+      + [So verwenden Sie Text-to-Template Gen AI](express/text-to-template.md)
+      + [Massenübersetzung Ihrer Inhalte](express/bulk-translate.md)
+      + [Bearbeiten einer PDF](express/edit-a-pdf.md)
+      + [Planer für die Buchung verwenden](express/schedule.md)
       + [Vorlagen erstellen](express/create-templates.md)
       + [Gruppieren von Objekten](express/group-objects.md)
       + [Mehrere Seiten erstellen.](express/multiple-pages.md)
       + [CC Libraries verwenden](express/cc-libraries.md)
       + [Integration mit Google Drive](express/google-drive.md)
-      + [Hintergrund aus einem Foto entfernen](express/remove-background.md)
       + [Ausschnitt verfeinern.](express/refine-cutout.md)
       + [Erstellen von gebogenem Text](express/create-curved-text.md)
    + Tutorials zu Nutzungsszenarien {#expressusecase}
