@@ -3,9 +3,9 @@ title: Verwenden der generativen Füllung
 description: Erfahren Sie, wie Sie die Funktion "Generative Füllung", unterstützt durch Adobe Firefly, verwenden, um einem Bild Elemente hinzuzufügen und daraus zu entfernen
 feature: Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14846
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%

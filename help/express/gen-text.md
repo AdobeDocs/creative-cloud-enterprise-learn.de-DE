@@ -3,9 +3,9 @@ title: Text-Design mit Gen-KI verbessern
 description: Erfahren Sie, wie Sie mit Texteffekten auf Basis von Adobe Firefly eindrucksvolle Designs erstellen.
 feature: Gen AI, Graphic Design
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14847
-source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
