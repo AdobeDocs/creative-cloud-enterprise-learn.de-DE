@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 # Teilen und herunterladen
 
-Hier erfahren Sie, wie Sie Ihr Projekt für einen Kollegen oder Kunden freigeben.
+Lerne, wie du Projekte im PNG-, JPEG- oder PDF-Format herunterladen und teilen kannst. Veröffentlichen Sie Projekte im Web, und generieren Sie einen Link, über den Sie sie einfach abrufen können. Oder planen und teilen Sie Medieninhalte direkt auf Social-Media-Plattformen. Dabei haben Sie die Möglichkeit, Posts für jede Plattform anzupassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)

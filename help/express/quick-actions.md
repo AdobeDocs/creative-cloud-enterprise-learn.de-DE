@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14818
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Einführung in Schnellaktionen
 
-Schnellaktionen sind benutzerfreundliche Werkzeuge, die eine schnelle und kostenlose Bearbeitung von Bildern, Videos und Dokumenten ermöglichen.
+Schnellaktionen sparen Zeit und bieten grundlegende Bearbeitungswerkzeuge für die tägliche kreative Arbeit. Beispiele für Schnellaktionen sind das Zusammenführen und Zuschneiden von Videos, das Entfernen von Hintergründen, das Skalieren von Bildern und Videos, das Konvertieren von Videos in GIF-Dateien und das Bearbeiten von PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)

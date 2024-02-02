@@ -1,19 +1,19 @@
 ---
 title: Verschiedene Animationstypen
-description: Steigern Sie die Interaktion mit Ihren Projekten, indem Sie verschiedene Arten von Animationen verwenden
+description: Fördern Sie die Interaktion mit Ihren Projekten durch verschiedene Animationstypen
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # Verschiedene Animationstypen
 
-Erfahren Sie mehr über die drei verschiedenen Animationstypen, die Sie Ihren Projekten hinzufügen können, um sie ansprechender zu gestalten.
+Erfahren Sie mehr über die drei verschiedenen Arten von Animationen (Intro, Looping und Outro), die Sie Ihren Projekten hinzufügen können, um sie ansprechender zu gestalten. Jede Animation hat einen anderen Stil, den Sie in der Vorschau anzeigen und auswählen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)

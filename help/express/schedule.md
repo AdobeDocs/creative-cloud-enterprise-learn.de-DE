@@ -6,15 +6,15 @@ role: User
 level: Intermediate
 jira: KT-13430
 exl-id: f248c621-f50c-45c8-97de-4f28c7ea97f1
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Planer für die Buchung verwenden
 
-Plane Social-Media-Posts für Instagram, Facebook, Twitter, Pinterest und LinkedIn.
+Plane Social-Media-Posts für Instagram, Facebook, Twitter, Pinterest und LinkedIn. Sie können für jede Plattform bestimmte Eigenschaften auswählen. Beispielsweise können Sie in Instagram auswählen, ob Ihr Inhalt ein Beitrag, eine Story oder ein Demo-Clip sein soll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
