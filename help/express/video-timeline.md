@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14872
-source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
+source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,50 @@ ht-degree: 0%
 Erfahren Sie mehr über die Zeitleiste, in der Sie Videoobjekte wie Videos, Bilder, Text und Grafiken in Ihrem Projekt anordnen und bearbeiten. Die Zeitleiste ist eine Darstellung der Objekte und der Reihenfolge der Objekte, aus denen sich ein Video zusammensetzt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="Videoprojekt anlegen" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="Video-Clips hinzufügen" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="multiple-clips.md">
+            <img alt="Arbeiten mit mehreren Clips" src="assets/multiple-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="Audio hinzufügen" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+    <td>
+         <a href="export-video.md">
+            <img alt="Videos exportieren" src="assets/export-video.png" />
+         </a>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+</tr>
+</table>
