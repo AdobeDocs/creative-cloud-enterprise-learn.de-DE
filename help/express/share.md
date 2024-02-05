@@ -5,7 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Lerne, wie du Projekte im PNG-, JPEG- oder PDF-Format herunterladen und teilen k
 
 <table style="table-layout:fixed">
 <tr>
- <td>
+   <td>
       <a href="brand.md">
          <img alt="Branding-Elemente definieren." src="assets/brand.png" />
       </a>
@@ -36,12 +36,12 @@ Lerne, wie du Projekte im PNG-, JPEG- oder PDF-Format herunterladen und teilen k
       <a href="workspace.md">
          <img alt="UX eines Projekts" src="assets/workspace.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="text-effects.md">
          <img alt="Text hinzufügen" src="assets/text-effects.png" />
       </a>
-  </td>
+   </td>
 </tr>
 <tr>
    <td>
@@ -76,7 +76,6 @@ Lerne, wie du Projekte im PNG-, JPEG- oder PDF-Format herunterladen und teilen k
       <img alt="Zusammenarbeit" src="assets/collaborate.png" />
    </a>
    </td>
-   <td>
    <td>
    <a href="version-history.md">
       <img alt="Versionsverlauf verwenden" src="assets/version-history.png" />
