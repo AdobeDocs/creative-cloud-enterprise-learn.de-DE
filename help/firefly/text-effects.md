@@ -1,20 +1,21 @@
 ---
 title: Texteffekte
-description: Texteffekte auf Basis von Adobe Firefly verwenden
+description: Erfahren Sie, wie Sie mit einfachen Textaufforderungen einzigartige und inspirierende Texte für Ihre Projekte erstellen
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # Texteffekte
 
-Lerne, wie du mit Adobe Firefly-Texteffekten einzigartige und inspirierende Titelbilder für einen Newsletter gestalten kannst. Am Adobe Firefly teilnehmen (Beta) [hier](https://firefly.adobe.com/).
+Erfahren Sie, wie Sie mit einfachen Textaufforderungen einzigartige und inspirierende Texte für Ihre Projekte erstellen. Mit Texteffekten kannst du deine Kreativität steigern und außergewöhnlichen Text für deine Projekte erstellen. Adobe Firefly testen [hier](https://firefly.adobe.com/).
 
 <br> 
 
