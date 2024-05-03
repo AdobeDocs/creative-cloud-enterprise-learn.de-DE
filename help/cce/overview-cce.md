@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Tutorials helfen Ihnen, neue Funktionen im Creative Cloud zu erlernen - aus der Sicht eines Unternehmens.
 
-## Klicken Sie hier, um ein Produkt-Tutorial (in alphabetischer Reihenfolge) anzuzeigen.
+## Tutorial zum Auswählen eines Produkts (in alphabetischer Reihenfolge) zum Anzeigen
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Expreß (früher Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Expreß: Content, der sich abhebt" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Expreß: Content, der sich abhebt</strong></a>
-    </div>
-    <em> Grafiken, Websites und Video-Storys innerhalb von Minuten mit Adobe Expreß erstellen</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Branding-Designs mit Adobe Spark erstellen." src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Mit Adobe Spark ist die Definition von Branding einfach.</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Hinzufügen einer Diashow zu Ihrer Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Hinzufügen einer Diashow zu Ihrer Spark Page (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark bietet einige fantastische und benutzerfreundliche Layout-Komponenten, die deine Web-Storys zum Leben erwecken</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Branding-Designs mit Adobe Spark erstellen." src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Erstellen Ihrer Marke in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Mit Adobe Spark ist die Definition von Branding einfach.</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Lerne deinen neuen Produktionsspezialisten kennen: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Lerne deinen neuen Produktionsspezialisten kennen: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark hat von Ihnen gelernt, wie Sie Layouts erstellen, Farben definieren, Grafiken importieren und Elemente in Ihren Kompositionen anordnen</em>
     <br>
   </td>
 </tr>
@@ -258,6 +201,11 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <em>Lasse deiner Kreativität freien Lauf, und erstelle mit Creative Cloud-Dateien und -Bibliotheken ein fertiges Design.</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -400,7 +348,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
       <img alt="Illustrator Symbols + Layers = Perfekte Struktur für responsives SVG!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
    </a>
     <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Perfekte Struktur für responsives SVG! (PDF-Format)</strong></a>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Perfekte Struktur für responsives SVG! (PDF)</strong></a>
     </div>
     <em>Illustrator bietet eine einzigartige Unterstützung für das SVG-Format, einschließlich der Möglichkeit, Symbole, Gruppen, IDs und präzise Vektordefinitionen Ihres Bildmaterials zu erstellen</em>
     <br>
