@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,8 @@ In dieser aufgezeichneten Live-Sitzung werden Beispiele für vorlagenbasierte Ar
 
 **Präsentiert von:**
 
-Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solutions Consultant (Proof of Concept)
+Eric Rowse, Senior Solutions Consultant (Digital Media)
+Derek Lu, Principal Solutions Consultant (Konzeptnachweis)
 
 ## Neue Tools für die neue Normalität (29:57)
 
@@ -47,7 +48,9 @@ In dieser aufgezeichneten Live-Sitzung lernen Sie Folgendes:
 
 **Präsentiert von:**
 
-Dave Weinberg, Senior Solutions Consultant (Digital Media) Liz Tanonis, Solutions Consultant (Digital Media) Emilie Enke, Solutions Consultant (Digital Media)
+Dave Weinberg, Senior Solutions Consultant (Digital Media)
+Liz Tanonis, Solutions Consultant (Digital Media)
+Emilie Enke, Solutions Consultant (Digital Media)
 
 ## Zusammenarbeit mit CC Libraries (27:58)
 
@@ -63,7 +66,8 @@ In diesem Tutorial lernen Sie Folgendes:
 
 **Präsentiert von:**
 
-Ashley Dvorin, Senior Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media)
+Emily Palmer, Lösungsberaterin (Digitale Medien)
 
 ## Informationen zu den Demo Assets: LOCAL
 

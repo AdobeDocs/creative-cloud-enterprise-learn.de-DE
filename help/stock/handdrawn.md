@@ -1,5 +1,5 @@
 ---
-title: Handgezeichnete Skizze zu einer Adobe hinzufügen. [!DNL Stock] images
+title: Handgezeichnete Skizze zu Adobe [!DNL Stock] images hinzufügen
 description: Optimiert euer Kreativ-Marketing mit innovativen Techniken, die euren Fotos mit Photoshop für iPad mehr Tiefe und Dimension verleihen.
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Handgezeichnete Skizze zu einer Adobe hinzufügen. [!DNL Stock] images
+# Handgezeichnete Skizze zu Adobe [!DNL Stock]-Bildern hinzufügen
 
 Optimiert euer Kreativ-Marketing mit innovativen Techniken, die euren Fotos mit Photoshop für iPad mehr Tiefe und Dimension verleihen.
 

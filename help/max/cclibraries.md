@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -22,23 +22,23 @@ Deine Design-Elemente: überall abrufbar, immer konsistent.
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="CC-Bibliotheken erstellen" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="CC Libraries erstellen" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>CC-Bibliotheken erstellen</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>CC Libraries erstellen</strong></a>
     </div>
-    <em>Mit Adobe Creative Cloud-Bibliotheken hast du immer Zugriff auf deine Creative Cloud-Logos oder Farbpaletten</em>
-    <br>
+    <em>Mit Adobe Creative Cloud-Bibliotheken können Sie Ihre Logos, Farben und vieles mehr in Ihren bevorzugten Creative Cloud-Apps verwalten, organisieren und darauf zugreifen</em>
+    2<br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="CC-Bibliotheken freigeben" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="CC Libraries freigeben" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>CC-Bibliotheken freigeben</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>CC Libraries freigeben</strong></a>
     </div>
-    <em>Bei Team-Projekten unterstützen euch die Bibliotheken dabei, effizient zu arbeiten, Konsistenz sicherzustellen und alle Beteiligten auf dem neuesten Stand zu halten.</em>
-    <br>
+    <em>Effizienter arbeiten, Konsistenz sicherstellen und jederzeit mit Ihrem Team synchron bleiben</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -48,7 +48,7 @@ Deine Design-Elemente: überall abrufbar, immer konsistent.
 </tr>
 </table>
 
-## CC-Bibliotheken erstellen (4:38) {#tutorial1}
+## CC Libraries erstellen (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
@@ -62,7 +62,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-## CC-Bibliotheken freigeben (4:14) {#tutorial2}
+## CC Libraries freigeben (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
@@ -78,9 +78,9 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ![CC Libraries-Logo](../assets/cc_appicon_96.png)
 
-**Ressourcen zu CC-Bibliotheken**
+**CC Libraries-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) Hier findest du weitere Tutorials, neue Funktionen und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) ist Ihr Hub für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

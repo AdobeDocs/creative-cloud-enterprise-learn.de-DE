@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # Text in Bild
 
-Erfahren Sie, wie Sie ein Bild aus Textbeschreibungen erstellen. [Generieren von Bildern](https://www.adobe.com/products/firefly/features/text-to-image.html) können Sie personalisierte und inspirierende Inhalte erstellen. Adobe Firefly testen [hier](https://firefly.adobe.com/).
+Erfahren Sie, wie Sie ein Bild aus Textbeschreibungen erstellen. [Das Generieren von Bildern](https://www.adobe.com/products/firefly/features/text-to-image.html) gemäß Ihren spezifischen Anforderungen ermöglicht es Ihnen, personalisierte und inspirierende Inhalte zu erstellen. Adobe Firefly [hier](https://firefly.adobe.com/) testen.
 
 <br> 
 

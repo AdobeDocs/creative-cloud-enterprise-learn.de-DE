@@ -1,6 +1,6 @@
 ---
-title: Mit Adobe eigene Animationen gestalten. [!DNL Stock]
-description: Adobe verwenden [!DNL Stock] Bilder, Texturen, Muster zu benutzerdefinierten Animationen in Photoshop
+title: Mit benutzerdefinierten Animationen von Adobe [!DNL Stock] können Sie Kreativität zum Leben erwecken.
+description: Verwenden von Adobe [!DNL Stock] -Bildern, Texturen und Mustern für benutzerdefinierte Animationen in Photoshop
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe eigene Animationen gestalten. [!DNL Stock]
+# Mit benutzerdefinierten Animationen von Adobe [!DNL Stock] kreative Ideen zum Leben erwecken
 
-Adobe verwenden [!DNL Stock] von Bildern, Texturen, Mustern bis hin zu benutzerdefinierten Animationen in Photoshop.
+Verwenden Sie Adobe [!DNL Stock] von Bildern, Texturen und Mustern, um benutzerdefinierte Animationen in Photoshop zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

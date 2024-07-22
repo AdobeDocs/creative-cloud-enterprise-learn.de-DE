@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Vergleichsansicht von Produktmerkmalen mithilfe der Adobe [!DNL Stock]
+title: Erstellen Sie mit Adobe  [!DNL Stock] ein Vergleichsdiagramm für Produktfunktionen.
 description: Erstellt eine Grafik, in der Preisoptionen für Produkte verglichen werden. So erhaltet ihr potenzielle Kunden auf einen Blick die Informationen, die sie benötigen.
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer Vergleichsansicht von Produktmerkmalen mithilfe der Adobe [!DNL Stock]
+# Erstellen Sie mit der Adobe [!DNL Stock] ein Vergleichsdiagramm für Produktfunktionen.
 
 Erstellt eine Grafik, die Produktpreispläne vergleicht, um potenziellen Kunden die Informationen bereitzustellen, die sie auf einen Blick benötigen.
 

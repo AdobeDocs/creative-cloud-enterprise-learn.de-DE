@@ -27,18 +27,18 @@ Das moderne Programm für Illustrationen und Grafiken. Gestalte Logos, Icons, Il
     <div>
    <a href="illustrator.md#tutorial1"><strong>Verwenden von Symbolen zum Aktualisieren mehrerer Symbolinstanzen</strong></a>
     </div>
-    <em>Manuelle Eingriffe reduzieren und Konsistenz mit Symbolen gewährleisten</em>
-    <br>
+    <em>Manuelle Arbeit reduzieren und Konsistenz mit Symbolen wahren</em>
+    2<br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
         <img alt="Ausrichten von Text und Bildern an Glyphen" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Ausrichten von Text und Bildern an Glyphen</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Text und Bilder an Glyphenausrichtung ausrichten</strong></a>
     </div>
-    <em>Richten Sie Glyphen schnell an wichtigen Bereichen des Dokuments aus</em>
-    <br>
+    <em>Schnelles Ausrichten von Glyphen an wichtigen Bereichen des Dokuments</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -76,9 +76,9 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![Illustrator-Logo](../assets/ai_appicon_96.png)
 
-**Ressourcen zu Illustrator**
+**Illustrator-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist deine Anlaufstelle für weitere Tutorials und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist Ihr Hub für zusätzliche Tutorials und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

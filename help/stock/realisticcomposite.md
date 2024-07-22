@@ -1,6 +1,6 @@
 ---
-title: Mit Adobe realistische Foto-Composites erstellen. [!DNL Stock] images
-description: Zwei großartige Adoben kombinieren. [!DNL Stock] Personen in Social-Media-Posts einbinden
+title: Erstellen realistischer Fotomontagen mit Adobe [!DNL Stock] images
+description: Bringen Sie zwei großartige Adobe [!DNL Stock] fotos zusammen, um Personen in Ihre Social-Media-Beiträge zu ziehen
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe realistische Foto-Composites erstellen. [!DNL Stock] images
+# Erstellen realistischer Fotokompositionen mit Adobe [!DNL Stock] Bildern
 
-Zwei großartige Adoben kombinieren. [!DNL Stock] Social-Media-Posts mit Fotos gestalten.
+Bringen Sie zwei großartige Adobe [!DNL Stock]-Fotos zusammen, um Personen in Ihre Social-Media-Posts zu ziehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

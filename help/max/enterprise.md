@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -27,8 +27,8 @@ Verwalten Sie Adobe-Berechtigungen und -Assets in Ihrer gesamten Organisation.
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Entdecken Sie die fast 200 Produktfamilien in Adobe Fonts und die Benutzerfreundlichkeit des Adobe Fonts-Services.</em>
-    <br>
+    <em>Entdecken Sie die fast 200 Produktfamilien in Adobe Fonts und die Benutzerfreundlichkeit des Adobe Fonts-Dienstes</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

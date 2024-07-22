@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Übersicht
-description: Immer auf dem Laufenden - auf dem Adobe [!DNL Express]
+description: Auf dem Adobe  [!DNL Express] auf dem neuesten Stand sein
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] overview
+# Adobe [!DNL Express] - Übersicht
 
 Entwerfen Sie Videos, Flyer, Lebensläufe, Banner, Logos und vieles mehr mit der neuen All-in-One-Adobe Expreß-Applikation für schnelle und einfache Erstellung von Inhalten. Generative KI-Funktionen auf Basis von Adobe Firefly unterstützen dich bei deinen kreativen Workflows.
 
@@ -21,7 +21,7 @@ Entwerfen Sie Videos, Flyer, Lebensläufe, Banner, Logos und vieles mehr mit der
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] Übungen
+## Adobe [!DNL Express]-Tutorials
 
 <table style="table-layout:fixed">
 <tr>

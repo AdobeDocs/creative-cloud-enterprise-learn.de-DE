@@ -1,5 +1,5 @@
 ---
-title: Mit Farbverläufen und Adoben markenkonformes Bildmaterial erstellen. [!DNL Stock] Elemente
+title: Erstellen Sie ein konsistentes Markensymbol mit wunderschönen Verläufen und Adobe [!DNL Stock] Assets
 description: Durch die Kombination von Farben und Verläufen in eurer Werbekampagne könnt ihr Markenkonsistenz in Form von unterschiedlichen Bildern erreichen.
 feature: Licensable Assets
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Mit Farbverläufen und Adoben markenkonformes Bildmaterial erstellen. [!DNL Stock] Elemente
+# Erstellen Sie ein konsistentes Markenerlebnis mit wunderschönen Verläufen und Adobe [!DNL Stock] Assets
 
-Newsletter-Grafiken mit editierbaren Vektorgrafiken animieren. Adobe [!DNL Stock].
+Animieren Sie Ihre Newslettergrafiken mit bearbeitbaren Vektoren für den Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

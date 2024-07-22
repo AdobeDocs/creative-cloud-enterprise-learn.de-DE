@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 26%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -27,8 +27,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="acrobat-sign.md"><strong>Acrobat und Adobe Sign</strong></a>
     </div>
-    <em>Erstellen, Bearbeiten und Unterschreiben von PDF-Dokumenten und -Formularen</em>
-    <br>
+    <em>Erstellen, Bearbeiten und Signieren von PDF-Dokumenten und -Formularen</em>
+    2<br>
   </td>
   <td>
     <a href="dimension.md">
@@ -37,8 +37,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Realistische 3D-Bilder für Produktfotos, Verpackungs- und Marketing-Designs.</em>
-    <br>
+    <em>Erstellen fotorealistischer 3D-Bilder für Branding, Produktfotos und Verpackungs-Design</em>
+    2<br>
   </td>
   <td>
     <a href="illustrator.md">
@@ -47,8 +47,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Vektorgrafiken und Illustrationen</em>
-    <br>
+    <em>Vektorgrafik und Illustration</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -59,8 +59,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Layouts für Print- und digitale Publikationen</em>
-    <br>
+    <em>Printdesign und Layout für Print- und digitale Publikationen</em>
+    2<br>
   </td>
   <td>
     <a href="photoshop.md">
@@ -69,8 +69,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Bearbeitet und kombiniert Bilder und Grafiken auf dem Desktop.</em>
-    <br>
+    <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop.</em>
+    2<br>
   </td>
   <td>
     <a href="rush.md">
@@ -79,8 +79,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Überall Online-Videos erstellen und teilen</em>
-    <br>
+    <em>Onlinevideos überall erstellen und teilen</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -91,8 +91,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Anwendererlebnisse entwerfen, konzipieren und teilen</em>
-    <br>
+    <em>Benutzererfahrungen entwerfen, Prototypen erstellen und freigeben</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
@@ -118,8 +118,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Bilder in Farbpaletten, Vektorgrafiken, Pinsel und andere Kreativelemente umwandeln</em>
-    <br>
+    <em>Beliebiges Bild in ein Farbthema, eine Vektorgrafik, einen Pinsel und mehr umwandeln</em>
+    2<br>
   </td>
   <td>
     <a href="fresco.md">
@@ -128,18 +128,18 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Für alle, die auf dem iPad natürlich zeichnen und malen möchten</em>
-    <br>
+    <em>Zeichnen und Malen weitergedacht.</em>
+    2<br>
   </td>
   <td>
     <a href="illustratoripad.md">
       <img alt="Illustrator auf dem iPad" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>Illustrator auf dem iPad</strong></a>
+    <a href="illustratoripad.md"><strong>Illustrator auf iPad</strong></a>
     </div>
-    <em>Vektorgrafiken und Illustrationen</em>
-    <br>
+    <em>Vektorgrafik und Illustration</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -148,10 +148,10 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
       <img alt="Photoshop auf dem iPad" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop auf dem iPad</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop auf iPad</strong></a>
     </div>
-    <em>Ansprechende Bilder, Grafiken und Kunstwerke auf dem Desktop und dem iPad bearbeiten, zusammenstellen und kreieren</em>
-    <br>
+    <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop und dem iPad.</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
@@ -175,20 +175,20 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
       <img alt="AEM Assets und Asset Link" src="../assets/AEM.jpg" />
     </a>
     <div>
-    <a href="aem.md"><strong>AEM Assets und Asset Link</strong></a>
+    <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
     </div>
     <em>Digital Asset Management der nächsten Generation</em>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="creativeclouddesktopapp.md">
       <img alt="Creative Cloud-Client" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-Client</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-Desktop-Applikation</strong></a>
     </div>
-    <em>Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!</em>
-    <br>
+    <em>Der Creative Cloud-Client ist Ihr Hub für die Verwaltung von CC-Programmen, -Services und die Zusammenarbeit - und vieles mehr!</em>
+    2<br>
   </td>
   <td>
     <a href="cclibraries.md">
@@ -197,8 +197,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="cclibraries.md"><strong>CC-Bibliotheken</strong></a>
     </div>
-    <em>Deine Design-Elemente: überall abrufbar, immer konsistent.</em>
-    <br>
+    <em>Halten Sie Ihre Assets und Ihre Projekte für das Branding bereit</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -209,8 +209,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>Die fortschrittlichen Tools von InDesign gepaart mit individueller Automatisierung</em>
-    <br>
+    <em>Die ausgefeilten Tools des InDesign in Kombination mit benutzerdefinierter Automatisierung</em>
+    2<br>
   </td>
  <td>
     <a href="stock.md">
@@ -219,8 +219,8 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Hochwertige digitale Bilder, Illustrationen, Videos, Audio, Vorlagen und mehr</em>
-    <br>
+    <em>Hochwertige digitale Bilder, Illustrationen, Videos, Audiomaterial, Vorlagen und mehr</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
@@ -239,10 +239,10 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
       <img alt="Erstellen einer eigenen Gesichtsmaske" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Erstellen einer eigenen Gesichtsmaske</strong></a>
+    <a href="handsonproject.md"><strong>Eigene Gesichtsmaske erstellen</strong></a>
     </div>
-    <em>Mit dem Plug-in "Adobe Design to Print" kannst du deine Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen.</em>
-    <br>
+    <em>Mit dem Plug-in "Adobe Design to Print" können Sie Ihre Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

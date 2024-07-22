@@ -1,20 +1,20 @@
 ---
 title: Capture
-description: Adobe [!DNL Capture] macht aus Smartphones und Tablets ein Design-Sammlungswerkzeug
+description: Adobe [!DNL Capture] verwandelt Mobiltelefone und Tablets in ein Tool für die Design-Sammlung
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 0%
 
 ---
 
 # [!DNL Capture]
 
-Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Design-Sammlung. Benutzer können viele verschiedene Arten von Elementen erstellen (individuelle digitale Elemente für Grafiken).   Diese Medienelemente werden automatisch mit anderen Adobe-Programmen für Desktop, Smartphone und Tablet synchronisiert. Benutzer können sie in ihre kreativen Projekte einbinden oder ganz einfach mit Mitwirkenden teilen.
+Adobe [!DNL Capture] verwandelt Mobiltelefone und Tablets in ein Tool für die Design-Sammlung. Benutzer können viele verschiedene Arten von Elementen erstellen (individuelle digitale Elemente für Grafiken).   Diese Medienelemente werden automatisch mit anderen Adobe-Programmen für Desktop, Smartphone und Tablet synchronisiert. Benutzer können sie in ihre kreativen Projekte einbinden oder ganz einfach mit Mitwirkenden teilen.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -25,10 +25,10 @@ Adobe [!DNL Capture] verwandelt Smartphones und Tablets in ein Tool für die Des
       <img alt="Fange Inspiration aus deiner unmittelbaren Umgebung ein." src="../assets/capture_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="capture.md#tutorial1"><strong>Fange Inspiration aus deiner unmittelbaren Umgebung ein.</strong></a>
+   <a href="capture.md#tutorial1"><strong>Inspiration aus der Welt um Sie herum einfangen</strong></a>
     </div>
-    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Capture ein Bild mit Branding-Elementen aus.</em>
-    <br>
+    <em>Verwenden Sie die leistungsstarken Auswahl- und Farbbearbeitungswerkzeuge in Adobe Capture, um ein Bild dramatisch zu ändern, damit es Ihren Branding-Anforderungen entspricht</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -52,17 +52,17 @@ Wandle Bilder und Videos auf deinem Smartphone oder Tablet in Fertigkomponenten 
 
 In diesem Tutorial lernen Sie Folgendes:
 * Überall designen
-* Über Creative Cloud-Bibliotheken mit Desktop-Programmen arbeiten.
+* Anbindung an Desktop-Programme über CC Libraries
 * Zugriff auf mehrere Tausend Adobe Fonts
 
 **Präsentiert von:**
 Emily Palmer, Lösungsberaterin (Digitale Medien)
 
-![Capture-Logo](../assets/ca_appicon_96.png)
+![Logo erfassen](../assets/ca_appicon_96.png)
 
 **[!DNL Capture]Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) ist deine Anlaufstelle für weitere Tutorials und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) ist Ihr Hub für zusätzliche Tutorials und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

@@ -1,6 +1,6 @@
 ---
-title: Eine Adobe animieren. [!DNL Stock] Vektorgrafik in Photoshop
-description: Newsletter-Grafiken mit editierbaren Vektorgrafiken animieren. Adobe [!DNL Stock]
+title: Animieren einer Adobe [!DNL Stock] Vektorgrafik in Photoshop
+description: Animieren Sie Ihre Newslettergrafiken mit bearbeitbaren Vektoren für Adobe [!DNL Stock]
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Eine Adobe animieren. [!DNL Stock] Vektorgrafik in Photoshop
+# Animieren einer Adobe [!DNL Stock]-Vektorillustration in Photoshop
 
-Newsletter-Grafiken mit editierbaren Vektorgrafiken animieren. Adobe [!DNL Stock].
+Animieren Sie Ihre Newslettergrafiken mit bearbeitbaren Vektoren für den Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

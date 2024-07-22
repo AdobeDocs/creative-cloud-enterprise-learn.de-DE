@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -27,18 +27,18 @@ Adobe Experience Manager ist die branchenführende Lösung für Digital Experien
     <div>
    <a href="aem.md#tutorial1"><strong>AEM und Asset Link</strong></a>
     </div>
-    <em>Mit Asset Link gespeicherte Assets in Echtzeit AEM</em>
-    <br>
+    <em>Mit Asset Link in AEM gespeicherte Assets in Echtzeit aktualisieren</em>
+    2<br>
   </td>
    <td>
    <a href="aem.md#tutorial2">
       <img alt="In AEM gehostete InDesign-Dateien" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>In AEM gehostete InDesign-Dateien</strong></a>
+   <a href="aem.md#tutorial2"><strong>InDesign in AEM gehosteter Dateien</strong></a>
     </div>
-    <em>Hosten Sie Ihr InDesign-Dokument in AEM, sodass mehrere Benutzer gleichzeitig Inhaltsvarianten erstellen können.</em>
-    <br>
+    <em>Ihr InDesign-Dokument in AEM hosten, sodass mehrere Benutzer Inhaltsvarianten erstellen können - gleichzeitig</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -87,8 +87,8 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>Eine leistungsstarke Kombination für eure Anforderungen an Content Management und Digital Asset Management.</em>
-    <br>
+    <em>Eine leistungsstarke Kombination für Ihre Anforderungen an Content Management und Digital Asset Management</em>
+    2<br>
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
@@ -98,7 +98,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
     <em>Digital Asset Management der nächsten Generation</em>
-    <br>
+    2<br>
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
@@ -108,16 +108,16 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Vorteile</strong></a>
     </div>
     <em>Lassen Sie Ihre digitalen Assets für sich arbeiten</em>
-    <br>
+    2<br>
   </td>
 </tr>
 </table>
 
 ![AEM Logo](../assets/aem_appicon_noshadow_96.png)
 
-**Ressourcen zu Asset Link und AEM**
+**Asset Link &amp; AEM Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/experience-manager.html) Hier findest du weitere Tutorials, neue Funktionen und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/experience-manager.html) ist Ihr Hub für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

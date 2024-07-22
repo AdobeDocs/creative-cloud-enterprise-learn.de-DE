@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -25,20 +25,20 @@ Wäre es nicht toll, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpass
       <img alt="Photoshop Design to Print-Plug-in installieren" src="../assets/d2p_install_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial1"><strong>Photoshop Design to Print-Plug-in installieren</strong></a>
+   <a href="handsonproject.md#tutorial1"><strong>Photoshop Design to Print Plug-in installieren</strong></a>
     </div>
-    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
-    <br>
+    <em>Verwenden Sie die leistungsstarken Auswahl- und Farbbearbeitungswerkzeuge in Adobe Photoshop, um ein Bild dramatisch zu ändern, damit es Ihren Branding-Anforderungen entspricht</em>
+    2<br>
   </td>
   <td>
     <a href="handsonproject.md#tutorial2">
         <img alt="Anpassen einer Gesichtsmaske mit dem Befehl &quot;Design to Print&quot;" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Anpassen einer Gesichtsmaske mit dem Befehl "Design to Print"</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Anpassen einer Gesichtsmaske mit dem zu druckenden Entwurf</strong></a>
     </div>
-    <em>Anpassen Ihrer eigenen Azzle Gesichtsmaske</em>
-    <br>
+    <em>Passen Sie Ihre eigene Zazzle-Gesichtsmaske an</em>
+    2<br>
   </td>
   <td>
     <a href="handsonproject.md#tutorial3">
@@ -47,8 +47,8 @@ Wäre es nicht toll, wenn du eine Gesichtsmaske mit deiner eigenen Grafik anpass
     <div>
    <a href="handsonproject.md#tutorial3"><strong>Erstellen einer 3D-Visualisierung Ihrer Gesichtsmaske</strong></a>
     </div>
-    <em>Eine 3D-Visualisierung deiner Gesichtsmaske für die Event-Galerie erstellen.</em>
-    <br>
+    <em>Erstellen einer 3D-Visualisierung Ihrer Gesichtsmaske für die Ereignisgalerie</em>
+    2<br>
   </td>
 </tr>
 </table>
@@ -62,7 +62,7 @@ Hier erfahren Sie, wie Sie das Plug-in &quot;Design to Print&quot; für Photosho
 
 In diesem Tutorial lernen Sie Folgendes:
 * Visualisiere deine Designs für Produkte wie Bekleidung, Accessoires, Briefpapier und Wanddekoration in Echtzeit.
-* Veröffentlichung auf dem Online-Marktplatz von Adobe.
+* Mit Publish zum Online-Marktplatz.
 
 **Präsentiert von:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
@@ -76,9 +76,9 @@ Anpassen Ihrer eigenen Azzle Gesichtsmaske
 
 In diesem Tutorial lernen Sie Folgendes:
 * Visualisiere deine Designs für Produkte wie Bekleidung, Accessoires, Briefpapier und Wanddekoration in Echtzeit.
-* Veröffentlichung auf dem Online-Marktplatz von Adobe.
+* Mit Publish zum Online-Marktplatz.
 
-**Klicken Sie auf Bild , um die PDF &quot;Design to Print erlernen&quot; herunterzuladen.**
+**Klicken Sie auf ein Bild, um die PDF &quot;Design to Print erlernen&quot; herunterzuladen.**
 
 [![Design to Print lernen](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
@@ -97,7 +97,7 @@ In diesem Tutorial lernen Sie Folgendes:
 * Füge Materialien hinzu, und steuere die Beleuchtung für einen professionellen Look
 * Elemente importieren, um Ihr Branding oder andere Designs anzuwenden
 
-**Zum Herunterladen auf Bild klicken [!DNL Dimension] Datei mit 3D-Modell einer weißen Maske**
+**Klicken Sie auf Bild, um [!DNL Dimension] Datei mit 3D-Modell der weißen Maske herunterzuladen**
 
 [![Vergleichsbild](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

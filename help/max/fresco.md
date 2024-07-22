@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -27,18 +27,18 @@ Adobe Fresco ist eine plattformübergreifende App zum Erstellen von Zeichnungen 
     <div>
    <a href="fresco.md#tutorial1"><strong>Einführung in das Zeichnen mit Adobe Fresco</strong></a>
     </div>
-    <em>Mit den leistungsstarken Auswahl- und Farbbearbeitungswerkzeugen in Adobe Fresco können Sie ein Bild Ihren Branding-Anforderungen entsprechend grundlegend verändern</em>
-    <br>
+    <em>Verwenden Sie die leistungsstarken Auswahl- und Farbbearbeitungswerkzeuge in Adobe Fresco, um ein Bild dramatisch zu ändern, damit es Ihren Branding-Anforderungen entspricht</em>
+    2<br>
   </td>
   <td>
    <a href="fresco.md#tutorial2">
       <img alt="Erstellen von strukturierten Grafiken - Fresco in Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Erstellen von strukturierten Grafiken - Fresco in Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Strukturiertes Bildmaterial erstellen - Fresco in Illustrator</strong></a>
     </div>
-    <em>Malen und zeichnen Sie Strukturen in Adobe Fresco und erfahren Sie, wie Sie sie in Illustrator verwenden können.</em>
-    <br>
+    <em>Malen und Zeichnen von Texturen in Adobe Fresco und Erfahren Sie, wie Sie sie in Illustrator verwenden</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -81,9 +81,9 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 ![Fresco-Logo](../assets/fr_appicon_96.png)
 
-**Fresco-Ressourcen**
+**Fresco Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/adobe-fresco.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/fresco/using/whats-new.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/adobe-fresco.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/fresco/using/whats-new.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

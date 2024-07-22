@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 1%
 
 ---
@@ -25,10 +25,10 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
          <img alt="Mit dem Bereichsreparatur-Pinsel in Adobe Audition unerwünschte Audioinhalte schnell entfernen" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
       </a>
       <div>
-      <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Unerwünschte Audioinhalte mit dem Bereichsreparatur-Pinsel in Adobe Audition entfernen (PDF)</strong></a>
+      <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Unerwünschte Audioinhalte mit dem Bereichsreparatur-Pinsel in Adobe Audition (PDF) schnell entfernen</strong></a>
       </div>
-      <em>Mit dem Bereichsreparatur-Pinsel von Adobe Photoshop entfernst du störende Geräusche aus deinen Audiodateien in Adobe Audition.</em>
-      <br>
+      <em>Wussten Sie, dass Sie mit dem Adobe Photoshop-Bereichsreparatur-Pinsel störende Geräusche aus Ihren Audiodateien in Adobe Audition entfernen können?</em>
+      2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -57,10 +57,10 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
       <img alt="Spark Video in einer Spark Page präsentieren." src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
    </a>
     <div>
-   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank"><strong>Spark Video in Ihrer Spark Page präsentieren (PDF)</strong></a>
+   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank"><strong>Spark Video in Ihrer Spark Page darstellen (PDF)</strong></a>
     </div>
-    <em>Mit Adobe Spark Page kannst du Videos aus verschiedenen Quellen laden, einschließlich Videos, die du mit Spark Video erstellst.</em>
-    <br>
+    Mit <em>Adobe Spark Page können Sie Videos aus verschiedenen Quellen laden, einschließlich Videos, die Sie mit Spark Video erstellen!</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -91,38 +91,38 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
     <div>
    <a href="assets/AfterEffectsforPhotography.pdf" target="_blank"><strong>After Effects für Fotografie (PDF)</strong></a>
     </div>
-    <em>Lerne, wie du mit den Effekten von After Effects deine Fotos aufpeppen kannst</em>
-    <br>
+    <em>Erfahren Sie, wie Sie Ihre Fotos mit den Effekten von After Effects optimieren</em>
+    2<br>
   </td>
   <td>
    <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank">
       <img alt="Cinemagramme: Der faszinierende Ort zwischen einem Foto und einem Video" src="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.jpg" />
    </a>
     <div>
-   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Cinemagramme: Der faszinierende Ort zwischen einem Foto und einem Video (PDF)</strong></a>
+   <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Cinemagramme: Der faszinierende Platz zwischen einem Foto und einem Video (PDF)</strong></a>
     </div>
-    <em>Erfahre mehr über Cinemagramme - diese auffälligen Hybriden, die irgendwo zwischen einem Foto und einem Video existieren</em>
-    <br>
+    <em>Erfahren Sie mehr über Cinemagramme - diese auffälligen Hybriden, die irgendwo zwischen einem Foto und einem Video vorhanden sind</em>
+    2<br>
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank">
-      <img alt="Eine Illustration von einer Adobe aus erstellen. [!DNL Stock] Foto mit After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Erstellen einer Illustration aus einem Adobe [!DNL Stock]-Foto mit After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Eine Illustration von einer Adobe aus erstellen. [!DNL Stock] Foto mit After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Illustration aus einem Adobe [!DNL Stock]-Foto mit After Effects (PDF) erstellen</strong></a>
     </div>
-    <em>Kombiniere die Effekte "Farbton/Sättigung" und "Tonwertkorrektur" in After Effects, um eine Adobe-Illustration zu erstellen. [!DNL Stock] Foto</em>
-    <br>
+    <em>Kombinieren Sie Farbton/Sättigung und Tonwertkorrektur mit den Cartoon-Effekten in After Effects, um eine einzigartige stilisierte Illustration aus einem Adobe [!DNL Stock]-Foto zu erstellen</em>
+    3<br>
   </td>
    <td>
    <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank">
       <img alt="Kaleidoskop-Muster mit After Effects erstellen." src="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank"><strong>Erstellen wunderschöner Kaleidoskop-Muster mit After Effects (PDF)</strong></a>
+   <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank"><strong>Erstelle wunderschöne Kaleidoskop-Muster mit After Effects (PDF)</strong></a>
     </div>
-    <em>Erstellen Sie mit dem CC Kaleida-Effekt in Adobe After Effects aus jedem Bild eine unendliche Anzahl von Mustern und Texturen</em>
-    <br>
+    <em>Erstellen Sie mit dem CC Kaleida-Effekt in Adobe After Effects eine unendliche Anzahl von Mustern und Texturen aus einem beliebigen Bild.</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -131,30 +131,30 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
       <img alt="Erstellen komplexer Transparenz in Ihren Fotos mit Keying in After Effects" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Erstellen komplizierter Transparenz in Ihren Fotos mit Keying in After Effects (PDF)</strong></a>
+   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Erstellen von komplexer Transparenz in Ihren Fotos mit Keying in After Effects (PDF)</strong></a>
     </div>
-    <em>Keying wird oft für Videos eingesetzt und kann auch eine große Hilfe sein, wenn Fotos für Design-Projekte benötigt werden</em>
-    <br>
+    <em>Keying wird häufig für Videos verwendet. Es kann auch eine große Hilfe sein, wenn Ihre Fotos für Design-Projekte benötigt werden</em>
+    2<br>
   </td>
  <td>
    <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank">
       <img alt="Erstellen animierter Titel mithilfe von Animationsvorlagen in Adobe Premiere [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Erstellen animierter Titel mithilfe von Animationsvorlagen in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
+   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf" target="_blank"><strong>Animierte Titel mit Animationsvorlagen in Adobe Premiere erstellen [!DNL Rush] (PDF)</strong></a>
     </div>
-    <em>Füge professionell gestaltete Animationsvorlagen hinzu, die zu deiner Geschichte passen oder zu deiner persönlichen Marke passen, damit deine Videos noch besser aussehen</em>
-    <br>
+    <em>Lassen Sie Ihre Videos noch spektakulärer aussehen, indem Sie professionell gestaltete Animationsvorlagen hinzufügen, die zu Ihrer Geschichte passen oder zu Ihrem persönlichen Branding passen</em>
+    2<br>
   </td>
   <td>
       <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank">
          <img alt="Umwerfende Lichteffekte für die Fotografie mit After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
       </a>
       <div>
-      <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>Umwerfende Lichteffekte für die Fotografie mit After Effects (PDF)</strong></a>
+      <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>Verblüffende Lichteffekte für die Fotografie mit After Effects (PDF)</strong></a>
       </div>
-      <em>Lichteffekte in Adobe After Effects können den Look eines Fotos enorm verändern.</em>
-      <br>
+      <em>Lichteffekte in Adobe After Effects können das Aussehen Ihres Fotos erheblich verändern</em>
+      2<br>
   </td>
   <td>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank">
@@ -163,8 +163,8 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
       <div>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank"><strong>Bearbeiten von VR-Fotografie (360-Grad-Fotos) mit After Effects (PDF)</strong></a>
       </div>
-      <em>Interaktivere Spiele und Erlebnisse sind zwar nicht so geläufig, aber 360-Grad-Fotografie gibt es bereits</em>
-      <br>
+      <em>Während interaktivere Spiele und Erlebnisse nicht ganz so alltäglich sind, gibt es 360-Grad-Fotografie bereits</em>
+      2<br>
   </td>
 </tr>
 </table>
@@ -178,10 +178,10 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
          <img alt="Kombinieren Sie Musik und Dialog oder Sprachkommentare mit automatischem Ducking in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
       </a>
       <div>
-      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>Musik, Dialog und Begleitkommentare per Ducking kombinieren [!DNL Adobe Premiere Rush] (PDF)</strong></a>
+      <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>Musik und Dialog oder Sprechertext reibungslos kombinieren mit automatischem Ducking in [!DNL Adobe Premiere Rush] (PDF)</strong></a>
       </div>
-      <em>Adobe Premiere [!DNL Rush] bietet erweiterte Videobearbeitungsfunktionen in einer intuitiven Anwendung, sodass jeder in wenigen Minuten ein Video in Profiqualität erstellen kann</em>
-      <br>
+      <em>Adobe Premiere [!DNL Rush] bietet erweiterte Videobearbeitungsfunktionen in einer benutzerfreundlichen App, sodass jeder in wenigen Minuten ein Video in professioneller Qualität erstellen kann</em>
+      3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

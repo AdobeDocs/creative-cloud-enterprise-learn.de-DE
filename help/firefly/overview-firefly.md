@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Firefly] Übersicht
-description: Immer auf dem Laufenden - auf dem Adobe [!DNL Firefly]
+description: Auf dem Adobe  [!DNL Firefly] auf dem neuesten Stand sein
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] overview
+# Adobe [!DNL Firefly] - Übersicht
 
 Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte, die sich zunächst auf die Erstellung von Bild- und Texteffekten konzentrieren. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
 

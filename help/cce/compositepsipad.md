@@ -1,6 +1,6 @@
 ---
-title: Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad
-description: Nutze die Power von Photoshop. Lerne, wie du eine deiner Lieblings-Creative Cloud-Anwendungen mit einer neu gestalteten, Touch-basierten Oberfläche ganz neu verwenden kannst
+title: Erstellen eindeutiger Kompositionen mit Adobe [!DNL Stock]  und Photoshop für iPad
+description: Nutze die Power von Photoshop. Erfahren Sie, wie Sie eine Ihrer bevorzugten Creative Cloud-Anwendungen mit einer neu gestalteten, Touch-basierten Oberfläche ganz neu verwenden können.
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe individuelle Kompositionen erstellen. [!DNL Stock] und Photoshop für iPad
+# Erstellen eindeutiger Kompositionen mit Adobe [!DNL Stock] und Photoshop für iPad
 
-Nutze die Power von Photoshop. Lerne, wie du eine deiner Lieblings-Creative Cloud-Anwendungen mit einer neu gestalteten, Touch-basierten Oberfläche auf ganz neue Weise nutzen kannst.
+Nutze die Power von Photoshop. Erfahren Sie, wie Sie eine Ihrer bevorzugten Creative Cloud-Anwendungen mit einer neu gestalteten, Touch-basierten Benutzeroberfläche ganz neu verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
 

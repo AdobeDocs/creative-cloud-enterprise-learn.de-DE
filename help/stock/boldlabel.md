@@ -1,6 +1,6 @@
 ---
-title: Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte
-description: Mit realistischen Verpackungsvorlagen von Adobe eigene Designs gestalten und visualisieren [!DNL Stock]
+title: Erstellen Sie eine fette Beschriftung mit Adobe [!DNL Stock] Vorlagen und Photoshop Smartobjekten
+description: Gestalten und visualisieren Sie Ihre benutzerdefinierten Designs mit realistischen Verpackungsvorlagen von Adobe [!DNL Stock]
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe ein Etikett erstellen. [!DNL Stock] Vorlagen und Photoshop-Smartobjekte
+# Erstellen Sie eine fette Beschriftung mit Adobe [!DNL Stock]-Vorlagen und Photoshop-Smartobjekten
 
-Mit realistischen Verpackungsvorlagen von Adobe eigene Designs gestalten und visualisieren [!DNL Stock]    .
+Gestalten und visualisieren Sie Ihre benutzerdefinierten Designs mit realistischen Verpackungsvorlagen von Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

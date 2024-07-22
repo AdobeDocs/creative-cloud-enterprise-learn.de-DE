@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Teambibliotheken für Creative Cloud
-description: Elemente über Team-Bibliotheken für Creative Cloud in einer Gruppe oder einem Team freigeben
+title: Erstellen von Creative Cloud-Bibliotheken für Teams
+description: Elemente über Creative Cloud-Bibliotheken für Teams in einer Gruppe oder einem Team freigeben
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Teambibliotheken für Creative Cloud
+# Erstellen von Creative Cloud-Bibliotheken für Teams
 
-Hier erfahren Sie, wie Sie Elemente mithilfe von Teambibliotheken für Creative Cloud innerhalb einer Gruppe oder eines Teams freigeben. Diese Bibliothekstypen sind nicht an ein einzelnes Benutzerkonto gebunden, sondern die Bibliothek gehört dem Team. Sie können Team-Bibliotheken mit der Option ![Baubild](assets/Smock_Building_18_N.png) Symbol.
+Hier erfahren Sie, wie Sie Elemente mithilfe von Creative Cloud-Bibliotheken für Teams innerhalb einer Gruppe oder eines Teams freigeben. Diese Bibliothekstypen sind nicht an ein einzelnes Benutzerkonto gebunden, sondern die Bibliothek gehört dem Team. Sie können Team-Bibliotheken mit dem Symbol ![Image erstellen](assets/Smock_Building_18_N.png) identifizieren.
 
 >[!TIP]
 >
->Verwenden Sie Creative Cloud-Bibliotheken für Teams, wenn Ihr Unternehmen Eigentümer von Kreativ-Assets bleiben muss. Beispiele: Stilvorgaben für das Unternehmen, freigegebene Projekte und Elemente für das UI-Design.
+>Verwenden Sie Creative Cloud-Bibliotheken für Teams jederzeit, wenn Ihr Unternehmen Eigentümer von Kreativ-Assets bleiben muss. Beispiele: Stilvorgaben für das Unternehmen, freigegebene Projekte und Elemente für das UI-Design.
 
 <br> 
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] Tutorials für Nutzungsszenarien
-description: Immer auf dem Laufenden - auf dem Adobe [!DNL Express] Nutzungsszenarien
+title: Adobe [!DNL Express] Use Case Tutorials
+description: Aktuelle Informationen zu Adobe [!DNL Express] Nutzungsszenarien
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,17 +13,17 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] Übungen zu Anwendungsfällen
+# Adobe [!DNL Express] - Übungen zu Anwendungsfällen
 
 Erfahrt, wie unterschiedliche Teams in eurer Organisation vom Adobe Expreß profitieren können.
 
 ## Neue Funktionen
 
-* [Erstellen eines visuellen Werbemittels für einen Online-Lernkurs](promo-visual.md)
+* [Erstellen einer visuellen Promo-Grafik für einen Online-Lernkurs](promo-visual.md)
 Erfahren Sie, wie Sie eine ansprechende Grafik für einen Online-Kurs erstellen.
 * [Erstellen eines Videos zum Jahresende](end-of-year-video.md)
 Erfahre, wie du ein Video zum Jahresende erstellst.
-* [Newsletter erstellen](newsletter.md)
+* [Erstellen eines Newsletters](newsletter.md)
 Erfahren Sie, wie Sie die Startseite eines Newsletters erstellen, der gedruckt, per E-Mail oder als Beitrag im Web verwendet werden kann.
 
 <table style="table-layout:fixed">

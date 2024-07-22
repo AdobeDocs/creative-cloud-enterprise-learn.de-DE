@@ -1,6 +1,6 @@
 ---
-title: Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen
-description: Mache es noch schwieriger, ein tolles Bild zu erstellen, um deine Botschaft zu unterstreichen. Ein individuelles Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an
+title: Ändern der Farben eines Adobe [!DNL Stock] Bildes, sodass es Ihrer Story entspricht
+description: Mache es noch schwieriger, ein tolles Bild zu erstellen, um deine Botschaft zu unterstreichen. Suchen Sie in Adobe [!DNL Stock]  ein individuelles Foto und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Ändern von Adoben [!DNL Stock] Farben des Bilds, die zu Ihrer Story passen
+# Ändern Sie die Farben eines Adobe [!DNL Stock]-Bilds entsprechend Ihrer Story.
 
-Mache es noch schwieriger, ein tolles Bild zu erstellen, um deine Botschaft zu unterstreichen. Ein individuelles Foto in Adobe suchen. [!DNL Stock] und passen Sie dann die Farbe in Adobe Photoshop an Ihre Anforderungen an.
+Mache es noch schwieriger, ein tolles Bild zu erstellen, um deine Botschaft zu unterstreichen. Suchen Sie ein individuelles Foto auf Adobe [!DNL Stock] und passen Sie die Farbe dann in Adobe Photoshop an Ihre Anforderungen an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

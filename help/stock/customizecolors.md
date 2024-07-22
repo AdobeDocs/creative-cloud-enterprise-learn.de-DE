@@ -1,6 +1,6 @@
 ---
 title: Anpassen der Farben in einer Adobe [!DNL Stock] Vektorillustration
-description: Verfeinere deine Projekte mit professionellen Illustrationen. Finde den perfekten Vektor in Adobe [!DNL Stock], und passen Sie dann die Farben mit Adobe Illustrator an die Palette Ihres Projekts an
+description: Verfeinere deine Projekte mit professionellen Illustrationen. Finden Sie den perfekten Vektor in Adobe [!DNL Stock], und passen Sie die Farben mit Adobe Illustrator der Palette Ihres Projekts an.
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Anpassen der Farben in einer Adobe [!DNL Stock] Vektorillustration
+# Anpassen der Farben in einer Adobe [!DNL Stock]-Vektorillustration
 
-Verfeinere deine Projekte mit professionellen Illustrationen. Finde den perfekten Vektor in Adobe [!DNL Stock], und passen Sie dann die Farben mit Adobe Illustrator an die Palette Ihres Projekts an.
+Verfeinere deine Projekte mit professionellen Illustrationen. Finden Sie den perfekten Vektor auf der Adobe [!DNL Stock], und passen Sie die Farben mit Adobe Illustrator der Palette Ihres Projekts an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

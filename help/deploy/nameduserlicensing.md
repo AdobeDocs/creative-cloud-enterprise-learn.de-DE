@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Wenn Ihr Unternehmen keine NUL verwendet und weiterhin eine Bereitstellung mit S
 
 ## Personengebundene Lizenzen
 
-[Personengebundene Lizenzen](https://helpx.adobe.com/enterprise/using/licensing.html) ist ein Software-Lizenzierungsmodell, bei dem die Software einer Einzelperson anstatt einer Seriennummer oder einem Gerät zugewiesen werden kann. NUL bietet IT-Administratoren Sicherheit auf Unternehmensebene mit erweitertem Benutzeridentitätsmanagement und ermöglicht eine einfache Bereitstellung und Verwaltung von Anwendungen mithilfe der Adobe Admin Console.
+Die [personengebundene Lizenzierung](https://helpx.adobe.com/enterprise/using/licensing.html) ist ein Softwarelizenzierungsmodell, bei dem die Software einer Einzelperson anstatt einer Seriennummer oder einem Gerät zugewiesen werden kann. NUL bietet IT-Administratoren Sicherheit auf Unternehmensebene mit erweitertem Benutzeridentitätsmanagement und ermöglicht eine einfache Bereitstellung und Verwaltung von Anwendungen mithilfe der Adobe Admin Console.
 
 ## Vorteile der personengebundenen Lizenzierung:
 
@@ -32,7 +32,7 @@ Wenn Ihr Unternehmen keine NUL verwendet und weiterhin eine Bereitstellung mit S
 
 * Expert Services.
 
-  Ihr Enterprise Term License Agreement mit Adobe bietet eine unbegrenzte Anzahl von 30-minütigen telefonischen Sitzungen oder eine Web-Konferenz mit einem Adobe-Experten, der Sie bei Problemen unterstützen kann. Um eine Session zu buchen, rufen Sie die Registerkarte Support in Admin Console auf und klicken auf **Expert Services-Sitzung vereinbaren**.
+  Ihr Enterprise Term License Agreement mit Adobe bietet eine unbegrenzte Anzahl von 30-minütigen telefonischen Sitzungen oder eine Web-Konferenz mit einem Adobe-Experten, der Sie bei Problemen unterstützen kann. Um eine Sitzung zu buchen, klicken Sie auf der Registerkarte &quot;Support&quot; in der Admin Console auf **Expert Session anfordern**.
 
 * Eine große Anzahl von Benutzern? Kein Problem.
 
@@ -46,4 +46,4 @@ Wenn Ihr Unternehmen keine NUL verwendet und weiterhin eine Bereitstellung mit S
 
   Durch die Nutzung von NUL haben Ihre Anwender Zugriff auf die Produktivitätssteigerungen von Adobe Creative Cloud und Adobe Document Cloud. Sie haben viele Möglichkeiten: Dokumente sicher erstellen und signieren, schnell benutzerdefinierte PDF erstellen, ein Kreativprojekt auf einem Tablet beginnen, bevor es auf dem Desktop weitergegeben wird, Dokumente für ein Team per Document Cloud freigeben und an neuen Teamprojekten in Adobe XD arbeiten. Mit unseren Cloud-basierten Services ist es ganz einfach, Elemente zu teilen und als Remote-Team zusammenzuarbeiten.
 
-Moderne Workflow-Herausforderungen erfordern moderne Lösungen. Adobe unterstützt Sie beim Übergang zur personengebundenen Lizenzierung. Sehen Sie sich die [Leitfaden für die Umstellung auf anwendergebundene Lizenzen.](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) , um mit Ihrem Übergang zu beginnen.
+Moderne Workflow-Herausforderungen erfordern moderne Lösungen. Adobe unterstützt Sie beim Übergang zur personengebundenen Lizenzierung. Lesen Sie das [Handbuch für die Migration zur personengebundenen Lizenzierung](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf), um mit dem Übergang zu beginnen.

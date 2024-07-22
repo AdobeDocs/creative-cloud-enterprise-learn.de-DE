@@ -26,8 +26,8 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
     <div>
    <a href="motion-graphics-templates.md"><strong>Professionelle Animationsvorlagen</strong></a>
     </div>
-    <em>Motion Graphics-Vorlagen (.mogrt) sind eine gemeinschaftliche und effiziente Methode zum Erstellen anpassbarer Animationspakete - Titel, Logoanimationen, Bauchbinden - und zum Teilen mit Redaktionsteams</em>
-    <br>
+    <em>Motion Graphics-Vorlagen (.mogrt) sind eine kooperative und effiziente Methode zum Erstellen anpassbarer Animationspakete - Titel, Logoanimationen, Bauchbinden - und zum Teilen mit Redaktionsteams</em>
+    2<br>
   </td>
   <td>
    <a href="video-review-frame-io.md">
@@ -36,8 +36,8 @@ Lasse deine Ideen Wirklichkeit werden - mit den Desktop-Programmen, Mobile Apps 
     <div>
    <a href="video-review-frame-io.md"><strong>Videoüberprüfung mit Frame.io</strong></a>
     </div>
-    <em>Mit der Erweiterung Frame.io für Adobe Premiere Pro können Sie Assets zentralisieren und freigeben, Kommentare in Echtzeit erhalten, Überarbeitungen verfolgen und schnellere Genehmigungen erhalten - alles, ohne das Schnittfenster verlassen zu müssen</em>
-    <br>
+    <em>Erfahren Sie, wie Sie mit der Frame.io-Erweiterung für Adobe Premiere Pro Assets zentralisieren und freigeben, Kommentare in Echtzeit erhalten, Überarbeitungen verfolgen und schnellere Genehmigungen erhalten können - alles, ohne die Zeitleiste zu verlassen</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />

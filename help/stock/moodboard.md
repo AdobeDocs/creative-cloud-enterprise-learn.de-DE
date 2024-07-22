@@ -1,5 +1,5 @@
 ---
-title: Mit Adobe in wenigen Schritten Moodboards erstellen. [!DNL Stock]
+title: Mit Adobe [!DNL Stock] in kürzester Zeit inspirierende Moodboards erstellen
 description: Erstelle ein Moodboard, um Kollegen/Kunden Informationen, Ideen, Visuals und Farbpaletten für dein Projekt vorzustellen.
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe in wenigen Schritten Moodboards erstellen. [!DNL Stock]
+# Mit Adobe [!DNL Stock] in kürzester Zeit inspirierende Moodboards erstellen
 
 Erstelle ein Moodboard, um Kollegen oder Kunden Informationen, Ideen, Visuals und Farbpaletten für dein Projekt vorzustellen.
 

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Photoshop ist die weltweit führende Software für Bildbearbeitung und Grafik-De
       <img alt="Bilder an Kampagnen anpassen." src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>Bilder an Kampagnen anpassen.</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>Bilder an Ihre Kampagne anpassen</strong></a>
     </div>
-    <em>Wähle mit den Auswahl- und Farbbearbeitungswerkzeugen in Adobe Photoshop ein Bild mit Branding-Elementen aus.</em>
-    <br>
+    <em>Verwenden Sie die leistungsstarken Auswahl- und Farbbearbeitungswerkzeuge in Adobe Photoshop, um ein Bild dramatisch zu ändern, damit es Ihren Branding-Anforderungen entspricht</em>
+    2<br>
   </td>
   <td>
     <a href="photoshop.md#tutorial2">
@@ -37,8 +37,8 @@ Photoshop ist die weltweit führende Software für Bildbearbeitung und Grafik-De
     <div>
     <a href="photoshop.md#tutorial2"><strong>Himmel auswählen und ersetzen</strong></a>
     </div>
-    <em>Automatisches Auswählen des Himmels in einem Bild und Ersetzen durch einen Himmel deiner Wahl, automatisches Anpassen der Farben des Bildes an deine Auswahl</em>
-    <br>
+    <em>Automatisches Auswählen des Himmels in einem Bild und Ersetzen durch einen Himmel Ihrer Wahl, automatisches Anpassen der Farben des Bildes an Ihre Auswahl</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -81,9 +81,9 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ![Photoshop-Logo](../assets/ps_appicon_96.png)
 
-**Ressourcen zu Photoshop**
+**Photoshop-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/photoshop.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/photoshop/using/whats-new.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/photoshop.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/photoshop/using/whats-new.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

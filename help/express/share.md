@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # Teilen und herunterladen
 
-Lerne, wie du Projekte im PNG-, JPEG- oder PDF-Format herunterladen und teilen kannst. Veröffentlichen Sie Projekte im Web, und generieren Sie einen Link, über den Sie sie einfach abrufen können. Oder planen und teilen Sie Medieninhalte direkt auf Social-Media-Plattformen. Dabei haben Sie die Möglichkeit, Posts für jede Plattform anzupassen.
+Lerne, wie du Projekte im PNG-, JPEG- oder PDF-Format herunterladen und teilen kannst. Erstelle Web-Projekte mit Publish, und generiere einen Link für den direkten Zugriff auf deine Social-Media-Projekte. Oder terminiere und teile Medieninhalte direkt auf Social-Media-Plattformen. Du kannst Posts für jede Plattform individuell gestalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
 

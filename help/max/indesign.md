@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstel
     <a href="indesign.md#tutorial1"><strong>QR-Codes generieren</strong></a>
     </div>
     <em>QR-Code generieren, der mit einer Website verknüpft ist</em>
-    <br>
+    2<br>
   </td>
   <td>
    <a href="indesign.md#tutorial2">
@@ -37,18 +37,20 @@ Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstel
     <div>
    <a href="indesign.md#tutorial2"><strong>Zur Überprüfung von InDesign freigeben</strong></a>
     </div>
-    <em>Nahtloses kreatives Review-Erlebnis für Designer und ihre Team-Mitglieder</em>
-    <br>
+    <em>Nahtloses kreatives Review-Erlebnis für Designer und ihre Teammitglieder</em>
+    2<br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importieren von PDF-Kommentaren aus einer Document Cloud-Überprüfung" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="PDF-Kommentare aus einem Dokument importieren 
+Cloud-Überprüfung" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importieren von PDF-Kommentaren aus einer Document Cloud-Überprüfung</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importieren von PDF-Kommentaren aus einem Dokument 
+Cloud-Überprüfung</strong></a>
     </div>
-    <em>Importieren von Kommentaren von einem PDF direkt auf einen InDesign und schnelles Anwenden der angeforderten Änderungen</em>
-    <br>
+    <em>Kommentare von einem PDF direkt auf einen InDesign importieren und die angeforderten Änderungen schnell anwenden</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -59,8 +61,8 @@ Der Branchenstandard, um Dokumente für Print und digitales Publishing zu erstel
     <div>
    <a href="indesign.md#tutorial4"><strong>Videodatei zu InDesign-Dokument hinzufügen</strong></a>
     </div>
-    <em>InDesign mit Video aufwerten. Auf PDF ausgeben und online veröffentlichen.</em>
-    <br>
+    <em>Video zu InDesign hinzufügen. Auf PDF ausgeben und online veröffentlichen</em>
+    1<br>
   </td>
  <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
@@ -103,9 +105,9 @@ In diesem Tutorial lernen Sie Folgendes:
 * Feedback von mehreren Stakeholdern an einem Ort sammeln
 * Verwalten Sie Feedback in der App, wo Änderungen sofort vorgenommen werden können.
 
-**Adobe Review and Comment Options Comparison PDF**
+**Adobe-PDF für Review- und Kommentaroptionen**
 
-[![Vergleichsbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+[![Vergleichsabbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Präsentiert von:**
 Emily Palmer, Lösungsberaterin (Digitale Medien)
@@ -121,9 +123,9 @@ In diesem Tutorial lernen Sie Folgendes:
 * Unterstützt bestehende Arbeitsabläufe zum Kommentieren von PDF
 * Kann für PDF verwendet werden, die aus mehreren Quellen stammen
 
-**Adobe Review and Comment Options Comparison PDF**
+**Adobe-PDF für Review- und Kommentaroptionen**
 
-[![Vergleichsbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+[![Vergleichsabbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Präsentiert von:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
@@ -144,9 +146,9 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
-**InDesign-Ressourcen**
+**InDesign Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/indesign.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/indesign.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

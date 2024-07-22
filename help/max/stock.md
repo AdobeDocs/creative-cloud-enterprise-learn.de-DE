@@ -1,20 +1,20 @@
 ---
 title: "[!DNL Stock]"
-description: Adobe [!DNL Stock] bietet Kreativ-Teams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien
+description: Adobe [!DNL Stock] for Enterprise bietet Kreativteams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Assets
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] bietet Kreativ-Teams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Stockmedien - und das alles direkt aus den Adobe-Programmen heraus, die sie jeden Tag verwenden.
+Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitzustellen, die Aufmerksamkeit erregen und halten. Adobe [!DNL Stock] für Unternehmen bietet Kreativteams Zugriff auf über 200 Millionen Bilder, Videos, Vorlagen, Illustrationen, Audiodateien und 3D-Assets - und das alles direkt aus den Adobe-Kreativprogrammen, die sie täglich verwenden.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -25,20 +25,21 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
       <img alt="Finden Sie die besten Assets schneller mit Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Finden Sie die besten Assets schneller mit Adobe [!DNL Stock]</strong></a>
+   <a href="stock.md#tutorial1"><strong>Finden Sie die besten Assets schneller mit dem Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Mit Adobe Sensei, unserer Engine für künstliche Intelligenz, findet ihr passende lizenzfreie Bilder, die eure Kreativprojekte schneller optimieren.</em>
-    <br>
+    <em>Finden Sie das perfekte lizenzfreie Stock-Bild, um Ihr Kreativprojekt mithilfe besserer und schnellerer Suchergebnisse zu optimieren, die von Adobe Sensei, unserer Engine für künstliche Intelligenz, unterstützt werden</em>
+    2<br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Suchen und Lizenzieren [!DNL Stock] Elemente in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="[!DNL Stock] Assets in AEM suchen und lizenzieren" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Suchen und Lizenzieren [!DNL Stock] Elemente in Adobe Experience Manager</strong></a>
+   <a href="stock.md#tutorial2"><strong>Suchen und Lizenzieren von [!DNL Stock] Assets in 
+Adobe Experience Manager</strong></a>
     </div>
-    <em>Vereinfachen Sie den Vorgang des Hochladens Ihrer lizenzierten Adobe [!DNL Stock] Assets in Ihr Digital Asset Management-System integrieren</em>
-    <br>
+    <em>Vereinfachen Sie das Hochladen Ihrer lizenzierten Adobe [!DNL Stock]-Assets in Ihr Digital Asset Management-System</em>
+    3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -48,7 +49,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
 </tr>
 </table>
 
-## Finden Sie die besten Assets schneller mit Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Die besten Assets schneller finden mit Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -62,19 +63,19 @@ In diesem Tutorial lernen Sie Folgendes:
 
 **Präsentiert von:**
 
-Victoria Torres, [!DNL Stock] Lösungsberater (Digital Media)
+Victoria Torres, [!DNL Stock] Solutions Consultant (Digital Media)
 
-## Suchen und Lizenzieren [!DNL Stock] Elemente in AEM (6:46) {#tutorial2}
+## [!DNL Stock] Assets in AEM suchen und lizenzieren (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Beschreibung**
-Vereinfachen Sie den Vorgang des Hochladens Ihrer lizenzierten Adobe [!DNL Stock] Assets in Ihr Digital Asset Management-System integrieren.
+Vereinfachen Sie das Hochladen Ihrer lizenzierten Adobe [!DNL Stock]-Assets in Ihr Digital Asset Management-System.
 
 In diesem Tutorial lernen Sie Folgendes:
-* Adobe ausführen [!DNL Stock] Asset-Suche ohne AEM Arbeitsbereich zu verlassen
+* Adobe [!DNL Stock]-Asset-Suche durchführen, ohne AEM Arbeitsbereich zu verlassen
 * Lizenzierte Stockmedien zum Zeitpunkt der Lizenzierung direkt in einem AEM Ordner speichern
-* Stockmedien anzeigen, die von AEM in Ihrem [!DNL Stock] Lizenzverlauf auf der [!DNL Stock] Website.
+* Im [!DNL Stock]-Lizenzverlauf auf der [!DNL Stock]-Website können Sie die von AEM lizenzierten Stockmedien anzeigen.
 
 **Präsentiert von:**
 Emily Palmer, Lösungsberaterin (Digitale Medien)
@@ -83,7 +84,7 @@ Emily Palmer, Lösungsberaterin (Digitale Medien)
 
 **Adobe [!DNL Stock] Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/stock.html) ist deine Anlaufstelle für weitere Tutorials und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/stock.html) ist Ihr Hub für zusätzliche Tutorials und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

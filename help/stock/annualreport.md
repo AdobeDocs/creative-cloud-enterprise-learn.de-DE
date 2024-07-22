@@ -1,6 +1,6 @@
 ---
-title: Einen Jahresbericht erstellen, der mit Adobe erstellt wurde [!DNL Stock] und Spark Video
-description: Mit Adobe einen Geschäftsbericht erstellen. [!DNL Stock] und Spark Video
+title: Beginnen Sie Ihren Jahresbericht mit einem Video, das mit Adobe [!DNL Stock]  und Spark Video erstellt wurde.
+description: Erstellen Sie mit Adobe [!DNL Stock]  und Spark Video einen Geschäftsbericht.
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Einen Jahresbericht erstellen, der mit Adobe erstellt wurde [!DNL Stock] und Spark Video
+# Beginnen Sie Ihren Jahresbericht mit einem Video, das mit Adobe [!DNL Stock] und Spark Video erstellt wurde.
 
-Mit Adobe einen Geschäftsbericht erstellen. [!DNL Stock] und Spark Video.
+Erstellen Sie mit Adobe [!DNL Stock] und Spark Video einen Geschäftsbericht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

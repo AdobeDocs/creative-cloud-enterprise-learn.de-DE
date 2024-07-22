@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 0%
 
 ---
 
@@ -25,10 +25,10 @@ Die Adobe InDesign® Server-Software bietet eine robuste und skalierbare Engine,
       <img alt="Datengestützter InDesign Server-Content." src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Datengestützter InDesign Server-Content.</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Datengesteuerter InDesign Server-Inhalt</strong></a>
     </div>
-    <em>Datengestütztes Design lässt sich programmgesteuert mit InDesign Server realisieren</em>
-    <br>
+    <em>Datengesteuertes Design kann programmgesteuert mit InDesign Server</em> erzielt werden
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -69,18 +69,18 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Auswahlhilfe</strong></a>
     </div>
-    <em>Ressourcen für interne Entwickler oder Partner</em>
-    <br>
+    <em>Verfügbare Ressourcen für interne Entwickler oder Partner</em>
+    2<br>
   </td>
   <td>
    <a href="https://www.adobe.com/products/indesignserver/partner.html">
       <img alt="InDesign Server: Unsere Partner." src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Unsere Partner.</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Partner suchen</strong></a>
     </div>
-    <em>Adobe empfiehlt die Zusammenarbeit mit Partnern, um die Lösung zu finden, die Ihren Anforderungen entspricht.</em>
-    <br>
+    <em>Sie verfügen zwar über das Know-how, um intern weiterzuentwickeln, Adobe empfiehlt jedoch die Zusammenarbeit mit Partnern, um die Lösung zu finden, die Ihren Anforderungen entspricht</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -92,9 +92,9 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ![InDesign Server-Logo](../assets/id_server_appicon_96.png)
 
-**InDesign Server-Ressourcen**
+**InDesign Server Ressourcen**
 
-[Training und Support](https://www.adobe.com/products/indesignserver.html) Hier findest du weitere Tutorials, neue Funktionen und Links zu Community-Foren.
+[Training und Support](https://www.adobe.com/products/indesignserver.html) ist Ihr Hub für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

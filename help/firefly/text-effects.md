@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Texteffekte
 
-Erfahren Sie, wie Sie mit einfachen Textaufforderungen einzigartige und inspirierende Texte für Ihre Projekte erstellen. Mit Texteffekten kannst du deine Kreativität steigern und außergewöhnlichen Text für deine Projekte erstellen. Adobe Firefly testen [hier](https://firefly.adobe.com/).
+Erfahren Sie, wie Sie mit einfachen Textaufforderungen einzigartige und inspirierende Texte für Ihre Projekte erstellen. Mit Texteffekten kannst du deine Kreativität steigern und außergewöhnlichen Text für deine Projekte erstellen. Adobe Firefly [hier](https://firefly.adobe.com/) testen.
 
 <br> 
 

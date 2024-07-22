@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,13 +22,15 @@ Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Progr
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Entdecken Sie die CC Desktop-Applikation: Ihr Hub für Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Entdecken Sie die CC Desktop-Applikation: Ihr Hub für 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Entdecken Sie die CC Desktop-Applikation: Ihr Hub für Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Entdecken Sie die CC Desktop-Applikation: Ihr Hub für 
+Creative Cloud</strong></a>
     </div>
-    <em>Der Creative Cloud-Client ist Ihre Anlaufstelle für die Verwaltung von CC-Programmen, -Services und -Funktionen zur Zusammenarbeit - und vieles mehr!</em>
-    <br>
+    <em>Der Creative Cloud-Client ist Ihr Hub für die Verwaltung von CC-Programmen, -Services und die Zusammenarbeit - und vieles mehr!</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

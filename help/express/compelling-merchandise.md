@@ -5,10 +5,11 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13999
-source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
+exl-id: caafeb4c-7948-4a96-975d-c1f0d40dd96c
+source-git-commit: 068b3b3cc5c5d6281e06d810a1ee5e3242227881
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +17,6 @@ ht-degree: 2%
 
 Erfahre, wie ein Commerce-Team auf einfache Weise überzeugende Bilder für eine neue Art von Inventar in seinem Onlineshop erstellen kann. In diesem Workflow erstellt der Merchandise-Manager eine neue Vorlage im Adobe Expreß für eine neue Merchandise. Der Marketer erstellt dann ein neues Projekt für Web-Anzeigen und passt Text und Bilder aus markeninternen Bibliotheken an ihre Anforderungen an. Außerdem bearbeiten sie ein Marketing-Video für das neue Inventar.
 
-In diesem Tutorial wird das neue [Adobe Expreß](https://www.adobe.com/express/).
+In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)

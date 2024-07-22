@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] How-tos für Tutorials
-description: Immer auf dem Laufenden - auf dem Adobe [!DNL Express]
+title: Adobe [!DNL Express] Anleitungen für Tutorials
+description: Auf dem Adobe  [!DNL Express] auf dem neuesten Stand sein
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] How-tos
+# Adobe [!DNL Express]-How-tos
 
 Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreative Arbeiten erstellen, die auffallen. Flyer, TikToks, Lebensläufe und Reels mit Adobe Expreß.
 

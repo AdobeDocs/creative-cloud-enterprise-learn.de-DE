@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,20 +25,20 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
       <img alt="Initiieren einer gemeinsamen Acrobat-Überprüfung" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Initiieren einer gemeinsamen Acrobat-Überprüfung</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Initiieren einer freigegebenen Acrobat-Überprüfung</strong></a>
     </div>
-    <em>Reviewer einladen, einem PDF-Dokument Kommentare hinzuzufügen</em>
-    <br>
+    <em>Überprüfer einladen, ihre Kommentare einem PDF-Dokument hinzuzufügen</em>
+    2<br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
         <img alt="Forms mit Adobe Sign erstellen und auf Online-Services verzichten" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Forms mit Adobe Sign erstellen und auf Online-Services verzichten</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Onlineverzicht auf Forms mit Adobe Sign erstellen</strong></a>
     </div>
-    <em>Wandelt Dokumente in Online-Formulare um, und stellt sie online bereit, damit jeder, der sie braucht, sie ausfüllen und unterschreiben kann.</em>
-    <br>
+    <em>Dokumente schnell in Online-Formulare umwandeln und online bereitstellen, wo jeder, der sie braucht, sie ausfüllen und unterschreiben kann</em>
+    2<br>
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
@@ -47,8 +47,8 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Signatur mit Adobe Sign anfordern</strong></a>
     </div>
-    <em>Word in PDF umwandeln und mit Adobe Sign Dokumente zum Unterschreiben versenden</em>
-    <br>
+    <em>Wechseln Sie von Word zu PDF und senden Sie das Dokument zur Signatur mit Adobe Sign</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -57,20 +57,20 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
       <img alt="Anzeigen von Menüs auf Mobilgeräten mit Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>Anzeigen von Menüs auf Mobilgeräten mit Liquid Mode</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>Menüs auf Mobilgeräten mit Liquid Mode anzeigen</strong></a>
     </div>
-    <em>Verwenden des Liquid Mode zur Verbesserung des Leseerlebnisses beim PDF auf Mobilgeräten</em>
-    <br>
+    <em>Verwenden Sie den Liquid Mode, um das Leseerlebnis beim PDF auf Mobilgeräten zu verbessern</em>
+    2<br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
         <img alt="Scannen von Dokumenten in PDF über Ihr Mobiltelefon" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>Scannen von Dokumenten in PDF über Ihr Mobiltelefon</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>Dokumente von Ihrem Mobiltelefon aus nach PDF scannen</strong></a>
     </div>
-    <em>Mit Adobe Scan kannst du Dokumente, Formulare, Visitenkarten und Whiteboards einfach abfotografieren und in hochwertige Adobe-PDF umwandeln</em>
-    <br>
+    <em>Mit Adobe Scan können Sie Dokumente, Formulare, Visitenkarten und Whiteboards einfach erfassen und in hochwertige Adobe-PDF umwandeln</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
@@ -92,12 +92,13 @@ In diesem Tutorial lernen Sie Folgendes:
 * Kommentare an zentraler Stelle zusammenführen
 * Gleichzeitiges Kommentieren fördert die Zusammenarbeit
 
-**Adobe Review and Comment Options Comparison PDF**
+**Adobe-PDF für Review- und Kommentaroptionen**
 
-[![Vergleichsbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+[![Vergleichsabbild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Präsentiert von:**
-Dan Armstrong, Solutions Consultant (Digital Media) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+Dan Armstrong, Lösungsberater (Digitale Medien)
+Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 ## Online-Verzicht auf Forms mit Adobe Sign erstellen (5:19) {#tutorial2}
 
@@ -112,7 +113,8 @@ In diesem Tutorial lernen Sie Folgendes:
 * Abgeschlossene Formulare werden automatisch für Ihre Unterlagen archiviert
 
 **Präsentiert von:**
-Taylor Kobey, Solutions Consultant (Digitale Medien) Emily Palmer, Solutions Consultant (Digitale Medien)
+Taylor Kobey, Lösungsberater (Digitale Medien)
+Emily Palmer, Lösungsberaterin (Digitale Medien)
 
 ## Unterschrift bei Adobe Sign anfordern (3:21) {#tutorial3}
 
@@ -161,7 +163,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Ressourcen für Acrobat und Adobe Sign**
 
-[Training und Support](https://helpx.adobe.com/support/document-cloud.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/acrobat/using/whats-new.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/document-cloud.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/acrobat/using/whats-new.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

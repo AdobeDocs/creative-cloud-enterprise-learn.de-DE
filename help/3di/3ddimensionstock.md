@@ -1,6 +1,6 @@
 ---
-title: Anpassen und Branding eines 3D-Modells mit [!DNL Dimension] und Adobe [!DNL Stock]
-description: Anpassen und Branding eines 3D-Modells in [!DNL [!DNL Dimension]] Materialien, Umwelteigenschaften, Beleuchtung und Fotografie nutzen, um fotorealistische Bilder für jedes Design-Projekt zu erstellen
+title: 3D-Modell anpassen und mit  [!DNL Dimension]  und Adobe [!DNL Stock] markieren
+description: Anpassen und Branding eines 3D-Modells in [!DNL [!DNL Dimension]] mithilfe von Materialien, Umgebungseigenschaften, Beleuchtung und Fotografie, um fotorealistische Bilder für jedes Design-Projekt zu erstellen
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 ---
 
-# Anpassen und Branding eines 3D-Modells mit [!DNL Dimension] und Adobe [!DNL Stock]
+# 3D-Modell mit [!DNL Dimension] und Adobe [!DNL Stock] anpassen und markieren
 
-Anpassen und Branding eines 3D-Modells in [!DNL Dimension] Materialien, Umwelteigenschaften, Beleuchtung und Fotografie nutzen, um fotorealistische Bilder für jedes Design-Projekt zu erstellen.
+Passen Sie ein 3D-Modell in [!DNL Dimension] an und markieren Sie es mit Materialien, Umgebungseigenschaften, Beleuchtung und Fotografie, um fotorealistische Bilder für jedes Design-Projekt zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 
 Klicken Sie auf das PDF-Dateisymbol, um eine Kurzanleitung zu diesem Tutorial herunterzuladen.
 
-[![PDF-Dateisymbol](../assets/acrobat_PDF_96.png)](../quick-reference/SkiptheShootGettheShot.pdf)
+[![PDF Dateisymbol](../assets/acrobat_PDF_96.png)](../quick-reference/SkiptheShootGettheShot.pdf)

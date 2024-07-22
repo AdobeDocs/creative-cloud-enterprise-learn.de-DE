@@ -1,5 +1,5 @@
 ---
-title: Mit Adobe eine Komposition mit surrealem Touch erstellen. [!DNL Stock]
+title: Mit Adobe [!DNL Stock] eine Komposition mit surrealem Touch erstellen.
 description: Gestalte ein redaktionelles Bild mit einer Kombination aus mehreren Bildern, Farbe, Bewegung und Maskierungseffekten.
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Mit Adobe eine Komposition mit surrealem Touch erstellen. [!DNL Stock]
+# Erstellen einer semisurrealen Komposition mit Adobe [!DNL Stock]
 
 Gestalte ein redaktionelles Bild mit einer Kombination aus mehreren Bildern, Farbe, Bewegung und Maskierungseffekten.
 

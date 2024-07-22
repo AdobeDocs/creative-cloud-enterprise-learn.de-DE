@@ -1,20 +1,20 @@
 ---
 title: "[!DNL Rush]"
-description: Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für die Videobearbeitung, mit der sich Online-Inhalte einfacher als je zuvor erstellen und teilen lassen
+description: Premiere [!DNL Rush]  ist die erste geräteübergreifende All-in-One-Videobearbeitungs-App, die das Erstellen und Freigeben von Online-Inhalten einfacher als je zuvor macht
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
 
-Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für die Videobearbeitung, mit der sich Online-Inhalte einfacher als je zuvor erstellen und teilen lassen. Mit der integrierten Lösung für Desktop, Smartphone und Tablet werden Projekte und alle Änderungen automatisch mit der Cloud synchronisiert. So kannst du überall und auf jedem Gerät arbeiten.
+Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-One-Videobearbeitungs-App, die das Erstellen und Freigeben von Onlineinhalten einfacher denn je macht. Mit der integrierten Lösung für Desktop, Smartphone und Tablet werden Projekte und alle Änderungen automatisch mit der Cloud synchronisiert. So kannst du überall und auf jedem Gerät arbeiten.
 
 ## Tutorials für Produkte durchsuchen
 
@@ -25,10 +25,10 @@ Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für
       <img alt="Video für Social Media erstellen" src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
    </a>
     <div>
-   <a href="rush.md#tutorial1"><strong>Video für Social Media erstellen</strong></a>
+   <a href="rush.md#tutorial1"><strong>Ein Social-Media-Video erstellen</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] ermöglicht die Arbeit auf jedem Gerät und macht professionelle Ausgaben für Einsteiger einfach genug.</em>
-    <br>
+    <em>Auf dem [!DNL Rush]-Adobe können Sie auf jedem Gerät arbeiten. Die professionelle Ausgabe ist für Anfänger einfach genug</em>
+    3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -48,14 +48,14 @@ Premiere [!DNL Rush] ist die erste geräteübergreifende All-in-one-Lösung für
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Beschreibung**
-Erzähle deine Story mit Video- und Audioelementen von Adobe [!DNL Stock]. Adobe [!DNL Rush] kannst du auf jedem Gerät arbeiten. Professionelle Ergebnisse sind für Einsteiger genauso einfach wie für Profis.
+Erzählen Sie Ihre Geschichte mithilfe von Video- und Audiodateien von Adobe [!DNL Stock]. Mit Adobe [!DNL Rush] können Sie auf jedem Gerät arbeiten und die professionelle Ausgabe ist für Anfänger einfach genug.
 
 In diesem Tutorial lernen Sie Folgendes:
 * Videos auf dem Desktop, Tablet oder Smartphone bearbeiten
 * Motivzentrierung auf horizontale, quadratische und vertikale Formfaktoren mit KI-Technologie von Auto Reframe
 * Motion Graphic Templates (MoGRTs) ermöglichen professionelle Aufnahmen und sind leicht anpassbar - auch für Titel und Bauchbinden
 * Einfaches Exportieren und Veröffentlichen direkt in Social Media-Kanälen
-* Öffnen [!DNL Rush] Projekte in Adobe Premiere Pro
+* [!DNL Rush] Projekte in Adobe Premiere Pro öffnen
 
 **Präsentiert von:**
 A.J. Wood, Solutions Consultant (Digital Media)
@@ -64,7 +64,7 @@ A.J. Wood, Solutions Consultant (Digital Media)
 
 **[!DNL Rush]Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/premiere-rush.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/premiere-rush.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

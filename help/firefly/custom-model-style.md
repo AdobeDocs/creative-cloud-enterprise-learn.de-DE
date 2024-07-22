@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Erstellen eines benutzerdefinierten Modells mithilfe von Stilen
 
-Erfahre, wie du in Firefly eigene Modelle erstellst, um anhand bestimmter Stiltypen (z. B. Hintergründe, Farben oder Farbtöne) neues Bildmaterial für die Marke deines Unternehmens zu erstellen. Mit benutzerdefinierten Modellen können Sie relevante, personalisierte Inhalte in großem Umfang erstellen. Adobe Firefly testen [hier](https://firefly.adobe.com/).
+Erfahre, wie du in Firefly eigene Modelle erstellst, um anhand bestimmter Stiltypen (z. B. Hintergründe, Farben oder Farbtöne) neues Bildmaterial für die Marke deines Unternehmens zu erstellen. Mit benutzerdefinierten Modellen können Sie relevante, personalisierte Inhalte in großem Umfang erstellen. Adobe Firefly [hier](https://firefly.adobe.com/) testen.
 
 <br> 
 
@@ -23,4 +23,4 @@ Erfahre, wie du in Firefly eigene Modelle erstellst, um anhand bestimmter Stilty
 
 >[!IMPORTANT]
 >
->Erfahren Sie mehr über die [Sicherheitsarchitektur und Datenfluss benutzerdefinierter Modelle](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>Erfahren Sie mehr über die [Sicherheitsarchitektur und den Datenfluss von benutzerdefinierten Modellen](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).

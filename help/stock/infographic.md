@@ -1,6 +1,6 @@
 ---
-title: Infografik zu Unternehmensrichtlinien mit Adobe erstellen [!DNL Stock]
-description: Mehrere Elemente aus einer Adobe kombinieren. [!DNL Stock] Leitlinien in Form von visuell überzeugenden Infografiken kommunizieren
+title: Erstellen einer Infografik zu Unternehmensrichtlinien mit Adobe [!DNL Stock]
+description: Kombinieren einer Vielzahl von Assets von Adobe [!DNL Stock] , um Richtlinien in Form von visuell überzeugenden Infografiken zu kommunizieren
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Infografik zu Unternehmensrichtlinien mit Adobe erstellen [!DNL Stock]
+# Erstellen einer Infografik zu Unternehmensrichtlinien mit Adobe [!DNL Stock]
 
-Mehrere Elemente aus einer Adobe kombinieren. [!DNL Stock] um Richtlinien in Form von visuell überzeugenden Infografiken zu kommunizieren.
+Kombinieren Sie verschiedene Assets von Adobe [!DNL Stock], um Richtlinien in Form von visuell überzeugenden Infografiken zu kommunizieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

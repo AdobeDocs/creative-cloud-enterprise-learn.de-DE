@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,8 @@ Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch-Ger
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Einführung in Illustrator auf dem iPad</strong></a>
     </div>
-    <em>Erstellen Sie ein Symbol für einen Problemort und wandeln Sie es in ein Muster um, das Sie auf Ihr [!DNL Dimension] und Zazzle-Projekt!</em>
-    <br>
+    <em>Erstellen Sie ein Symbol für einen Problemspeicherort und wandeln Sie es in ein Muster um, das Sie auf Ihr [!DNL Dimension]- und Zazzle-Projekt anwenden können!</em>
+    3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -48,7 +48,7 @@ Adobe Illustrator auf dem iPad ist ein Vektordesign-Erlebnis, das für Touch-Ger
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **Beschreibung**
-Mit dieser kurzen Übersicht über Illustrator für iPad können Sie schnell loslegen, um ein Symbol für einen Problemort zu erstellen und es in ein Muster umzuwandeln, das Sie auf Ihr [!DNL Dimension] und Zazzle-Projekt!
+Mit dieser kurzen Übersicht zu Illustrator für iPad können Sie schnell loslegen, um ein Symbol für einen Problemort zu erstellen und es in ein Muster umzuwandeln, das Sie auf Ihr [!DNL Dimension]- und Zazzle-Projekt anwenden können!
 
 In diesem Tutorial lernen Sie Folgendes:
 * Das für iPad neu gestaltete Illustrator transformiert die Produktivität, beschleunigt die Zusammenarbeit, erweitert die kreativen Skills und ermöglicht kreativen Austausch für alle.
@@ -59,11 +59,11 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
-![Logo von Illustrator auf iPad](../assets/ai_appicon_96.png)
+![Illustrator auf iPad-Logo](../assets/ai_appicon_96.png)
 
-**Ressourcen zu Illustrator auf iPad**
+**Illustrator auf iPad-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

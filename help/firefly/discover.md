@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Discover Adobe Firefly
 
-Entdecken Sie das Adobe Firefly [Zukunft der Kreativität](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) mit generativer KI, entwickelt für die kommerzielle Sicherheit und Innovation. Adobe Firefly testen [hier](https://firefly.adobe.com/).
+Entdecken Sie das Adobe Firefly der [Zukunft der Kreativität](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) mit generativer KI, die für die kommerzielle Sicherheit und Innovation entwickelt wurde. Adobe Firefly [hier](https://firefly.adobe.com/) testen.
 
 <br> 
 

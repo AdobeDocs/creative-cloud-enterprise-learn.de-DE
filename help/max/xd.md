@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -25,42 +25,44 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
       <img alt="Erstellen von Komponenten mit Hover-Zuständen" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Erstellen von Komponenten mit Hover-Zuständen</strong></a>
+   <a href="xd.md#tutorial1"><strong>Komponenten mit Hover-Status erstellen</strong></a>
     </div>
-    <em>Erstellen Sie wiederverwendbare, dynamisch skalierbare Schaltflächen für Ihre interaktiven Designs</em>
-    <br>
+    <em>Wiederverwendbare, dynamisch skalierbare Schaltflächen für Ihre interaktiven Designs erstellen</em>
+    2<br>
   </td>
   <td>
     <a href="xd.md#tutorial2">
         <img alt="Wiederholungsraster erstellen und füllen" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Wiederholungsraster erstellen und füllen</strong></a>
+    <a href="xd.md#tutorial2"><strong>Ein Wiederholungsraster erstellen und ausfüllen</strong></a>
     </div>
-    <em>Ein einzelnes Element lässt sich durch Klicken und Ziehen in ein Wiederholungsraster umwandeln.</em>
-    <br>
+    <em>Ein einzelnes Element mit einem einfachen Klicken und Ziehen in Wiederholungsraster umwandeln</em>
+    2<br>
   </td>
   <td>
    <a href="xd.md#tutorial3">
       <img alt="Arbeiten mit Stapeln" src="../assets/xd_Stacks_thumbnail.jpg" />
    </a>
     <div>
-    <a href="xd.md#tutorial3"><strong>Arbeiten mit Stapeln</strong></a>
+    <a href="xd.md#tutorial3"><strong>Mit Stapeln arbeiten</strong></a>
     </div>
-    <em>Verwenden Sie die Stack-Eigenschaft, um Elemente einfach neu anzuordnen</em>
-    <br>
+    <em>Verwenden Sie die Stapeleigenschaft, um Elemente einfach neu anzuordnen</em>
+    2<br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Erstellen eines Prototyps - Ankerlinks und Bildlaufgruppen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Erstellen eines Prototyps - Ankerverknüpfungen und 
+Bildlaufgruppen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Erstellen eines Prototyps - Ankerlinks und Bildlaufgruppen</strong></a>
+    <a href="xd.md#tutorial4"><strong>Prototyp erstellen: Ankerverknüpfungen und 
+Bildlaufgruppen</strong></a>
     </div>
-    <em>Hinzufügen von Navigation und Bildlauf zu einem Prototyp</em>
-    <br>
+    <em>Navigation und Bildlauf zu einem Prototyp hinzufügen</em>
+    2<br>
   </td>
   <td>
     <a href="xd.md#tutorial5">
@@ -70,17 +72,17 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <a href="xd.md#tutorial5"><strong>Prototyp erstellen - Interaktive Komponentenzustände</strong></a>
     </div>
     <em>Interaktivität und ein Überlagerungsmenü zu einem Prototyp hinzufügen</em>
-    <br>
+    2<br>
   </td>
   <td>
    <a href="xd.md#tutorial6">
       <img alt="E-Mail - Erstellen und Ausfüllen eines Wiederholungsrasters" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-Mail - Erstellen und Ausfüllen eines Wiederholungsrasters</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-Mail - Ein Wiederholungsraster erstellen und ausfüllen</strong></a>
     </div>
-    <em>Ein einzelnes Element lässt sich durch Klicken und Ziehen in ein Wiederholungsraster umwandeln.</em>
-    <br>
+    <em>Ein einzelnes Element mit einem einfachen Klicken und Ziehen in Wiederholungsraster umwandeln</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -89,10 +91,10 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
         <img alt="E-Mail - Arbeiten mit Stapeln" src="../assets/xd_stacks_torres.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial7"><strong>E-Mail - Arbeiten mit Stapeln</strong></a>
+    <a href="xd.md#tutorial7"><strong>E-Mail - Mit Stapeln arbeiten</strong></a>
     </div>
-    <em>Verwenden Sie die Stack-Eigenschaft, um Elemente einfach neu anzuordnen</em>
-    <br>
+    <em>Verwenden Sie die Stapeleigenschaft, um Elemente einfach neu anzuordnen</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -107,7 +109,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
 </tr>
 </table>
 
-## Erstellen [!UICONTROL Komponenten] mit Hover-Zuständen (7:35) {#tutorial1}
+## [!UICONTROL Komponenten] mit Hover-Status erstellen (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
@@ -210,9 +212,9 @@ Victoria Torres, Lösungsberaterin (Digitale Medien)
 
 ![XD Logo](../assets/xd_appicon_96.png)
 
-**XD**
+**XD Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/xd.html) ist Ihre Anlaufstelle für weitere Tutorials, [Neue Funktionen](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/xd.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

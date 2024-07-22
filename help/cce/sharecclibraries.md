@@ -1,6 +1,6 @@
 ---
-title: Branding-Elemente mithilfe von Teambibliotheken für Creative Cloud freigeben
-description: Hier erfahren Sie, wie Sie Branding-Elemente mithilfe von Teambibliotheken für Creative Cloud für Ihre Gruppe oder Ihr Team erstellen, verwenden und freigeben.
+title: Branding-Elemente mit Creative Cloud-Bibliotheken für Teams austauschen
+description: Hier erfahren Sie, wie Sie mithilfe von Creative Cloud-Bibliotheken für Teams Branding-Elemente für Ihre Gruppe oder Ihr Team erstellen, verwenden und freigeben.
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams
 
-Hier erfahren Sie, wie Sie mithilfe von Teambibliotheken Branding-Elemente für Ihre Gruppe oder Ihr Creative Cloud erstellen, verwenden und freigeben. Die Elemente in Teambibliotheken für Creative Cloud werden an einem zentralen Ort gespeichert und sind nicht an das jeweilige Benutzerkonto gebunden. Sie können Team-Bibliotheken mit der Option ![Baubild](assets/Smock_Building_18_N.png) Symbol.
+Hier erfahren Sie, wie Sie mit Creative Cloud-Bibliotheken für Teams Branding-Elemente für Ihre Gruppe oder Ihr Team erstellen, verwenden und freigeben. Elemente in Creative Cloud-Bibliotheken für Teams werden an einem zentralen Ort gespeichert und sind nicht an das jeweilige Benutzerkonto gebunden. Sie können Team-Bibliotheken mit dem Symbol ![Image erstellen](assets/Smock_Building_18_N.png) identifizieren.
 
 >[!TIP]
 >
->Verwenden Sie Creative Cloud-Bibliotheken für Teams, wenn Ihr Unternehmen Eigentümer von Kreativ-Assets bleiben muss. Beispiele: Stilvorgaben für das Unternehmen, freigegebene Projekte und Elemente für das UI-Design.
+>Verwenden Sie Creative Cloud-Bibliotheken für Teams jederzeit, wenn Ihr Unternehmen Eigentümer von Kreativ-Assets bleiben muss. Beispiele: Stilvorgaben für das Unternehmen, freigegebene Projekte und Elemente für das UI-Design.
 
 <br> 
 
