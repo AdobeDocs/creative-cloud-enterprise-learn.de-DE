@@ -80,8 +80,8 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **CC Libraries-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) ist Ihr Hub für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/de/creative-cloud/help/libraries.html) ist Ihr Hub für zusätzliche Tutorials, Neuerungen und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

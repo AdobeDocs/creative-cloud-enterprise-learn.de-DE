@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Rush]"
+title: '[!DNL Rush]'
 description: Premiere [!DNL Rush]  ist die erste geräteübergreifende All-in-One-Videobearbeitungs-App, die das Erstellen und Freigeben von Online-Inhalten einfacher als je zuvor macht
 feature: Video Editing
 role: User
@@ -68,4 +68,4 @@ A.J. Wood, Solutions Consultant (Digital Media)
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Dimension]"
-description: "[!DNL Dimension] erleichtert die Erstellung von Branding-Visualisierungen, Illustrationen, Produktmodellen, Verpackungsdesigns und anderen kreativen Arbeiten."
+title: '[!DNL Dimension]'
+description: Mit [!DNL Dimension] ist es ganz einfach, Branding-Visualisierungen, Illustrationen, Produktmodelle, Verpackungs-Designs und andere kreative Arbeiten zu erstellen.
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -64,4 +64,4 @@ Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
