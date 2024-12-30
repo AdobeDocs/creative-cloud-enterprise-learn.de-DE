@@ -4,7 +4,8 @@ description: Lernen Sie, wie Sie schnell Multi-Channel-HR-Content für Veranstal
 feature: Image Editing, Gen AI
 level: Intermediate
 jira: KT-16224
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+exl-id: 0892d003-487d-4caf-9b22-0293737e8dcc
+source-git-commit: 4cb67be23d1f81a3959aeaa5c3597d467b3c22a4
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 1%
