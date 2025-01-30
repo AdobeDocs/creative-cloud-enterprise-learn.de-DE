@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Erfahrt, wie ihr markengerechte Inhalte schnell und effizient für das gesamte U
          <div>
          <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen</strong></a>
          </div>
-         <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
+         <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
          2<br>
    </td>
    <td>

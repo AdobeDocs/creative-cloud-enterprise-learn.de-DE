@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Sperren von Ebenen (Anleitung und Gründe)" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Wie und warum Ebenen gesperrt werden</strong></a>
+            </div>
+            <em>Erfahren Sie, warum es wichtig ist, verschiedene Elemente Ihrer Vorlage zu sperren</em>
+            2<br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Erstellen einer Vorlage" src="assets/create-template.png" />
+            <img alt="Maximieren Sie die Effizienz: Erstellen Sie wiederverwendbare Vorlagen" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
+         2<br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Vorlagen speichern und freigeben" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Vorlagen speichern und freigeben</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie Vorlagen speichern und in einer Branding-Kit oder Bibliothek für Ihr Team freigeben</em>
+         2<br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Vorlagen verwenden" src="assets/use-templates.png" />
+            <img alt="Einfache Markenkonsistenz mit Vorlagen." src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Mühelose Markenkonsistenz mit Vorlagen</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie schnell und effizient markengerechte Inhalte in Ihrer gesamten Organisation erstellen</em>
+         2<br>
    </td>
 </tr>
 </table>
