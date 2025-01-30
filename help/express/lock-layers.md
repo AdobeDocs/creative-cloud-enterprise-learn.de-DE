@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,33 @@ Erfahren Sie, warum es wichtig ist, verschiedene Elemente Ihrer Vorlage zu sperr
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Erstellen einer Vorlage" src="assets/create-template.png" />
+            <img alt="Maximieren Sie die Effizienz: Erstellen Sie wiederverwendbare Vorlagen" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
+         2<br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Vorlagen speichern und freigeben" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Vorlagen speichern und freigeben</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie Vorlagen speichern und in einer Branding-Kit oder Bibliothek für Ihr Team freigeben</em>
+         2<br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Vorlagen verwenden" src="assets/use-templates.png" />
+            <img alt="Einfache Markenkonsistenz mit Vorlagen." src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Mühelose Markenkonsistenz mit Vorlagen</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie schnell und effizient markengerechte Inhalte in Ihrer gesamten Organisation erstellen</em>
+         2<br>
    </td>
    <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />

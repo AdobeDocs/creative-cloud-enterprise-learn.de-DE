@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,35 @@ Lernen Sie, wie Sie Vorlagen in einer Corporate Identity oder einer Bibliothek f
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Sperren von Ebenen (Anleitung und Gründe)" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Sperren von Ebenen (Anleitung und Gründe)" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Wie und warum Ebenen gesperrt werden</strong></a>
+            </div>
+            <em>Erfahren Sie, warum es wichtig ist, verschiedene Elemente Ihrer Vorlage zu sperren</em>
+            2<br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Erstellen einer Vorlage" src="assets/create-template.png" />
+            <img alt="Maximieren Sie die Effizienz: Erstellen Sie wiederverwendbare Vorlagen" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
+         2<br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="Vorlagen verwenden" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="Einfache Markenkonsistenz mit Vorlagen." src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>Mühelose Markenkonsistenz mit Vorlagen</strong></a>
+         </div>
+         <em>Erfahren Sie, wie Sie schnell und effizient markengerechte Inhalte in Ihrer gesamten Organisation erstellen</em>
+         2<br>
+   </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
