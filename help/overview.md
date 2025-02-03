@@ -5,9 +5,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: b19c63ed79c7baabb40dc0272de4578a73ef6e2b
+source-git-commit: e3a0f88410bba532ef108f64c41946031478ca7f
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '260'
 ht-degree: 11%
 
 ---
@@ -262,92 +262,3 @@ Willkommen beim Learning Hub für Creative Cloud für Unternehmen. Hier finden S
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="cce/overview-cce.md">
-         <img alt="Tutorials zu Creative Cloud für Unternehmen." src="assets/CCecard.png" />
-      </a>
-      <div>
-          <a href="cce/overview-cce.md"><strong>Creative Cloud für Unternehmenstutorials</strong></a>
-          </div>
-          <em>Neue Funktionen in der neuesten Version von Creative Cloud - aus Unternehmenssicht</em>
-          2<br>
-   </td>
-   <td>
-      <a href="express/overview-express.md">
-         <img alt="Adobe Express" src="assets/Expresscard.png" />
-      </a>
-      <div>
-          <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
-          </div>
-          <em>Beginnen Sie mit der Erstellung beeindruckender Inhalte, die sich von anderen abheben.</em>
-        2<br>
-   </td>
-   <td>
-      <a href="firefly/overview-firefly.md">
-         <img alt="Firefly" src="assets/Fireflycard.png" />
-      </a>
-      <div>
-          <a href="firefly/overview-firefly.md"><strong>Firefly</strong></a>
-          </div>
-          <em>Erfahren Sie alles über die generativen KI-Modelle in Adobe-Produkten</em>
-        2<br>
-   </td>
-   <td>
-      <a href="stock/overview-stock.md">
-         <img alt="Adobe Stock" src="assets/Stockcard.png" />
-      </a>
-      <div>
-          <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
-          </div>
-          <em>Hochwertige digitale Bilder, Illustrationen, Videos, Audiomaterial, Vorlagen und mehr</em>
-        2<br>
-   </td>
-</tr>
-<tr>
-  <td>
-      <a href="3di/overview-3di.md">
-         <img alt="Adobe 3D/VR" src="assets/3Dcard.png" />
-      </a>
-      <div>
-          <a href="3di/overview-3di.md"><strong>Adobe 3D &amp; VR</strong></a>
-          </div>
-          <em>Erstellen fotorealistischer 3D-Bilder für Branding, Produktfotos und Verpackungs-Design</em>
-        2<br>
-   </td>
-   <td>
-      <a href="dva/overview-dva.md">
-         <img alt="Adobe-Video" src="assets/Videocard.png" />
-      </a>
-      <div>
-          <a href="dva/overview-dva.md"><strong>Adobe-Video</strong></a>
-          </div>
-          <em>Erwecke deine Ideen zum Leben mit Video</em>
-        2<br>
-   </td>
-   <td>
-      <a href="xd/overview-xd.md">
-         <img alt="Adobe XD" src="assets/XDcard.png" />
-      </a>
-      <div>
-          <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-          </div>
-          <em>Benutzererfahrungen entwerfen, Prototypen erstellen und freigeben</em>
-        2<br>
-   </td>
-    <td>
-      <a href="max/overview-max.md">
-         <img alt="Adobe MAX" src="assets/Maxcard.png" />
-      </a>
-      <div>
-          <a href="max/overview-max.md"><strong>Adobe MAX</strong></a>
-          </div>
-          <em>Weitere Informationen zu den MAX 2020-Unternehmenssitzungen</em>
-        2<br>
-   </td>
-</tr>
-</table>
-<!-- END COMMENT -->
