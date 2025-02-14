@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,10 @@ Lernen Sie, wie Sie Vorlagen in einer Corporate Identity oder einer Bibliothek f
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximieren Sie die Effizienz: Erstellen Sie wiederverwendbare Vorlagen" src="assets/create-template.png" />
+            <img alt="Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen</strong></a>
+         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlage erstellen</strong></a>
          </div>
          <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
          2<br>

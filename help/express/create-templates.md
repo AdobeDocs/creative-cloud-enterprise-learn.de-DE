@@ -1,19 +1,19 @@
 ---
-title: Maximieren Sie die Effizienz - Erstellen Sie wiederverwendbare Vorlagen
+title: Maximieren Sie die Effizienz - Erstellen Sie eine wiederverwendbare Vorlage
 description: Erfahrt, wie ihr mit Adobe Expreß-Vorlagen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen in eurem Unternehmen erzielt.
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Maximieren Sie die Effizienz: Erstellen Sie wiederverwendbare Vorlagen
+# Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen
 
 Erfahrt, wie ihr mit Adobe Expreß-Vorlagen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen in eurem Unternehmen erzielt. In diesem Tutorial wird erläutert, wie Sie aus vorhandenen Inhalten - ob Photoshop, Illustrator, InDesign oder PowerPoint-Datei - eine wiederverwendbare Datei erstellen.
 

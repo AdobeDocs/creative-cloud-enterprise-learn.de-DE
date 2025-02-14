@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
@@ -366,10 +366,10 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximieren Sie die Effizienz: Erstellen Sie wiederverwendbare Vorlagen" src="assets/create-template.png" />
+            <img alt="Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen</strong></a>
+         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlage erstellen</strong></a>
          </div>
          <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
          2<br>
