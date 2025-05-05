@@ -63,7 +63,7 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
 **Illustrator auf iPad-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/illustrator.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/de/support/illustrator.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/de/illustrator/using/whats-new/mobile-2021.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

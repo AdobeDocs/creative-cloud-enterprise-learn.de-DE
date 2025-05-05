@@ -22,7 +22,7 @@ Wenn Ihr Unternehmen keine NUL verwendet und weiterhin eine Bereitstellung mit S
 
 ## Personengebundene Lizenzen
 
-Die [personengebundene Lizenzierung](https://helpx.adobe.com/enterprise/using/licensing.html) ist ein Softwarelizenzierungsmodell, bei dem die Software einer Einzelperson anstatt einer Seriennummer oder einem Gerät zugewiesen werden kann. NUL bietet IT-Administratoren Sicherheit auf Unternehmensebene mit erweitertem Benutzeridentitätsmanagement und ermöglicht eine einfache Bereitstellung und Verwaltung von Anwendungen mithilfe der Adobe Admin Console.
+Die [personengebundene Lizenzierung](https://helpx.adobe.com/de/enterprise/using/licensing.html) ist ein Softwarelizenzierungsmodell, bei dem die Software einer Einzelperson anstatt einer Seriennummer oder einem Gerät zugewiesen werden kann. NUL bietet IT-Administratoren Sicherheit auf Unternehmensebene mit erweitertem Benutzeridentitätsmanagement und ermöglicht eine einfache Bereitstellung und Verwaltung von Anwendungen mithilfe der Adobe Admin Console.
 
 ## Vorteile der personengebundenen Lizenzierung:
 

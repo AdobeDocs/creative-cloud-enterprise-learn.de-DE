@@ -214,7 +214,7 @@ Victoria Torres, Lösungsberaterin (Digitale Medien)
 
 **XD Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/xd.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/de/support/xd.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
