@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie auf den Versionsverlauf zugreifen und frühere Versionen Ihrer Projekte anzeigen und kopieren können. Markiere wichtige Punkte in der Entwicklung, um jederzeit auf einen bestimmten Zeitpunkt im Projektfortschritt zurückzugreifen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438706?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ansprechende Hintergründe für PowerPoint-Präsentationen erstellen. Mit der Funktion &quot;text-to-image&quot; auf der Basis von Adobe Firefly könnt ihr ein personalisiertes Bild für eure Präsentation generieren, weitere Änderungen am Bild vornehmen, Effekte anwenden und das Bild zur Verwendung in eurer Präsentation herunterladen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433984?quality=12&learn=on&hidetitle=true&captions=ger)

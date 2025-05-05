@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Kollegen an kreativen Projekten zusammenarbeiten können, einschließlich der Einladung, der Festlegung von Berechtigungen, der Behebung von Kommentaren und der gleichzeitigen Bearbeitung des Projekts.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439546?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

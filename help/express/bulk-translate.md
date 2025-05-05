@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie Sprachvarianten Ihrer Projekte erstellen, indem Sie den In
 >
 >Es ist wichtig, die Übersetzungen auf ihre Genauigkeit zu überprüfen, bevor sie freigegeben oder heruntergeladen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438277?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

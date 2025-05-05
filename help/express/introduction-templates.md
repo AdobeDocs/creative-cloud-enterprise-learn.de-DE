@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Entdecke mehrere Tausend professionell gestaltete Vorlagen für Social Media und Marketing. Vorlagen sind eine schnelle Möglichkeit, benutzerdefinierte Inhalte zu erstellen, indem sie mit Ihren eigenen Wörtern und Fotos neu gemischt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443549?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

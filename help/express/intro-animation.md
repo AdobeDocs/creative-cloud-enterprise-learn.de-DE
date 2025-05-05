@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahre, wie du Social-Media-Posts mit Animationen aufpeppst. Zum Öffnen des Animationsbedienfelds wählen Sie ein beliebiges Element auf der Seite aus, z. B. ein Bild, und wenden verschiedene Animationstypen an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436594?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

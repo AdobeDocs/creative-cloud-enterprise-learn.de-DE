@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie innerhalb von Sekunden bearbeitbare Vorlagen für Social-Media-Posts, Poster, Flyer und Karten aus einer Textbeschreibung generieren können. Sie können das Design bearbeiten, Schriftarten ändern und das Projekt mit einem Branding versehen, bevor Sie es herunterladen oder freigeben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438132?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

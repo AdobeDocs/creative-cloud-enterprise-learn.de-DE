@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Schnellaktionen sparen Zeit und bieten grundlegende Bearbeitungswerkzeuge für die tägliche kreative Arbeit. Beispiele für Schnellaktionen sind das Zusammenführen und Zuschneiden von Videos, das Entfernen von Hintergründen, das Skalieren von Bildern und Videos, das Konvertieren von Videos in GIF-Dateien und das Bearbeiten von PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446312?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

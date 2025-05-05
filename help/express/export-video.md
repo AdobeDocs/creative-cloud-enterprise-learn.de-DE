@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahre, wie du die Auflösung deines Videos festlegst, es herunterlädst und direkt in sozialen Netzwerken teilst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436024?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

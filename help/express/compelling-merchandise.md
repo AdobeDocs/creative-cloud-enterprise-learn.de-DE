@@ -19,4 +19,4 @@ Erfahre, wie ein Commerce-Team auf einfache Weise überzeugende Bilder für eine
 
 In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447140?quality=12&learn=on&hidetitle=true&captions=ger)

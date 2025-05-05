@@ -19,4 +19,4 @@ Hier erfahren Sie, wie Sie den Einstieg in die Entwicklung kreativer Inhalte fü
 
 In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446170?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahre, wie du mit Drag-and-Drop-Tools einzigartige Videos erstellst. Beginne mit Vorlagen oder eigenen statischen Designs und füge dein Branding, deine Design-Elemente, Adobe Stock-Videos und -Musik und vieles mehr hinzu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436440?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

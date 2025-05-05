@@ -16,4 +16,4 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie schnell Multi-Channel-HR-Inhalte erstellen können, die der Marke Ihres Unternehmens entsprechen. Durch die schnelle Bereitstellung von Multi-Channel-Content könnt ihr mehr Mitarbeiter mit eurer Kommunikation erreichen und ihnen helfen, über die neuesten Entwicklungen auf dem Laufenden zu bleiben. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434597?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434606?quality=12&learn=on&hidetitle=true&captions=ger)

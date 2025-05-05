@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Animationszeitleiste navigieren und anpassen. Die Zeitleiste ist eine Gesamtansicht der gesamten Animation, in der Sie eine Vorschau der Animation anzeigen und ihre Länge reduzieren bzw. verlängern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437610?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

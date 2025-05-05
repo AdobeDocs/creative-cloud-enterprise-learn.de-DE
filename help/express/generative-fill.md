@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Funktion &quot;Generative Füllung&quot;, unterstützt durch Adobe Firefly, verwenden, um einem Bild Elemente hinzuzufügen und daraus zu entfernen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437841?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

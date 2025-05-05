@@ -19,4 +19,4 @@ Erfahrt, wie ihr Ideen schnell visualisieren und Konzepte für Geschäftskampagn
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452524?quality=12&learn=on&hidetitle=true&captions=ger)

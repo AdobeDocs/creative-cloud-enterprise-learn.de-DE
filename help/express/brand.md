@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lerne, wie du eine Sammlung von Branding-Elementen erstellst, um konsistente und professionelle Designs für deine Unternehmens- oder Privatprojekte zu erstellen. Eine Corporate Identity ist eine Sammlung von CI-konformen Elementen wie Logos, Farben, Schriften, Grafiken und Templates. Sie können von Grund auf neu oder aus einer vorhandenen Bibliothek erstellt und für Kollegen freigegeben werden, die über Bearbeitungs- oder Anzeigeberechtigungen verfügen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449374?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

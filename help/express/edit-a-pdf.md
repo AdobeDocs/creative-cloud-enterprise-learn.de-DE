@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Lerne, wie du statisch und veraltet wirkende PDF umgestalten kannst, indem du Text, Bilder, Brandings, Farben oder Animationen hinzufügst. Sobald die Bearbeitung abgeschlossen ist, können Sie die PDF herunterladen, freigeben oder die PDF in andere Dateiformate wie JPEG konvertieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437907?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

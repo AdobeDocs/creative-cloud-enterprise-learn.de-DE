@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Texteffekten auf Basis von Adobe Firefly eindrucksvolle Designs erstellen. Mithilfe einer Textaufforderung können Sie außergewöhnliche Texteffekte generieren, die Sie verfeinern und verschönern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438826?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

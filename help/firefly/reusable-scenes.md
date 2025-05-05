@@ -19,4 +19,4 @@ Erfahre, wie du wiederverwendbare Szenen für Merchandise-Artikel wie Handtasche
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448476?quality=12&learn=on&hidetitle=true&captions=ger)

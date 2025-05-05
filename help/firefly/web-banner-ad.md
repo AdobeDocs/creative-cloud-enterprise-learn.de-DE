@@ -19,4 +19,4 @@ Erfahren Sie, wie Sie die Funktion &quot;Generative Füllung&quot; von Adobe Pho
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444554?quality=12&learn=on&hidetitle=true&captions=ger)

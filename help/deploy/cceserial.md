@@ -44,7 +44,7 @@ Sowohl Acrobat als auch Creative Cloud für Unternehmensanwendungen zeigen ab 60
 
 Die folgenden Informationen geben einen Überblick über die Benutzererfahrung. Im Folgenden finden Sie ein kurzes Video, gefolgt von einer Überprüfung der Endbenutzerfunktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441287?hidetitle=true&captions=ger)
 
 **Vor Ablauf**
 

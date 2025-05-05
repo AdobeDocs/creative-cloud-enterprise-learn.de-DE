@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahrt, wie ihr mit Adobe Expreß-Vorlagen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen in eurem Unternehmen erzielt. In diesem Tutorial wird erläutert, wie Sie aus vorhandenen Inhalten - ob Photoshop, Illustrator, InDesign oder PowerPoint-Datei - eine wiederverwendbare Datei erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433973?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

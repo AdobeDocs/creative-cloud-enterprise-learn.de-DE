@@ -19,4 +19,4 @@ Erfahrt, wie Teams für verteiltes Field Marketing Content für lokale Marketing
 
 In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424391?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433995?quality=12&learn=on&hidetitle=true&captions=ger)

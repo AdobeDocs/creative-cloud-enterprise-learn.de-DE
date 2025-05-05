@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe Express ansprechende und einprägsame Projekte mit Audio erstellen, einschließlich lizenzfreier Adobe Stock-Audiodateien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433918?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

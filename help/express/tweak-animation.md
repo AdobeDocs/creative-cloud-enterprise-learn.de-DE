@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Einstellungen Ihrer Animationen anpassen können, um die Effektivität zu verbessern. Sie können die Dauer, die Persönlichkeit, die Geschwindigkeit und die Intensität der Animation bearbeiten, um einen bestimmten Effekt zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438530?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

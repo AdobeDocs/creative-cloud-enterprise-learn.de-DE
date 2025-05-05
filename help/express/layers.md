@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Mit Zeichenflächen und Ebenen in einem Design-Projekt arbeiten. Du kannst Zeichenflächen für verschiedene Social-Media-Kanäle hinzufügen, löschen, duplizieren, neu anordnen und ihre Größe ändern. Sie können auch die Reihenfolge der Elemente im Ebenenstapel ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447074?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

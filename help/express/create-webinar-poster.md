@@ -16,4 +16,4 @@ ht-degree: 1%
 
 Lerne, wie du mit dem Adobe Firefly-Tool &quot;Text to Image&quot; ein Webinar-Poster für ein Virtual-Reality-Event designen kannst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446872?quality=12&learn=on&hidetitle=true&captions=ger)

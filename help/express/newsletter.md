@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahre, wie du auf der Suche nach professionell gestalteten Vorlagen mit Stichwörtern die Erstellung eines Newsletters anstoßen kannst. Nachdem Sie das Logo und die Textkopie geändert haben, können Sie Kollegen zur Zusammenarbeit einladen und eigene Inhalte hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439212?quality=12&learn=on&hidetitle=true&captions=ger)

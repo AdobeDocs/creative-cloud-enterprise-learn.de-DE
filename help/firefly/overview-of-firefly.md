@@ -19,4 +19,4 @@ Erfahren Sie, was Sie mit Adobe Firefly erstellen können. Erfahre, wie du die C
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446180?quality=12&learn=on&hidetitle=true&captions=ger)

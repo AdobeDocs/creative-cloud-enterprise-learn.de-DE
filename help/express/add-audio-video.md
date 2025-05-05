@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahre, wie du mit Audio unvergessliche Projekte erstellen kannst. Sie können Ihre eigenen Audiodateien hochladen oder aus lizenzfreiem Stock-Audio auswählen. Sie können auch Voiceovers aufnehmen und die Lautstärke für Audio und Voiceovers anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436858?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

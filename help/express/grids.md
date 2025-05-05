@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lerne, wie du mithilfe von Rastern Fotocollagen, Stimmungstafeln und ausdrucksstarke Poster erstellen kannst. Es gibt 40 verschiedene Rasterlayouts, die du mit deinen eigenen Bildern oder Adobe Stock-Fotos anpassen kannst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3440001?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

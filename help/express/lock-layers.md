@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, warum es wichtig ist, verschiedene Elemente Ihrer Vorlage zu sperren, damit sie nicht geändert werden können. Bestimmte Elemente, wie Logos, sollten nicht geändert werden, sodass sie vor der Freigabe der Vorlage gesperrt werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437076?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

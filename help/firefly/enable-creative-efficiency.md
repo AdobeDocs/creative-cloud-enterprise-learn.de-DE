@@ -19,4 +19,4 @@ Erfahre, wie du die Content-Erstellung mit generativen KI-gestützten Tools in A
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446246?quality=12&learn=on&hidetitle=true&captions=ger)

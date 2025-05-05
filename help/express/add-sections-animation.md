@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Verfeinere deine Animation, indem du Elemente wie Bilder und Überschriften zu einer Animation hinzufügst. Hier erfahren Sie, wie Sie Elemente in einer Szene hinzufügen, duplizieren, neu anordnen oder ersetzen, ohne die Animationen zu verändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433929?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 

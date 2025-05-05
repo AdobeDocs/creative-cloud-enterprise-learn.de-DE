@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein ansprechendes Bildmaterial für einen Online-Kurs erstellen. Mische zunächst eine der Tausenden professionell gestalteten Vorlagen neu ab. Füge nun ein Foto hinzu, und verwende Bearbeitungstechniken, um die Übergänge zwischen dem Foto und der Komposition zu optimieren, bevor du die Größe änderst und die finalen Visuals bereitstellst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433940?quality=12&learn=on&hidetitle=true&captions=ger)

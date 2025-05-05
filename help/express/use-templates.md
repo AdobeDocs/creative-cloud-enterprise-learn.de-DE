@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahrt, wie ihr markengerechte Inhalte schnell und effizient für das gesamte Unternehmen erstellen könnt. In diesem Tutorial erfahren Sie, wie Sie markengerechte Inhalte erstellen, die sofort weitergegeben und lokalisiert werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436137?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ## Weitere Videos dieser Serie
 
