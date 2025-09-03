@@ -8,19 +8,19 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 4%
+source-wordcount: '813'
+ht-degree: 5%
 
 ---
 
 
 # Creative Cloud für Enterprise-Tutorials {#cce-learning-hub}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + Creative Cloud für Unternehmen {#cceoverview}
-   + [Überblick](cce/overview-cce.md)
+   + [Übersicht](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
       + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
       + [Verbessern von CC-Workflows mit CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -33,12 +33,12 @@ ht-degree: 4%
       + [Cinemagramme mit Photoshop erstellen](cce/cinemagraphps.md)
       + [Dekodieren der Buchstabensuppe von Grafikformaten](cce/alphabetsoup.md)
       + [Jetzt Fresco auf dem iPad und iPhone ausprobieren](cce/frescoworkshop.md)
-   + Schnellverweis-Handbücher {#ccerefguides}
+   + Kurzanleitungen {#ccerefguides}
       + [Hilfslinien für CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
-   + [Überblick](express/overview-express.md)
+   + [Übersicht](express/overview-express.md)
    + How-tos {#expresshowto}
-      + [Überblick](express/overview-express-how-to.md)
+      + [Übersicht](express/overview-express-how-to.md)
       + [Was befindet sich auf der Startseite?](express/get-started.md)
       + [Einführung in Schnellaktionen](express/quick-actions.md)
       + [Einführung in Vorlagen](express/introduction-templates.md)
@@ -90,8 +90,8 @@ ht-degree: 4%
       + [Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen](express/create-templates.md)
       + [Vorlagen speichern und freigeben](express/share-templates.md)
       + [Vorlagen verwenden](express/use-templates.md)
-   + Tutorials für Nutzungsszenarien {#expressusecase}
-      + [Überblick](express/overview-express-use-case-tutorials.md)
+   + Tutorials zu Nutzungsszenarien {#expressusecase}
+      + [Übersicht](express/overview-express-use-case-tutorials.md)
       + [Mehrkanal-HR-Content für Events erstellen.](express/create-hr-content.md)
       + [Erstellen eines visuellen Werbemittels für einen Online-Lernkurs](express/promo-visual.md)
       + [Erstellen eines Videos zum Jahresende](express/end-of-year-video.md)
@@ -109,10 +109,11 @@ ht-degree: 4%
       + [Social-Media-Kampagnen einfach durchführen](express/create-blog-graphics.md)
       + [Webinar-Poster mit Firefly erstellen](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
-   + [Überblick](firefly/overview-firefly.md)
+   + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+      + [Hintergrund entfernen und ersetzen mit Creative Production](firefly/creative-production/background.md)
       + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
       + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
       + [Erstellen eines benutzerdefinierten Modells mit einem Motiv](firefly/custom-model-subject.md)
@@ -130,7 +131,7 @@ ht-degree: 4%
    + Webinare {#firefly-webinars}
       + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
-   + [Überblick](stock/overview-stock.md)
+   + [Übersicht](stock/overview-stock.md)
    + Tutorials {#stocktutorials}
       + [Beeindruckende digitale Assets](stock/stunning-digital-assets.md)
       + [Adobe [!DNL Stock] Lizenzierungsverlauf durchsuchen](stock/searchstock.md)
@@ -156,33 +157,33 @@ ht-degree: 4%
       + [Anpassen einer Animation des Ladebildschirms mit Adobe [!DNL Stock]  und XD](stock/loadingscreen.md)
       + [Anpassen einer Adobe [!DNL Stock] Präsentationsvorlage, um professionell auszusehen](stock/presentationtemplate.md)
       + [Anpassen der Farben in einer Adobe [!DNL Stock] Vektorillustration](stock/customizecolors.md)
-+ Adobe 3D &amp; VR {#3doverview}
-   + [Überblick](3di/overview-3di.md)
++ Adobe 3D/VR {#3doverview}
+   + [Übersicht](3di/overview-3di.md)
    + Tutorials {#3dtutorials}
       + [3D-Design und Rendering](3di/substance-3d-stager.md)
       + [Tipps und Techniken für das Mastering von 3D-Beleuchtung in CGI](3di/mastering3dlighting.md)
       + [Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen](3di/photorealistic.md)
       + [3D-Modell anpassen und mit  [!DNL Dimension]  und Adobe [!DNL Stock] markieren](3di/3ddimensionstock.md)
 + Adobe-Video {#videooverview}
-   + [Überblick](dva/overview-dva.md)
+   + [Übersicht](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Professionelle Animationsvorlagen](dva/motion-graphics-templates.md)
       + [Videoüberprüfung mit Frame.io](dva/video-review-frame-io.md)
-   + Schnellverweis-Handbücher {#videorefguides}
+   + Kurzanleitungen {#videorefguides}
       + [Video-Handbücher](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-   + [Überblick](xd/overview-xd.md)
+   + [Übersicht](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
    + [Machen Sie sich mit [!UICONTROL Komponenten] in Adobe XD vertraut.](xd/components.md)
-+ Bereitstellen und Verwalten von {#deploy}
-   + [Überblick](deploy/overview-deploy.md)
++ Bereitstellung und Verwaltung {#deploy}
+   + [Übersicht](deploy/overview-deploy.md)
    + [Ablauf der Seriennummer](deploy/cceserial.md)
    + [Personengebundene Lizenzen](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
-   + [Überblick](max/overview-max.md)
+   + [Übersicht](max/overview-max.md)
    + Tutorials {#tutorials}
-      + [Überblick](max/maxtutorials.md)
-      + Desktopprodukte {#desktop-products}
+      + [Übersicht](max/maxtutorials.md)
+      + Desktop-Produkte {#desktop-products}
          + [Acrobat &amp; Sign.](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
