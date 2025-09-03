@@ -22,7 +22,7 @@ Die Oberfläche von Adobe Firefly Creative Production ohne Code macht häufige B
 <!-- CARDS
 
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 
 -->
@@ -37,7 +37,7 @@ Die Oberfläche von Adobe Firefly Creative Production ohne Code macht häufige B
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Übersicht über die Adobe Firefly Creative Production" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="Übersicht über die Adobe Firefly Creative Production"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="Übersicht über die Adobe Firefly Creative Production"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
