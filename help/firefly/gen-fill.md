@@ -19,4 +19,4 @@ Erfahren Sie, wie Sie mit der Funktion &quot;Generative Füllung&quot; mithilfe 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473998?quality=12&learn=on&hidetitle=true&captions=ger)
