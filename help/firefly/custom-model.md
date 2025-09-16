@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Erstellen eines benutzerdefinierten Modells mithilfe von Stilen
+# Erstellen eines benutzerdefinierten Modells
 
 Erfahre, wie du in Firefly eigene Modelle erstellst, um anhand bestimmter Stiltypen (z. B. Hintergründe, Farben oder Farbtöne) neues Bildmaterial für die Marke deines Unternehmens zu erstellen. Mit benutzerdefinierten Modellen können Sie relevante, personalisierte Inhalte in großem Umfang erstellen. Adobe Firefly [hier](https://firefly.adobe.com/) testen.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474940?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Was sind Firefly von benutzerdefinierten Modellen?
 
