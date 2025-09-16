@@ -20,7 +20,7 @@ Erfahre, wie du in Firefly eigene Modelle erstellst, um anhand bestimmter Stilty
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474940?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!IMPORTANT]
 >
