@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 021afe1407edaac712da957b590a3096658e87c5
+source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,21 @@ Erfahre, wie du in Firefly eigene Modelle erstellst, um anhand bestimmter Stilty
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474940?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+
+## Was sind Firefly von benutzerdefinierten Modellen?
+
+Mit benutzerdefinierten Modellen können Unternehmen mithilfe der Funktion &quot;Text in Bild&quot; von Firefly Bildinhalte generieren, die ihrer Markenidentität entsprechen.
+
+Du kannst diese Modelle mit deinen eigenen Bildern trainieren, um Inhalte zu erstellen, die deinen Stil, dein Motiv oder andere Branding-Elemente widerspiegeln.
+
+## Hauptvorteile/Nutzungsszenarien
+
+**Branding-konsistentes Design** Erstellt schnell Visuals, die sich harmonisch in die Ästhetik eurer Marke einfügen.
+
+**Charakterdesigns** Wahrung der Konsistenz zeichenbasierter Bilder in Szenen, Beleuchtung, Posen usw. Verringert den Zeitaufwand für die Entwicklung.
+
+**Schnellere Iterationen von Konzepten** Beschleunigt die Abstimmung unter den Stakeholdern, indem ihr Ideen und Konzepte zu einem früheren Zeitpunkt auf der Marke präsentiert.
 
 >[!IMPORTANT]
 >
