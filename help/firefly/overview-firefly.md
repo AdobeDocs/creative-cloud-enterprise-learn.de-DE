@@ -242,7 +242,7 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Erstellen eines benutzerdefinierten Modells" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474931?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Erstellen eines benutzerdefinierten Modells"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474940?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719&captions=ger" alt="Erstellen eines benutzerdefinierten Modells"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +311,7 @@ Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produk
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Texteffekte" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="Texteffekte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432219?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937&captions=ger" alt="Texteffekte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
