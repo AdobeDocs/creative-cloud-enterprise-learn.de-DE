@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 jira: KT-11642
 thumb: KT-11642.jpg
 exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Motion Graphics-Vorlagen (.mogrt) sind eine kooperative und effiziente Methode, 
 
 Wählen Sie die Abbildung unten, um dieses PDF-Tutorial anzuzeigen oder herunterzuladen.
 
-[![Bild der ersten Seite des Tutorials](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
+[![Bild der ersten Seite des Tutorials](assets/MORGTs.png){width="680"}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
