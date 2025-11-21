@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
 workflow-type: tm+mt
 source-wordcount: '808'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 5%
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+      + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
       + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
       + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
       + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -165,7 +165,7 @@ ht-degree: 5%
       + [Tipps und Techniken für das Mastering von 3D-Beleuchtung in CGI](3di/mastering3dlighting.md)
       + [Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen](3di/photorealistic.md)
       + [3D-Modell anpassen und mit  [!DNL Dimension]  und Adobe [!DNL Stock] markieren](3di/3ddimensionstock.md)
-+ Adobe-Video {#videooverview}
++ Adobe Video {#videooverview}
    + [Übersicht](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Professionelle Animationsvorlagen](dva/motion-graphics-templates.md)
