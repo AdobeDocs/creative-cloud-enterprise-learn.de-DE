@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Virtuelle Fotografie, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Diese Technik, 3D-Modelle zu einem Bild oder Video zu &quot;kombinieren&quot;, i
 
 ![Bearbeiten der Ebene eines Metallkugelmodells in einer Adobe [!DNL Dimension]-Komposition](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension] hat es Benutzern ermöglicht, 2D- und 3D-Elemente direkt in der App nahtlos zusammenzufügen, indem die von Adobe Sensei unterstützte Bildabgleichfunktion verwendet wurde. Der Hauptvorteil von Compositing-Elementen auf diese Weise ist, dass der Prozess der Erstellung eines realistisch aussehenden Bildes durch die Ersetzung einer vollständig realisierten 3D-Szene mit einem Hintergrundbild, das von der Realität erfasst werden kann, erheblich beschleunigt wird.
+Adobe [!DNL Dimension] hat es Benutzern ermöglicht, 2D- und 3D-Elemente nahtlos direkt in der App zu kombinieren, indem die Adobe-KI verwendet wurde. Der Hauptvorteil von Compositing-Elementen auf diese Weise ist, dass der Prozess der Erstellung eines realistisch aussehenden Bildes durch die Ersetzung einer vollständig realisierten 3D-Szene mit einem Hintergrundbild, das von der Realität erfasst werden kann, erheblich beschleunigt wird.
 
 ![Die Funktion &quot;Bild angleichen&quot; auf Adobe [!DNL Dimension] analysiert das Hintergrundbild und schätzt die Brennweite und Position der Kamera, die für die Aufnahme verwendet wurde](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Aber was ist mit allem, was nicht innerhalb des Kamerarahmens aufgenommen wurde?
 
 ![Ein fotorealistisches 3D-Composite-Bild eines Mopeds in einem Wohnzimmer](assets/Photorealistic_5.png)
 
-Mit Bild angleichen wird versucht, die Lichtumgebung, in der ein Hintergrundbild aufgenommen wurde, zu &quot;halluzinieren&quot;. Die Funktion ist beeindruckend und liefert in kurzer Zeit hervorragende Ergebnisse. Die Aufnahme der Umgebung zusammen mit dem Hintergrundbild führt jedoch zu noch realistischeren Ergebnissen. Mit dieser Methode kann sogar die Adobe Sensei-Funktion trainiert werden, dies selbst zu tun.
+Mit Bild angleichen wird versucht, die Lichtumgebung, in der ein Hintergrundbild aufgenommen wurde, zu &quot;halluzinieren&quot;. Die Funktion ist beeindruckend und liefert in kurzer Zeit hervorragende Ergebnisse. Die Aufnahme der Umgebung zusammen mit dem Hintergrundbild führt jedoch zu noch realistischeren Ergebnissen. Dies ist sogar die Methode, die verwendet wird, um die Adobe-KI zu trainieren.
 
 ![Ein 360-Grad-HDR-Panorama des Büroraums](assets/Photorealistic_6.png)
 
@@ -168,4 +168,4 @@ Sobald die Szene abgeschlossen ist, ist der Arbeitsablauf für den Endbenutzer u
 
 Das Ergebnis ist eine überzeugende Kombination aus Realität und 3D, die es Endanwendern ermöglicht, fotorealistische Bilder mit minimalem Aufwand zu erstellen. Probieren Sie es selbst aus mit [freien [!DNL Dimension] Szenen](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338), die wir erstellt haben, um den Workflow zu demonstrieren.
 
-[Laden Sie noch heute die neueste Version &#x200B;](https://creativecloud.adobe.com/apps/download/dimension) von [!DNL Dimension] herunter und beginnen Sie mit der Erstellung fotorealistischer Bilder.
+[Laden Sie noch heute die neueste Version ](https://creativecloud.adobe.com/apps/download/dimension) von [!DNL Dimension] herunter und beginnen Sie mit der Erstellung fotorealistischer Bilder.

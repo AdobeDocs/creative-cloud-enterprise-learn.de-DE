@@ -5,9 +5,9 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
     <div>
    <a href="stock.md#tutorial1"><strong>Finden Sie die besten Assets schneller mit dem Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Finden Sie das perfekte lizenzfreie Stock-Bild, um Ihr Kreativprojekt mithilfe besserer und schnellerer Suchergebnisse zu optimieren, die von Adobe Sensei, unserer Engine für künstliche Intelligenz, unterstützt werden</em>
+    <em>Finden Sie das perfekte lizenzfreie Stock-Bild, um Ihr kreatives Projekt mithilfe besserer, schnellerer Suchergebnisse auf Basis von Adobe AI zu optimieren</em>
     2<br>
   </td>
   <td>
@@ -49,14 +49,15 @@ Adobe Experience Manager</strong></a>
 </tr>
 </table>
 
-## Die besten Assets schneller finden mit Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Finden Sie die besten Assets schneller mit Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Beschreibung**
-Mit Adobe Sensei, unserer Engine für künstliche Intelligenz, findet ihr passende lizenzfreie Bilder, die euch bei der Suche in eurem Kreativprojekt helfen.
+Finde das perfekte lizenzfreie Stockbild, um dein Kreativprojekt mit besseren, schnelleren Suchergebnissen auf Basis von Adobe AI zu optimieren.
 
 In diesem Tutorial lernen Sie Folgendes:
+
 * Nimm dir die Zeit und den Stress aus der Suche nach hochwertigen Bildern und Videos
 * Einfaches Management und Tracking von Elementlizenzen und -nutzung im gesamten Unternehmen
 * Adobe Creative Cloud-Programme durchsuchen, testen und lizenzieren
@@ -84,7 +85,7 @@ Emily Palmer, Lösungsberaterin (Digitale Medien)
 
 **Adobe [!DNL Stock] Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/de/support/stock.html) ist Ihr Hub für zusätzliche Tutorials und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/support/stock.html) ist Ihr Hub für zusätzliche Tutorials und Links zu Community-Foren.
 
 **Version Oktober 2020**
 
