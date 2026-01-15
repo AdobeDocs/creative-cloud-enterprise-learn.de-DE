@@ -168,4 +168,4 @@ Sobald die Szene abgeschlossen ist, ist der Arbeitsablauf für den Endbenutzer u
 
 Das Ergebnis ist eine überzeugende Kombination aus Realität und 3D, die es Endanwendern ermöglicht, fotorealistische Bilder mit minimalem Aufwand zu erstellen. Probieren Sie es selbst aus mit [freien [!DNL Dimension] Szenen](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338), die wir erstellt haben, um den Workflow zu demonstrieren.
 
-[Laden Sie noch heute die neueste Version ](https://creativecloud.adobe.com/apps/download/dimension) von [!DNL Dimension] herunter und beginnen Sie mit der Erstellung fotorealistischer Bilder.
+[Laden Sie noch heute die neueste Version &#x200B;](https://creativecloud.adobe.com/apps/download/dimension) von [!DNL Dimension] herunter und beginnen Sie mit der Erstellung fotorealistischer Bilder.
