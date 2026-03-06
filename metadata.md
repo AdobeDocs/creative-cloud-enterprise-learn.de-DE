@@ -1,12 +1,12 @@
 ---
 cloud: Creative Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.de-DE
+git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en
 solution: Creative Cloud
 index: true
-source-git-commit: 1f3b82b031beb84a1adba932fccf678c257164c2
+source-git-commit: 8ebf0765595fb736f8bdac99e80aedf95222b01a
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
