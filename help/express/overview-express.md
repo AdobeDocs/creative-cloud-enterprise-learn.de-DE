@@ -1,21 +1,21 @@
 ---
 title: Adobe [!DNL Express] Übersicht
-description: Auf dem Adobe  [!DNL Express] auf dem neuesten Stand sein
+description: Machen Sie sich mit Adobe vertraut [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: d529664e5d0bb6f97c2624e6ce6e655cfc1e0ac9
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 10%
+source-wordcount: '621'
+ht-degree: 4%
 
 ---
 
-# Adobe [!DNL Express] - Übersicht
+# Übersicht über Adobe [!DNL Express]
 
-Entwerfen Sie Videos, Flyer, Lebensläufe, Banner, Logos und vieles mehr mit der neuen All-in-One-Adobe Expreß-Applikation für schnelle und einfache Erstellung von Inhalten. Designe kreative Werke, die mit generativen KI-Funktionen auf Basis von Adobe Firefly überzeugen.
+Entwerfen Sie Videos, Flyer, Lebensläufe, Banner, Logos und mehr zu Reels und TikTok mit der neuen All-in-One-App von Adobe Express für eine schnelle und einfache Inhaltserstellung. Gestalten Sie erstaunliche Arbeit, die mit generativen KI-Funktionen von Adobe Firefly hervorsticht.
 
 ## Neue Funktionen
 
@@ -23,19 +23,20 @@ Entwerfen Sie Videos, Flyer, Lebensläufe, Banner, Logos und vieles mehr mit der
 
 >[!TAB Mühelose Markenkonsistenz mit Vorlagen]
 
-Erfahren Sie, wie Sie mit [Vorlagen](use-templates.md) in Ihrer gesamten Organisation schnell und effizient markengerechte Inhalte erstellen können.
+Erfahren Sie, wie Sie Markeninhalte mithilfe von [Vorlagen](use-templates.md) in Ihrem gesamten Unternehmen schnell und effizient erstellen können.
 
->[!TAB Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen]
+>[!TAB Maximieren der Effizienz: Erstellen wiederverwendbarer Vorlagen]
 
-Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Markenkonsistenz, Effizienz, Professionalität und Kosteneinsparungen bringen.
+Erfahren Sie, wie Sie Ihrer Organisation mit „Vorlagen[&#x200B; Markenkonsistenz, Effizienz, Professionalität und &#x200B;](create-templates.md) bringen.
 
 >[!ENDTABS]
 
 ## Adobe [!DNL Express]-Tutorials
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started
   {target = _self}
   {title = Getting started}
@@ -78,8 +79,8 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
   {https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1bf41d6490283a6dd13de00d05c2860c9b389a3fe.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -100,11 +101,11 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" title="Erste Schritte">Erste Schritte</a>
                     </p>
-                    <p class="is-size-6">Lernen Sie die Navigation und die Schnellaktionen kennen, und entdecken Sie Tausende professionell gestaltete Vorlagen.</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie navigieren, Schnellaktionen verwenden und Tausende von professionell gestalteten Vorlagen erkunden können</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -123,11 +124,11 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" title="Grundlegende Aufgaben">Grundlegende Aufgaben</a>
                     </p>
-                    <p class="is-size-6">Lerne, wie du Content erstellst, der sich wirklich von anderen abhebt</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Inhalte erstellen, die wirklich auffallen</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -146,11 +147,11 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" title="Animation">Animation</a>
                     </p>
-                    <p class="is-size-6">Werten Sie Ihre Inhalte mit benutzerdefinierten Animationen auf</p>
+                    <p class="is-size-6">Heben Sie Ihre Inhalte mit benutzerdefinierten Animationen auf die nächste Stufe</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -169,11 +170,11 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" title="Erweiterte Aufgaben">Erweiterte Aufgaben</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie mehr über Gen-KI, PDF-Bearbeitung und mehr</p>
+                    <p class="is-size-6">Detaillierte Einblicke in Gen AI, PDF-Bearbeitung und mehr</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -192,11 +193,11 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" title="Video">Video</a>
                     </p>
-                    <p class="is-size-6">Video leicht gemacht. Füge Adobe Stock-Videos und Musik hinzu, um Inhalte zu finden, die wirklich auffallen.</p>
+                    <p class="is-size-6">Video leicht gemacht. Adobe Stock-Videos und -Musik für Inhalte hinzufügen, die wirklich auffallen</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -215,11 +216,11 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" title="Vorlagen">Vorlagen</a>
                     </p>
-                    <p class="is-size-6">Erfahrt, wie ihr eurem Unternehmen Markenkonsistenz, Effizienz und Kosteneinsparungen bringt.</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Ihrer Organisation Markenkonsistenz, Effizienz und Kosteneinsparungen bringen können</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -242,8 +243,8 @@ Erfahren Sie, wie Sie mit [Vorlagen](create-templates.md) Ihrem Unternehmen Mark
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3</a>
-            </div>
+                3
+            </a></div>
         </div>
     </div>
 </div>

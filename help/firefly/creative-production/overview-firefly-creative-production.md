@@ -1,30 +1,31 @@
 ---
-title: Adobe [!DNL Firefly] Übersicht über die Creative-Produktion
-description: Weitere Informationen zu Adobe [!DNL Firefly] Creative Production
+title: Produktionsübersicht für Adobe [!DNL Firefly] Creative
+description: Informationen zur Adobe [!DNL Firefly] Creative-Produktion
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-18996
-source-git-commit: d7ed0a256523d346011da0c7d98bb23c871ef40e
+exl-id: 19f51b11-4fc3-412e-a64d-3d653478fecb
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] Creative Production - Übersicht
+# Produktionsübersicht für Adobe [!DNL Firefly] Creative
 
-Die Oberfläche von Adobe Firefly Creative Production ohne Code macht häufige Bearbeitungen zum Kinderspiel. Bei mehreren Tausend Dateien gleichzeitig Hintergründe ersetzen, Bilder zuschneiden und die Farben abstimmen.
+Die produktionsfremde Benutzeroberfläche von Adobe Firefly Creative macht gängige Bearbeitungen zu einem Kinderspiel. Ersetzen Sie Hintergründe, Zuschnitte von Bildern und Farbabstufungen auf Tausenden von Dateien gleichzeitig.
 
-## Firefly Creative Production-Tutorials
+## Produktions-Tutorials zu Firefly Creative
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background
   {image = https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
-
 -->
 
 <!-- END CARDS -->
@@ -36,8 +37,8 @@ Die Oberfläche von Adobe Firefly Creative Production ohne Code macht häufige B
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" title="Entfernen und Ersetzen des Hintergrunds" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="Entfernen und Ersetzen des Hintergrunds"
+                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" title="Hintergrundentfernung und -ersatz" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_14fb8246106300470edc702a5acea12d80c4c48fd.png?width=400&format=webply&optimize=medium" alt="Hintergrundentfernung und -ersatz"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,13 +46,13 @@ Die Oberfläche von Adobe Firefly Creative Production ohne Code macht häufige B
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" title="Entfernen und Ersetzen des Hintergrunds">Entfernen und Ersetzen des Hintergrunds</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" title="Hintergrundentfernung und -ersatz">Hintergrundentfernung und -ersatz</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie Sie mit Firefly Creative Production Hintergründe in großem Umfang entfernen und/oder ersetzen können.</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie mit Firefly Creative Production Hintergründe skaliert entfernen und/oder ersetzen können</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
