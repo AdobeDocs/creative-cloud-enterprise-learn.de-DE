@@ -27,7 +27,7 @@ Erfahren Sie, wie Sie Markeninhalte mithilfe von [Vorlagen](use-templates.md) in
 
 >[!TAB Maximieren der Effizienz: Erstellen wiederverwendbarer Vorlagen]
 
-Erfahren Sie, wie Sie Ihrer Organisation mit „Vorlagen[ Markenkonsistenz, Effizienz, Professionalität und ](create-templates.md) bringen.
+Erfahren Sie, wie Sie Ihrer Organisation mit „Vorlagen[&#x200B; Markenkonsistenz, Effizienz, Professionalität und &#x200B;](create-templates.md) bringen.
 
 >[!ENDTABS]
 
