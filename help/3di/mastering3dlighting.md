@@ -56,7 +56,7 @@ Umgebungslichter sind äquirektanguläre (kugelförmige) Bilder, die um die gesa
 
 ![Beispiele für Umgebungslichter aus Fotos, einer 3D-Studioszene und einer abstrakten 3D-Szene](assets/Mastering3dlighting_5.jpg)
 
-Wenn Sie eine neue Szene in [[!DNL Dimension]](https://www.adobe.com/products/dimension.html) erstellen, wird eine Standardumgebungsbeleuchtung für Sie erstellt. Das ist der Grund, warum man sofort alles in der Szene sehen kann. Adobe [!DNL Dimension] Starter Assets enthalten eine bestimmte Anzahl von Umgebungslichtern, die Sie sofort ausprobieren können. Darüber hinaus bietet [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) eine große, kuratierte Auswahl an Umgebungsbeleuchtungen.
+Wenn Sie eine neue Szene in [[!DNL Dimension]](https://www.adobe.com/de/products/dimension.html) erstellen, wird eine Standardumgebungsbeleuchtung für Sie erstellt. Das ist der Grund, warum man sofort alles in der Szene sehen kann. Adobe [!DNL Dimension] Starter Assets enthalten eine bestimmte Anzahl von Umgebungslichtern, die Sie sofort ausprobieren können. Darüber hinaus bietet [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) eine große, kuratierte Auswahl an Umgebungsbeleuchtungen.
 
 Umgebungslichter liefern äußerst realistische Ergebnisse und sparen viel Zeit. Um etwas Ähnliches manuell zu erreichen, müssten Sie tatsächlich die gesamte Umgebung in 3D (einschließlich verschiedener Lichtquellen) erstellen, was ein erheblicher Arbeitsaufwand ist.
 
