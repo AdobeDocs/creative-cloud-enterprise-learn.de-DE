@@ -97,7 +97,7 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 **Photoshop-Ressourcen**
 
-[Training und Support](https://helpx.adobe.com/support/photoshop.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/photoshop/using/whats-new.html) und Links zu Community-Foren.
+[Training und Support](https://helpx.adobe.com/de/support/photoshop.html) ist Ihr Hub für zusätzliche Tutorials, [Neuerungen](https://helpx.adobe.com/de/photoshop/using/whats-new.html) und Links zu Community-Foren.
 
 **Version Oktober 2020**
 

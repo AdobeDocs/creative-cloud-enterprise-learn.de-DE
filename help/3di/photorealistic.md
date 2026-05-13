@@ -31,7 +31,7 @@ Wenn Sie sich die Bilder oben ansehen, würden Sie verzeihen, wenn Sie davon aus
 
 ![Eine Szene aus James Camerons The Abyss, in der Mary Mastrantonio den CGI-Wassertentakel berührt](assets/Photorealistic_2.jpg)
 
-Diese Technik, 3D-Modelle zu einem Bild oder Video zu &quot;kombinieren&quot;, ist nicht neu, und ihre Ursprünge reichen bis in die frühen Tage des VFX zurück (bis in die 1980er Jahre). Neu und aufregend ist, dass diese Technik zu einem leistungsstarken Tool für [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)-Benutzer und einem faszinierenden neuen Arbeitsablauf für Fotografen geworden ist.
+Diese Technik, 3D-Modelle zu einem Bild oder Video zu &quot;kombinieren&quot;, ist nicht neu, und ihre Ursprünge reichen bis in die frühen Tage des VFX zurück (bis in die 1980er Jahre). Neu und aufregend ist, dass diese Technik zu einem leistungsstarken Tool für [Adobe [!DNL Dimension]](https://www.adobe.com/de/products/dimension.html)-Benutzer und einem faszinierenden neuen Arbeitsablauf für Fotografen geworden ist.
 
 
 ## Die Technologie zum Erstellen zusammengesetzter Bilder auf Adobe [!DNL Dimension]
@@ -68,7 +68,7 @@ Einer der wichtigsten Aspekte beim effektiven Aufnehmen dieser Art von Inhalten 
 
 ### Auswählen eines Speicherorts
 
-Halte Ausschau nach Locations, die sowohl im Kontext als auch in Bezug auf die Beleuchtung interessant sind. Wenn man den Kontext betrachtet, kann es hilfreich sein, sich den potenziellen Nutzen einer Szene vorzustellen. Beispielsweise kann eine Ansicht einer leeren Straße zum Hinzufügen in einem 3D-Auto verwendet werden, während eine Ansicht eines Tisches in einem Café für [Anzeigen der Verpackung](https://www.adobe.com/products/dimension/packaging-design-mockup.html) von Lebensmittelprodukten verwendet werden kann.
+Halte Ausschau nach Locations, die sowohl im Kontext als auch in Bezug auf die Beleuchtung interessant sind. Wenn man den Kontext betrachtet, kann es hilfreich sein, sich den potenziellen Nutzen einer Szene vorzustellen. Beispielsweise kann eine Ansicht einer leeren Straße zum Hinzufügen in einem 3D-Auto verwendet werden, während eine Ansicht eines Tisches in einem Café für [Anzeigen der Verpackung](https://www.adobe.com/de/products/dimension/packaging-design-mockup.html) von Lebensmittelprodukten verwendet werden kann.
 
 ![4 Standortszenen für ein virtuelles Foto werden mit denselben Szenen in einer 3D-Komposition verglichen](assets/Photorealistic_8.png)
 
