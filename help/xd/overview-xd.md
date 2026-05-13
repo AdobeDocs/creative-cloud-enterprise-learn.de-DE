@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a09a5a04-e30b-4d55-b031-38e6f5ec86dbid: e9001ce2-5245-4a8e-8601-dd958009072f
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: 462
 ht-degree: 0%
 
 ---
@@ -27,7 +32,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="components.md"><strong>Machen Sie sich mit [!UICONTROL Components] in Adobe XD vertraut</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie mit [!UICONTROL Components] eine beispiellose Flexibilität bei der Anwendung von Geschwindigkeit und Konsistenz in Ihrem Design-Workflow erhalten</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank">
@@ -37,7 +42,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>Mehrere XD Zeichenflächen mit verschachtelten Symbolen steuern (PDF)</strong></a>
     </div>
     <em>Symbole bieten eine hervorragende Möglichkeit, wiederverwendbare Grafiken und Text zu erstellen, die mehrfach auf Zeichenflächen in Ihrem Projekt angewendet werden können</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank">
@@ -47,7 +52,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>Ein E-Commerce-Foto mit XD und Adobe erstellen [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Durch die Kombination der hochauflösenden Fotografie mit der Auto-Animate-Funktion von Adobe XD können Sie ansprechendere Erlebnisse für Ihre Website gestalten</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank">
@@ -57,7 +62,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Erstellen einer rotierenden Produktschnittstelle für E-Commerce mit Adobe XD (PDF)</strong></a>
     </div>
     <em>Entwerfen Sie eine Oberfläche, die eine rotierende Ansicht Ihres Produkts bietet, und dann können Sie Ihr Design in einen interaktiven Prototyp umwandeln, der genau zeigt, wie das Erlebnis im Web oder auf Mobilgeräten funktionieren wird</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -69,7 +74,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>Ein interaktives Quiz mit XD entwerfen und in einen Prototyp umwandeln (PDF)</strong></a>
     </div>
     <em>Entwerfen des Feedbacks, auf das ein Benutzer während eines Projekts stößt</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf" target="_blank">
@@ -79,7 +84,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf" target="_blank"><strong>Interaktive Projekte mit Micro Animations in XD entwerfen (PDF)</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie interaktive animierte Prototypen Ihrer Designs mit Adobe XD erstellen</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank">
@@ -89,7 +94,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>XD aus einer Photoshop-Datei (PSD) (PDF) heraus starten</strong></a>
     </div>
     <em>Adobe XD bietet einige eindrucksvolle interaktive Designtools, die mit Ihrem vorhandenen Arbeitsablauf zusammenarbeiten, sodass Sie Ihre interaktive Designvision auf die nächste Stufe heben können</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
@@ -99,7 +104,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Entwerfen eines mobilen Weberlebnisses mit XD (PDF)</strong></a>
     </div>
     <em>Werfen Sie einen Blick hinter die Kulissen des Designprozesses für die mobile Webgalerie Russell Brown MAX Madness mit Adobe XD</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -111,7 +116,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Erstellen eines Prototyps für ein mobiles Weberlebnis mit Adobe XD (PDF)</strong></a>
     </div>
     <em>Experience Design erfordert Strategie, Design und funktionales Prototyping - und Adobe XD bietet Ihnen die Möglichkeit, all dies zu tun</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
@@ -121,7 +126,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Das Wiederholungsraster in XD mit externem Text und externen Grafiken aufladen (PDF)</strong></a>
     </div>
     <em>Das Wiederholungsraster mit externem Text und Grafiken kombinieren, um Ihre Produktivität zu erhöhen</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank">
@@ -131,7 +136,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Hinter den Kulissen des MAX-Wahnsinns mit Adobe XD (PDF)</strong></a>
     </div>
     <em>Die Bereitstellung eines optimierten mobilen Weberlebnisses kann bei Ihren Benutzern großen Anklang finden</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

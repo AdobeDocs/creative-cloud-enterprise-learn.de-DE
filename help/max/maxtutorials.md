@@ -5,10 +5,17 @@ feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integratio
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/6F6ABc1Yyo6bGY9tPyBo-bDjVZS0vT3F68EmHS--ce4
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 9%
+source-wordcount: 328
+ht-degree: 8%
 
 ---
 
@@ -28,7 +35,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="acrobat-sign.md"><strong>Acrobat und Adobe Sign</strong></a>
     </div>
     <em>Erstellen, Bearbeiten und Signieren von PDF-Dokumenten und -Formularen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="dimension.md">
@@ -38,7 +45,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
     <em>Erstellen fotorealistischer 3D-Bilder für Branding, Produktfotos und Verpackungs-Design</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="illustrator.md">
@@ -48,7 +55,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
     <em>Vektorgrafik und Illustration</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -60,7 +67,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
     <em>Printdesign und Layout für Print- und digitale Publikationen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="photoshop.md">
@@ -70,7 +77,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
     <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop.</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="rush.md">
@@ -80,7 +87,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
     <em>Onlinevideos überall erstellen und teilen</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -92,7 +99,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="xd.md"><strong>XD</strong></a>
     </div>
     <em>Benutzererfahrungen entwerfen, Prototypen erstellen und freigeben</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
@@ -119,7 +126,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
     <em>Beliebiges Bild in ein Farbthema, eine Vektorgrafik, einen Pinsel und mehr umwandeln</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="fresco.md">
@@ -129,7 +136,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
     <em>Zeichnen und Malen weitergedacht.</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="illustratoripad.md">
@@ -139,7 +146,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="illustratoripad.md"><strong>Illustrator auf iPad</strong></a>
     </div>
     <em>Vektorgrafik und Illustration</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -151,7 +158,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="photoshopipad.md"><strong>Photoshop auf iPad</strong></a>
     </div>
     <em>Bearbeite und kombiniere Bilder und Grafiken auf dem Desktop und dem iPad.</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
@@ -178,7 +185,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
     </div>
     <em>Digital Asset Management der nächsten Generation</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="creativeclouddesktopapp.md">
@@ -188,7 +195,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-Desktop-Applikation</strong></a>
     </div>
     <em>Der Creative Cloud-Client ist Ihr Hub für die Verwaltung von CC-Programmen, -Services und die Zusammenarbeit - und vieles mehr!</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="cclibraries.md">
@@ -198,7 +205,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="cclibraries.md"><strong>CC-Bibliotheken</strong></a>
     </div>
     <em>Halten Sie Ihre Assets und Ihre Projekte für das Branding bereit</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -210,7 +217,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
     <em>Die ausgefeilten Tools des InDesign in Kombination mit benutzerdefinierter Automatisierung</em>
-    2<br>
+    <br>
   </td>
  <td>
     <a href="stock.md">
@@ -220,7 +227,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Hochwertige digitale Bilder, Illustrationen, Videos, Audiomaterial, Vorlagen und mehr</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
@@ -242,7 +249,7 @@ Als kreativer Unternehmensanwender müssen Sie mit verteilten Teams zusammenarbe
     <a href="handsonproject.md"><strong>Eigene Gesichtsmaske erstellen</strong></a>
     </div>
     <em>Mit dem Plug-in "Adobe Design to Print" können Sie Ihre Designs auf Hunderten von Zazzle-Produkten visualisieren und direkt auf ihrem Online-Marktplatz veröffentlichen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

@@ -6,9 +6,15 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
+TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: 1412
 ht-degree: 1%
 
 ---
@@ -31,7 +37,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="acrobat-content-creators.md"><strong>Acrobat für Inhaltsentwickler</strong></a>
     </div>
     <em>Erfahren Sie mehr über die Acrobat-Tools, die zur Optimierung der Kreativ-Workflows beitragen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
@@ -63,7 +69,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Erste Schritte mit Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Die Freigabe Ihrer besten Arbeiten mit Adobe Portfolio ist eine effektive Möglichkeit, Ihren Erfolg zu teilen und neue kreative Talente zu gewinnen</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
@@ -73,7 +79,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Verbinden von Lightroom und Bēhance mit Ihrem Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Bēhance-Projekte als Seiten in Ihrem Portfolio verwenden</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
@@ -83,7 +89,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Zeigen Sie Ihre beste Arbeit mit Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Mit Adobe Portfolio können Sie Ihre Arbeit hochladen, organisieren und mit potenziellen Mitarbeitern und Kunden auf der ganzen Welt teilen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
@@ -105,7 +111,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="cc-workflows-cc-libraries.md"><strong>Verbessern der CC-Arbeitsabläufe mit CC Libraries</strong></a>
     </div>
     <em>Erfahren Sie, wie die Designelemente in Creative Cloud-Bibliotheken zusammengehalten werden, um die Projektkonsistenz für Designer und Teams zu gewährleisten</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="ccteamlibraries.md">
@@ -115,7 +121,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="ccteamlibraries.md"><strong>Creative Cloud-Bibliotheken für Teams erstellen</strong></a>
     </div>
     <em>Weitere Informationen zum Freigeben von Elementen innerhalb einer Gruppe oder eines Teams mithilfe von Creative Cloud-Bibliotheken für Teams</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="sharecclibraries.md">
@@ -125,7 +131,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="sharecclibraries.md"><strong>Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Branding-Assets für Ihre Gruppe oder Ihr Team mithilfe von Creative Cloud-Bibliotheken für Teams erstellen, verwenden und freigeben</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
@@ -135,7 +141,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Erstellen, Hinzufügen und Freigeben Ihrer Branding-Assets mit Creative Cloud-Bibliotheken (PDF)</strong></a>
     </div>
     <em>Creative Cloud-Bibliotheken bieten ein integriertes Branding-System, mit dem Designer Branding-Elemente für Kreativ-Teams freigeben können</em>
-    2<br>
+    <br>
   </td>
   </tr>
   <tr>
@@ -147,7 +153,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Freigeben von Textformaten aus Illustrator für Creative Cloud-Bibliotheken (PDF)</strong></a>
     </div>
     <em>Intelligenter arbeiten, nicht schwieriger, in Illustrator</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_grayspacer_96.png" />
@@ -179,7 +185,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="collaboration-the-future-of-creativity.md"><strong>Zusammenarbeit: Die Zukunft der Kreativität</strong></a>
     </div>
     <em>Zu den vielen Vorteilen eines Adobe Creative Cloud-Abonnements gehört der kostenlose Zugriff auf mehr als 20.000 professionell gestaltete und kuratierte Schriftarten von Adobe Fonts</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
@@ -189,7 +195,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Von Handlettering zu Illustrator über Creative Cloud (PDF)</strong></a>
     </div>
     <em>Mit den leistungsstarken Creative Cloud-Tools für Unternehmen können Sie mit Adobe-Apps und Desktopanwendungen von überall aus Inhalte erfassen, konvertieren und erstellen - auf jedem Gerät</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
@@ -199,7 +205,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Von Lightroom Web zu InDesign über Creative Cloud (PDF)</strong></a>
     </div>
     <em>Kreativität von der Kamera bis zum fertigen Design mit Creative Cloud-Dateien und -Bibliotheken</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
@@ -221,7 +227,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Produkt in einer realistischen Umgebung visualisieren (PDF)</strong></a>
     </div>
     <em>Wenn Sie sehen möchten, wie Ihre Produkte in der realen Welt aussehen, ist Adobe [!DNL Dimension] Ihre bevorzugte App</em>
-    3<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
@@ -253,7 +259,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="frescoworkshop.md"><strong>Fresco auf dem iPad (und iPhone) ausprobieren</strong></a>
     </div>
     <em>Entdecken Sie in diesem 15-minütigen Praxisworkshop eine ganz neue Welt des digitalen Zeichnens und Malens mit Adobe Fresco</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
@@ -285,7 +291,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="taming-type-anxiety.md"><strong>Taming-Typ-Angstzustände</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie auf über 20.000 professionell gestaltete Schriftarten unter Creative Cloud zugreifen und diese verwenden</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
@@ -295,7 +301,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Erstellen schöner Typografie mit Creative Cloud (PDF)</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die modernen typografischen Steuerelemente in Ihren bevorzugten Designtools nutzen können</em>
-    2<br>
+    <br>
   </td>
    <td>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
@@ -305,7 +311,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Ermitteln von Schriftarten mit Creative Cloud (PDF)</strong></a>
     </div>
     <em>Die Suche nach der richtigen Schriftart für ein Projekt kann manchmal überfordern. Mit verschiedenen Creative Cloud-Apps und -Diensten macht das Finden der richtigen Schriftart jetzt Spaß und inspirierend</em>
-    1<br>
+    <br>
   </td>
   <td>
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
@@ -315,7 +321,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Versteckte Edelsteine in OpenType-Schriften freigeben (PDF)</strong></a>
     </div>
     <em>Im OpenType-Format ist es möglich, dass eine Schrift bis zu 65.536 Glyphen enthält</em>
-    2<br>
+    <br>
   </td>
 </table>
 
@@ -331,7 +337,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Lernen Sie Grafikstile in Illustrator kennen (PDF)</strong></a>
     </div>
     <em>Illustrator bietet Ihnen die Möglichkeit, Grafiken ähnlich zu formatieren wie Ihren Text</em>
-    2<br>
+    <br>
   </td>
    <td>
    <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
@@ -341,7 +347,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Intelligenter arbeiten, nicht härter, mit Adobe Illustrator CC (PDF)</strong></a>
     </div>
     <em>Beschleunigen Sie Ihre Vektorzeichnungen in Illustrator</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
@@ -351,7 +357,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator Symbols + Layers = Perfect Structure für Responsive SVG! (PDF)</strong></a>
     </div>
     <em>Illustrator bietet eine beispiellose Unterstützung für das SVG-Format, einschließlich der Möglichkeit, Symbole, Gruppen, IDs und präzise Vektordefinitionen Ihrer Grafik zu erstellen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
@@ -373,7 +379,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Erstellen interaktiver PDF von InDesign (PDF)</strong></a>
     </div>
     <em>InDesign enthält viele Funktionen, mit denen Sie den Inhalt Ihrer Dokumente formatieren, formatieren, verwalten und verfolgen können</em>
-    2<br>
+    <br>
   </td>
    <td>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
@@ -383,7 +389,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Einfaches Sammeln und Einbinden von Design-Feedback mit Adobe Acrobat und InDesign (PDF)</strong></a>
     </div>
     <em>Stakeholder können Acrobat verwenden, um detaillierte Kommentare und Anmerkungen hinzuzufügen. Anschließend können Sie diese Markups schnell wieder in Adobe InDesign einfügen, um sie im Kontext Ihres Layouts anzuzeigen</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/StyleWebContentwithInDesign.pdf">
@@ -393,29 +399,29 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
    <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Webinhalte mit Adobe InDesign CC formatieren (PDF)</strong></a>
     </div>
     <em>Wussten Sie, dass Sie die Leistungsfähigkeit des InDesign zur Ausgabe von HTML- und Webgrafiken nutzen können?</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="Interaktives PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse von InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interaktiver PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse von InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interaktive PDF: Lesezeichen und verknüpfte Inhaltsverzeichnisse von InDesign (PDF)</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die Inhaltsverzeichnisfunktion auf dem InDesign verwenden, um Lesezeichen und Hyperlinks zu generieren, die Ihren Lesern helfen, Informationen in Ihren PDF-Dateien schnell zu finden</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten auf dem InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="Interaktives PDF: Grafische Hyperlinks und verschachtelte Masterseiten in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interaktiver PDF: Grafische Hyperlinks und verschachtelte Masterseiten auf dem InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interaktive PDF: Grafische Hyperlinks und verschachtelte Masterseiten unter InDesign (PDF)</strong></a>
     </div>
     <em>Durch das Anwenden von Hyperlinks mit Masterseiten können Sie schnell ein Navigationssystem auf allen Seiten verwalten</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
@@ -447,7 +453,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="alphabetsoup.md"><strong>Dekodieren der Alphabetsuppe der Grafikformate</strong></a>
     </div>
     <em>JPG Dateien in den Formaten, PNG, SVG, GIF und EPS werden häufig im Design verwendet, einige für Webseiten, andere für Präsentationen, Publikationen und Kreativprojekte. Aber was bedeuten sie, und was sollten Sie auswählen?</em>
-    1<br>
+    <br>
   </td>
   <td>
     <a href="compositepsipad.md">
@@ -457,7 +463,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="compositepsipad.md"><strong>Eindeutige Kompositionen mit Adobe [!DNL Stock] und Photoshop für iPad erstellen</strong></a>
     </div>
     <em>Die Möglichkeiten von Photoshop ganz einfach nutzen. Erfahren Sie, wie Sie eine Ihrer bevorzugten Creative Cloud-Anwendungen mit einer neu gestalteten, Touchscreen-basierten Oberfläche ganz neu verwenden können</em>
-    1<br>
+    <br>
   </td>
   <td>
     <a href="cinemagraphps.md">
@@ -467,7 +473,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="cinemagraphps.md"><strong>Erstellen von Cinemagrammen mit Photoshop</strong></a>
     </div>
     <em>In diesem schrittweisen Workshop-Videotutorial erstellen Sie ein lebendiges Foto, indem Sie ein Video von Adobe [!DNL Stock] mit cleveren Maskierungstechniken in Photoshop kombinieren</em>
-    3<br>
+    <br>
   </td>
   <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
@@ -477,7 +483,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf"><strong>Ein Foto mit Photoshop und After Effects (PDF) mit außergewöhnlicher Beleuchtung versehen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie den Effekt "Lichtbündel" in Adobe After Effects verwenden, um ein Foto dramatisch zu verbessern</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -489,7 +495,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Erstellen von Cinemagrammen im Handumdrehen mit Photoshop und Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Es wird nach Videos mit nahtloser Endloswiedergabe auf Adobe [!DNL Stock] gesucht, um auffällige Cinemagramme in Photoshop schnell zusammenzustellen</em>
-    3<br>
+    <br>
   </td>
   <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
@@ -499,7 +505,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Mit Photoshop ein lebendiges Foto erstellen — Teil 1 (PDF)</strong></a>
     </div>
     Mit <em>Adobe Photoshop können Sie Ihre Kurzvideos schnell in lebendige Fotos verwandeln, die Ihre Zielgruppe auf jeder Social-Media-Plattform faszinieren</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
@@ -509,7 +515,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf"><strong>Mit Photoshop ein lebendiges Foto erstellen — Teil 2 (PDF)</strong></a>
     </div>
     <em>Das Kombinieren von Fotos mit Videos ist eine leistungsstarke Möglichkeit, Ihren Fotos eine ansprechende Qualität hinzuzufügen, ohne die Botschaft oder den Ton Ihres Originalbildes zu beeinträchtigen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
@@ -519,7 +525,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
     </div>
     <em>In diesem praktischen, schrittweisen Labor können Sie Photoshop mit After Effects kombinieren, um beeindruckende Bilder und Effekte zu erstellen, die für die Verwendung auf jedem Medium geeignet sind</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -531,7 +537,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Schnelles Branding Ihrer Instagram-Fotos mit Adobe Photoshop-Aktionen (PDF)</strong></a>
     </div>
     <em>Zeitaufwand reduzieren und mithilfe von Aktionen in Photoshop viel Zeit sparen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
@@ -541,7 +547,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Intelligenter arbeiten, nicht schwieriger, mit Photoshop (PDF)</strong></a>
     </div>
     <em>Änderungen in Photoshop können zeitaufwendig sein, müssen jedoch nicht </em> sein.
-    2<br>
+    <br>
   </td>
   <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
@@ -551,7 +557,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Ein wenig Adobe Photoshop zu Ihren kreativen Fertigkeiten hinzufügen (PDF)</strong></a>
     </div>
     <em>Ein wenig Adobe Photoshop zu Ihren kreativen Fertigkeiten hinzufügen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="assets/GreenScreenisNotJustforVideo.pdf">
@@ -561,7 +567,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Greenscreen ist nicht nur für Video (PDF)</strong></a>
     </div>
     <em>Sie können den Greenscreen in einem Fotostudio verwenden und After Effects verwenden, um die Fotoverwendung in Photoshop vorzubereiten</em>
-    2<br>
+    <br>
   </td>
 </tr>  
 </table>

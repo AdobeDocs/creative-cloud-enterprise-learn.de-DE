@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: Virtuelle Fotografie, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2376'
+source-wordcount: 2406
 ht-degree: 0%
 
 ---
@@ -21,14 +26,14 @@ Wenn Sie sich die Bilder oben ansehen, würden Sie verzeihen, wenn Sie davon aus
 
 ![Eine Szene aus James Camerons The Abyss, in der Mary Mastrantonio den CGI-Wassertentakel berührt](assets/Photorealistic_2.jpg)
 
-Diese Technik, 3D-Modelle zu einem Bild oder Video zu &quot;kombinieren&quot;, ist nicht neu, und ihre Ursprünge reichen bis in die frühen Tage des VFX zurück (bis in die 1980er Jahre). Neu und aufregend ist, dass diese Technik zu einem leistungsstarken Tool für [Adobe [!DNL Dimension]](https://www.adobe.com/de/products/dimension.html)-Benutzer und einem faszinierenden neuen Arbeitsablauf für Fotografen geworden ist.
+Diese Technik, 3D-Modelle zu einem Bild oder Video zu &quot;kombinieren&quot;, ist nicht neu, und ihre Ursprünge reichen bis in die frühen Tage des VFX zurück (bis in die 1980er Jahre). Neu und aufregend ist, dass diese Technik zu einem leistungsstarken Tool für [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)-Benutzer und einem faszinierenden neuen Arbeitsablauf für Fotografen geworden ist.
 
 
 ## Die Technologie zum Erstellen zusammengesetzter Bilder auf Adobe [!DNL Dimension]
 
 ![Bearbeiten der Ebene eines Metallkugelmodells in einer Adobe [!DNL Dimension]-Komposition](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension] hat es Benutzern ermöglicht, 2D- und 3D-Elemente nahtlos direkt in der App zu kombinieren, indem die Adobe-KI verwendet wurde. Der Hauptvorteil von Compositing-Elementen auf diese Weise ist, dass der Prozess der Erstellung eines realistisch aussehenden Bildes durch die Ersetzung einer vollständig realisierten 3D-Szene mit einem Hintergrundbild, das von der Realität erfasst werden kann, erheblich beschleunigt wird.
+Adobe [!DNL Dimension] hat es Benutzern ermöglicht, 2D- und 3D-Elemente direkt in der App nahtlos zusammenzufügen, indem sie die Adobe-KI verwenden. Der Hauptvorteil von Compositing-Elementen auf diese Weise ist, dass der Prozess der Erstellung eines realistisch aussehenden Bildes durch die Ersetzung einer vollständig realisierten 3D-Szene mit einem Hintergrundbild, das von der Realität erfasst werden kann, erheblich beschleunigt wird.
 
 ![Die Funktion &quot;Bild angleichen&quot; auf Adobe [!DNL Dimension] analysiert das Hintergrundbild und schätzt die Brennweite und Position der Kamera, die für die Aufnahme verwendet wurde](assets/Photorealistic_4.gif)
 
@@ -38,7 +43,7 @@ Aber was ist mit allem, was nicht innerhalb des Kamerarahmens aufgenommen wurde?
 
 ![Ein fotorealistisches 3D-Composite-Bild eines Mopeds in einem Wohnzimmer](assets/Photorealistic_5.png)
 
-Mit Bild angleichen wird versucht, die Lichtumgebung, in der ein Hintergrundbild aufgenommen wurde, zu &quot;halluzinieren&quot;. Die Funktion ist beeindruckend und liefert in kurzer Zeit hervorragende Ergebnisse. Die Aufnahme der Umgebung zusammen mit dem Hintergrundbild führt jedoch zu noch realistischeren Ergebnissen. Dies ist sogar die Methode, die verwendet wird, um die Adobe-KI zu trainieren.
+Mit Bild angleichen wird versucht, die Lichtumgebung, in der ein Hintergrundbild aufgenommen wurde, zu &quot;halluzinieren&quot;. Die Funktion ist beeindruckend und liefert in kurzer Zeit hervorragende Ergebnisse. Die Aufnahme der Umgebung zusammen mit dem Hintergrundbild führt jedoch zu noch realistischeren Ergebnissen. Mit dieser Methode wird sogar die Adobe-KI trainiert.
 
 ![Ein 360-Grad-HDR-Panorama des Büroraums](assets/Photorealistic_6.png)
 
@@ -52,13 +57,13 @@ Kameras wie Ricoh Theta, Gopro MAX und Insta 360 können 360 Panoramen aufnehmen
 
 ### [!DNL Capture]
 
-Für den Einstieg in die Aufnahme von Umgebungen für Compositing benötigen Sie zwei Hauptelemente: ein hochwertiges Hintergrundbild oder Bilder und ein 360° HDR-Panorama der Umgebung, in der es aufgenommen wurde.
+Um mit der Aufnahme von Umgebungen für das Compositing zu beginnen, benötigen Sie zwei Hauptelemente: ein hochwertiges Hintergrundbild oder Bilder und ein 360° HDR-Panorama der Umgebung, in der es aufgenommen wurde.
 
 Einer der wichtigsten Aspekte beim effektiven Aufnehmen dieser Art von Inhalten ist es, die vorhandenen Fähigkeiten und Werkzeuge eines Fotografen zu nutzen. Um ein schönes Hintergrundbild zu erstellen, ist ein Auge für die Komposition und die Liebe zum Detail erforderlich. Auch bei Hintergrundbildern ist eine besondere Denkweise erforderlich, damit du etwas Nützliches erstellst, mit dem sich 3D-Elemente zusammensetzen lassen.
 
 ### Auswählen eines Speicherorts
 
-Halte Ausschau nach Locations, die sowohl im Kontext als auch in Bezug auf die Beleuchtung interessant sind. Wenn man den Kontext betrachtet, kann es hilfreich sein, sich den potenziellen Nutzen einer Szene vorzustellen. Beispielsweise kann eine Ansicht einer leeren Straße zum Hinzufügen in einem 3D-Auto verwendet werden, während eine Ansicht eines Tisches in einem Café für [Anzeigen der Verpackung](https://www.adobe.com/de/products/dimension/packaging-design-mockup.html) von Lebensmittelprodukten verwendet werden kann.
+Halte Ausschau nach Locations, die sowohl im Kontext als auch in Bezug auf die Beleuchtung interessant sind. Wenn man den Kontext betrachtet, kann es hilfreich sein, sich den potenziellen Nutzen einer Szene vorzustellen. Beispielsweise kann eine Ansicht einer leeren Straße zum Hinzufügen in einem 3D-Auto verwendet werden, während eine Ansicht eines Tisches in einem Café für [Anzeigen der Verpackung](https://www.adobe.com/products/dimension/packaging-design-mockup.html) von Lebensmittelprodukten verwendet werden kann.
 
 ![4 Standortszenen für ein virtuelles Foto werden mit denselben Szenen in einer 3D-Komposition verglichen](assets/Photorealistic_8.png)
 
@@ -86,7 +91,7 @@ Es ist sehr wichtig, die Farbe zwischen der Kamera, mit der die Umgebung aufgeno
 
 Um mit der 360°-Kamera eine HDR-Umgebung zu erstellen, müssen mehrere EVs aufgenommen werden, um in der Nachbearbeitung zu einem HDR-Bild kombiniert zu werden. Die Anzahl der EVs ist nicht standardisiert, aber im Allgemeinen soll das obere Ende des Belichtungsbereichs bis zu einem Punkt gehen, an dem keine Informationen mehr in den Schatten vorhanden sind, und das untere Ende des Belichtungsbereichs bis zu einem Punkt, an dem keine Informationen mehr in den Glanzlichtern vorhanden sind.
 
-Idealerweise verfügt die 360°-Kamera über eine automatische Belichtungsreihe, die es ermöglicht, die verschiedenen Belichtungsstufen von der Kamera zu stapeln. Ideale Einstellungen sind die Verwendung des niedrigsten verfügbaren ISO-Werts, um Rauschen zu vermeiden, und eines hohen Blendenwerts für die Schärfe. Die Belichtungswerte können dann mit der Verschlusszeit variiert und durch Stopps aufgelöst werden, also die Belichtung halbieren oder verdoppeln.
+Idealerweise verfügt die 360°-Kamera über eine automatische Belichtungsreihe, die es ermöglicht, die verschiedenen Belichtungsstufen von der Kamera zu stapeln. Ideale Einstellungen sind die Verwendung des niedrigsten verfügbaren ISO-Werts, um Rauschen zu vermeiden, und eines hohen Blendenwerts für die Schärfe. Die Belichtungswerte können dann mithilfe der Verschlusszeit variiert und durch Blenden getrennt werden. Halbierung oder Verdoppelung der Belichtung.
 
 ![Eine Reihe von Belichtungsreihen aus einem 360-Grad-HDR-Panorama eines Büroraums](assets/Photorealistic_12.png)
 
@@ -136,7 +141,7 @@ Wenn die Aufnahme abgeschlossen ist, sollten die Bilder nachbearbeitet werden, u
 
 ## Zusammengesetztes Bild wird in [!DNL Dimension] zusammengestellt
 
-Nachdem diese Elemente gesammelt und vervollständigt wurden, können sie jetzt in einer Szene auf Adobe [!DNL Dimension] zusammengestellt werden. Das geht so einfach wie das Ziehen des Hintergrunds in die Szene, wo es dann auf den Hintergrund angewendet wird. Fügen Sie dann das HDR-Panorama in den Slot mit dem Umgebungslicht-Bild hinzu.
+Nachdem diese Elemente gesammelt und vervollständigt wurden, können sie jetzt in einer Szene auf Adobe [!DNL Dimension] zusammengestellt werden. Das geht so einfach wie das Ziehen des Hintergrunds in die Szene, wo es dann auf den Hintergrund angewendet wird. und fügen Sie dann das HDR-Panorama in den Slot für das Umgebungslichtbild ein.
 
 Ziehen Sie das Hintergrundbild auf eine leere Stelle auf der Arbeitsfläche oder wählen Sie im Szenenfenster die Option Umgebung aus und fügen Sie das Bild zur Hintergrundeingabe hinzu.
 
@@ -158,7 +163,7 @@ Um die Ausrichtung und Belichtung des HDR-Panos relativ zum Hintergrund schnell 
 
 Um die Ausrichtung und Belichtung des HDR-Panos relativ zum Hintergrund schnell zu bewerten, kann in der Szene eine Kugel-Primitive mit einem metallischen Material platziert werden, die aus dem freien Bedienfeld für Elemente in [!DNL Dimension] entnommen wurde. Die Drehung des Umgebungslichts kann dann so positioniert werden, dass die Reflexionen korrekt aussehen. Wenn die Beleuchtung des HDR-Panoramas die Kugel über- oder unterbelichtet, sollte die Belichtung des HDR-Panoramas erhöht oder verringert werden, um dies zu kompensieren.
 
-## Das Endergebnis: Eine fotorealistische Bildkomposition
+## Das Ergebnis: Fotorealistische Bildkomposition
 
 ![Ein Zeitraffer aus 3D-Compositing und Rendering für ein virtuelles Produktfoto auf Adobe [!DNL Dimension]](assets/Photorealistic_24.gif)
 
@@ -168,4 +173,4 @@ Sobald die Szene abgeschlossen ist, ist der Arbeitsablauf für den Endbenutzer u
 
 Das Ergebnis ist eine überzeugende Kombination aus Realität und 3D, die es Endanwendern ermöglicht, fotorealistische Bilder mit minimalem Aufwand zu erstellen. Probieren Sie es selbst aus mit [freien [!DNL Dimension] Szenen](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338), die wir erstellt haben, um den Workflow zu demonstrieren.
 
-[Laden Sie noch heute die neueste Version &#x200B;](https://creativecloud.adobe.com/apps/download/dimension) von [!DNL Dimension] herunter und beginnen Sie mit der Erstellung fotorealistischer Bilder.
+[Laden Sie noch heute die neueste Version ](https://creativecloud.adobe.com/apps/download/dimension) von [!DNL Dimension] herunter und beginnen Sie mit der Erstellung fotorealistischer Bilder.
