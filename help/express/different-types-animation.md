@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die drei verschiedenen Arten von Animationen (Intro, Looping und Outro), die Sie Ihren Projekten hinzufügen können, um sie ansprechender zu gestalten. Jede Animation hat einen anderen Stil, den Sie in der Vorschau anzeigen und auswählen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433951?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Weitere Videos dieser Serie
 

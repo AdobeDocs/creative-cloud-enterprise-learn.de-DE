@@ -26,4 +26,4 @@ Erfahren Sie, wie Sie ein Bild aus Textbeschreibungen erstellen. [Das Generieren
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427608?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447679?captions=ger&quality=12&learn=on&hidetitle=true)

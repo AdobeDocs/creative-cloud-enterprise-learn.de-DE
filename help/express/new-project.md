@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Erfahre, wie du ein neues Projekt auf einer Arbeitsfläche mit einem Instagram-Pfosten erstellen kannst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441435?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Weitere Videos dieser Serie
 

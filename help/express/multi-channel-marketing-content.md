@@ -30,4 +30,4 @@ Erfahrt, wie Event-Marketing-Teams einzigartige Inhalte erstellen können, um Zu
 
 In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424446?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444988?captions=ger&quality=12&learn=on&hidetitle=true)

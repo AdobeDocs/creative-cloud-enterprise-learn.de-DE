@@ -30,4 +30,4 @@ In diesem Webinar zeigt dir Howard Pinsky, wie er ins Firefly eintaucht.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455543?captions=ger&quality=12&learn=on&hidetitle=true)

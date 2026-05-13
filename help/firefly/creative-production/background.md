@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie mit [!DNL Firefly] Creative Production Hintergründe in gr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3472916?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3472928?captions=ger&quality=12&learn=on&hidetitle=true)

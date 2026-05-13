@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Erfahre, wie du Animationen mithilfe von Presets für Social-Media-Posts wie Instagram optimierst. Unabhängig davon, wie Sie die Größe Ihrer Animationen ändern, bleiben die Einstellungen erhalten, sodass Sie sie nicht neu erstellen müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437732?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Weitere Videos dieser Serie
 

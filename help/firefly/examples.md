@@ -26,4 +26,4 @@ Erfahren Sie, wie Sie mit Firefly inspirierende PowerPoint-Präsentationen, Mood
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437065?captions=ger&quality=12&learn=on&hidetitle=true)

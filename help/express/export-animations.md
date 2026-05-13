@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Erfahre, wie du Personen zum Bearbeiten einlädst, deine Animation im Web veröffentlichst, einen Social-Media-Beitrag planst oder herunterlädst. Adobe Expreß empfiehlt abhängig von der jeweiligen Situation das Dateiformat, in das exportiert werden soll.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433962?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Weitere Videos dieser Serie
 

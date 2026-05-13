@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie mit der Funktion &quot;Generative Recolor&quot; auf Adobe 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442076?captions=ger&quality=12&learn=on&hidetitle=true)

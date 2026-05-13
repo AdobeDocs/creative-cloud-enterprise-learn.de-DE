@@ -32,4 +32,4 @@ Hier erfahren Sie, wie Sie mit Creative Cloud-Bibliotheken für Teams Branding-E
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335333?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449197?captions=ger&hidetitle=true)

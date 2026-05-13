@@ -28,4 +28,4 @@ ht-degree: 4%
 
 Erfahre, wie du mit &quot;Text in Bild&quot; (Adobe Firefly) im Adobe Expreß eine Werbekampagne für Social Media erstellst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430561?captions=ger&quality=12&learn=on&hidetitle=true)
