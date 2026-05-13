@@ -6,9 +6,21 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+TQID: https://experienceleague.adobe.com/vXAaKbzUm97uoCDQm45GxgyCs335hL1ZxfofYgtEcRw
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: 368
 ht-degree: 1%
 
 ---
@@ -362,17 +374,17 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
             <a href="lock-layers.md"><strong>Wie und warum Ebenen gesperrt werden</strong></a>
             </div>
             <em>Erfahren Sie, warum es wichtig ist, verschiedene Elemente Ihrer Vorlage zu sperren</em>
-            2<br>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen" src="assets/create-template.png" />
+            <img alt="Maximierung der Effizienz: Wiederverwendbare Vorlage erstellen" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Effizienzmaximierung: Wiederverwendbare Vorlage erstellen</strong></a>
+         <a href="create-templates.md"><strong>Maximale Effizienz: Wiederverwendbare Vorlage erstellen</strong></a>
          </div>
          <em>Erfahren Sie, wie Sie mithilfe von Vorlagen Markenkonsistenz, Effizienz und Kosteneinsparungen in Ihrem Unternehmen erzielen</em>
-         2<br>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
@@ -382,7 +394,7 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
          <a href="share-templates.md"><strong>Vorlagen speichern und freigeben</strong></a>
          </div>
          <em>Erfahren Sie, wie Sie Vorlagen speichern und in einer Branding-Kit oder Bibliothek für Ihr Team freigeben</em>
-         2<br>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
@@ -392,7 +404,7 @@ Als Ausgangspunkt kannst du mit KI-Technologie auf Basis von Adobe Firefly kreat
          <a href="use-templates.md"><strong>Mühelose Markenkonsistenz mit Vorlagen</strong></a>
          </div>
          <em>Erfahren Sie, wie Sie schnell und effizient markengerechte Inhalte in Ihrer gesamten Organisation erstellen</em>
-         2<br>
+         <br>
    </td>
 </tr>
 </table>

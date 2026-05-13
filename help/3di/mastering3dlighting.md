@@ -6,9 +6,19 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-Beleuchtung, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -21,7 +31,7 @@ Wir nehmen die Welt um uns herum mit unseren Sinnen wahr: wir hören, wir fühle
 
 Die Lichtmechanik in einer computergenerierten 3D-Szene folgt dem gleichen natürlichen Prinzip der Fotonenstreuung, das auch als Raytracing bezeichnet wird. Strahlen springen von Formen ab und interagieren mit ihren Materialien. So wird effektiv definiert, wie Objekte im endgültigen Bild erscheinen. Beleuchtung macht die Dimensionalität aller Elemente einer 3D-Szene sichtbar.
 
-Einige Materialien sind lichtempfindlicher als andere. Nehmen wir zum Beispiel Metalle: Ein Chromobjekt spiegelt im Grunde alles um es herum wider. Wenn ein Licht bewegt wird, heller oder größer wird, sind alle diese Informationen direkt auf der Chromoberfläche in nahezu spiegelähnlichen Details sichtbar, sodass sie von einem Lichtzustand zum anderen völlig unterschiedlich erscheinen können.
+Einige Materialien sind lichtempfindlicher als andere. Nehmen wir zum Beispiel Metalle: ein Chromobjekt im Grunde alles um es herum reflektiert. Wenn ein Licht bewegt wird, heller oder größer wird, sind alle diese Informationen direkt auf der Chromoberfläche in nahezu spiegelähnlichen Details sichtbar, sodass sie von einem Lichtzustand zum anderen völlig unterschiedlich erscheinen können.
 
 ![Eine 3D-CGI-Szene eines Autos auf einem Parkplatz mit einem Neon-Schild an der Wand. Die Beleuchtung wechselt vom Tageslicht zu einer Neon-LED, die vom Schild ausgeht](assets/Mastering3dlighting_1.gif)
 
@@ -56,7 +66,7 @@ Umgebungslichter sind äquirektanguläre (kugelförmige) Bilder, die um die gesa
 
 ![Beispiele für Umgebungslichter aus Fotos, einer 3D-Studioszene und einer abstrakten 3D-Szene](assets/Mastering3dlighting_5.jpg)
 
-Wenn Sie eine neue Szene in [[!DNL Dimension]](https://www.adobe.com/de/products/dimension.html) erstellen, wird eine Standardumgebungsbeleuchtung für Sie erstellt. Das ist der Grund, warum man sofort alles in der Szene sehen kann. Adobe [!DNL Dimension] Starter Assets enthalten eine bestimmte Anzahl von Umgebungslichtern, die Sie sofort ausprobieren können. Darüber hinaus bietet [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) eine große, kuratierte Auswahl an Umgebungsbeleuchtungen.
+Wenn Sie eine neue Szene in [[!DNL Dimension]](https://www.adobe.com/de/products/dimension.html) erstellen, wird eine Standardumgebungsbeleuchtung für Sie erstellt. Das ist der Grund, warum man sofort alles in der Szene sehen kann. Adobe [!DNL Dimension] Starter Assets enthalten eine bestimmte Anzahl von Umgebungslichtern, die Sie sofort ausprobieren können. Darüber hinaus bietet [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) eine große, kuratierte Auswahl an Umgebungsbeleuchtungen.
 
 Umgebungslichter liefern äußerst realistische Ergebnisse und sparen viel Zeit. Um etwas Ähnliches manuell zu erreichen, müssten Sie tatsächlich die gesamte Umgebung in 3D (einschließlich verschiedener Lichtquellen) erstellen, was ein erheblicher Arbeitsaufwand ist.
 
@@ -100,13 +110,13 @@ Wenn du die Lichtquelle kleiner machst als das Objekt, werden die Schatten schä
 
 ### Sonne und Himmel
 
-Sonnenlicht ist eine spezielle Art von gerichtetem Licht. Der Einrichtungsvorgang ähnelt sehr stark dem eines normalen Licht, aber dieses Licht ändert automatisch die Farbe mit der Höhe. Wenn es sich in der Nähe des Horizonts befindet (niedrige Höhenwinkelwerte), wird es allmählich wärmer, um den Sonnenuntergang zu simulieren. Die Farbe kann auch mithilfe von Vorgaben geändert werden. In der Zwischenzeit wird der Schatten durch Wolken weicher.
+Sonnenlicht ist eine spezielle Art von gerichtetem Licht. Der Einrichtungsvorgang ähnelt sehr stark dem eines normalen Licht, jedoch ändert dieses Licht automatisch die Farbe mit der Höhe. wenn er sich in der Nähe des Horizonts befindet (niedrige Höhenwinkelwerte), wird es allmählich wärmer, um den Sonnenuntergang zu simulieren. Die Farbe kann auch mithilfe von Vorgaben geändert werden. In der Zwischenzeit wird der Schatten durch Wolken weicher.
 
 ![Bearbeiten von Beleuchtungseigenschaften für Sonnenlicht auf einem 3D-Automodell in Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![Eine 3D-Szene auf dem Mond, bei der nur Sonnenlicht als Lichtquelle dient](assets/Mastering3dlighting_16.jpg)
 
-Wir sind in der Lage, den Himmel mit Umgebungslichtern nachzuahmen, und jedes Umgebungslicht, das den Himmel zeigt, kann verwendet werden. Jetzt müssen wir das Sonnenlicht (hergestellt in [!DNL Dimension]) auf die Sonne ausrichten, die im Umgebungslicht aufgenommen wurde. Eine schnelle Möglichkeit ist, eine Kugel zu erstellen und ihr ein Metallmaterial zuzuweisen. Dadurch erhalten wir Echtzeit-Reflexionen der Umgebung, sodass wir Ziellicht an einem Punkt verwenden können, um das Sonnenlicht an der Sonne auszurichten.
+Wir sind in der Lage, den Himmel mit Umgebungslichtern nachzuahmen, und jedes Umgebungslicht, das den Himmel zeigt, kann verwendet werden. Jetzt müssen wir das Sonnenlicht (hergestellt in [!DNL Dimension]) auf die Sonne ausrichten, die im Umgebungslicht aufgenommen wurde. Eine schnelle Möglichkeit hierfür ist, eine Kugel zu erstellen und ihr ein metallisches Material zuzuweisen. Dadurch erhalten wir Reflexionen der Umgebung in Echtzeit, sodass wir das Ziellicht an einem Punkt verwenden können, um das Sonnenlicht an der Sonne auszurichten.
 
 Bei bewölktem Himmel kann die Eigenschaft &quot;Bewölkung&quot; verwendet werden, um diesen Bedingungen besser zu entsprechen.
 
@@ -164,7 +174,7 @@ Es gibt zwei Möglichkeiten, die 3-Punkt-Beleuchtung in [!DNL Dimension] zu erst
 
 Kreative Beleuchtung kommt zum Einsatz, wenn die physische Präzision nicht das Hauptziel ist. Dies umfasst abstrakte und surreale Szenen aller Art, sodass es keine wirklichen Grenzen gibt, wohin uns unsere Fantasie führen kann.
 
-Im obigen Beispiel sollte eine traumhafte Umgebung abgebildet werden: Bonbons, Pastellfarben und glatte Oberflächen. Das Beleuchtungssystem besteht aus drei glühenden Platten (zwei auf der Seite und die Hauptleuchtplatte von unten). Alle leuchtenden Platten sind unrealistisch groß, was sehr glatte Schatten und Glanzlichter erzeugt. Die Lichtquellen werden eingefärbt und diese Farbe wird in das den Objekten in der Szene zugeordnete Material übertragen.
+Im obigen Beispiel sollte eine traumhafte Umgebung abgebildet werden: Süßigkeiten, Pastellfarben und glatte Oberflächen. Das Beleuchtungssystem besteht aus drei glühenden Platten (zwei auf der Seite und die Hauptleuchtplatte von unten). Alle leuchtenden Platten sind unrealistisch groß, was sehr glatte Schatten und Glanzlichter erzeugt. Die Lichtquellen werden eingefärbt und diese Farbe wird in das den Objekten in der Szene zugeordnete Material übertragen.
 
 Das Motiv der Szene (Rohre) ist vollständig von der Wandgeometrie umgeben. Das führt dazu, dass die Lichtstrahlen hin und her reflektiert werden und sich auf interessante Weise vermischen. Das Spielen mit kalten VS-Warmtönen erzeugt oft einen schönen Kontrast (diese Technik wird manchmal in der Porträtfotografie verwendet).
 

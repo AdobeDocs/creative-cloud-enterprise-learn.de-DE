@@ -5,9 +5,20 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/OO15ggOXFGIVvTH96F-dTOek9zhYq64kOVne2jE4KSk
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: da3860b0-d637-47df-bef0-273751180266
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 0%
 
 ---
@@ -28,7 +39,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
    <a href="stock.md#tutorial1"><strong>Finden Sie die besten Assets schneller mit dem Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Finden Sie das perfekte lizenzfreie Stock-Bild, um Ihr kreatives Projekt mithilfe besserer, schnellerer Suchergebnisse auf Basis von Adobe AI zu optimieren</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
@@ -39,7 +50,7 @@ Kreative stehen unter Druck, schnell neue, visuell überzeugende Inhalte bereitz
 Adobe Experience Manager</strong></a>
     </div>
     <em>Vereinfachen Sie das Hochladen Ihrer lizenzierten Adobe [!DNL Stock]-Assets in Ihr Digital Asset Management-System</em>
-    3<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -54,7 +65,7 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Beschreibung**
-Finde das perfekte lizenzfreie Stockbild, um dein Kreativprojekt mit besseren, schnelleren Suchergebnissen auf Basis von Adobe AI zu optimieren.
+Finde das perfekte lizenzfreie Stockbild, um dein kreatives Projekt mit besseren, schnelleren Suchergebnissen auf Basis von Adobe AI zu optimieren.
 
 In diesem Tutorial lernen Sie Folgendes:
 
@@ -89,4 +100,4 @@ Emily Palmer, Lösungsberaterin (Digitale Medien)
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

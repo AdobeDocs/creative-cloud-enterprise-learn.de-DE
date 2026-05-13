@@ -1,21 +1,32 @@
 ---
 title: Adobe [!DNL Firefly] Übersicht
-description: Machen Sie sich mit Adobe vertraut [!DNL Firefly]
+description: Auf dem Adobe  [!DNL Firefly] auf dem neuesten Stand sein
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
+TQID: https://experienceleague.adobe.com/AU9Jo3DbpwkvZK1RfP3-0pD3aCCp0vBJ6o9L61pJdGI
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1286'
+source-wordcount: 1286
 ht-degree: 0%
 
 ---
 
-# Übersicht über Adobe [!DNL Firefly]
+# Adobe [!DNL Firefly] - Übersicht
 
-Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Adobe-Produkten kommen und sich zunächst auf die Bild- und Texteffekterstellung konzentrieren. Firefly bietet neue Möglichkeiten zum Ideenfindung, Erstellen und Kommunizieren und verbessert gleichzeitig die Kreativ-Workflows erheblich.
+Firefly ist die neue Familie kreativer, generativer KI-Modelle für Adobe-Produkte, die sich zunächst auf die Erstellung von Bild- und Texteffekten konzentrieren. Firefly bietet neue Möglichkeiten zur Idealisierung, Erstellung und Kommunikation und verbessert gleichzeitig die Workflows im Kreativbereich erheblich.
 
 ## Firefly-Tutorials
 
@@ -136,7 +147,7 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly" target="_blank" rel="referrer" title="Überblick über Adobe Firefly">Überblick über Adobe Firefly</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly" target="_blank" rel="referrer" title="Überblick über Adobe Firefly">Übersicht über Adobe Firefly</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, was Sie mit Adobe Firefly erstellen können</p>
                 </div>
@@ -150,8 +161,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" title="Adobe Firefly entdecken" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_13b319e0a7f29faac27c78f461f4081db09226c22.png?width=400&format=webply&optimize=medium" alt="Adobe Firefly entdecken"
+                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" title="Discover Adobe Firefly" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_13b319e0a7f29faac27c78f461f4081db09226c22.png?width=400&format=webply&optimize=medium" alt="Discover Adobe Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,9 +170,9 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" title="Adobe Firefly entdecken">Adobe Firefly entdecken</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" title="Discover Adobe Firefly">Adobe Firefly entdecken</a>
                     </p>
-                    <p class="is-size-6">Entdecken Sie Adobe Firefly mit generativer KI die Zukunft der Kreativität</p>
+                    <p class="is-size-6">Entdecke die Zukunft der Kreativität mit generativer KI.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
@@ -173,8 +184,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Creative Production" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_1c848099a48b90bf2a35c472811b7d634960fe6cb.webp?width=400&format=webply&optimize=medium" alt="Creative Production"
+                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Kreative Produktion" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_1c848099a48b90bf2a35c472811b7d634960fe6cb.webp?width=400&format=webply&optimize=medium" alt="Kreative Produktion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,9 +193,9 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" title="Creative Production">Creative-Produktion</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" title="Kreative Produktion">Kreative Produktion</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie Firefly Creative Production das Ersetzen von Hintergründen, Zuschnitten und Farbabstufungen bei Tausenden von Dateien zum Kinderspiel macht</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie beim Firefly von Creative Production das Ersetzen von Hintergründen, Zuschneiden und Farbkorrekturen für Tausende von Dateien ganz einfach machen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
@@ -196,8 +207,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" title="Kreative Ideen beschleunigen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1d9993ffe4bafef75cd5b2ac9e2e354da0df92646.png?width=400&format=webply&optimize=medium" alt="Kreative Ideen beschleunigen"
+                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" title="Ideen schneller umsetzen." target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1d9993ffe4bafef75cd5b2ac9e2e354da0df92646.png?width=400&format=webply&optimize=medium" alt="Ideen schneller umsetzen."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,9 +216,9 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" title="Kreative Ideen beschleunigen">Kreative Ideen beschleunigen</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" title="Ideen schneller umsetzen.">Kreative Ideen beschleunigen</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie Sie Ideen schnell visualisieren und Konzepte für Geschäftskampagnen erkunden können.</p>
+                    <p class="is-size-6">Erfahrt, wie ihr Ideen schnell visualisieren und Konzepte für Werbekampagnen erkunden könnt.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
@@ -219,8 +230,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" title="Wiederverwendbare Szenen für Waren erstellen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_124df1308bcacf789108a578565719a271ae5e4ac.png?width=400&format=webply&optimize=medium" alt="Wiederverwendbare Szenen für Waren erstellen"
+                    <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" title="Wiederverwendbare Szenen für Werbeartikel erstellen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_124df1308bcacf789108a578565719a271ae5e4ac.png?width=400&format=webply&optimize=medium" alt="Wiederverwendbare Szenen für Werbeartikel erstellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,14 +239,14 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" title="Wiederverwendbare Szenen für Waren erstellen">Erstellen wiederverwendbarer Szenen für Waren</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" title="Wiederverwendbare Szenen für Werbeartikel erstellen">Wiederverwendbare Szenen für Waren erstellen</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie Sie wiederverwendbare Szenen für Waren wie Handtaschen und Zubehör erstellen</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie wiederverwendbare Szenen für Waren wie Handtaschen und Zubehör erstellen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a Custom Model">
@@ -257,8 +268,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Landing page">
@@ -280,8 +291,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Text to image">
@@ -303,8 +314,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-to-image" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Text effects">
@@ -326,8 +337,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Generative fill">
@@ -349,8 +360,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Generative recolor">
@@ -372,8 +383,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Examples of how to use Firefly">
@@ -395,8 +406,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Enable creative efficiency">
@@ -418,8 +429,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Generative Fill in Photoshop">
@@ -441,8 +452,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Banner ad variations in Photoshop">
@@ -464,8 +475,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Generative Recolor in Illustrator">
@@ -487,8 +498,8 @@ Firefly ist die neue Produktfamilie kreativer generativer KI-Modelle, die zu Ado
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
 </div>

@@ -5,9 +5,17 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/9wkX7D0IVInCzEFg6GNjZBb6deU28Xg76wdH6Ma8OVw
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: 624
 ht-degree: 0%
 
 ---
@@ -28,7 +36,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
    <a href="acrobat-sign.md#tutorial1"><strong>Initiieren einer freigegebenen Acrobat-Überprüfung</strong></a>
     </div>
     <em>Überprüfer einladen, ihre Kommentare einem PDF-Dokument hinzuzufügen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
@@ -38,7 +46,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
     <a href="acrobat-sign.md#tutorial2"><strong>Onlineverzicht auf Forms mit Adobe Sign erstellen</strong></a>
     </div>
     <em>Dokumente schnell in Online-Formulare umwandeln und online bereitstellen, wo jeder, der sie braucht, sie ausfüllen und unterschreiben kann</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
@@ -48,7 +56,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
     <a href="acrobat-sign.md#tutorial3"><strong>Signatur mit Adobe Sign anfordern</strong></a>
     </div>
     <em>Wechseln Sie von Word zu PDF und senden Sie das Dokument zur Signatur mit Adobe Sign</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -60,7 +68,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
    <a href="acrobat-sign.md#tutorial4"><strong>Menüs auf Mobilgeräten mit Liquid Mode anzeigen</strong></a>
     </div>
     <em>Verwenden Sie den Liquid Mode, um das Leseerlebnis beim PDF auf Mobilgeräten zu verbessern</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
@@ -70,7 +78,7 @@ Mit Adobe Document Cloud, den weltweit führenden Lösungen für PDF und elektro
     <a href="acrobat-sign.md#tutorial5"><strong>Dokumente von Ihrem Mobiltelefon aus nach PDF scannen</strong></a>
     </div>
     <em>Mit Adobe Scan können Sie Dokumente, Formulare, Visitenkarten und Whiteboards einfach erfassen und in hochwertige Adobe-PDF umwandeln</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
@@ -100,7 +108,7 @@ In diesem Tutorial lernen Sie Folgendes:
 Dan Armstrong, Lösungsberater (Digitale Medien)
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Online-Verzicht auf Forms mit Adobe Sign erstellen (5:19) {#tutorial2}
+## Forms für Online-Verzicht mit Adobe Sign erstellen (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
@@ -116,7 +124,7 @@ In diesem Tutorial lernen Sie Folgendes:
 Taylor Kobey, Lösungsberater (Digitale Medien)
 Emily Palmer, Lösungsberaterin (Digitale Medien)
 
-## Unterschrift bei Adobe Sign anfordern (3:21) {#tutorial3}
+## Signatur mit Adobe Sign anfordern (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
@@ -144,7 +152,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-## Dokumente von Ihrem Mobiltelefon aus nach PDF scannen (5:53) {#tutorial5}
+## Scannen Sie Dokumente von Ihrem Mobiltelefon in die PDF (5:53). {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
@@ -167,4 +175,4 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

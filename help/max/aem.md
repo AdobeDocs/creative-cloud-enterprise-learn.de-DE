@@ -5,9 +5,19 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/g9zPoNqsEqaS5P6GTd0364CwdNMYaApdzQd7Ry3pEHU
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: da3860b0-d637-47df-bef0-273751180266
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: 402
 ht-degree: 0%
 
 ---
@@ -28,7 +38,7 @@ Adobe Experience Manager ist die branchenführende Lösung für Digital Experien
    <a href="aem.md#tutorial1"><strong>AEM und Asset Link</strong></a>
     </div>
     <em>Mit Asset Link in AEM gespeicherte Assets in Echtzeit aktualisieren</em>
-    2<br>
+    <br>
   </td>
    <td>
    <a href="aem.md#tutorial2">
@@ -38,7 +48,7 @@ Adobe Experience Manager ist die branchenführende Lösung für Digital Experien
    <a href="aem.md#tutorial2"><strong>InDesign in AEM gehosteter Dateien</strong></a>
     </div>
     <em>Ihr InDesign-Dokument in AEM hosten, sodass mehrere Benutzer Inhaltsvarianten erstellen können - gleichzeitig</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -88,7 +98,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
     <em>Eine leistungsstarke Kombination für Ihre Anforderungen an Content Management und Digital Asset Management</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
@@ -98,7 +108,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
     <em>Digital Asset Management der nächsten Generation</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
@@ -108,7 +118,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Vorteile</strong></a>
     </div>
     <em>Lassen Sie Ihre digitalen Assets für sich arbeiten</em>
-    2<br>
+    <br>
   </td>
 </tr>
 </table>
@@ -121,4 +131,4 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

@@ -5,9 +5,19 @@ feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/0PshoR6CKo9T05CHOqVsoYiPpYqM-sfL7U-u5uCUy0w
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: 732
 ht-degree: 0%
 
 ---
@@ -28,7 +38,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
    <a href="xd.md#tutorial1"><strong>Komponenten mit Hover-Status erstellen</strong></a>
     </div>
     <em>Wiederverwendbare, dynamisch skalierbare Schaltflächen für Ihre interaktiven Designs erstellen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="xd.md#tutorial2">
@@ -38,7 +48,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <a href="xd.md#tutorial2"><strong>Ein Wiederholungsraster erstellen und ausfüllen</strong></a>
     </div>
     <em>Ein einzelnes Element mit einem einfachen Klicken und Ziehen in Wiederholungsraster umwandeln</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="xd.md#tutorial3">
@@ -48,7 +58,7 @@ Adobe XD ist ein Tool für UX-Design und Prototyping für Websites, Apps, Voice 
     <a href="xd.md#tutorial3"><strong>Mit Stapeln arbeiten</strong></a>
     </div>
     <em>Verwenden Sie die Stapeleigenschaft, um Elemente einfach neu anzuordnen</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -62,7 +72,7 @@ Bildlaufgruppen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
 Bildlaufgruppen</strong></a>
     </div>
     <em>Navigation und Bildlauf zu einem Prototyp hinzufügen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="xd.md#tutorial5">
@@ -72,7 +82,7 @@ Bildlaufgruppen</strong></a>
     <a href="xd.md#tutorial5"><strong>Prototyp erstellen - Interaktive Komponentenzustände</strong></a>
     </div>
     <em>Interaktivität und ein Überlagerungsmenü zu einem Prototyp hinzufügen</em>
-    2<br>
+    <br>
   </td>
   <td>
    <a href="xd.md#tutorial6">
@@ -82,7 +92,7 @@ Bildlaufgruppen</strong></a>
    <a href="xd.md#tutorial7"><strong>E-Mail - Ein Wiederholungsraster erstellen und ausfüllen</strong></a>
     </div>
     <em>Ein einzelnes Element mit einem einfachen Klicken und Ziehen in Wiederholungsraster umwandeln</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -94,7 +104,7 @@ Bildlaufgruppen</strong></a>
     <a href="xd.md#tutorial7"><strong>E-Mail - Mit Stapeln arbeiten</strong></a>
     </div>
     <em>Verwenden Sie die Stapeleigenschaft, um Elemente einfach neu anzuordnen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -123,7 +133,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Ein Wiederholungsraster erstellen und füllen (2:57) {#tutorial2}
+## Erstellen und Auffüllen eines Wiederholungsrasters (2:57) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
@@ -196,7 +206,7 @@ In diesem Tutorial lernen Sie Folgendes:
 **Präsentiert von:**
 Victoria Torres, Lösungsberaterin (Digitale Medien)
 
-## E-Mail - Mit Stapeln arbeiten (3:38) {#tutorial7}
+## E-Mail - Arbeiten mit Stapeln (3:38) {#tutorial7}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
@@ -218,4 +228,4 @@ Victoria Torres, Lösungsberaterin (Digitale Medien)
 
 **Version Oktober 2020**
 
-Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!), indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.
+Beginnen Sie mit der Nutzung dieser Funktionen (und mehr!) indem Sie das neueste Update von Ihrem Creative Cloud-Client herunterladen.

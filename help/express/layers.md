@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-13413
 exl-id: 80037a4b-9d6d-47d7-a827-e7d0777f2666
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+TQID: https://experienceleague.adobe.com/ef7-lhp0NqeHxY-KS2LMzhP4-VV3Xy6nY6Y89opsj2Q
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 109
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 Mit Zeichenflächen und Ebenen in einem Design-Projekt arbeiten. Du kannst Zeichenflächen für verschiedene Social-Media-Kanäle hinzufügen, löschen, duplizieren, neu anordnen und ihre Größe ändern. Sie können auch die Reihenfolge der Elemente im Ebenenstapel ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447074?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3447074?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Weitere Videos dieser Serie
 

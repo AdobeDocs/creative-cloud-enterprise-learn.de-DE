@@ -5,10 +5,20 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 0%
+source-wordcount: 638
+ht-degree: 1%
 
 ---
 
@@ -44,6 +54,6 @@ Die [personengebundene Lizenzierung](https://helpx.adobe.com/de/enterprise/using
 
 * Die besten Tools für Produktivität und Zusammenarbeit.
 
-  Durch die Nutzung von NUL haben Ihre Anwender Zugriff auf die Produktivitätssteigerungen von Adobe Creative Cloud und Adobe Document Cloud. Sie haben viele Möglichkeiten: Dokumente sicher erstellen und signieren, schnell benutzerdefinierte PDF erstellen, ein Kreativprojekt auf einem Tablet beginnen, bevor es auf dem Desktop weitergegeben wird, Dokumente für ein Team per Document Cloud freigeben und an neuen Teamprojekten in Adobe XD arbeiten. Mit unseren Cloud-basierten Services ist es ganz einfach, Elemente zu teilen und als Remote-Team zusammenzuarbeiten.
+  Durch die Nutzung von NUL haben Ihre Anwender Zugriff auf die Produktivitätssteigerungen von Adobe Creative Cloud und Adobe Document Cloud. Es gibt so viel, was du tun kannst: Dokumente sicher erstellen und unterzeichnen; schnell benutzerdefinierte PDF erstellen; ein Kreativprojekt auf einem Tablet beginnen, bevor es auf den Desktop verschoben wird; Freigeben von Dokumenten für ein Team über Document Cloud und arbeiten Sie an neuen Team-Projekten in Adobe XD. Mit unseren Cloud-basierten Services ist es ganz einfach, Elemente zu teilen und als Remote-Team zusammenzuarbeiten.
 
 Moderne Workflow-Herausforderungen erfordern moderne Lösungen. Adobe unterstützt Sie beim Übergang zur personengebundenen Lizenzierung. Lesen Sie das [Handbuch für die Migration zur personengebundenen Lizenzierung](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf), um mit dem Übergang zu beginnen.
