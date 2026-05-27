@@ -17,4 +17,4 @@ ht-degree: 3%
 
 Erfahren Sie, wie Sie mit Text-to-Image, unterstützt durch Adobe Firefly, im Adobe Expreß einzigartige Grafiken für die Anwerbung von Mitarbeitern und Onboarding-Inhalte erstellen. In diesem Beispiel werden Vorlagen verwendet, damit jeder im Unternehmen Inhalte erstellt, die genau der Marke entsprechen. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444269?captions=ger&quality=12&learn=on&hidetitle=true)

@@ -28,4 +28,4 @@ ht-degree: 5%
 
 Erfahre, wie du mit der Funktion &quot;Text in Image&quot; auf Basis von Adobe Firefly einzigartige Grafikinhalte für Web-, Blog- und Social-Media-Kampagnen erstellst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441372?captions=ger&quality=12&learn=on&hidetitle=true)
