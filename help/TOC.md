@@ -10,8 +10,8 @@ type: Tutorial
 auto-video-transcripts: true
 source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '803'
+ht-degree: 5%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 6%
       + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
       + [Verbessern von CC-Workflows mit CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Angst vor der Zähmung](cce/taming-type-anxiety.md)
-      + [Adobe Expreß: Content, der sich abhebt](cce/adobe-express-content-that-stands-out.md)
-      + [Zusammenarbeit: Die Zukunft der Kreativität](cce/collaboration-the-future-of-creativity.md)
+      + [Adobe Expreß: Content, der heraussticht](cce/adobe-express-content-that-stands-out.md)
+      + [Zusammenarbeit: Die Zukunft der Kreativität.](cce/collaboration-the-future-of-creativity.md)
       + [Erstellen von Creative Cloud-Bibliotheken für Teams](cce/ccteamlibraries.md)
       + [Gemeinsame Nutzung von Branding-Elementen mit Creative Cloud-Bibliotheken für Teams](cce/sharecclibraries.md)
       + [Erstellen eindeutiger Kompositionen mit Adobe [!DNL Stock]  und Photoshop für iPad](cce/compositepsipad.md)
@@ -87,7 +87,7 @@ ht-degree: 6%
       + [Audio hinzufügen](express/add-audio-video.md)
       + [Videos exportieren](express/export-video.md)
       + [Sperren von Ebenen (Anleitung und Gründe)](express/lock-layers.md)
-      + [Effizienzmaximierung: Wiederverwendbare Vorlagen erstellen](express/create-templates.md)
+      + [Maximierung der Effizienz: Wiederverwendbare Vorlage erstellen](express/create-templates.md)
       + [Vorlagen speichern und freigeben](express/share-templates.md)
       + [Vorlagen verwenden](express/use-templates.md)
    + Tutorials zu Nutzungsszenarien {#expressusecase}
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [Tipps und Techniken für das Mastering von 3D-Beleuchtung in CGI](3di/mastering3dlighting.md)
       + [Mit 3D-Rendering und Compositing fotorealistische virtuelle Fotos erstellen](3di/photorealistic.md)
       + [3D-Modell anpassen und mit  [!DNL Dimension]  und Adobe [!DNL Stock] markieren](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Adobe-Video {#videooverview}
    + [Übersicht](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Professionelle Animationsvorlagen](dva/motion-graphics-templates.md)
