@@ -112,7 +112,7 @@ ht-degree: 5%
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+      + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
       + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
       + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
       + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
