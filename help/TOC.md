@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '803'
-ht-degree: 5%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 5%
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+      + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
       + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
       + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
       + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -180,29 +180,3 @@ ht-degree: 5%
    + [Übersicht](deploy/overview-deploy.md)
    + [Ablauf der Seriennummer](deploy/cceserial.md)
    + [Personengebundene Lizenzen](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [Übersicht](max/overview-max.md)
-   + Tutorials {#tutorials}
-      + [Übersicht](max/maxtutorials.md)
-      + Desktop-Produkte {#desktop-products}
-         + [Acrobat &amp; Sign.](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + Mobile Apps {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator auf dem iPad](max/illustratoripad.md)
-         + [Photoshop auf dem iPad](max/photoshopipad.md)
-      + Integrationen {#integrations}
-         + [AEM](max/aem.md)
-         + [Creative Cloud-Client](max/creativeclouddesktopapp.md)
-         + [CC-Bibliotheken](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Enterprise-Administration](max/enterprise.md)
-      + Praxisprojekt {#project}
-         + [Erstellen einer eigenen Gesichtsmaske](max/handsonproject.md)
