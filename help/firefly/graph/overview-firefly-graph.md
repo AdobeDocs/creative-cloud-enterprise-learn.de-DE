@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
+source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Schale mit Süßigkeiten" src="../assets/graph-what-is.png" />
+      <img alt="Schale mit Süßigkeiten" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Was ist Firefly Graph?</strong></a>
@@ -36,7 +36,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-key-concepts.png" />
+      <img alt="Origami" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Schlüsselkonzepte</strong></a>
@@ -46,7 +46,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Schminkglas" src="../assets/graph-first.png" />
+      <img alt="Schminkglas" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Erstellen Sie Ihr erstes Diagramm</strong></a>
@@ -56,7 +56,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Bienen" src="../assets/graph-template.png" />
+      <img alt="Bienen" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Vorlage anpassen</strong></a>
@@ -68,7 +68,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Digitales Buch" src="../assets/graph-library.png" />
+      <img alt="Digitales Buch" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Vorlagenbibliothek</strong></a>
