@@ -33,4 +33,4 @@ Dies ist ein Knoten, mit dem Sie eine Grafik importieren können.
 
 ## Nächster Schritt
 
-Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
