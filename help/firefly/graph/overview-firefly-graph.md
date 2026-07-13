@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
@@ -52,23 +52,23 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="Makeup Glas unterschiedlichen Hintergrund" src="../assets/graph-4.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>4. Vorlage anpassen</strong></a></div>
-    <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
    <a href="template-library.md">
       <img alt="Schminkglas mit finalem Hintergrund" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>5. Vorlagenbibliothek </strong></a></div>
+   <a href="template-library.md"><strong>4. Vorlagenbibliothek </strong></a></div>
     <em>Alle Vorlagen mit einer Beschreibung und einem Link für jede Vorlage durchsuchen</em>
+    
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Makeup Glas unterschiedlichen Hintergrund" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Vorlage anpassen</strong></a></div>
+    <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
     
   </td>
   <td>

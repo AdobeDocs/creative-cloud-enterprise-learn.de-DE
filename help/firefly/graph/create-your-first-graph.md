@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 52158ed3c024133a9a0d59537a774285d64dce1d
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
 
-# &#x200B;3. Den ersten Graph erstellen.
+# &#x200B;3. Das erste Diagramm erstellen.
 
 Sobald Sie wissen, was ein Knoten, eine Verbindung und eine Vorlage sind, können Sie Ihren ersten Arbeitsablauf erstellen.
 
@@ -24,4 +24,4 @@ Sobald Sie wissen, was ein Knoten, eine Verbindung und eine Vorlage sind, könne
 
 ## Nächster Schritt
 
-Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Vorlagenbibliothek ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template), damit sie Ihren eigenen Auftrag widerspiegelt.

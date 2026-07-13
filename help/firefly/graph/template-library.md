@@ -1,5 +1,5 @@
 ---
-title: ​5. Firefly-Diagrammvorlagenbibliothek
+title: ​4. Firefly-Diagrammvorlagenbibliothek
 description: Durchsuchen Sie vorgefertigte Firefly Graph-Vorlagen, die Sie öffnen und an Ihr eigenes Projekt anpassen können.
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Firefly Graph-Vorlagenbibliothek
+# &#x200B;4. Firefly Graph-Vorlagenbibliothek
 
 Jede Vorlage ist ein vollständiges Diagramm, das jemand schon erstellt hat. Öffnen Sie eine Datei, um genau zu sehen, wie sie funktioniert, und machen Sie sie zu Ihrer eigenen, indem Sie Ihre eigenen Eingaben austauschen.
 
