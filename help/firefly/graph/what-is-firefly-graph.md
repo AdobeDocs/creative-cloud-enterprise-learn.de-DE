@@ -1,5 +1,5 @@
 ---
-title: Was ist  [!DNL Firefly Graph]?
+title: ​1. Was ist  [!DNL Firefly Graph]?
 description: Erfahrt, wie sich ein Diagramm von einem Prompt unterscheidet und warum es wichtig ist, jeden Schritt sichtbar und wiederverwendbar zu machen.
 feature: Image Editing, Gen AI
 role: User
@@ -7,18 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 1%
 
 ---
 
-# Was ist [!DNL Firefly Graph]?
+# &#x200B;1. Was ist [!DNL Firefly Graph]?
 
 Die meisten generativen KI-Tools liefern dir nur eine Ausgabe von einer Eingabeaufforderung. Wenn sich der kurze Abschnitt ändert, baust du das ganze Ding von Hand neu, und es gibt nichts zu übergeben außer der endgültigen Datei.
 
 Firefly Graph funktioniert anders. Anstelle einer einzelnen Eingabeaufforderung erstellen Sie ein **Diagramm**: einen visuellen, schrittweisen Arbeitsablauf, bei dem jede Eingabe, Transformation und Ausgabe zusammen erfasst wird. Ändern Sie einen Schritt und führen Sie ihn erneut aus - Sie bauen nicht die gesamte Kette neu auf. Jeder Schritt ist ein sichtbarer Knoten, den dein Team inspizieren, anpassen und intakt übergeben kann.
+
+![Bildschirmfoto eines visuellen Diagramms](../assets/what-is-1.png)
 
 Kurz gesagt, Graph ersetzt nicht Ihren kreativen Prozess - er verwandelt diesen Prozess in etwas, das Sie sehen, wiederverwenden und skalieren können.
 
@@ -38,4 +40,4 @@ Das ist die Verschiebung: die gleiche Arbeit, aber jede Entscheidung auf dem Weg
 
 ## Nächster Schritt
 
-Sobald Sie mit der Idee vertraut sind, fahren Sie mit [Schlüsselkonzepte fort: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.
+Wenn Sie mit der Idee zufrieden sind, fahren Sie mit [2 fort. Wichtige Konzepte: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.

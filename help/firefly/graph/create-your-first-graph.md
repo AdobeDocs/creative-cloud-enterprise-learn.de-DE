@@ -1,5 +1,5 @@
 ---
-title: Erstellen des ersten Diagramms
+title: ​3. Erstellen des ersten Diagramms
 description: Eine Schritt-für-Schritt-Anleitung zum Erstellen Ihres ersten Firefly Graph-Arbeitsablaufs, von der leeren Arbeitsfläche bis zum Export
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Den ersten Graph erstellen.
+# &#x200B;3. Den ersten Graph erstellen.
 
 Sobald Sie wissen, was ein Knoten, eine Verbindung und eine Vorlage sind, können Sie Ihren ersten Arbeitsablauf erstellen.
 
@@ -30,4 +30,4 @@ Wenn du dir nicht sicher bist, wo du anfangen sollst, öffne eine der gebrauchsf
 
 ## Nächster Schritt
 
-Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [Vorlage anpassen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template), damit sie Ihren eigenen Auftrag widerspiegelt.
+Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.

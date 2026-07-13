@@ -1,5 +1,5 @@
 ---
-title: Firefly Graph-Schlüsselkonzepte
+title: ​2. Firefly Graph-Schlüsselkonzepte
 description: Die vier Ideen, die das mentale Firefly Graph-Modell abdecken - Knoten, Verbindung, Workflow und Vorlage
 feature: Image Editing, Gen AI
 role: User
@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Firefly Graph-Schlüsselkonzepte
+# &#x200B;2. Firefly Graph-Schlüsselkonzepte
 
 Vier Ideen decken das mentale Modell ab, das du für den Einstieg in Firefly Graph brauchst.
+
+![Schlüsselkonzepte](../assets/concepts.png)
 
 ## Ein Knoten
 
@@ -25,10 +27,6 @@ Ein Knoten führt einen Schritt im Workflow aus - einen Knoten, einen Job. Ein K
 ## Eine Verbindung
 
 Eine Verbindung führt einen Ein- oder Ausgang zwischen zwei Knoten. Ein Diagramm liest sich von links nach rechts, von Ihrer Quelleingabe bis zur Endausgabe.
-
-## Ein Arbeitsablauf (oder Diagramm)
-
-Ein Workflow oder Diagramm ist die vollständige, durchgängige Kette verbundener Knoten - von der ersten Eingabe bis zur endgültigen Ausgabe. Nach der Erstellung kann es ausgeführt, optimiert, gespeichert und freigegeben werden.
 
 ## Eine Vorlage
 
@@ -40,4 +38,4 @@ Der Graph ist flexibel. Diese Flexibilität bedeutet, dass es sich lohnt, das Er
 
 ## Nächster Schritt
 
-Möchtest du was aufbauen? Fahren Sie mit [Erstellen Sie Ihr erstes Diagramm](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
+Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
