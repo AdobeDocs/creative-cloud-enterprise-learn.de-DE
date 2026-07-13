@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
       <img alt="Schminkglas" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>Was ist Firefly Graph?</strong></a>
-    </div>
-    <em>Wie ein Diagramm mit einer einzelnen Abfrage verglichen wird</em>
+   <a href="what-is-firefly-graph.md"><strong>1. Was ist Firefly Graph?</strong></a></div>
+    <em>Erfahren Sie, was Firefly Graph ist und wie es mit einer einzelnen Eingabeaufforderung verglichen wird</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
       <img alt="Schminkglas mit Hintergrund" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>Schlüsselkonzepte</strong></a>
-    </div>
-    <em>Knoten, Verbindungen und Vorlagen</em>
+   <a href="key-concepts.md"><strong>2. Schlüsselkonzepte</strong></a></div>
+    <em>Informationen zu Knoten, Verbindungen und Vorlagen</em>
     
   </td>
   <td>
@@ -49,8 +47,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
       <img alt="Makeup jar neuen Hintergrund" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>Erstellen Sie Ihr erstes Diagramm</strong></a>
-    </div>
+   <a href="create-your-first-graph.md"><strong>3. Erstellen Sie Ihr erstes Diagramm</strong></a></div>
     <em>Eine 5-Schritte-exemplarische Vorgehensweise von der Arbeitsfläche zum Export</em>
     
   </td>
@@ -59,8 +56,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
       <img alt="Makeup Glas unterschiedlichen Hintergrund" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>Vorlage anpassen</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>4. Vorlage anpassen</strong></a></div>
     <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
     
   </td>
@@ -71,8 +67,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
       <img alt="Schminkglas mit finalem Hintergrund" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>Vorlagenbibliothek</strong></a>
-    </div>
+   <a href="template-library.md"><strong>5. Vorlagenbibliothek </strong></a></div>
     <em>Alle Vorlagen mit einer Beschreibung und einem Link für jede Vorlage durchsuchen</em>
     
   </td>

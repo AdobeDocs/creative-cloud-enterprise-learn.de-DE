@@ -1,31 +1,25 @@
 ---
-title: Generatives Füllen
-description: Erfahren Sie, wie Sie generative Füllungen verwenden, um Inhalte zu Ihren Bildern hinzuzufügen, zu erweitern oder aus ihnen zu entfernen
+title: Einführung in Firefly Graph
+description: In diesem Webinar erfahrt ihr mehr über das visuelle Workflow-System von Firefly Graph.
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-15038
-exl-id: 147e657a-b341-4ac7-9b32-a5f4654bc9ec
-TQID: https://experienceleague.adobe.com/-qB2CeEAcM5VTodz-Iq7ShdLbC8J30Zd0p3zqgie3pI
-product_v2:
-  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2:
-  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3c28108c765a744723dde0806bb530d1346c491a
+jira: KT-21970
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: 58
-ht-degree: 6%
+source-wordcount: 55
+ht-degree: 0%
 
 ---
 
-# Generative Füllung
+# Einführung in Firefly Graph
 
-Erfahren Sie, wie Sie mit der Funktion &quot;Generative Füllung&quot; mithilfe einfacher Textaufforderungen Inhalte verlustfrei zu Ihren Bildern hinzufügen, erweitern oder daraus entfernen können. Mit der Funktion &quot;Fläche generieren&quot; können Sie Ihre Kreativität steigern und außergewöhnliche Projekte erstellen. Adobe Firefly [hier](https://firefly.adobe.com/?locale=de) testen.
+In diesem Webinar erfahrt ihr mehr über das visuelle Workflow-System Graph von Firefly, mit dem ihr Workflows für eure Teams freigeben könnt. Mit Graph kann jeder Ihren Workflow nutzen und in einem Bruchteil der Zeit Assets in Produktionsqualität generieren.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3473998?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
