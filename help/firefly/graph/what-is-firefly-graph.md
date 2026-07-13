@@ -40,4 +40,4 @@ Das ist die Verschiebung: die gleiche Arbeit, aber jede Entscheidung auf dem Weg
 
 ## Nächster Schritt
 
-Wenn Sie mit der Idee zufrieden sind, fahren Sie mit [2 fort. Wichtige Konzepte: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.
+Wenn Sie mit der Idee zufrieden sind, fahren Sie mit [2 fort. Wichtige Konzepte: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.
