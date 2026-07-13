@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -38,4 +38,4 @@ Der Graph ist flexibel. Diese Flexibilität bedeutet, dass es sich lohnt, das Er
 
 ## Nächster Schritt
 
-Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
+Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
