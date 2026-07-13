@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
+source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,9 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
       <img alt="Digitales Buch" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>Firefly Graph wird eingeführt</strong></a>
+   <a href="introducing-graph.md"><strong>Einführung in das Webinar "Firefly Graph"</strong></a>
     </div>
-    <em>Erfahren Sie mehr über das vollständig visuelle Workflow-System von Firefly Graph</em>
+    <em>In diesem Webinar erfahren Sie alles über das vollständig visuelle Workflow-System von Firefly Graph</em>.
     
   </td>
   <td>
