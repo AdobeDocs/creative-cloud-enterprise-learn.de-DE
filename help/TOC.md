@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: cea3bda4e2e40bc93cf279c2720c537a95902bd7
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 4%
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+      + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
       + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
       + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
       + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -129,14 +129,14 @@ ht-degree: 4%
    + Tutorials zu Kreativproduktion {#firefly-creative-production}
       + [Übersicht über die  [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
       + [Entfernen und Ersetzen des Hintergrunds](firefly/creative-production/background.md)
-   + Graph-Tutorials {#firefly-graph}
-      + [Übersicht über  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
-      + [Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
-      + [Firefly Graph-Schlüsselkonzepte](firefly/graph/key-concepts.md)
-      + [Das erste Diagramm erstellen.](firefly/graph/create-your-first-graph.md)
-      + [Vorlage anpassen](firefly/graph/customize-template.md)
-      + [Vorlagenbibliothek](firefly/graph/template-library.md)
-      + [Einführung in Firefly Graph-Webinar](firefly/graph/introducing-graph.md)
+   + {hide-from-toc} Graph-Tutorials {#firefly-graph}
+      + {hide-from-toc}[Übersicht von  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Firefly Graph-Schlüsselkonzepte](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[Erstellen des ersten Diagramms](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[Vorlage anpassen](firefly/graph/customize-template.md)
+      + {hide-from-toc}[Vorlagenbibliothek](firefly/graph/template-library.md)
+      + {hide-from-toc}[Einführung in das Webinar &quot;Firefly Graph&quot;](firefly/graph/introducing-graph.md)
    + Webinare {#firefly-webinars}
       + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
