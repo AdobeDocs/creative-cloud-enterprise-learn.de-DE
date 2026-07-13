@@ -1,16 +1,16 @@
 ---
 title: ​3. Erstellen des ersten Diagramms
-description: Eine Schritt-für-Schritt-Anleitung zum Erstellen Ihres ersten Firefly Graph-Arbeitsablaufs, von der leeren Arbeitsfläche bis zum Export
+description: Eine Schritt-für-Schritt-Anleitung zum Erstellen Ihres ersten Firefly Graph-Workflows
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 1%
 
 ---
 
@@ -18,16 +18,19 @@ ht-degree: 0%
 
 Sobald Sie wissen, was ein Knoten, eine Verbindung und eine Vorlage sind, können Sie Ihren ersten Arbeitsablauf erstellen.
 
-1. **Öffnen Sie eine leere Arbeitsfläche oder beginnen Sie mit einer Vorlage.** Durchsuchen Sie die Knotenbibliothek oder die Vorlagensammlung, um einen Ausgangspunkt zu finden, der dem entspricht, was Sie benötigen.
-2. **Verbinden Sie Knoten, um Ihren Workflow zu erstellen.** Zeichnen Sie Verbindungen vom Ausgang eines Knotens zum Eingang des nächsten Knotens, um die Schritte zusammenzuführen - z. B. ein Eingabebild, das in einen Stilknoten, dann in einen Variationsgenerator und dann in den Export fließt.
-3. **Fügen Sie Eingabesteuerelemente für alles hinzu, was Sie später ändern möchten.** Wandle statische Werte in Schieberegler, Farbwähler oder Textfelder um, damit du (oder ein Kollege) die wichtigsten Parameter anpassen kannst, ohne das zugrunde liegende Diagramm zu bearbeiten.
-4. **Führen Sie das Diagramm aus und zeigen Sie jeden Schritt in der Vorschau an.** Sie können eine Vorschau der Ausgabe auf einem beliebigen Knoten anzeigen, bevor der vollständige Workflow ausgeführt wird.
-5. **Eine Eingabe ändern und erneut ausführen.** Ersetze ein Referenzbild. Passe eine Eingabeaufforderung an. Oder passe eine Variable an - alles, was du nachgelagert hast, wird automatisch aktualisiert. Nichts wird von Hand wieder aufgebaut.
+1. Öffnen Sie den Firefly und wählen Sie im Menü links **Graph** aus.
+1. Wählen Sie **Neues Diagramm erstellen**.
+1. Klicken Sie mit der rechten Maustaste auf die leere Arbeitsfläche und wählen Sie **+ neuer Knoten** aus.
+1. Wählen Sie im linken Menü **Eingabe** und anschließend **Eingabebild** aus.
+   ![Knoten](../assets/node.png)
+Dies ist ein Knoten, mit dem Sie eine Grafik importieren können.
+1. Ziehen Sie ein Bild per Drag &amp; Drop auf den Knoten.
+   ![Knoten mit Bild](../assets/node-image.png)
+1. Klicken Sie mit der rechten Maustaste auf die leere Arbeitsfläche und wählen Sie **+ neuen Knoten** aus und wählen Sie im Dialogfeld **Verlaufsmaske** aus.
+1. Klicken Sie mit der rechten Maustaste auf die leere Arbeitsfläche und wählen Sie **+ neuer Knoten** aus und wählen Sie im Dialogfeld **Maske anwenden** aus.
 
-## Was Sie zuerst versuchen sollten
 
-Wenn du dir nicht sicher bist, wo du anfangen sollst, öffne eine der gebrauchsfertigen Vorlagen in der Vorlagenbibliothek anstelle einer leeren Arbeitsfläche. So kannst du ein vollständiges, funktionierendes Diagramm am schnellsten sehen, bevor du eines von Grund auf neu erstellst.
 
 ## Nächster Schritt
 
-Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.

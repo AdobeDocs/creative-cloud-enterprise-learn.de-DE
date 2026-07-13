@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>3. Erstellen Sie Ihr erstes Diagramm</strong></a></div>
-    <em>Eine 5-Schritte-exemplarische Vorgehensweise von der Arbeitsfläche zum Export</em>
+    <em>Eine exemplarische Vorgehensweise von der Arbeitsfläche zum Exportieren</em>
     
   </td>
   <td>
