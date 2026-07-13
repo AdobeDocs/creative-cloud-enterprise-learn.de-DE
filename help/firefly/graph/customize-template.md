@@ -26,4 +26,4 @@ Jede Vorlage enthält Beispieleingaben und einen allgemeinen Anwendungsfall. Es 
 
 ## Nächster Schritt
 
-Sie sind sich nicht sicher, mit welcher Vorlage Sie beginnen sollen? Durchsuchen Sie die [Vorlagenbibliothek](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library), um eine in der Nähe Ihres Anwendungsfalls zu finden.
+Sie sind sich nicht sicher, mit welcher Vorlage Sie beginnen sollen? Durchsuchen Sie die [Vorlagenbibliothek](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library), um eine in der Nähe Ihres Anwendungsfalls zu finden.
