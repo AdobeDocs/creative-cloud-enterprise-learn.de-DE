@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: cea3bda4e2e40bc93cf279c2720c537a95902bd7
+source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '789'
 ht-degree: 3%
 
 ---
@@ -112,7 +112,7 @@ ht-degree: 3%
    + [Übersicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+      + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
       + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
       + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
       + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -130,7 +130,7 @@ ht-degree: 3%
       + [Übersicht über die  [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
       + [Entfernen und Ersetzen des Hintergrunds](firefly/creative-production/background.md)
    + {hide-from-toc} Graph-Tutorials {#firefly-graph}
-      + {hide-from-toc}[Übersicht von  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Übersicht über Adobe Firefly-Graph](firefly/graph/overview-firefly-graph.md)
       + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Firefly Graph-Schlüsselkonzepte](firefly/graph/key-concepts.md)
       + {hide-from-toc}[Erstellen des ersten Diagramms](firefly/graph/create-your-first-graph.md)

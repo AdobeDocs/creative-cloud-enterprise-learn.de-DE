@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 595c941c757c6b87e779ba406136d62c0172c3a0
+source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ Dies ist ein Knoten, mit dem Sie eine Grafik importieren können.
    ![Knoten mit Bild](../assets/node-image.png)
 1. Klicken Sie mit der rechten Maustaste auf die leere Arbeitsfläche und wählen Sie **+ neuen Knoten** aus und wählen Sie im Dialogfeld **Verlaufsmaske** aus.
 1. Klicken Sie mit der rechten Maustaste auf die leere Arbeitsfläche und wählen Sie **+ neuer Knoten** aus und wählen Sie im Dialogfeld **Maske anwenden** aus.
+1. Schließen Sie die Knotenausgabe **Eingabebild** an die Knoteneingabe **Maske anwenden** an.
+1. Schließen Sie die **Verlaufsmaske**-Ausgabe an die **Maske anwenden**-Maske/Kanaleingabe an.
+   ![Knoten einstecken](../assets/plug-in.png)
 
 ## Nächster Schritt
 
-Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Vorlagen als Ausgangspunkt verwenden? Wechseln Sie zu [4. Passen Sie eine Vorlage ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
