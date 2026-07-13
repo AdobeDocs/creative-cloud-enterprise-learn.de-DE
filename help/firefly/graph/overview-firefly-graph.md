@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
+source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Schale mit Süßigkeiten" src="../assets/graph-1.png" />
+      <img alt="Schminkglas" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Was ist Firefly Graph?</strong></a>
@@ -36,7 +36,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-2.png" />
+      <img alt="Schminkglas mit Hintergrund" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Schlüsselkonzepte</strong></a>
@@ -46,7 +46,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Schminkglas" src="../assets/graph-3.png" />
+      <img alt="Makeup jar neuen Hintergrund" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Erstellen Sie Ihr erstes Diagramm</strong></a>
@@ -56,7 +56,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Bienen" src="../assets/graph-4.png" />
+      <img alt="Makeup Glas unterschiedlichen Hintergrund" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Vorlage anpassen</strong></a>
@@ -68,7 +68,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Digitales Buch" src="../assets/graph-5.png" />
+      <img alt="Schminkglas mit finalem Hintergrund" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Vorlagenbibliothek</strong></a>
