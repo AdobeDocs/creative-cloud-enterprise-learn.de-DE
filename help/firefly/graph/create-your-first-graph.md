@@ -7,21 +7,28 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 2%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
 # &#x200B;3. Das erste Diagramm erstellen.
 
-Sobald Sie wissen, was ein Knoten, eine Verbindung und eine Vorlage sind, können Sie Ihren ersten Arbeitsablauf erstellen.
+Sobald du dich für einen Knoten, eine Verbindung und eine Vorlage entschieden hast, kannst du dein erstes Diagramm erstellen.
+
+## Schritt für Schritt
+
+[![Dateien abrufen](../assets/Getfiles.svg)](../assets/createyourfirstgraph.zip)
+Beispieldateien zum Nachvollziehen (ZIP, 1,45 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495919?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Nächster Schritt
 
-Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Vorlagenbibliothek &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template), damit sie Ihren eigenen Auftrag widerspiegelt.
+Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

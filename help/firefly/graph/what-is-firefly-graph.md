@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 1%
+source-wordcount: '316'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Die meisten generativen KI-Tools liefern dir nur eine Ausgabe von einer Eingabea
 
 Firefly Graph funktioniert anders. Anstelle einer einzelnen Eingabeaufforderung erstellen Sie ein **Diagramm**: einen visuellen, schrittweisen Arbeitsablauf, bei dem jede Eingabe, Transformation und Ausgabe zusammen erfasst wird. Ändern Sie einen Schritt und führen Sie ihn erneut aus - Sie bauen nicht die gesamte Kette neu auf. Jeder Schritt ist ein sichtbarer Knoten, den dein Team inspizieren, anpassen und intakt übergeben kann.
 
-![Bildschirmfoto eines visuellen Diagramms](../assets/what-is-1.png)
+![Bildschirmfoto eines visuellen Diagramms](../assets/what-is-1.png){align="center"}
 
 Kurz gesagt, Graph ersetzt nicht Ihren kreativen Prozess - er verwandelt diesen Prozess in etwas, das Sie sehen, wiederverwenden und skalieren können.
 
@@ -41,3 +41,5 @@ Das ist die Verschiebung: die gleiche Arbeit, aber jede Entscheidung auf dem Weg
 ## Nächster Schritt
 
 Wenn Sie mit der Idee zufrieden sind, fahren Sie mit [2 fort. Wichtige Konzepte: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
