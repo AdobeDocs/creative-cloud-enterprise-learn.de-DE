@@ -72,7 +72,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. Das erste Diagramm erstellen." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495912?quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Das erste Diagramm erstellen."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495919?captions=ger&quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Das erste Diagramm erstellen."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -116,7 +116,7 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Einführung in Firefly Graph" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492621?quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Einführung in Firefly Graph"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492629?captions=ger&quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Einführung in Firefly Graph"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
