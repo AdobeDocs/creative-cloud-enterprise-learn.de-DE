@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 4%
+source-wordcount: '134'
+ht-degree: 3%
 
 ---
 
@@ -23,3 +23,5 @@ Jede Vorlage enthält Beispieleingaben und einen allgemeinen Anwendungsfall. Es 
 3. **Führen Sie das Diagramm einmal vollständig aus, bevor Sie sich auf das Ergebnis verlassen.**
 4. **Ändern Sie eine Variable und führen Sie sie erneut aus**, damit Sie genau sehen können, was dieser Schritt steuert.
 5. **Speichern Sie Ihre benutzerdefinierte Version unter einem eigenen Namen.**
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
