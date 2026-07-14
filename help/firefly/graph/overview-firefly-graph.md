@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 2%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
@@ -52,25 +52,16 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
     
   </td>
   <td>
-   <a href="template-library.md">
-      <img alt="Schminkglas mit finalem Hintergrund" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>4. Vorlagenbibliothek </strong></a></div>
-    <em>Alle Vorlagen mit einer Beschreibung und einem Link für jede Vorlage durchsuchen</em>
-    
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="customize-template.md">
       <img alt="Makeup Glas unterschiedlichen Hintergrund" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. Vorlage anpassen</strong></a></div>
+   <a href="customize-template.md"><strong>4. Vorlage anpassen</strong></a></div>
     <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
     
   </td>
+</tr>
+<tr>
   <td>
    <a href="introducing-graph.md">
       <img alt="Pralinenschachtel" src="../assets/graph-introducing.png" />
@@ -80,6 +71,11 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
     </div>
     <em>In diesem Webinar erfahren Sie alles über das vollständig visuelle Workflow-System von Firefly Graph</em>.
     
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
