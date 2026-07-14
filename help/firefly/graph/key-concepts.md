@@ -37,6 +37,6 @@ Der Graph ist flexibel. Diese Flexibilität bedeutet, dass es sich lohnt, das ge
 
 ## Nächster Schritt
 
-Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
+Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
 
 Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
