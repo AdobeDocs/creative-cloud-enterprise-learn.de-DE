@@ -6,8 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: true
-source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
+source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -40,6 +39,6 @@ Das ist die Verschiebung: die gleiche Arbeit, aber jede Entscheidung auf dem Weg
 
 ## Nächster Schritt
 
-Wenn Sie mit der Idee zufrieden sind, fahren Sie mit [2 fort. Wichtige Konzepte: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.
+Wenn Sie mit der Idee zufrieden sind, fahren Sie mit [2 fort. Wichtige Konzepte: Knoten, Verbindungen und Vorlagen](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts), um das Vokabular zu erlernen, das Sie verwenden, um ein Diagramm zu erstellen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
