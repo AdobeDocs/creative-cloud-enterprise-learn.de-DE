@@ -20,6 +20,6 @@ In diesem Webinar erfahrt ihr mehr über das visuelle Workflow-System Graph von 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492629?captions=ger&quality=12&learn=on&hidetitle=true)
 
 Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
