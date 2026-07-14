@@ -29,4 +29,4 @@ Beispieldateien zum Nachvollziehen (ZIP, 1,45 MB)
 
 ## Nächster Schritt
 
-Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Passen Sie eine Vorlage ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
