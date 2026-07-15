@@ -54,6 +54,6 @@ Erfahre, wie du ein Diagramm für andere freigeben kannst. Beim Freigeben eines 
 
 ## Nächster Schritt
 
-Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [5. Passen Sie eine Vorlage ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [5. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
 
 Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
