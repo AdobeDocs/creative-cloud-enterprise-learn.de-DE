@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-22054
 hide: true
 hidefromtoc: true
-source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
@@ -25,10 +25,10 @@ Beispieldateien zum Nachvollziehen (ZIP, 1,45 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495919?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
 
 ## Nächster Schritt
 
-Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [4. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Wechseln Sie zu [4. Ein Diagramm für andere freigeben](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) Ihr Diagramm für andere freigeben.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: a6de66734272da23c21087df4dbf46a7175d5e00
+source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 3%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -54,17 +54,27 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
     <br>
   </td>
    <td>
-   <a href="customize-template.md">
+   <a href="share-a-graph.md">
       <img alt="Makeup Glas verschiedenen Hintergrund" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. Vorlage anpassen</strong></a>
+   <a href="share-a-graph.md"><strong>4. Graph freigeben</strong></a>
     </div>
-    <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
+    <em>Erfahren Sie, wie Sie ein Diagramm für andere freigeben</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Makeup Glas verschiedenen Hintergrund" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Vorlage anpassen</strong></a>
+    </div>
+    <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
+    <br>
+  </td>
   <td>
    <a href="introducing-graph.md">
       <img alt="Pralinenschachtel" src="../assets/graph-introducing.png" />
@@ -73,11 +83,6 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
    <a href="introducing-graph.md"><strong>Einführung in das Webinar "Firefly Graph"</strong></a>
     </div>
     <em>In diesem Webinar erfahren Sie alles über das vollständig visuelle Workflow-System von Firefly Graph</em>.
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
