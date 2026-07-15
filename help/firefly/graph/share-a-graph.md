@@ -4,12 +4,12 @@ description: Ein Diagramm für andere freigeben.
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ Erfahre, wie du ein Diagramm für andere freigeben kannst. Beim Freigeben eines 
 
    ![Zugriff](../assets/share_3.png){align="center"}
 
-   Aktivieren Sie die Option Über Suche auffindbar , damit Mitglieder das Diagramm finden können, ohne den Link überhaupt zu benötigen.
-Ein Bestätigungsbanner zeigt genau an, wer das Diagramm über den Link anzeigen kann. Überprüfen Sie dies, bevor Sie den Link an eine beliebige Stelle senden. Es gilt für jeden zukünftigen Empfänger dieses Links, nicht nur für die nächste eingeladene Person.
+1. Aktivieren Sie die Option Über Suche auffindbar , damit Mitglieder das Diagramm finden können, ohne den Link überhaupt zu benötigen.
 
    ![Banner](../assets/share_4.png){align="center"}
+
+   Ein Bestätigungsbanner zeigt genau an, wer das Diagramm über den Link anzeigen kann. Überprüfen Sie dies, bevor Sie den Link an eine beliebige Stelle senden. Es gilt für jeden zukünftigen Empfänger dieses Links, nicht nur für die nächste eingeladene Person.
 
 1. Geben Sie eine E-Mail-Adresse direkt in das Einladungsfeld ein, um einer Person separat von der Einstellung für allgemeine Links einen personengebundenen Zugriff zu gewähren. Wählen Sie den zugehörigen Eintrag aus dem Vorschlag aus, der unter dem Feld angezeigt wird.
 
@@ -55,6 +56,6 @@ Ein Bestätigungsbanner zeigt genau an, wer das Diagramm über den Link anzeigen
 
 ## Nächster Schritt
 
-Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [5. Passen Sie eine Vorlage &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
+Sie möchten mit einer Vorlage beginnen? Wechseln Sie zu [5. Passen Sie eine Vorlage ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) an, damit sie Ihren eigenen Auftrag widerspiegelt.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
