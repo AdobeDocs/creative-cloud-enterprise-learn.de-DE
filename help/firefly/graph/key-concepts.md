@@ -4,12 +4,12 @@ description: Erfahren Sie mehr über die Schlüsselkonzepte, die Ihnen den Einst
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 17cd1dad0b66c7d6bc041252863a4dfbae692076
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,26 +17,38 @@ ht-degree: 1%
 
 Erfahren Sie mehr über die Schlüsselkonzepte, die Ihnen den Einstieg in Firefly Graph erleichtern.
 
-![Schlüsselkonzepte](../assets/concepts.png){align="center"}
-
 ## Knoten
 
 Ein Knoten führt einen Schritt im Workflow aus - einen Knoten, einen Job. Ein Knoten kann ein Bild generieren, eine Maske anwenden, eine Farbe ändern oder eine andere kreative Aktion ausführen.
+
+![Knoten](../assets/node.png){align="center"}
+
+## Anschluss
+
+Die Verbindungspunkte auf einem Knoten. Die Ausgangsanschlüsse geben die Daten an einen Knoten weiter. Eingangsports empfangen Daten, die eintreffen. Das Verbinden von Ports ist die Art und Weise, wie Daten durch Ihren Arbeitsablauf fließen.
+
+![Port](../assets/port.png){align="center"}
+
+## Widget
+
+Die interaktiven Steuerelemente auf einem Knoten, wie Textfelder, Dropdown-Listen und Schieberegler, mit denen Sie die Einstellungen direkt im Editor konfigurieren können.
+
+![Widget](../assets/widget.png){align="center"}
 
 ## Verbindung
 
 Eine Verbindung führt einen Ein- oder Ausgang zwischen zwei Knoten. Ein Diagramm liest sich von links nach rechts, von Ihrer Quelleingabe bis zur Endausgabe.
 
-## Vorlage
+![Verbindung](../assets/connection.png){align="center"}
 
-Ein Template ist ein Diagramm, das jemand schon erstellt hat. Wenn du mit einer Vorlage beginnst, wird die leere Arbeitsfläche entfernt und dir wird ein guter Ausgangspunkt für die Anpassung an deinen eigenen Auftrag geboten.
+## Diagramm
 
-## Warum das wichtig ist, bevor du baust
+Der vollständige Workflow, den Sie im Editor erstellen. Ein Diagramm besteht aus Knoten und Verbindungen, die auf der Arbeitsfläche angeordnet sind, um eine endgültige Ausgabe zu erzeugen.
 
-Der Graph ist flexibel. Diese Flexibilität bedeutet, dass es sich lohnt, das gewünschte Ergebnis und den Arbeitsablauf *vor*, das bzw. den Sie mit der Erstellung beginnen, genau festzulegen.
+![Graph](../assets/graph.png){align="center"}
 
 ## Nächster Schritt
 
-Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm &#x200B;](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
+Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihr erstes Diagramm ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine Schritt-für-Schritt-Anleitung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
