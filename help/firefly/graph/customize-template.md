@@ -24,4 +24,4 @@ Jede Vorlage enthält Beispieleingaben und einen allgemeinen Anwendungsfall. Es 
 4. **Ändern Sie eine Variable und führen Sie sie erneut aus**, damit Sie genau sehen können, was dieser Schritt steuert.
 5. **Speichern Sie Ihre benutzerdefinierte Version unter einem eigenen Namen.**
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
