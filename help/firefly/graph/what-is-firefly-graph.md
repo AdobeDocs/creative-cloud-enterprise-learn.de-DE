@@ -4,9 +4,9 @@ description: Erfahrt, wie sich ein Diagramm von einem Prompt unterscheidet und w
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22055
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Die meisten generativen KI-Tools liefern dir nur eine Ausgabe von einer Eingabea
 
 Firefly Graph funktioniert anders. Anstelle einer einzelnen Eingabeaufforderung erstellen Sie ein **Diagramm**: einen visuellen, schrittweisen Arbeitsablauf, bei dem jede Eingabe, Transformation und Ausgabe zusammen erfasst wird. Ändern Sie einen Schritt und führen Sie ihn erneut aus - Sie bauen nicht die gesamte Kette neu auf. Jeder Schritt ist ein sichtbarer Knoten, den dein Team inspizieren, anpassen und intakt übergeben kann.
 
-![Bildschirmfoto eines visuellen Diagramms](../assets/what-is-1.png){align="center"}
+![Bildschirmfoto eines visuellen Diagramms](../assets/graph.png){align="center"}
 
 Kurz gesagt, Graph ersetzt nicht Ihren kreativen Prozess - er verwandelt diesen Prozess in etwas, das Sie sehen, wiederverwenden und skalieren können.
 
