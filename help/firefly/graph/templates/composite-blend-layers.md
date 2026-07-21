@@ -3,9 +3,9 @@ title: Ebenen kombinieren und überblenden
 description: Erfahren Sie, wie Sie einen Produktausschnitt und eine Hintergrundszene als separate Ebeneneingaben stapeln.
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Fotomannschaft an einen Ort entsenden.
 * **Einzelhandel** - Mischen Sie einen Produktausschnitt in einen saisonalen Lifestyle-Hintergrund für ein Homepage-Banner.
 * **Reise** - Fügen Sie einen Zielhintergrund hinter einer Produktaufnahme für eine Co-Branding-Aktion zusammen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

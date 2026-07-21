@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen bestimmten Bereich maskieren, der korri
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22102
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie einen bestimmten Bereich maskieren, der korrigiert werden 
 * **Einzelhandel** - Standardisieren Sie die Produktfarbe in einem Fotosatz, der unter inkonsistenter Beleuchtung aufgenommen wurde.
 * **Finanzen** - Korrigieren Sie vor der Veröffentlichung eine abweichende Markenfarbe in einem Stapel von Marketing-Fotos.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -4,9 +4,9 @@ description: Erfahre, wie du ein Hauptprodukt oder ein Motivbild so präsentiers
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22104
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,8 +15,7 @@ ht-degree: 1%
 
 # Bullet Time VFX
 
-Erfahre, wie du ein Hauptprodukt oder ein Hauptbild in eine Szene einfügst, um eine sich drehende Sequenz von
-Winkel um sie herum, dann nähen Sie die Freeze Frame Sweep automatisch. [VFX-Vorlage zum Öffnen der Aufzählungszeit](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
+Erfahre, wie du ein Hauptprodukt oder ein Motivbild so präsentierst, dass eine sich drehende Abfolge von Winkeln entsteht, und den Standbild-Sweep automatisch zusammenfügst. [VFX-Vorlage zum Öffnen der Aufzählungszeit](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
 >[!TIP]
 >
@@ -30,4 +29,4 @@ Winkel um sie herum, dann nähen Sie die Freeze Frame Sweep automatisch. [VFX-Vo
 * **Einzelhandel** - Erstellen Sie eine 360-Grad-Standbildaufnahme eines neuen Sneakers für eine Produkteinführungsseite.
 * **Automotive** - Generieren Sie eine rotierende Heldenaufnahme eines Fahrzeugs für einen digitalen Showroom, ohne eine Drehtafelstudio-Sitzung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

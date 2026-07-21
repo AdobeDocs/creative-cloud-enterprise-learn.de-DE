@@ -4,9 +4,9 @@ description: Lerne, wie du ein Motiv von seinem Hintergrund isolieren kannst.
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22100
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie ein beliebiges Quellbild laden und den Segmentierungsknote
 * **Einzelhandel** - Isolieren Sie ein Kleidungsstück aus einem Lifestyle-Foto, um ein sauberes, reines Produktkatalogbild zu erstellen.
 * **Automotive** - Schneiden Sie ein Fahrzeug aus einem Drehort-Shooting, um es vor einer Studiokulisse für den Druck zu platzieren.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

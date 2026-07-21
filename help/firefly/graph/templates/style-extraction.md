@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie den Stil aus einem Referenzbild anpassen, das
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22098
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Erfahre, wie du ein Referenzbild mit deiner Kamera fütterst, um Farbe, Licht un
 * **Einzelhandel** - Extrahieren Sie den genehmigten Look eines Artdirektors aus einer Heldenaufnahme und wenden Sie ihn auf die Produktfotografie einer ganzen Saison an.
 * **Getränke** - Mit &quot;Neues Verpacken anpassen&quot; wird die Stimmung eines preisgekrönten Kampagnenfotos wiedergegeben.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

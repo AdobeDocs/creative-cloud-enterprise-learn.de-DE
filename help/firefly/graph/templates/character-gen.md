@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine konsistente Zeichenreferenz generieren, 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Lerne, wie du ein Referenzbild deiner Figur laden und dann die Szene oder die Po
 * **Einzelhandel** - Behalten Sie einen Spoke-Charakter mit Branding über Dutzende von saisonalen Produktaufnahmen und Social-Media-Posts hinweg bei.
 * **Bildung** - Halten Sie eine animierte Lehrerfigur in jedem Lektionsvideo in einem Kurs konsistent.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

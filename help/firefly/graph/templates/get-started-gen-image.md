@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie ein einfaches Diagramm erstellen - einen Auff
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
-source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Erste Schritte - Bild generieren
 
-Lernen Sie, wie Sie ein einfaches Diagramm erstellen: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. [Erste Schritte öffnen - Generieren Sie eine Bildvorlage &#x200B;](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Lernen Sie, wie Sie ein einfaches Diagramm erstellen: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. [Erste Schritte öffnen - Generieren Sie eine Bildvorlage ](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ Lernen Sie, wie Sie ein einfaches Diagramm erstellen: einen Aufforderungsknoten 
 * **Education** - Erstellen Sie ein erstes Beispielbild, um das Diagramm neuen Teammitgliedern zu zeigen, bevor Sie echte Projektarbeit zuweisen.
 
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
