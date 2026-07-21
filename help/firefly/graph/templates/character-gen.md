@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # Konsistente Zeichengenerierung
 
-Erfahren Sie, wie Sie eine konsistente Zeichenreferenz generieren, während sich die umgebende Szene ändert. [Konsistente Zeichengenerierungsvorlage öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Lerne, wie du ein Referenzbild deiner Figur laden und dann die Szene oder die Posenaufforderung für jede neue Aufnahme austauschen kannst. [Konsistente Zeichengenerierungsvorlage öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie eine konsistente Zeichenreferenz generieren, während sich
 * **Einzelhandel** - Behalten Sie einen Spoke-Charakter mit Branding über Dutzende von saisonalen Produktaufnahmen und Social-Media-Posts hinweg bei.
 * **Bildung** - Halten Sie eine animierte Lehrerfigur in jedem Lektionsvideo in einem Kurs konsistent.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

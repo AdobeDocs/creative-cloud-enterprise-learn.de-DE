@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
 # Stilextraktion
 
-Lerne, wie du einen Stil aus einem Referenzbild erstellst, der dann auf jedes neue Bild angewendet werden kann. [Vorlage für die Formatextraktion öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Erfahre, wie du ein Referenzbild mit deiner Kamera fütterst, um Farbe, Licht und Struktur zu extrahieren. Sie können diese Behandlung auf jedes neue Bild anwenden, das über denselben Graphen läuft. [Vorlage für die Formatextraktion öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Lerne, wie du einen Stil aus einem Referenzbild erstellst, der dann auf jedes ne
 * **Einzelhandel** - Extrahieren Sie den genehmigten Look eines Artdirektors aus einer Heldenaufnahme und wenden Sie ihn auf die Produktfotografie einer ganzen Saison an.
 * **Getränke** - Mit &quot;Neues Verpacken anpassen&quot; wird die Stimmung eines preisgekrönten Kampagnenfotos wiedergegeben.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

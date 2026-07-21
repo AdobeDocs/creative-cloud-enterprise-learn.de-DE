@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '825'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 3%
   + [Übersicht](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+    + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
     + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
     + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
     + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -144,6 +144,11 @@ ht-degree: 3%
       + {hide-from-toc}[Konsistente Zeichengenerierung](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Stilextraktion](firefly/graph/templates/style-extraction.md)
       + {hide-from-toc}[Sunset Vibes](firefly/graph/templates/sunset-vibes.md)
+      + {hide-from-toc}[Erste Schritte - Segmentieren eines Bildes](firefly/graph/templates/get-started-segment-image.md)
+      + {hide-from-toc}[Ebenen kombinieren und überblenden](firefly/graph/templates/composite-blend-layers.md)
+      + {hide-from-toc}[Selektive Farbkorrektur](firefly/graph/templates/selective-color-correction.md)
+      + {hide-from-toc}[Erste Schritte - Videogenerierung](firefly/graph/templates/get-started-video-gen.md)
+      + {hide-from-toc}[VFX-Aufzählungszeit](firefly/graph/templates/bullet-time-vfx.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
