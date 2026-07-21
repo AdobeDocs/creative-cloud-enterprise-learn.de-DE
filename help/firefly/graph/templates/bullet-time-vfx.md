@@ -30,4 +30,4 @@ Winkel um sie herum, dann nähen Sie die Freeze Frame Sweep automatisch. [VFX-Vo
 * **Einzelhandel** - Erstellen Sie eine 360-Grad-Standbildaufnahme eines neuen Sneakers für eine Produkteinführungsseite.
 * **Automotive** - Generieren Sie eine rotierende Heldenaufnahme eines Fahrzeugs für einen digitalen Showroom, ohne eine Drehtafelstudio-Sitzung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
