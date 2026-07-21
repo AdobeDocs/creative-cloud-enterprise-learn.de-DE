@@ -25,4 +25,4 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 * [**Entnahme von Stilen**](/help/firefly/graph/templates/style-extraction.md) — Einspeisung in ein genehmigtes Referenzbild. Der Stilknoten extrahiert seine Farb-, Licht- und Texturbehandlung und wendet diese Behandlung dann auf alle neuen Bilder an, die durch denselben Graphen laufen.
 * [**Sunset Vibes**](/help/firefly/graph/templates/sunset-vibes.md) — Erfahren Sie, wie Sie ein 3D-typografisches Bild mit dem Wort &quot;Vibe&quot; aus einer Textaufforderung erstellen. Die Vorlage sorgt automatisch für Platzierung und Farbbalance.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
