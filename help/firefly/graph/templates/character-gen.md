@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie eine konsistente Zeichenreferenz generieren, während sich
 * **Einzelhandel** - Behalten Sie einen Spoke-Charakter mit Branding über Dutzende von saisonalen Produktaufnahmen und Social-Media-Posts hinweg bei.
 * **Bildung** - Halten Sie eine animierte Lehrerfigur in jedem Lektionsvideo in einem Kurs konsistent.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

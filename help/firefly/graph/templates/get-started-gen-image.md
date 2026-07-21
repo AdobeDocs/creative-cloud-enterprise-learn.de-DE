@@ -30,4 +30,4 @@ Lernen Sie die Grundlagen mit der einfachsten möglichen Grafik: einen Aufforder
 * **Education** - Erstellen Sie ein erstes Beispielbild, um das Diagramm neuen Teammitgliedern zu zeigen, bevor Sie echte Projektarbeit zuweisen.
 
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

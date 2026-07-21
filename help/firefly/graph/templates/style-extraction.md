@@ -29,4 +29,4 @@ Lerne, wie du einen Stil aus einem Referenzbild erstellst, der dann auf jedes ne
 * **Einzelhandel** - Extrahieren Sie den genehmigten Look eines Artdirektors aus einer Heldenaufnahme und wenden Sie ihn auf die Produktfotografie einer ganzen Saison an.
 * **Getränke** - Mit &quot;Neues Verpacken anpassen&quot; wird die Stimmung eines preisgekrönten Kampagnenfotos wiedergegeben.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
