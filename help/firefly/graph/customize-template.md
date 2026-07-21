@@ -1,5 +1,5 @@
 ---
-title: ​5. Vorlage anpassen
+title: Vorlage anpassen
 description: Eine kurze Checkliste, mit der Sie eine Firefly-Graph-Vorlage in einen Workflow umwandeln können, der Ihre eigenen Vorgaben und Assets widerspiegelt.
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 3%
 
 ---
 
-# &#x200B;5. Vorlage anpassen
+# &#x200B;6. Vorlage anpassen
 
 Jede Vorlage enthält Beispieleingaben und einen allgemeinen Anwendungsfall. Es wird zu einem Arbeitsablauf, der für *Sie* nur funktioniert, wenn er Ihre eigenen Aufgaben, Assets und Ergebnisse widerspiegelt.
 
@@ -24,4 +24,4 @@ Jede Vorlage enthält Beispieleingaben und einen allgemeinen Anwendungsfall. Es 
 4. **Ändern Sie eine Variable und führen Sie sie erneut aus**, damit Sie genau sehen können, was dieser Schritt steuert.
 5. **Speichern Sie Ihre benutzerdefinierte Version unter einem eigenen Namen.**
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

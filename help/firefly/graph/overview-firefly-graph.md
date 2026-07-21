@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -31,8 +31,8 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
    <a href="what-is-firefly-graph.md"><strong>1. Was ist Firefly Graph?</strong></a>
     </div>
     <em>Erfahren Sie, was Firefly Graph ist und wie es mit einer einzelnen Eingabeaufforderung verglichen wird</em>
-    <br>
-  </td>
+    2
+  <br></td>
   <td>
    <a href="key-concepts.md">
       <img alt="Schminkglas mit Hintergrund" src="../assets/graph-2.png" />
@@ -41,8 +41,8 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
    <a href="key-concepts.md"><strong>2. Schlüsselkonzepte</strong></a>
     </div>
     <em>Informationen zu Knoten, Verbindungen und Vorlagen</em>
-    <br>
-  </td>
+    2
+  <br></td>
   <td>
    <a href="create-your-first-graph.md">
       <img alt="Makeup jar neuen Hintergrund" src="../assets/graph-3.png" />
@@ -51,30 +51,39 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
    <a href="create-your-first-graph.md"><strong>3. Erstellen Sie Ihr erstes Diagramm</strong></a>
     </div>
     <em>Eine exemplarische Vorgehensweise von der Arbeitsfläche zum Exportieren</em>
-    <br>
-  </td>
+    2
+  <br></td>
    <td>
    <a href="share-a-graph.md">
       <img alt="Makeup Glas verschiedenen Hintergrund" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="share-a-graph.md"><strong>4. Graph freigeben</strong></a>
+   <a href="share-a-graph.md"><strong>4. Geben Sie ein Diagramm frei</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein Diagramm für andere freigeben</em>
-    <br>
-  </td>
+    2
+  <br></td>
 </tr>
 <tr>
   <td>
-   <a href="customize-template.md">
+   <a href="template-library.md">
+      <img alt="Schminkglas in Variationen" src="../assets/graph-templates.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>5. Vorlagenbibliothek</strong></a>
+    </div>
+    <em>Erfahren Sie alles über die verschiedenen Vorlagen</em>
+    2
+  <br></td>
+  <a href="customize-template.md">
       <img alt="Makeup Glas verschiedenen Hintergrund" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. Vorlage anpassen</strong></a>
+   <a href="customize-template.md"><strong>6. Vorlage anpassen</strong></a>
     </div>
     <em>Erstellen einer Vorlage, die Ihre eigene Startidee widerspiegelt</em>
-    <br>
-  </td>
+    2
+  <br></td>
   <td>
    <a href="introducing-graph.md">
       <img alt="Pralinenschachtel" src="../assets/graph-introducing.png" />
@@ -83,13 +92,8 @@ Wenn du schon einmal ein generatives KI-Tool verwendet hast, bist du wahrscheinl
    <a href="introducing-graph.md"><strong>Einführung in das Webinar "Firefly Graph"</strong></a>
     </div>
     <em>In diesem Webinar erfahren Sie alles über das vollständig visuelle Workflow-System von Firefly Graph</em>.
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
+    2
+  <br></td>
   <td>
     <img alt="Spacer" src="../../assets/Gray_thumbnail.png" />
     <div>

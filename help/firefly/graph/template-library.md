@@ -1,5 +1,5 @@
 ---
-title: Firefly-Diagrammvorlagenbibliothek
+title: Vorlagenbibliothek
 description: Durchsuchen Sie vorgefertigte Firefly Graph-Vorlagen, die Sie öffnen und an Ihr eigenes Projekt anpassen können.
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Firefly Graph-Vorlagenbibliothek
+# &#x200B;5. Vorlagenbibliothek
 
-Jede Vorlage ist ein vollständiges Diagramm, das jemand schon erstellt hat. Öffnen Sie eine Datei, um genau zu sehen, wie sie funktioniert, und machen Sie sie zu Ihrer eigenen, indem Sie Ihre eigenen Eingaben austauschen.
+Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen erstellten oder ausgeführten Vorgängen organisiert ist. Jedes Beispiel ist der Ausgangspunkt. Tausche dein Branding, Produkt und deine Eingabeaufforderungen aus, bevor du eine Vorlage in der Produktion verwendest.
 
-| Vorlage | Zweck | Verknüpfen |
-|---|---|---|
-| **VFX-Generator für Bullet-Time** | Generieren von VFX-Sequenzen im Aufzählungszeitstil. | Vorlage öffnen |
-| **Design System Generator** | Erstelle wiederverwendbare Design-System-Elemente. | Vorlage öffnen |
-| **Hero&#39;s Journey Story Builder** | Erstelle narrative Sequenzen und Storystrukturen für Storyboards oder Kampagnenbögen. | Vorlage öffnen |
-| **Benutzerdefinierte Echtzeit-Schattierungen und Pinselstriche** | Erstellen Sie benutzerdefinierte Echtzeit-Shader- und Pinselstricheffekte. | Vorlage öffnen |
-| **Konversion von Sketch zu 3D** | Konvertieren einer Skizze in eine 3D-Turnaround-Ansicht. | Vorlage öffnen |
-| **Zielfarbkorrektur** | Wenden Sie selektive, lokalisierte Farbkorrekturen verlustfrei an. | Vorlage öffnen |
-| **Konsistente Porträtfotos** | Generieren Sie einen konsistenten Satz von Porträtfotos für eine Gruppe. | Vorlage öffnen |
-| **Editorial Fotoshooting + Clothes Swap** | Gestalte einen redaktionellen Foto-Shooting-Look, indem du Kleidungsstücke durch ein Shooting tauschst. | Vorlage öffnen |
+## Bilderstellung und -stil
 
-## Nächster Schritt
-
-Sie sind sich nicht sicher, welche Vorlage zu Ihrem Projekt passt? Beginne mit den Grundkonzepten und öffne dann das Spiel, das dem Spiel am nächsten kommt.
+* [**Erste Schritte - Ein Bild generieren**](/help/firefly/graph/templates/get-started-gen-image.md) - Das einfachste Diagramm: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. Verwende es als erste Vorlage, die bei einem neuen Anwender geöffnet wird.
+* [**Konsistente Zeichengenerierung**](/help/firefly/graph/templates/character-gen.md) — Laden Sie ein Referenzbild der Figur und tauschen Sie dann die Szene oder die Posenaufforderung für jede neue Aufnahme aus. Die Zeichenreferenz bleibt gesperrt, während sich die umgebende Szene ändert.
+* [**Stilextraktion**](/help/firefly/graph/templates/style-extraction.md) — Einzug in ein genehmigtes Referenzbild. Der Stilknoten extrahiert seine Farb-, Licht- und Texturbehandlung und wendet diese Behandlung dann auf alle neuen Bilder an, die durch denselben Graphen laufen.
+* [**Sunset Vibes**](/help/firefly/graph/templates/sunset-vibes.md) — Erfahren Sie, wie Sie ein 3D-typografisches Bild mit dem Wort &quot;Vibe&quot; aus einer Textaufforderung erstellen. Die Vorlage sorgt automatisch für Platzierung und Farbbalance.
