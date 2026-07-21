@@ -36,4 +36,4 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 * [**Erste Schritte - Videogenerierung**](/help/firefly/graph/templates/get-started-video-gen.md) - In dieser Diagrammvorlage fügen Sie eine genehmigte Standbild-Schlüsselgrafik und eine kurze Bewegungsaufforderung ein. Die Vorlage generiert einen Videoschnitt, der nicht aus einem neuen Dreh, sondern aus derselben Schlüsselgrafik erstellt wurde.
 * [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) - In dieser Diagrammvorlage füttern Sie ein Hero-Produkt oder ein Motivbild, um eine sich drehende Winkelfolge zu generieren, und setzen dann den Freeze-Frame-Sweep automatisch zusammen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -30,4 +30,4 @@ Erfahre, wie du ein genehmigtes Standbild mit Key Art und einer kurzen Bewegungs
 * **Einzelhandel** - Erweitern Sie ein einzelnes Kampagnenfoto in einen kurzen Videoschnitt für Social Media.
 
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

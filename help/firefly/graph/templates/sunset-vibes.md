@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie ein 3D-Typografiebild mit dem Wort &quot;Vibe&quot; aus ei
 * **Getränke** - Paaren Sie einen saisonalen Slogan mit einem warmen Lifestyle-Hintergrund für eine Sommeraktion.
 * **Einzelhandel** - Generieren Sie ein schnell formatiertes Text- und Hintergrund-Asset für eine Flash-Verkaufsankündigung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
