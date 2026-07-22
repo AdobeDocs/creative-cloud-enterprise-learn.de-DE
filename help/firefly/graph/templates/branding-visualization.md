@@ -1,21 +1,21 @@
 ---
 title: Branding-Visualisierung
-description: Erfahre, wie du dein Logo in Produktszenen visualisieren kannst
+description: Erfahrt, wie ihr euer Logo oder eure Marke in Produktszenen visualisieren könnt.
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '192'
 ht-degree: 1%
 
 ---
 
 # Branding-Visualisierung
 
-Erfahre, wie du dein Logo in Produktszenen visualisieren kannst. Definiere Markenrichtlinien oder eine Logo- oder Farbpalette. Das Diagramm gibt die statische Key Art und einen kurzen Bewegungs-Pass in einem Durchgang aus, sodass beide Formate visuell ausgerichtet bleiben.[Branding-Visualisierungsvorlage öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
+Erfahrt, wie ihr euer Logo oder eure Marke in Produktszenen visualisieren könnt. Definiere Markenrichtlinien oder eine Logo- oder Farbpalette. Das Diagramm gibt die statische Key Art und einen kurzen Bewegungs-Pass in einem Durchgang aus, sodass beide Formate visuell ausgerichtet bleiben.[Branding-Visualisierungsvorlage öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Erfahre, wie du dein Logo in Produktszenen visualisieren kannst. Definiere Marke
 * **Getränke** - Testen Sie drei Logo- und Farbpalettenrichtungen als fertige Schlüsselgrafik, bevor Sie eine für die Produktion auswählen.
 * **Finanzen** - Zeigen Sie eine Vorschau einer neuen Karte oder App-Identität als visuelle Elemente mit Branding an, bevor sie einen Design-Review erreicht.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

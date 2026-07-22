@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -50,8 +50,8 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 
 ## Produkt- und Marken-Mockups
 
-* [**Branding-Visualisierung**](/help/firefly/graph/templates/branding-visualization.md) — In dieser Diagrammvorlage erfahren Sie, wie Sie Produktszenen visualisieren. Definiere Markenrichtlinien oder eine Logo- oder Farbpalette. Das Diagramm gibt die statische Key Art und einen kurzen Bewegungs-Pass in einem Durchgang aus, sodass beide Formate visuell ausgerichtet bleiben.
-* [**Produktmodelle für Marken**](/help/firefly/graph/templates/brand-product-mockup.md) — In dieser Vorlage für Diagramme erfahren Sie, wie Sie Ihr Produkt in verschiedenen Szenen darstellen können. Du legst ein Produkt-Rendering oder Foto im Mockup-Knoten ab. Das Diagramm platziert es innerhalb einer Szene mit einem vollständigen Branding, wobei Beleuchtung und Schatten automatisch an diese Szene angepasst werden.
+* [**Branding-Visualisierung**](/help/firefly/graph/templates/branding-visualization.md) — In dieser Diagrammvorlage erfahren Sie, wie Sie ein Logo oder eine Marke in Produktszenen visualisieren. Definiere Markenrichtlinien oder eine Logo- oder Farbpalette. Das Diagramm gibt die statische Key Art und einen kurzen Bewegungs-Pass in einem Durchgang aus, sodass beide Formate visuell ausgerichtet bleiben.
+* [**Marken-Produkt-Mockup**](/help/firefly/graph/templates/brand-product-mockup.md) — In dieser Diagrammvorlage erfahren Sie, wie Sie Ihr Produkt in verschiedenen Szenen visualisieren können. Du legst ein Produkt-Rendering oder Foto im Mockup-Knoten ab. Das Diagramm platziert es innerhalb einer Szene mit einem vollständigen Branding, wobei Beleuchtung und Schatten automatisch an diese Szene angepasst werden.
 * [**Editorial-Fotoshooting**](/help/firefly/graph/templates/editorial-photoshoot.md) — In dieser Diagrammvorlage laden Sie eine Modellreferenz und tauschen die Bekleidungseingaben gegen jeden neuen Look aus. Posen und Beleuchtungsknoten bleiben im gesamten Set gesperrt, um ein einheitliches redaktionelles Erscheinungsbild zu erzielen.
 * [**Fotografy studio**](/help/firefly/graph/templates/photography-studio.md) - In dieser Graphvorlage platzieren Sie ein Produkt-Rendering auf dem Studiohintergrund und passen die Beleuchtung an, bis das Ergebnis wie eine echte Studioaufnahme gelesen wird.
 * [**Aufkleber auf Oberflächen anwenden**](/help/firefly/graph/templates/decal-to-surfaces.md) — In dieser Diagrammvorlage laden Sie das Basisproduktmockup und das Aufkleber- oder Logo-Element als separate Eingaben. Die Schablone passt den Aufkleber an die Oberflächengeometrie an, sodass er den Konturen korrekt folgt.
@@ -61,4 +61,4 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 * [**Designsystemgenerator**](/help/firefly/graph/templates/design-system-generator.md) — In dieser Diagrammvorlage generieren Sie ein Design-System, das auf einem Website-Screenshot basiert. Das Diagramm erzeugt einen übereinstimmenden Satz von Symbolen, Mustern und Layoutkomponenten in einem einzelnen Batchlauf.
 * [**Generierung von Porträtfotos**](/help/firefly/graph/templates/headshots-generation.md) — In dieser Diagrammvorlage harmonisieren Sie einen Stapel von Business-Porträtfotos. Lade die Quellfotos, ein Foto pro Person, und die Grafik normalisiert Beleuchtung, Hintergrund und Zuschnitt über das gesamte Set in einem Durchgang.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
