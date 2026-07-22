@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '861'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 3%
   + [Übersicht](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+    + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
     + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
     + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
     + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -155,6 +155,13 @@ ht-degree: 3%
       + {hide-from-toc}[Generierung des Zeichenmodells](firefly/graph/templates/character-model-generation.md)
       + {hide-from-toc}[Vinylspielzeugdesign](firefly/graph/templates/vinyl-toy-design.md)
       + {hide-from-toc}[Umwandlung von Skizzen in 3D](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc}[Branding-Visualisierung](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc}[Mockup des Markenprodukts](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc}[Editorial-Fotoshooting](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc}[Fotografiestudio](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc}[Aufkleber auf Oberflächen anwenden](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc}[Systemgenerator entwerfen](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc}[Generierung von Porträtfotos](firefly/graph/templates/headshots-generation.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

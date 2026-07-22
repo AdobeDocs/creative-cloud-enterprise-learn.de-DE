@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie ein beliebiges Quellbild laden und den Segmentierungsknote
 * **Einzelhandel** - Isolieren Sie ein Kleidungsstück aus einem Lifestyle-Foto, um ein sauberes, reines Produktkatalogbild zu erstellen.
 * **Automotive** - Schneiden Sie ein Fahrzeug aus einem Drehort-Shooting, um es vor einer Studiokulisse für den Druck zu platzieren.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
