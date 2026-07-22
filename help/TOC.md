@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '843'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 3%
   + [Übersicht](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+    + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
     + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
     + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
     + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -149,6 +149,12 @@ ht-degree: 3%
       + {hide-from-toc}[Selektive Farbkorrektur](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[Erste Schritte - Videogenerierung](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[VFX-Aufzählungszeit](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[Text in Storyboard](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[Storyboard Builder](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[Echtzeit-Shader](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[Generierung des Zeichenmodells](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[Vinylspielzeugdesign](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[Umwandlung von Skizzen in 3D](firefly/graph/templates/sketch-to-3d.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

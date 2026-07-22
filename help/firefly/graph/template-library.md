@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,16 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 * [**Erste Schritte - Videogenerierung**](/help/firefly/graph/templates/get-started-video-gen.md) - In dieser Diagrammvorlage fügen Sie eine genehmigte Standbild-Schlüsselgrafik und eine kurze Bewegungsaufforderung ein. Die Vorlage generiert einen Videoschnitt, der nicht aus einem neuen Dreh, sondern aus derselben Schlüsselgrafik erstellt wurde.
 * [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) - In dieser Diagrammvorlage füttern Sie ein Hero-Produkt oder ein Motivbild, um eine sich drehende Winkelfolge zu generieren, und setzen dann den Freeze-Frame-Sweep automatisch zusammen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+## Storyboarding
+
+* [**Text in Storyboard**](/help/firefly/graph/templates/text-to-storyboard.md) — In dieser Diagrammvorlage ersetzen Sie Texteingabeknoten durch Elemente aus Ihrem Textabschnitt. Jede Zeile wird zu einem eigenen Storyboard-Frame, der nacheinander generiert und für den Review als einzelner Bedienfeldsatz angeordnet wird.
+* [**Storyboard Builder**](/help/firefly/graph/templates/storyboard-builder.md) — In dieser Diagrammvorlage erstellen Sie eine Storyboard-Szene nach Szene, indem Sie einen Knoten pro Takt der Erzählung hinzufügen. Ordnen Sie Knoten neu an, um eine andere Sequenz zu testen, bevor Sie die endgültige Bedienfeldreihenfolge sperren.
+
+## 3D/Character Animator
+
+* [**Echtzeit-Shader**](/help/firefly/graph/templates/real-time-shaders.md) — In dieser Diagrammvorlage beginnen Sie mit einem Bild und wenden drei verschiedene benutzerdefinierte Shader an und zeigen das Ergebnis in Echtzeit in der Vorschau an. Passen Sie die Shader-Parameter direkt auf dem Knoten an, anstatt das Rendering von Grund auf neu durchzuführen.
+* [**Generierung von Zeichenmodellen**](/help/firefly/graph/templates/character-model-generation.md) — In dieser Diagrammvorlage erstellen Sie einen 3D-animierten Stil einer Illustration. Die Vorlage generiert einen grundlegenden 3D-Modell-Pass, der einem Modellierer zur Bereinigung übergeben wird, anstatt mit einer leeren Szene zu beginnen.
+* [**Vinylspielzeugdesign**](/help/firefly/graph/templates/vinyl-toy-design.md) - In dieser Diagrammvorlage geben Sie eine Figur oder einen Maskottchenverweis ein und rendern sie in einer stilisierten Vinylspielzeugform. Bei der Lizenzierung oder beim Review von Produkten gibt es Eckpunkte.
+* [**Umschwung von Skizze zu 3D**](/help/firefly/graph/templates/sketch-to-3d.md) — In dieser Diagrammvorlage wandeln Sie eine Skizze in eine 3D-Figur um. Das Diagramm stellt eine sich drehende 3D-Kehrtwende dar, die vor jedem physischen Prototyp für eine interne Design-Überprüfung bereit ist.
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
