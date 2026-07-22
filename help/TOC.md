@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 71dc10cd473629462fe02785e4204623ac1b2410
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '825'
 ht-degree: 3%
 
 ---
@@ -136,10 +136,19 @@ ht-degree: 3%
     + {hide-from-toc}[Firefly Graph-Schlüsselkonzepte](firefly/graph/key-concepts.md)
     + {hide-from-toc}[Erstellen Sie Ihr erstes Diagramm](firefly/graph/create-your-first-graph.md)
     + {hide-from-toc}[Graph freigeben](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[Vorlagenbibliothek](firefly/graph/template-library.md)
     + {hide-from-toc}[Vorlage anpassen](firefly/graph/customize-template.md)
     + {hide-from-toc}[Einführung in das Webinar &quot;Firefly Graph&quot;](firefly/graph/introducing-graph.md)
     + {hide-from-toc} Diagrammvorlagen {#graph-templates}
       + {hide-from-toc}[Erste Schritte - Ein Bild generieren](firefly/graph/templates/get-started-gen-image.md)
+      + {hide-from-toc}[Konsistente Zeichengenerierung](firefly/graph/templates/character-gen.md)
+      + {hide-from-toc}[Stilextraktion](firefly/graph/templates/style-extraction.md)
+      + {hide-from-toc}[Sunset Vibes](firefly/graph/templates/sunset-vibes.md)
+      + {hide-from-toc}[Erste Schritte - Segmentieren eines Bildes](firefly/graph/templates/get-started-segment-image.md)
+      + {hide-from-toc}[Ebenen kombinieren und überblenden](firefly/graph/templates/composite-blend-layers.md)
+      + {hide-from-toc}[Selektive Farbkorrektur](firefly/graph/templates/selective-color-correction.md)
+      + {hide-from-toc}[Erste Schritte - Videogenerierung](firefly/graph/templates/get-started-video-gen.md)
+      + {hide-from-toc}[VFX-Aufzählungszeit](firefly/graph/templates/bullet-time-vfx.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

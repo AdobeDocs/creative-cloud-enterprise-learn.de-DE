@@ -1,5 +1,5 @@
 ---
-title: Firefly-Diagrammvorlagenbibliothek
+title: Vorlagenbibliothek
 description: Durchsuchen Sie vorgefertigte Firefly Graph-Vorlagen, die Sie öffnen und an Ihr eigenes Projekt anpassen können.
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,33 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
-# Firefly Graph-Vorlagenbibliothek
+# &#x200B;5. Vorlagenbibliothek
 
-Jede Vorlage ist ein vollständiges Diagramm, das jemand schon erstellt hat. Öffnen Sie eine Datei, um genau zu sehen, wie sie funktioniert, und machen Sie sie zu Ihrer eigenen, indem Sie Ihre eigenen Eingaben austauschen.
+Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen erstellten oder ausgeführten Vorgängen organisiert ist. Jedes Beispiel ist der Ausgangspunkt. Tausche dein Branding, Produkt und deine Eingabeaufforderungen aus, bevor du eine Vorlage in der Produktion verwendest.
 
-| Vorlage | Zweck | Verknüpfen |
-|---|---|---|
-| **VFX-Generator für Bullet-Time** | Generieren von VFX-Sequenzen im Aufzählungszeitstil. | Vorlage öffnen |
-| **Design System Generator** | Erstelle wiederverwendbare Design-System-Elemente. | Vorlage öffnen |
-| **Hero&#39;s Journey Story Builder** | Erstelle narrative Sequenzen und Storystrukturen für Storyboards oder Kampagnenbögen. | Vorlage öffnen |
-| **Benutzerdefinierte Echtzeit-Schattierungen und Pinselstriche** | Erstellen Sie benutzerdefinierte Echtzeit-Shader- und Pinselstricheffekte. | Vorlage öffnen |
-| **Konversion von Sketch zu 3D** | Konvertieren einer Skizze in eine 3D-Turnaround-Ansicht. | Vorlage öffnen |
-| **Zielfarbkorrektur** | Wenden Sie selektive, lokalisierte Farbkorrekturen verlustfrei an. | Vorlage öffnen |
-| **Konsistente Porträtfotos** | Generieren Sie einen konsistenten Satz von Porträtfotos für eine Gruppe. | Vorlage öffnen |
-| **Editorial Fotoshooting + Clothes Swap** | Gestalte einen redaktionellen Foto-Shooting-Look, indem du Kleidungsstücke durch ein Shooting tauschst. | Vorlage öffnen |
+## Bilderstellung und -stil
 
-## Nächster Schritt
+* [**Erste Schritte - Ein Bild generieren**](/help/firefly/graph/templates/get-started-gen-image.md) - Diese Vorlage ist ein einfaches Diagramm: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. Verwende es als erste Vorlage, die bei einem neuen Anwender geöffnet wird.
+* [**Konsistente Zeichengenerierung**](/help/firefly/graph/templates/character-gen.md) — In der Diagrammvorlage laden Sie ein Referenzbild einer Figur und tauschen dann die Szene oder die Posenaufforderung für jede neue Aufnahme aus. Die Zeichenreferenz bleibt gesperrt, während sich die umgebende Szene ändert.
+* [**Stilextraktion**](/help/firefly/graph/templates/style-extraction.md) — In dieser Diagrammvorlage geben Sie ein Referenzbild ein, um die Farb-, Licht- und Texturbehandlung zu extrahieren. Sie können diese Behandlung auf jedes neue Bild anwenden, das über denselben Graphen läuft.
+* [**Sunset Vibes**](/help/firefly/graph/templates/sunset-vibes.md) — In dieser Diagrammvorlage können Sie ein 3D-Typografiebild aus einer Textaufforderung erstellen. Die Vorlage sorgt automatisch für Platzierung und Farbbalance.
 
-Sie sind sich nicht sicher, welche Vorlage zu Ihrem Projekt passt? Beginne mit den Grundkonzepten und öffne dann das Spiel, das dem Spiel am nächsten kommt.
+## Segmentierung und Compositing
+
+* [**Erste Schritte - Segmentieren eines Bildes**](/help/firefly/graph/templates/get-started-segment-image.md) - In dieser Diagrammvorlage laden Sie ein beliebiges Quellbild und führen den Segmentierungsknoten aus, um das Motiv von seinem Hintergrund zu isolieren. Stelle einen Ersatzknoten für den Hintergrund zusammen, um einen sauberen Ausschnitt zu erhalten.
+* [**Ebenen kombinieren und überblenden**](/help/firefly/graph/templates/composite-blend-layers.md) — In dieser Diagrammvorlage stapeln Sie einen Produktausschnitt und eine Hintergrundszene als separate Ebeneneingaben. Passe Mischmodus und Beleuchtungsknoten an, bis sich die Komposition als eine Aufnahme ausliest.
+* [**Selektive Farbkorrektur**](/help/firefly/graph/templates/selective-color-correction.md) — In dieser Diagrammvorlage maskieren Sie einen bestimmten Bereich, der korrigiert werden muss, und legen die Zielfarbe nur für diesen Knoten fest. Der Rest des Bildes wird unberührt durch den Graphen geleitet.
+
+## Video und Animation
+
+* [**Erste Schritte - Videogenerierung**](/help/firefly/graph/templates/get-started-video-gen.md) - In dieser Diagrammvorlage fügen Sie eine genehmigte Standbild-Schlüsselgrafik und eine kurze Bewegungsaufforderung ein. Die Vorlage generiert einen Videoschnitt, der nicht aus einem neuen Dreh, sondern aus derselben Schlüsselgrafik erstellt wurde.
+* [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) - In dieser Diagrammvorlage füttern Sie ein Hero-Produkt oder ein Motivbild, um eine sich drehende Winkelfolge zu generieren, und setzen dann den Freeze-Frame-Sweep automatisch zusammen.
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
