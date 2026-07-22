@@ -29,4 +29,4 @@ Erfahrt, wie ihr euer Logo oder eure Marke in Produktszenen visualisieren könnt
 * **Getränke** - Testen Sie drei Logo- und Farbpalettenrichtungen als fertige Schlüsselgrafik, bevor Sie eine für die Produktion auswählen.
 * **Finanzen** - Zeigen Sie eine Vorschau einer neuen Karte oder App-Identität als visuelle Elemente mit Branding an, bevor sie einen Design-Review erreicht.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
