@@ -29,4 +29,4 @@ Erfahre, wie du eine Figur oder ein Maskottchen eingibst und sie in einer stilis
 * **Getränke** - Verführen Sie ein Mockup einer sammelbaren Figur eines Markenmaskottchens für einen begrenzten Warentropfen.
 * **Unterhaltung** - Zeigen Sie eine Figur in Vinylspielzeugform in der Vorschau für ein Lizenzstockdeck an.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -48,4 +48,4 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 * [**Vinylspielzeugdesign**](/help/firefly/graph/templates/vinyl-toy-design.md) - In dieser Diagrammvorlage geben Sie eine Figur oder einen Maskottchenverweis ein und rendern sie in einer stilisierten Vinylspielzeugform. Bei der Lizenzierung oder beim Review von Produkten gibt es Eckpunkte.
 * [**Umschwung von Skizze zu 3D**](/help/firefly/graph/templates/sketch-to-3d.md) — In dieser Diagrammvorlage wandeln Sie eine Skizze in eine 3D-Figur um. Das Diagramm stellt eine sich drehende 3D-Kehrtwende dar, die vor jedem physischen Prototyp für eine interne Design-Überprüfung bereit ist.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

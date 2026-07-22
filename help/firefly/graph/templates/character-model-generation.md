@@ -29,4 +29,4 @@ Lerne, wie du einen animierten 3D-Stil für eine Illustration erstellst. Die Vor
 * **Tech** - Generieren Sie ein Basis-3D-Zeichenmodell aus einem schriftlichen Brief, der zur Bereinigung an einen Modellierer übergeben werden kann.
 * **Bildung** - Erstellen Sie ein 3D-Zeichenmodell für Kursleiter zur Verwendung in den Videostunden eines Kurses.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

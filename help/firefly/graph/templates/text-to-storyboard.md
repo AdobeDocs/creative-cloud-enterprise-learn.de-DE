@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie ein Storyboard aus einem Skript oder einer Aufnahmeliste g
 * **Einzelhandel** - Storyboard ein Produkteinführungsvideo direkt aus dem Kampagnenbrief, bevor ein Director gebucht wird.
 * **Tech** - Erstellen Sie ein Storyboard für ein Erklärvideo aus einem Feature-Skript, um die Stakeholder auszurichten, bevor die Animation beginnt.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

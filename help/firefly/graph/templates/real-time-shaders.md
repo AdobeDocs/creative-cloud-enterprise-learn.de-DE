@@ -29,4 +29,4 @@ Lerne, wie du mit einem Bild beginnst und drei verschiedene benutzerdefinierte S
 * **Automobil** - Zeigen Sie eine Vorschau der benutzerdefinierten Farb- und Materialschattierungen auf einem Fahrzeugmodell an, bevor ein physischer Prototyp vorhanden ist.
 * **Einzelhandel** - Testen Sie stilisiertes Material auf einem 3D-Produkt-Rendering für ein digitales Regaldisplay.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
