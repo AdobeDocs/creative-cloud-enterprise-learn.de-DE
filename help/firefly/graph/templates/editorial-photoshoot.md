@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Erfahre, wie du einen Model-Verweis eingibst und die Kleidungsstücke durch neue
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Editorial-Fotoshooting](../../assets/editorial-photoshoot.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Einzelhandel** - Tauschen Sie Kleidungsstücke gegen ein Modell durch ein komplettes redaktionelles Shooting gegen ein saisonales Lookbook aus, ohne das Modell für jeden individuellen Look neu zu buchen.
 * **Beauty** - Erstellen Sie eine konsistente Editorial-Reihe für mehrere Produkt-Looks mithilfe einer Modellreferenz.
 * **Outdoors** - Generieren Sie einen vollständigen Editorial-Satz für eine neue Jackenfarbbahn-Aufstellung aus einem einzelnen Modelldreh.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Editorial-Fotoshooting](../../assets/editorial-photoshoot.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

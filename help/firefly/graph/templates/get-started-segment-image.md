@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Erfahren Sie, wie Sie ein beliebiges Quellbild laden und den Segmentierungsknote
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Segment image](../../assets/get-started-segment-image.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Gesundheit** - Segmentieren Sie ein medizinisches Gerät aus einer geschäftigen Studioaufnahme, um es auf einen sauberen klinischen Hintergrund für eine Produktseite zu legen, ohne dass ein erneuter Hintergrund erstellt wird.
 * **Einzelhandel** - Isolieren Sie ein Kleidungsstück aus einem Lifestyle-Foto, um ein sauberes, reines Produktkatalogbild zu erstellen.
 * **Automotive** - Schneiden Sie ein Fahrzeug aus einem Drehort-Shooting, um es vor einer Studiokulisse für den Druck zu platzieren.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Segment image](../../assets/get-started-segment-image.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22104
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Erfahre, wie du ein Hauptprodukt oder ein Motivbild so präsentierst, dass eine 
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![VFX-Aufzählungszeit](../../assets/bullet-time-vfx.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Outdoors** - Erstelle eine Heldenaufnahme eines Kletterers in Bewegung für eine bezahlte Social-Media-Anzeige, ohne ein Multi-Kamera-Rig vor Ort.
 * **Einzelhandel** - Erstellen Sie eine 360-Grad-Standbildaufnahme eines neuen Sneakers für eine Produkteinführungsseite.
 * **Automotive** - Generieren Sie eine rotierende Heldenaufnahme eines Fahrzeugs für einen digitalen Showroom, ohne eine Drehtafelstudio-Sitzung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![VFX-Aufzählungszeit](../../assets/bullet-time-vfx.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

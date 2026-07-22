@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Lerne, wie du ein Design-System anhand eines Website-Screenshots erstellst. Das 
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Systemgenerator entwerfen](../../assets/design-system.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Tech** - Generieren Sie einen wiederverwendbaren Satz von Symbolen und Hintergrundmustern für einen vierteljährlichen Funktionsstart, der für Anzeigen, Landingpages und Social Media wiederverwendet wird, ohne das Design erneut zu besprechen.
 * **Finanzen** - Erstellen Sie ein konsistentes Symbol- und Farbsystem für eine neue App-Neugestaltung, bevor die Entwicklung beginnt.
 * **Kommunikation und Telekommunikation** - Generieren Sie eine passende visuelle Sprache für eine neue Abo-Ebene über Web- und Ladenbeschilderung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Systemgenerator entwerfen](../../assets/design-system.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22096
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -15,13 +15,11 @@ ht-degree: 1%
 
 # Erste Schritte - Bild generieren
 
-Lernen Sie, wie Sie ein einfaches Diagramm erstellen: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. [Erste Schritte öffnen - Generieren Sie eine Bildvorlage &#x200B;](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Lernen Sie, wie Sie ein einfaches Diagramm erstellen: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. [Erste Schritte öffnen - Generieren Sie eine Bildvorlage ](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
-
-![General image](../../assets/get-started-gen-image.png){align="center"}
 
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
@@ -29,5 +27,6 @@ Lernen Sie, wie Sie ein einfaches Diagramm erstellen: einen Aufforderungsknoten 
 * **Gesundheit** - Testen Sie den einfachsten Bildgenerierungsfluss auf einem Platzhalterprodukt, bevor Sie auf einen vollständigen Inhaltskalender skalieren.
 * **Education** - Erstellen Sie ein erstes Beispielbild, um das Diagramm neuen Teammitgliedern zu zeigen, bevor Sie echte Projektarbeit zuweisen.
 
+![General image](../../assets/get-started-gen-image.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

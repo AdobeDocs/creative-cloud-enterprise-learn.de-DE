@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Erfahre, wie du eine Figur oder ein Maskottchen eingibst und sie in einer stilis
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Vinylspielzeugdesign](../../assets/vinyl-toy-design.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Einzelhandel** - Entwerfen Sie eine limitierte Edition, die mit einem Start des Treueprogramms verknüpft ist und als Konzept überprüft wird, bevor Sie einen Fertigungslauf durchführen.
 * **Getränke** - Verführen Sie ein Mockup einer sammelbaren Figur eines Markenmaskottchens für einen begrenzten Warentropfen.
 * **Unterhaltung** - Zeigen Sie eine Figur in Vinylspielzeugform in der Vorschau für ein Lizenzstockdeck an.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Vinylspielzeugdesign](../../assets/vinyl-toy-design.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

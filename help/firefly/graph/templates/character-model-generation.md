@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Lerne, wie du einen animierten 3D-Stil für eine Illustration erstellst. Die Vor
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Generierung des Zeichenmodells](../../assets/character-model-generation.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Outdoors** - Erstellen Sie ein 3D-Modell einer Maskottchenfigur für die Verwendung in Verpackungs-Renderings und -Videos, ausgehend von einer einzelnen genehmigten Zeichenbeschreibung.
 * **Tech** - Generieren Sie ein Basis-3D-Zeichenmodell aus einem schriftlichen Brief, der zur Bereinigung an einen Modellierer übergeben werden kann.
 * **Bildung** - Erstellen Sie ein 3D-Zeichenmodell für Kursleiter zur Verwendung in den Videostunden eines Kurses.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Generierung des Zeichenmodells](../../assets/character-model-generation.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

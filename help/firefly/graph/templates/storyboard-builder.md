@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Erfahre, wie du deine Ideen mithilfe von Textaufforderungen automatisch in ein S
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Storyboard Builder](../../assets/storyboard-builder.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Kommunikation und Telekommunikation** - Storyboard ist ein 30-Sekunden-Startpunkt für einen neuen Plan, bei dem drei verschiedene narrative Strukturen getestet werden, bevor ein Shooting gebucht wird.
 * **Getränke** - Erstelle ein Storyboard für jede Szene für eine saisonale Kampagne, und ordne Beats neu an, um das Tempo zu testen, bevor du den Schnitt sperrst.
 * **Reise** - Erstellen Sie ein Storyboard für den Erzählbogen einer Zielkampagne, bevor Sie einen Commit für eine Aufnahmeliste ausführen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Storyboard Builder](../../assets/storyboard-builder.png){align="center"}
+
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
