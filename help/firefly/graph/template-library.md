@@ -61,4 +61,4 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 * [**Designsystemgenerator**](/help/firefly/graph/templates/design-system-generator.md) — In dieser Diagrammvorlage generieren Sie ein Design-System, das auf einem Website-Screenshot basiert. Das Diagramm erzeugt einen übereinstimmenden Satz von Symbolen, Mustern und Layoutkomponenten in einem einzelnen Batchlauf.
 * [**Generierung von Porträtfotos**](/help/firefly/graph/templates/headshots-generation.md) — In dieser Diagrammvorlage harmonisieren Sie einen Stapel von Business-Porträtfotos. Lade die Quellfotos, ein Foto pro Person, und die Grafik normalisiert Beleuchtung, Hintergrund und Zuschnitt über das gesamte Set in einem Durchgang.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

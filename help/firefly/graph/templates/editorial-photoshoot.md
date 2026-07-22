@@ -29,4 +29,4 @@ Erfahre, wie du einen Model-Verweis eingibst und die Kleidungsstücke durch neue
 * **Beauty** - Erstellen Sie eine konsistente Editorial-Reihe für mehrere Produkt-Looks mithilfe einer Modellreferenz.
 * **Outdoors** - Generieren Sie einen vollständigen Editorial-Satz für eine neue Jackenfarbbahn-Aufstellung aus einem einzelnen Modelldreh.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Lerne, wie du ein Produkt-Rendering auf dem Hintergrundknoten eines Studios plat
 * **Tech** - Erstellen Sie Renderings in Studioqualität eines neuen Geräts für eine Startseite, bevor Maßeinheiten zum Fotografieren verfügbar sind.
 * **Einzelhandel** - Erstellen Sie konsistente Studioaufnahmen über eine gesamte Produktlinie hinweg, ohne einzelne Fotosessions zu buchen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

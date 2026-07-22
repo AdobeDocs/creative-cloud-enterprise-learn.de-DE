@@ -29,4 +29,4 @@ Lerne, wie du Aufkleber oder Logos auf Produktmodellen visualisieren kannst. Die
 * **Automobil** - Zeigen Sie eine Vorschau eines neuen Ausstattungs- oder Aufkleberdesigns für ein Fahrzeugmodell an, bevor Sie die Produktion umwickeln.
 * **Einzelhandel** - Testen Sie vor der Druckgenehmigung eine neue Logoplatzierung auf einer vollständigen Bekleidungsmodellzeile.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

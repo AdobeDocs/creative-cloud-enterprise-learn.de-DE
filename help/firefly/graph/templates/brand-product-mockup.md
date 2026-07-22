@@ -29,4 +29,4 @@ Erfahre, wie du dein Produkt in unterschiedlichen Szenen visualisierst. Legen Si
 * **Getränke** - Zeigen Sie vor der Produktion eine Vorschau eines neuen Flaschendesigns in einer vollständig markengeschützten Kühlerszene für den Einzelhandel an.
 * **Tech** - Erstellen Sie ein Mockup für ein neues Gerät in einer Einzelhandelsregalszene mit Branding, um eine Präsentation zu erstellen.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

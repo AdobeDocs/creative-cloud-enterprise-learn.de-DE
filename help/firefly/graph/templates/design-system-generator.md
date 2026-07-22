@@ -29,4 +29,4 @@ Lerne, wie du ein Design-System anhand eines Website-Screenshots erstellst. Das 
 * **Finanzen** - Erstellen Sie ein konsistentes Symbol- und Farbsystem für eine neue App-Neugestaltung, bevor die Entwicklung beginnt.
 * **Kommunikation und Telekommunikation** - Generieren Sie eine passende visuelle Sprache für eine neue Abo-Ebene über Web- und Ladenbeschilderung.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
