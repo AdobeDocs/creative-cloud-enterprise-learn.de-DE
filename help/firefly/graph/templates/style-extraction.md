@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22098
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Erfahre, wie du ein Referenzbild mit deiner Kamera fütterst, um Farbe, Licht un
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+![Stilextraktion](../../assets/style-extraction.png){align="center"}
+
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Reise** - Extrahieren Sie die Farb- und Lichtbehandlung aus einem genehmigten Heldenkampagnenfoto und wenden Sie sie auf zwanzig neue Zielbilder an, um eine visuelle Konsistenz zu erzielen.
 * **Einzelhandel** - Extrahieren Sie den genehmigten Look eines Artdirektors aus einer Heldenaufnahme und wenden Sie ihn auf die Produktfotografie einer ganzen Saison an.
@@ -29,4 +31,4 @@ Erfahre, wie du ein Referenzbild mit deiner Kamera fütterst, um Farbe, Licht un
 
 ![Konsistentes Zeichengen](../../assets/style-extraction.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

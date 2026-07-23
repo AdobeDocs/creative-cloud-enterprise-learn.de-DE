@@ -4,11 +4,11 @@ description: Erfahren Sie, wie Sie mit einem Bild beginnen und drei verschiedene
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22129
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Lerne, wie du mit einem Bild beginnst und drei verschiedene benutzerdefinierte S
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+![Echtzeit-Shader](../../assets/real-time-shaders.png){align="center"}
+
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Tech** - Erstellen Sie einen benutzerdefinierten stilisierten Shader, der nach einem 3D-Produktkonfigurator sucht, der in einer interaktiven Messedemo verwendet wird.
 * **Automobil** - Zeigen Sie eine Vorschau der benutzerdefinierten Farb- und Materialschattierungen auf einem Fahrzeugmodell an, bevor ein physischer Prototyp vorhanden ist.
@@ -29,4 +31,4 @@ Lerne, wie du mit einem Bild beginnst und drei verschiedene benutzerdefinierte S
 
 ![Echtzeit-Shader](../../assets/real-time-shaders.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

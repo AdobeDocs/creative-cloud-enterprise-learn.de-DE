@@ -4,11 +4,11 @@ description: Erfahren Sie, wie Sie Aufkleber oder Logos auf Produktmodellen visu
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22124
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Lerne, wie du Aufkleber oder Logos auf Produktmodellen visualisieren kannst. Die
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+![Aufkleber auf Oberflächen anwenden](../../assets/apply-decal.png){align="center"}
+
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Outdoors** - Wenden Sie einen aktualisierten Logoaufkleber auf eine ganze Reihe von Zahnradmodellen an, um eine Vorschau einer Rebranding-Aktion anzuzeigen, bevor das Produktionstool bestellt wird.
 * **Automobil** - Zeigen Sie eine Vorschau eines neuen Ausstattungs- oder Aufkleberdesigns für ein Fahrzeugmodell an, bevor Sie die Produktion umwickeln.
@@ -29,4 +31,4 @@ Lerne, wie du Aufkleber oder Logos auf Produktmodellen visualisieren kannst. Die
 
 ![Aufkleber auf Oberflächen anwenden](../../assets/apply-decal.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

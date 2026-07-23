@@ -4,11 +4,11 @@ description: Skizze in eine 3D-Figur umwandeln
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22130
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Lerne, wie du eine Skizze in eine 3D-Figur verwandelst. Das Diagramm stellt eine
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+![Skizze in 3D](../../assets/sketch-to-3d.png){align="center"}
+
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Tech** - Verwandeln Sie eine frühe Hardwarekonzeptionsskizze in eine 3D-Wende für den Design-Review, bevor Sie einen Commit für einen physischen Prototypenbuild ausführen.
 * **Automotive** - Visualisieren Sie eine frühe Fahrzeugkonzeptionsskizze als sich drehende 3D-Kehrtwende für die interne Überprüfung.
@@ -29,4 +31,4 @@ Lerne, wie du eine Skizze in eine 3D-Figur verwandelst. Das Diagramm stellt eine
 
 ![Skizze in 3D](../../assets/sketch-to-3d.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

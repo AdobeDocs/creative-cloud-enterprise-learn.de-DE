@@ -4,11 +4,11 @@ description: Lerne, wie du ein Produkt-Rendering auf dem Hintergrund eines Studi
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22128
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Lerne, wie du ein Produkt-Rendering auf dem Hintergrundknoten eines Studios plat
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+![Fotografiestudio](../../assets/photography-studio.png){align="center"}
+
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Getränke** - Generieren Sie saubere Studioproduktaufnahmen einer neuen Geschmacksskizze, bevor die physische Produktfotografie geplant wird.
 * **Tech** - Erstellen Sie Renderings in Studioqualität eines neuen Geräts für eine Startseite, bevor Maßeinheiten zum Fotografieren verfügbar sind.
@@ -29,4 +31,4 @@ Lerne, wie du ein Produkt-Rendering auf dem Hintergrundknoten eines Studios plat
 
 ![Fotografiestudio](../../assets/photography-studio.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
