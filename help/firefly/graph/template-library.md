@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: bd878f1297ab60bcdf5e9e7e2d8c5ab9fa6a68b5
+source-git-commit: 45c4d9faf5ca3a49ae8a0266d415db8640fd79e0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
@@ -31,8 +31,8 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 
 | Diagrammvorlage | Beschreibung | Anwendungsfälle |
 |---|---|---|
-| [**Erste Schritte - Segmentieren eines Bildes**](/help/firefly/graph/templates/get-started-segment-image.md) | Laden Sie ein beliebiges Quellbild und führen Sie den Segmentierungsknoten aus, um das Motiv von seinem Hintergrund zu isolieren. | <ul><li>Sauberer Ausschnitt</li><li>Katalogisisolat</li><li>Kappentausch</li></ul> |
-| [**Ebenen kombinieren und überblenden**](/help/firefly/graph/templates/composite-blend-layers.md) | Gestalte einen Ausschnitt und eine Hintergrundszene als separate Ebeneneingaben. | <ul><li>Lifestyle/Social Composite</li><li>Startseitenbanner</li><li>Kompositum mit o-Branding</li></ul> |
+| [**Erste Schritte - Segmentieren eines Bildes**](/help/firefly/graph/templates/get-started-segment-image.md) | Laden Sie ein beliebiges Quellbild und führen Sie den Segmentierungsknoten aus, um das Motiv von seinem Hintergrund zu isolieren. | <ul><li>Sauberer Ausschnitt</li><li>Katalogisisolat</li><li>Backdrop Swap</li></ul> |
+| [**Ebenen kombinieren und überblenden**](/help/firefly/graph/templates/composite-blend-layers.md) | Gestalte einen Ausschnitt und eine Hintergrundszene als separate Ebeneneingaben. | <ul><li>Lifestyle/Social Composite</li><li>Startseitenbanner</li><li>Komposition mit Co-Branding</li></ul> |
 | [**Selektive Farbkorrektur**](/help/firefly/graph/templates/selective-color-correction.md) | Maskieren Sie einen bestimmten Bereich, der korrigiert werden muss, und legen Sie die Zielfarbe nur für diesen Knoten fest. | <ul><li>Branding-Farben abgleichen.</li><li>Farbstandardisierung</li><li>Einfache Farbkorrektur</li></ul> |
 
 ## Video und Animation
@@ -66,7 +66,7 @@ Ein Schnellreferenz-Index von Firefly-Diagramm-Vorlagen, der nach den einzelnen 
 | [**Mockup des Markenprodukts**](/help/firefly/graph/templates/brand-product-mockup.md) | Zeige dein Produkt in verschiedenen Szenen. | <ul><li>Ladenmockup</li><li>Produkt-Mockup</li><li>Architekturmockup</li></ul> |
 | [**Editorial-Fotoshooting**](/help/firefly/graph/templates/editorial-photoshoot.md) | Laden Sie eine Modellreferenz und tauschen Sie die Kleidungseingabe für jeden neuen Look aus. | <ul><li>Lookbook-Aufnahme</li><li>Editorial-Reihe</li><li>Farbpalette</li></ul> |
 | [**Fotografiestudio**](/help/firefly/graph/templates/photography-studio.md) | Platziere ein Produkt-Rendering auf der Hintergrundwand des Studios und passe die Beleuchtung an, bis das Ergebnis wie eine echte Studioaufnahme aussieht. | <ul><li>SKU-Studioaufnahme</li><li>Rendern der Startseite</li><li>Produktzeilenaufnahmen</li></ul> |
-| [**Aufkleber auf Oberflächen anwenden**](/help/firefly/graph/templates/decal-to-surfaces.md) | Ladet das Mockup des Basisprodukts und die Aufkleber oder das Logo als separate Eingaben. | <ul><li>Vorschau für Rebranding</li><li> Vorschau</li><li>Platzierungstest für Logos</li></ul> |
+| [**Aufkleber auf Oberflächen anwenden**](/help/firefly/graph/templates/decal-to-surfaces.md) | Ladet das Mockup des Basisprodukts und die Aufkleber oder das Logo als separate Eingaben. | <ul><li>Vorschau für Rebranding</li><li>Vorschau</li><li>Platzierungstest für Logos</li></ul> |
 
 ## Batch- und Konsistenzvorgänge
 
