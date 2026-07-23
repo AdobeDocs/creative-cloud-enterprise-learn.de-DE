@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22133
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Erfahre, wie du eine Figur oder ein Maskottchen eingibst und sie in einer stilisierten Vinylspielzeugform renderst. Bei der Lizenzierung oder beim Review von Produkten gibt es Eckpunkte. [Designvorlage für Vinylspielzeug öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6b1e062a-bf16-5dc9-99dd-c3bd4061e238).
 
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
+
+* **Einzelhandel** - Entwerfen Sie eine limitierte Edition, die mit einem Start des Treueprogramms verknüpft ist und als Konzept überprüft wird, bevor Sie einen Fertigungslauf durchführen.
+* **Getränke** - Verführen Sie ein Mockup einer sammelbaren Figur eines Markenmaskottchens für einen begrenzten Warentropfen.
+* **Unterhaltung** - Zeigen Sie eine Figur in Vinylspielzeugform in der Vorschau für ein Lizenzstockdeck an.
+
 >[!TIP]
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Vinylspielzeugdesign](../../assets/vinyl-toy-design.png){align="center"}
 
-[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
-
-* **Einzelhandel** - Entwerfen Sie eine limitierte Edition, die mit einem Start des Treueprogramms verknüpft ist und als Konzept überprüft wird, bevor Sie einen Fertigungslauf durchführen.
-* **Getränke** - Verführen Sie ein Mockup einer sammelbaren Figur eines Markenmaskottchens für einen begrenzten Warentropfen.
-* **Unterhaltung** - Zeigen Sie eine Figur in Vinylspielzeugform in der Vorschau für ein Lizenzstockdeck an.
-
-![Vinylspielzeugdesign](../../assets/vinyl-toy-design.png){align="center"}
-
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

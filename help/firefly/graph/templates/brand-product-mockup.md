@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22121
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '178'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Erfahre, wie du dein Produkt in unterschiedlichen Szenen visualisierst. Legen Sie einen Produktrenderer oder ein Foto im Mockup-Knoten ab. Das Diagramm platziert es innerhalb einer Szene mit vollständigem Branding, wobei Beleuchtung und Schatten automatisch an diese Szene angepasst werden. [Vorlage für Branding-Produktmodelle öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:18717173-ecd7-5f76-8788-6be6cb977d93).
 
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
+
+* **Einzelhandel** - Erstellen Sie ein Mockup für eine neue saisonale Produktlinie innerhalb einer Anzeigeszene mit Marken-In-Store, bevor die physische Anzeige vorhanden ist.
+* **Getränke** - Zeigen Sie vor der Produktion eine Vorschau eines neuen Flaschendesigns in einer vollständig markengeschützten Kühlerszene für den Einzelhandel an.
+* **Tech** - Erstellen Sie ein Mockup für ein neues Gerät in einer Einzelhandelsregalszene mit Branding, um eine Präsentation zu erstellen.
+
 >[!TIP]
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Branding-Produkt-Mockup](../../assets/brand-mockup.png){align="center"}
 
-[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
-
-* **Einzelhandel** - Erstellen Sie ein Mockup für eine neue saisonale Produktlinie innerhalb einer Anzeigeszene mit Marken-In-Store, bevor die physische Anzeige vorhanden ist.
-* **Getränke** - Zeigen Sie vor der Produktion eine Vorschau eines neuen Flaschendesigns in einer vollständig markengeschützten Kühlerszene für den Einzelhandel an.
-* **Tech** - Erstellen Sie ein Mockup für ein neues Gerät in einer Einzelhandelsregalszene mit Branding, um eine Präsentation zu erstellen.
-
-![Branding-Produkt-Mockup](../../assets/brand-mockup.png){align="center"}
-
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

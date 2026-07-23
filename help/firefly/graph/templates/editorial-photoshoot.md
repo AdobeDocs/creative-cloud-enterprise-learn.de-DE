@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22126
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 1%
+source-wordcount: '177'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Erfahre, wie du einen Model-Verweis eingibst und die Kleidungsstücke durch neue Looks ersetzt. Posen und Beleuchtungsknoten bleiben im gesamten Set gesperrt, um ein einheitliches redaktionelles Erscheinungsbild zu erzielen. [Vorlage für redaktionelle Fotoaufnahmen öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:cfd7b810-2f86-5cdf-af80-dd2e31b8b84b).
 
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
+
+* **Einzelhandel** - Tauschen Sie Kleidungsstücke gegen ein Modell durch ein komplettes redaktionelles Shooting gegen ein saisonales Lookbook aus, ohne das Modell für jeden individuellen Look neu zu buchen.
+* **Beauty** - Erstellen Sie eine konsistente Editorial-Reihe für mehrere Produkt-Looks mithilfe einer Modellreferenz.
+* **Outdoors** - Generieren Sie einen vollständigen Editorial-Satz für eine neue Jackenfarbbahn-Aufstellung aus einem einzelnen Modelldreh.
+
 >[!TIP]
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Editorial-Fotoshooting](../../assets/editorial-photoshoot.png){align="center"}
 
-[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
-
-* **Einzelhandel** - Tauschen Sie Kleidungsstücke gegen ein Modell durch ein komplettes redaktionelles Shooting gegen ein saisonales Lookbook aus, ohne das Modell für jeden individuellen Look neu zu buchen.
-* **Beauty** - Erstellen Sie eine konsistente Editorial-Reihe für mehrere Produkt-Looks mithilfe einer Modellreferenz.
-* **Outdoors** - Generieren Sie einen vollständigen Editorial-Satz für eine neue Jackenfarbbahn-Aufstellung aus einem einzelnen Modelldreh.
-
-![Editorial-Fotoshooting](../../assets/editorial-photoshoot.png){align="center"}
-
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

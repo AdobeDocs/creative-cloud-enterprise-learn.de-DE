@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22102
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie einen bestimmten Bereich maskieren, der korrigiert werden muss, und die Zielfarbe nur für diesen Knoten festlegen. Der Rest des Bildes wird unberührt durch den Graphen geleitet. [Selektive Farbkorrekturvorlage öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:92c1c93e-4a12-5c99-a2d7-a06ad1662125).
 
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
+
+* **Kommunikation und Telekommunikation** - Korrigieren Sie die Markenfarbe in einem Stapel von Einzelhandelsfotos, sodass jeder Ort mit der Signaturfarbe der Marke übereinstimmt, ohne dass eine vollständige Neubewertung durchgeführt wird.
+* **Einzelhandel** - Standardisieren Sie die Produktfarbe in einem Fotosatz, der unter inkonsistenter Beleuchtung aufgenommen wurde.
+* **Finanzen** - Korrigieren Sie vor der Veröffentlichung eine abweichende Markenfarbe in einem Stapel von Marketing-Fotos.
+
 >[!TIP]
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Selektive Farbkorrektur](../../assets/selective-color.png){align="center"}
 
-[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
-
-* **Kommunikation und Telekommunikation** - Korrigieren Sie die Markenfarbe in einem Stapel von Einzelhandelsfotos, sodass jeder Ort mit der Signaturfarbe der Marke übereinstimmt, ohne dass eine vollständige Neubewertung durchgeführt wird.
-* **Einzelhandel** - Standardisieren Sie die Produktfarbe in einem Fotosatz, der unter inkonsistenter Beleuchtung aufgenommen wurde.
-* **Finanzen** - Korrigieren Sie vor der Veröffentlichung eine abweichende Markenfarbe in einem Stapel von Marketing-Fotos.
-
-![Selektive Farbkorrektur](../../assets/selective-color.png){align="center"}
-
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

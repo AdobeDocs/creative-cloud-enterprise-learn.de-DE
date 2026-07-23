@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22127
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 1%
+source-wordcount: '157'
+ht-degree: 0%
 
 ---
 
@@ -18,18 +18,16 @@ ht-degree: 1%
 Lerne, wie du eine Reihe von Business-Porträts aufeinander abstimmen kannst. Das Diagramm normalisiert Beleuchtung, Hintergrund,
 und über das gesamte Set in einem Durchgang zuschneiden. [Vorlage für die Generierung von Headshots öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:5da3f95f-63e5-5335-9e10-58cfadd7ad3f).
 
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
+
+* **Tech** - Generieren Sie ein konsistentes Porträtsatz für ein aktualisiertes Mitarbeiterverzeichnis, bevor Sie alle Hände bedienen, ohne einen Fotografen für jeden neuen Mitarbeiter zu planen.
+* **Finanzen** - Normalisieren Sie die Porträtfotos in einem Beraterteam für eine Besprechungsseite des Teams.
+* **Gesundheit** - Standardisieren Sie die Porträtfotos der Mitarbeiter über mehrere Klinikstandorte hinweg, um einen einheitlichen Website-Look zu erzielen.
+
 >[!TIP]
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Generierung von Porträtfotos](../../assets/headshots-generation.png){align="center"}
 
-[!BADGE Branchenbeispiele]{type=Informative tooltip="Anwendungsfälle"}
-
-* **Tech** - Generieren Sie ein konsistentes Porträtsatz für ein aktualisiertes Mitarbeiterverzeichnis, bevor Sie alle Hände bedienen, ohne einen Fotografen für jeden neuen Mitarbeiter zu planen.
-* **Finanzen** - Normalisieren Sie die Porträtfotos in einem Beraterteam für eine Besprechungsseite des Teams.
-* **Gesundheit** - Standardisieren Sie die Porträtfotos der Mitarbeiter über mehrere Klinikstandorte hinweg, um einen einheitlichen Website-Look zu erzielen.
-
-![Generierung von Porträtfotos](../../assets/headshots-generation.png){align="center"}
-
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
