@@ -31,4 +31,4 @@ Erfahre, wie du dein Produkt in unterschiedlichen Szenen visualisierst. Legen Si
 
 ![Branding-Produkt-Mockup](../../assets/brand-mockup.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -31,4 +31,4 @@ Erfahre, wie du ein Hauptprodukt oder ein Motivbild so präsentierst, dass eine 
 
 ![VFX-Aufzählungszeit](../../assets/bullet-time-vfx.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
