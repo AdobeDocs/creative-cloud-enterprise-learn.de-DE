@@ -5,7 +5,7 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -20,13 +20,13 @@ Lerne, wie du einen Produktausschnitt und eine Hintergrundszene als separate Ebe
 >
 >**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
-![Ebenen kombinieren und überblenden](../../assets/composite-blend-layers.png){align="center"}
-
 [!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
 
 * **Getränke** - Kombinieren Sie eine neue Dose zu einer Beach-Lifestyle-Szene für eine Sommerkampagne, ohne ein Flugzeug zu fliegen.
 Fotomannschaft an einen Ort entsenden.
 * **Einzelhandel** - Mischen Sie einen Produktausschnitt in einen saisonalen Lifestyle-Hintergrund für ein Homepage-Banner.
 * **Reise** - Fügen Sie einen Zielhintergrund hinter einer Produktaufnahme für eine Co-Branding-Aktion zusammen.
+
+![Ebenen kombinieren und überblenden](../../assets/composite-blend-layers.png){align="center"}
 
 Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
