@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Ihre Ideen mithilfe von Textaufforderungen au
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-22131
+jira: KT-22136
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+source-git-commit: 8933daea4c9aeb7ad61e1cf407a8e838b7a82131
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,4 +29,4 @@ Erfahre, wie du deine Ideen mithilfe von Textaufforderungen automatisch in ein S
 
 ![Storyboard Builder](../../assets/storyboard-builder.png){align="center"}
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
