@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie ein beliebiges Quellbild laden und den Segmentierungsknoten ausführen, um das Motiv vom Hintergrund zu isolieren. [Erste Schritte öffnen - Segmentieren einer Bildvorlage](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:c090820d-b733-44c7-910d-5e216c19c5cc).
 
->[!TIP]
->
->**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
-
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
 
 * **Gesundheit** - Segmentieren Sie ein medizinisches Gerät aus einer geschäftigen Studioaufnahme, um es auf einen sauberen klinischen Hintergrund für eine Produktseite zu legen, ohne dass ein erneuter Hintergrund erstellt wird.
 * **Einzelhandel** - Isolieren Sie ein Kleidungsstück aus einem Lifestyle-Foto, um ein sauberes, reines Produktkatalogbild zu erstellen.
 * **Automotive** - Schneiden Sie ein Fahrzeug aus einem Drehort-Shooting, um es vor einer Studiokulisse für den Druck zu platzieren.
+
+>[!TIP]
+>
+>**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Segment image](../../assets/get-started-segment-image.png){align="center"}
 

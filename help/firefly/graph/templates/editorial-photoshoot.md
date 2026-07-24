@@ -4,12 +4,12 @@ description: Erfahre, wie du einen Model-Verweis eingibst und die Kleidungsstift
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22126
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Erfahre, wie du einen Model-Verweis eingibst und die Kleidungsstücke durch neue Looks ersetzt. Posen und Beleuchtungsknoten bleiben im gesamten Set gesperrt, um ein einheitliches redaktionelles Erscheinungsbild zu erzielen. [Vorlage für redaktionelle Fotoaufnahmen öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:cfd7b810-2f86-5cdf-af80-dd2e31b8b84b).
 
->[!TIP]
->
->**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
-
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
 
 * **Einzelhandel** - Tauschen Sie Kleidungsstücke gegen ein Modell durch ein komplettes redaktionelles Shooting gegen ein saisonales Lookbook aus, ohne das Modell für jeden individuellen Look neu zu buchen.
 * **Beauty** - Erstellen Sie eine konsistente Editorial-Reihe für mehrere Produkt-Looks mithilfe einer Modellreferenz.
 * **Outdoors** - Generieren Sie einen vollständigen Editorial-Satz für eine neue Jackenfarbbahn-Aufstellung aus einem einzelnen Modelldreh.
+
+>[!TIP]
+>
+>**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
 
 ![Editorial-Fotoshooting](../../assets/editorial-photoshoot.png){align="center"}
 

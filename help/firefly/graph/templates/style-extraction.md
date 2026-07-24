@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22098
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 1%
+source-wordcount: '184'
+ht-degree: 0%
 
 ---
 
@@ -17,16 +17,16 @@ ht-degree: 1%
 
 Erfahre, wie du ein Referenzbild mit deiner Kamera fütterst, um Farbe, Licht und Struktur zu extrahieren. Sie können diese Behandlung auf jedes neue Bild anwenden, das über denselben Graphen läuft. [Vorlage für die Formatextraktion öffnen](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
->[!TIP]
->
->**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
-
-[!BADGE Anwendungsfälle]{type=Informative tooltip="Anwendungsfälle"}
+[!BADGE Branchenbeispiele]{type=Informative tooltip="Beispiele aus der Branche"}
 
 * **Reise** - Extrahieren Sie die Farb- und Lichtbehandlung aus einem genehmigten Heldenkampagnenfoto und wenden Sie sie auf zwanzig neue Zielbilder an, um eine visuelle Konsistenz zu erzielen.
 * **Einzelhandel** - Extrahieren Sie den genehmigten Look eines Artdirektors aus einer Heldenaufnahme und wenden Sie ihn auf die Produktfotografie einer ganzen Saison an.
 * **Getränke** - Mit &quot;Neues Verpacken anpassen&quot; wird die Stimmung eines preisgekrönten Kampagnenfotos wiedergegeben.
 
-![Konsistentes Zeichengen](../../assets/style-extraction.png){align="center"}
+>[!TIP]
+>
+>**Bevor Sie beginnen** - Um optimale Ergebnisse zu erzielen, passen Sie diese Vorlage an Ihr eigenes Branding, Produkt und Ihren eigenen Workflow an. Tauschen Sie Ihre Referenzbilder, Eingabeaufforderungen und Texte ein, bevor Sie eine Ausgabe verwenden.
+
+![Stilextraktion](../../assets/style-extraction.png){align="center"}
 
 Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
