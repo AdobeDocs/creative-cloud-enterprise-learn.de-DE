@@ -42,7 +42,7 @@ Die mit Ihrem ETLA-Vertrag verknüpften Seriennummernlizenzen sind auf der [Adob
 
 ### Ablaufdatum überprüfen
 
-[AdobeExpiryCheck](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) ist ein Befehlszeilenprogramm für IT-Administratoren, um zu überprüfen, ob Adobe-Produkte auf einem Computer abgelaufene oder demnächst ablaufende Seriennummern verwenden. Das Tool zeigt Informationen wie den Lizenzbezeichner (LEID), die verschlüsselte Seriennummer und das Ablaufdatum an. Diese [Seite](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) enthält Anweisungen zum Herunterladen und Verwenden des Tools auf Mac- oder Windows-Computern.
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ist ein Befehlszeilenprogramm für IT-Administratoren, um zu überprüfen, ob Adobe-Produkte auf einem Computer abgelaufene oder demnächst ablaufende Seriennummern verwenden. Das Tool zeigt Informationen wie den Lizenzbezeichner (LEID), die verschlüsselte Seriennummer und das Ablaufdatum an. Diese [Seite](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) enthält Anweisungen zum Herunterladen und Verwenden des Tools auf Mac- oder Windows-Computern.
 
 ## Verständnis der Endbenutzererfahrung vor und nach Ablauf der Seriennummer
 
@@ -76,7 +76,7 @@ Bei allen nachfolgenden Versuchen, die Applikationen zu starten, wird der Endben
 
 Die folgenden Informationen geben einen Überblick über die Benutzererfahrung. Im Folgenden finden Sie ein kurzes Video, gefolgt von einer Überprüfung der Endbenutzerfunktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439968?captions=ger&hidetitle=true)
 
 
 **Vor Ablauf**
@@ -99,7 +99,7 @@ Bei allen folgenden Versuchen, Acrobat zu starten, wird der Endbenutzer aufgefor
 
 ## Kontaktieren Sie uns, wenn Sie Hilfe benötigen
 
-Wenn Sie Fragen zur Verwendung des Tools [AdobeExpiryCheck](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) haben oder Hilfe bei der Migration von der Seriennummernbereitstellung zu einem benannten Benutzer benötigen, haben Sie einige Optionen:
+Wenn Sie Fragen zur Verwendung des Tools [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) haben oder Hilfe bei der Migration von der Seriennummernbereitstellung zu einem benannten Benutzer benötigen, haben Sie einige Optionen:
 * Senden Sie eine E-Mail an das Adobe Enterprise Onboarding-Team - **entonb@adobe.com**
 * Öffnen Sie ein Support-Ticket in [Admin Console](https://adminconsole.adobe.com/support/?locale=de).
 * Wenden Sie sich an Ihr Adobe-Kontoteam.
