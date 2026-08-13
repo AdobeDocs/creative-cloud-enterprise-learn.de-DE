@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -130,6 +130,8 @@ ht-degree: 3%
   + Tutorials zu Kreativproduktion {#firefly-creative-production}
     + [Übersicht über die  [!DNL Adobe Firefly] Creative Production](firefly/creative-production/overview-firefly-creative-production.md)
     + [Entfernen und Ersetzen des Hintergrunds](firefly/creative-production/background.md)
+    + {hide-from-toc}[Vorabvisualisierung von Fotoshootings](firefly/photoshoot-pre-visualization.md)
+    + {hide-from-toc}[Produktideen ohne Meetings, Marker und Mockups erkunden](firefly/explore-product-ideas.md)
   + {hide-from-toc} Graph-Tutorials {#firefly-graph}
     + {hide-from-toc}[Übersicht über Adobe Firefly-Graph](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
