@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Spiele mit der vollen Power des Adobe Firefly deine gesamte Kameraperspektive ab.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497056?captions=ger&quality=12&learn=on&hidetitle=true)

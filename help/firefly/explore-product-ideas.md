@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Firefly Boards bietet eurem Team die ultimative Brainstorming-Umgebung, mit der ihr aus groben Konzepten gemeinsam nutzbare Visuals macht, die weit über Textlisten und Strichmännchen hinausgehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497136?captions=ger&quality=12&learn=on&hidetitle=true)
