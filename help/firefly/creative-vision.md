@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lerne, wie du Ideen für dein Kreativ-Team umsetzen und frühzeitig einen gemeinsamen Stil definieren kannst, auf den deine Kunden sofort reagieren können. Mit dem Adobe Firefly können Konzepte mehr als nur Worte, sondern auch Bilder präsentieren, die keinen Raum für Fehlinterpretationen lassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497191?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497202?captions=ger&quality=12&learn=on&hidetitle=true)

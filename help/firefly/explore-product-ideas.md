@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Produktkonzepte hießen früher, auf 3D-Künstler und Illustratoren zu warten, damit eine Idee Gestalt annimmt. Erfahre, wie du mit Firefly Boards realistische Designs erstellst - ohne Marken, ohne Mockups, mit statischen Renderings oder 3D-Renderings.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497136?captions=ger&quality=12&learn=on&hidetitle=true)
