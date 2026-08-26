@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahre, wie Kreativ-Teams mithilfe von Adobe Firefly Boards ihre Ideen früh testen und überzeugt sind, dass jede Einstellung wie vorgesehen landen wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502287?captions=ger&quality=12&learn=on&hidetitle=true)
