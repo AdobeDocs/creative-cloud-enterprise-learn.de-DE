@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
+source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '885'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 3%
   + [Übersicht](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+    + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
     + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
     + [Wiederverwendbare Szenen für Werbeartikel erstellen](firefly/reusable-scenes.md)
     + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -133,6 +133,7 @@ ht-degree: 3%
     + {hide-from-toc}[Vorabvisualisierung von Fotoshootings](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Produktideen ohne Meetings, Marker und Mockups erkunden](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Ein Wort in eine freigegebene kreative Vision umwandeln](firefly/creative-vision.md)
+    + {hide-from-toc}[Vor dem Aufnahmen ausrichten](firefly/align-camera-roll.md)
   + {hide-from-toc} Graph-Tutorials {#firefly-graph}
     + {hide-from-toc}[Übersicht über Adobe Firefly-Graph](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
