@@ -168,7 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[Generierung von Porträtfotos](firefly/graph/templates/headshots-generation.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
-    + [Denk laut nach: Setze deine Ideen in professionelle Visuals um.](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
+    + [Denk laut nach: Setze deine Ideen in professionelle Visuals um.](https://experienceleague.adobe.com/de/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Übersicht](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
