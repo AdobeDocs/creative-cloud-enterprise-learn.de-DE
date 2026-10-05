@@ -1,24 +1,36 @@
 ---
 title: Einführung in Firefly Graph
-description: In diesem Webinar erfahrt ihr mehr über das visuelle Workflow-System von Firefly Graph.
+description: In diesem Webinar erfahrt ihr mehr über den Graf des voll visuellen Workflow-Systems von Firefly
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-21970
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
-
 ---
-
 # Einführung in Firefly Graph
 
-In diesem Webinar erfahrt ihr mehr über das visuelle Workflow-System Graph von Firefly, mit dem ihr Workflows für eure Teams freigeben könnt. Mit Graph kann jeder Ihren Workflow nutzen und in einem Bruchteil der Zeit Assets in Produktionsqualität generieren.
+In diesem Webinar erfahrt ihr mehr über den Graf des Firefly-Systems für visuelle Workflows, mit dem ihr Workflows für eure Teams freigeben könnt. Mit Graf kann jeder in einem Bruchteil der Zeit Ihren Workflow nutzen und Assets in Produktionsqualität generieren.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492629?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
