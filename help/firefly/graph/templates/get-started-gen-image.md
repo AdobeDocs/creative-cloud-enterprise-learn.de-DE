@@ -27,7 +27,7 @@ ht-degree: 0%
 ---
 # Erste Schritte - Bild generieren
 
-Hier erfahren Sie, wie Sie einen einfachen Graf erstellen: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. [Erste Schritte öffnen - Generieren Sie eine Bildvorlage ](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Hier erfahren Sie, wie Sie einen einfachen Graf erstellen: einen Aufforderungsknoten in einen Erzeugungsknoten in einer Ausgabe. [Erste Schritte öffnen - Generieren Sie eine Bildvorlage &#x200B;](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 [!BADGE Branchenbeispiele]{type=Informative tooltip=""}
 

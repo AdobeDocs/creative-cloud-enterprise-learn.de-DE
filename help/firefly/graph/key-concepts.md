@@ -64,6 +64,6 @@ Der vollständige Workflow, den Sie im Editor erstellen. Ein Graf besteht aus Kn
 
 ## Nächster Schritt
 
-Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihren ersten Graf ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine schrittweise Anleitung.
+Möchtest du was aufbauen? Wechseln Sie zu [3. Erstellen Sie Ihren ersten Graf &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) für eine schrittweise Anleitung.
 
 Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
