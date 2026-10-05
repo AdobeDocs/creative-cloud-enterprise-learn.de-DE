@@ -44,6 +44,6 @@ Beispieldateien zum Nachvollziehen (ZIP, 1,45 MB)
 
 ## Nächster Schritt
 
-Wechseln Sie zu [4. Graf für andere freigeben](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) Geben Sie Ihren Graf für andere frei.
+Wechseln Sie zu [4. Graf für andere freigeben](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) Geben Sie Ihren Graf für andere frei.
 
-Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Zurück zu [Erste Schritte mit Firefly Graph](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
