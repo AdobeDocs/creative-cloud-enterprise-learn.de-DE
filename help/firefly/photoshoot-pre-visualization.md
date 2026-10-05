@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Erfahre, wie du mit Gen AI ein komplettes Foto-Shooting in der Vorschau visualisieren kannst. So platzierst du dein Produkt in einer ehrgeizigen Umgebung, in der du Location, Setting und Figuren festhalten kannst, bevor ein einziger Rahmen aufgenommen wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497056?captions=ger&quality=12&learn=on&hidetitle=true)

@@ -32,4 +32,4 @@ Erfahre, wie du wiederverwendbare Szenen für Werbeartikel wie Handtaschen und A
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448476?captions=ger&quality=12&learn=on&hidetitle=true)
