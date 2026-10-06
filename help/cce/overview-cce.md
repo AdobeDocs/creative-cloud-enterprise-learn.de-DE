@@ -6,28 +6,38 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+TQID: 'https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: 1fb90542-ecf7-55a9-93b7-4011ddcd40b5
+    internal-label: Collaboration
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: dcec6556-a754-5235-b219-42ccb80fd3a2
+    internal-label: Integrations
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1412
+source-wordcount: '1412'
 ht-degree: 1%
-
 ---
-
 # Tutorials zu Creative Cloud für Unternehmen.
 
-Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Tutorials helfen Ihnen, neue Funktionen im Creative Cloud zu erlernen - aus der Sicht eines Unternehmens.
+Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, skalierbare Prozesse einrichten und die Systeme und Richtlinien des Unternehmens einhalten. Diese Tutorials helfen Ihnen, neue Funktionen im Creative Cloud zu erlernen - von einer Enterprise-Perspektive aus.
 
 ## Tutorial zum Auswählen eines Produkts (in alphabetischer Reihenfolge) zum Anzeigen
 
@@ -210,7 +220,7 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
     <div>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Von Lightroom Web zu InDesign über Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Kreativität von der Kamera bis zum fertigen Design mit Creative Cloud-Dateien und -Bibliotheken</em>
+    <em>Kreativität von der Kamera bis zum fertigen Design mit Creative Cloud von Dateien und Bibliotheken</em>
     <br>
   </td>
   <td>
@@ -495,10 +505,10 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
 <tr>
   <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="Mit Photoshop und Adobe im Handumdrehen Cinemagramme erstellen [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+      <img alt="Mit Photoshop und Adobe Cinemagramme in einem einrasten erstellen [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Erstellen von Cinemagrammen im Handumdrehen mit Photoshop und Adobe [!DNL Stock] (PDF)</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Erstellen von Cinemagrammen in einem einrasten mit Photoshop und Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Es wird nach Videos mit nahtloser Endloswiedergabe auf Adobe [!DNL Stock] gesucht, um auffällige Cinemagramme in Photoshop schnell zusammenzustellen</em>
     <br>
@@ -525,12 +535,12 @@ Als Unternehmen und Kreative müssen Sie mit verteilten Teams zusammenarbeiten, 
   </td>
   <td>
     <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf">
-    <img alt="Photoshop + After Effects = Klasse: Adobe MAX 2018 Lab Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
+    <img alt="Photoshop + After Effects = Klasse: Adobe MAX 2018 Labor Recap" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
     </a>
     <div>
-    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Lab Recap (PDF)</strong></a>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects = Awesomeness: Adobe MAX 2018 Labor Recap (PDF)</strong></a>
     </div>
-    <em>In diesem praktischen, schrittweisen Labor können Sie Photoshop mit After Effects kombinieren, um beeindruckende Bilder und Effekte zu erstellen, die für die Verwendung auf jedem Medium geeignet sind</em>
+    <em>Kombinieren Sie in diesem praktischen Labor Schritt für Schritt Photoshop mit After Effects, um beeindruckende Bilder und Effekte zu erstellen, die sich für die Verwendung auf jedem Medium eignen</em>
     <br>
   </td>
 </tr>

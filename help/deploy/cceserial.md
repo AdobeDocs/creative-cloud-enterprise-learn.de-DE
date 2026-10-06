@@ -5,21 +5,26 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+TQID: 'https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 871
+source-wordcount: '871'
 ht-degree: 4%
-
 ---
-
 # Informationen zum Ablauf der Creative Cloud für Unternehmen und Acrobat-Seriennummern
 
 Früher hat Adobe Kunden mit Enterprise Term License Agreements (ETLA) Seriennummern für unsere Anwendungen (z. B. Creative Suite, Creative Cloud für Unternehmen, Acrobat XI, Acrobat DC) ausgestellt. Diese Seriennummern haben ein Ablaufdatum. Sobald das Ablaufdatum verstrichen ist, funktioniert das Produkt nicht mehr. Daher ist es wichtig, Ihre Migration zu planen, bevor Ihre Seriennummern ablaufen. Auf dieser Seite werden die Schritte beschrieben, die erforderlich sind, um sicherzustellen, dass Ihre Endbenutzer weiterhin auf ihre Adobe-Programme und -Services zugreifen können.
@@ -42,7 +47,7 @@ Die mit Ihrem ETLA-Vertrag verknüpften Seriennummernlizenzen sind auf der [Adob
 
 ### Ablaufdatum überprüfen
 
-[AdobeExpiryCheck](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) ist ein Befehlszeilenprogramm für IT-Administratoren, um zu überprüfen, ob Adobe-Produkte auf einem Computer abgelaufene oder demnächst ablaufende Seriennummern verwenden. Das Tool zeigt Informationen wie den Lizenzbezeichner (LEID), die verschlüsselte Seriennummer und das Ablaufdatum an. Diese [Seite](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) enthält Anweisungen zum Herunterladen und Verwenden des Tools auf Mac- oder Windows-Computern.
+[AdobeExpiryCheck](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) ist ein Befehlszeilenprogramm für IT-Administratoren, um zu überprüfen, ob Adobe-Produkte auf einem Computer abgelaufene oder demnächst ablaufende Seriennummern verwenden. Das Tool zeigt Informationen wie die Produktlizenz-Identifizierung (LEID), die verschlüsselte Seriennummer und das Ablaufdatum an. Diese [Seite](https://helpx.adobe.com/de/enterprise/kb/volume-license-expiration-check.html) enthält Anweisungen zum Herunterladen und Verwenden des Tools auf Mac- oder Windows-Computern.
 
 ## Verständnis der Endbenutzererfahrung vor und nach Ablauf der Seriennummer
 

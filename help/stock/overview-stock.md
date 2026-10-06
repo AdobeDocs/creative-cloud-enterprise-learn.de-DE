@@ -1,32 +1,40 @@
 ---
-title: Adobe [!DNL Stock] Tutorials
-description: Tutorials, die Ihnen helfen, auf dem Adobe  [!DNL Stock] auf dem neuesten Stand zu sein
+title: Adobe [!DNL Stock]-Tutorials
+description: Tutorials, die Ihnen helfen, auf Adobe [!DNL Stock] auf dem neuesten Stand zu sein
 feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-TQID: https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk
+TQID: 'https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1257
+source-wordcount: '1258'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Stock]-Tutorials
 
 Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustellen. Über Adobe Stock können Kreativteams auf über 300 Millionen lizenzfreie Bilder, Videos, Audiodateien, Vorlagen, Illustrationen und 3D-Stockmedien zugreifen, die sie täglich in ihren Creative Cloud-Programmen verwenden. Unbegrenzter Zugriff auf Adobe Stock-Standard-Stockmedien mit der Creative Cloud Pro-Edition. Entdecken Sie die neuesten Sammlungen unter stock.adobe.com. Wählen Sie ein Bild aus, um ein Tutorial anzuzeigen.
@@ -60,7 +68,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="handdrawn.md"><strong>Handgezeichnete Skizze zum Adobe von [!DNL Stock] Bildern hinzufügen</strong></a>
       </div>
-      <em>Optimieren Sie Ihr Kreativ-Marketing mit individuellen Techniken, die Ihren Bildern Tiefe und Dimension verleihen, mithilfe von Photoshop für iPad</em>
+      <em>Optimieren Sie Ihr Kreativ-Marketing mit individuellen Techniken, die Ihren Bildern mit Photoshop für iPad Tiefe und Dimension verleihen</em>
       <br>
   </td>
   <td>
@@ -322,7 +330,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Erstellen eindeutiger Grafiken durch Kombinieren von Adobe [!DNL Stock]-Bildern (PDF)</strong></a>
       </div>
-      <em>Führen Sie zwei verschiedene Bilder zusammen, um eine völlig neue Szene für Ihre Design-Projekte zu erstellen. Adobe [!DNL Stock] und Adobe Photoshop leicht gemacht</em>
+      <em>Führen Sie zwei verschiedene Bilder zusammen, um eine völlig neue Szene für Ihre Designprojekte zu erstellen. Adobe [!DNL Stock] und Adobe Photoshop leicht gemacht</em>
       <br>
    </td>
 </tr>
@@ -354,7 +362,7 @@ Kreative stehen unter Druck, schnell ansprechende visuelle Inhalte bereitzustell
       <div>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>Adobe von Vektorgrafiken [!DNL Stock] mit Adobe Illustrator neu einfärben, um genau den gewünschten Look zu erzielen (PDF)</strong></a>
       </div>
-      Mit <em>Adobe [!DNL Stock] ist es leicht, einzigartige Vektorgrafiken zu finden, und mit Adobe Illustrator können Sie sie schnell an Ihre kreative Vision anpassen</em>
+      <em>Auf der [!DNL Stock]-Adobe finden Sie leicht eindeutige Vektorgrafiken, und mit Adobe Illustrator können Sie sie schnell an Ihre kreative Vision anpassen.</em>
       <br>
    </td>
    <td>

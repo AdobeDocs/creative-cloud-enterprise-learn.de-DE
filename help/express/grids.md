@@ -1,28 +1,32 @@
 ---
 title: Verwenden von Rastern
-description: Erfahren Sie, wie Sie mithilfe von Rastern Fotocollagen, Stimmungstafeln und beeindruckende Poster erstellen
+description: Lerne, wie du mit Rastern Fotocollagen, Stimmungstafeln und ausdrucksstarke Poster erstellen kannst
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14826
 exl-id: a8e11845-ad80-4f40-93e1-12b05e3c4201
-TQID: https://experienceleague.adobe.com/llP1jCSiv2ZbBj9Fy8ijmbmNe5i7gff8LS92D-ANC1c
+TQID: 'https://experienceleague.adobe.com/llP1jCSiv2ZbBj9Fy8ijmbmNe5i7gff8LS92D-ANC1c'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: '111'
 ht-degree: 0%
-
 ---
-
 # Raster verwenden
 
-Lerne, wie du mithilfe von Rastern Fotocollagen, Stimmungstafeln und ausdrucksstarke Poster erstellen kannst. Es gibt 40 verschiedene Rasterlayouts, die du mit deinen eigenen Bildern oder Adobe Stock-Fotos anpassen kannst.
+Lerne, wie du mit Rastern Fotocollagen, Stimmungstafeln und ausdrucksstarke Poster erstellst. Es gibt 40 verschiedene Raster-Layouts, die du mit deinen eigenen Bildern oder Adobe Stock-Fotos anpassen kannst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440001?captions=ger&quality=12&learn=on&hidetitle=true)
 
