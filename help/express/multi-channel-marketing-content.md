@@ -33,6 +33,6 @@ ht-degree: 3%
 
 Erfahrt, wie Event-Marketing-Teams einzigartige Inhalte erstellen können, um Zuschauer für Online-Events zu gewinnen. In diesem Workflow startet ein B2B-Marketer ein neues Projekt in der Adobe Expreß mithilfe einer Vorlage aus seinem Branding-Kit und seinen Bibliotheken. Der B2B Marketer erstellt Variationen für verschiedene Social-Media- und Web-Kanäle und teilt den Content auf Social-Media- und Video-Hosting-Plattformen.
 
-In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444988?captions=ger&quality=12&learn=on&hidetitle=true)

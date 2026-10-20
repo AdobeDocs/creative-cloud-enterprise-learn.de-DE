@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Flyer-Content für eine Marketing-Kampagne erstellen - mit Firefly.
 
-Erfahren Sie, wie Sie mithilfe von &quot;Text to Image&quot; (Text zu Bild), unterstützt durch Adobe Firefly, lokalisierte Inhalte aus einer globalen Hotelmarketing-Kampagne im Adobe Expreß erstellen können. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+Erfahren Sie, wie Sie mithilfe von &quot;Text to Image&quot; (Text zu Bild), unterstützt durch Adobe Firefly, lokalisierte Inhalte aus einer globalen Hotelmarketing-Kampagne im Adobe Expreß erstellen können. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443593?captions=ger&quality=12&learn=on&hidetitle=true)

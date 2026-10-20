@@ -33,6 +33,6 @@ ht-degree: 4%
 ---
 # Social-Media-Poster mit Firefly erstellen
 
-Erfahre, wie du mit &quot;Text in Bild&quot; (Adobe Firefly) im Adobe Expreß eine Werbekampagne für Social Media erstellst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+Erfahre, wie du mit &quot;Text in Bild&quot; (Adobe Firefly) im Adobe Expreß eine Werbekampagne für Social Media erstellst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430561?captions=ger&quality=12&learn=on&hidetitle=true)

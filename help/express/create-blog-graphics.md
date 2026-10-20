@@ -31,6 +31,6 @@ ht-degree: 5%
 ---
 # Social-Media-Kampagnen einfach durchführen
 
-Erfahre, wie du mit der Funktion &quot;Text in Image&quot; auf Basis von Adobe Firefly einzigartige Grafikinhalte für Web-, Blog- und Social-Media-Kampagnen erstellst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+Erfahre, wie du mit der Funktion &quot;Text in Image&quot; auf Basis von Adobe Firefly einzigartige Grafikinhalte für Web-, Blog- und Social-Media-Kampagnen erstellst. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441372?captions=ger&quality=12&learn=on&hidetitle=true)
