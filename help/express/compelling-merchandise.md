@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Erfahre, wie ein Commerce-Team auf einfache Weise überzeugende Bilder für eine neue Art von Inventar in seinem Onlineshop erstellen kann. In diesem Workflow erstellt der Merchandise-Manager eine neue Vorlage im Adobe Expreß für eine neue Merchandise. Der Marketer erstellt dann ein neues Projekt für Web-Anzeigen und passt Text und Bilder aus markeninternen Bibliotheken an ihre Anforderungen an. Außerdem bearbeiten sie ein Marketing-Video für das neue Inventar.
 
-In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447140?captions=ger&quality=12&learn=on&hidetitle=true)

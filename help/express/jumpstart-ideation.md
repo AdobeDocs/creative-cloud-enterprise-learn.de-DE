@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Hier erfahren Sie, wie Sie den Einstieg in die Entwicklung kreativer Inhalte für eine Marketing-Kampagne schaffen. In diesem Workflow startet ein Produkt-Manager ein neues Projekt in der Adobe Expreß und erstellt Seiten, auf denen Teams ihre Ideen, Bilder und Gedanken per Brainstorming weitergeben können. Die Team-Mitglieder bearbeiten ihre Bilder und Ideen gleichzeitig in Echtzeit. Jedes Teammitglied verwendet eine Kombination aus bereits vorhandenen Branding-Assets in [CC Libraries](cc-libraries.md) und Text, um sich ein Bild zu machen und Ideen zu kommunizieren. Designer fügen dem Dashboard Prototypen hinzu, die in Creative Cloud-Applikationen erstellt wurden und die beim Erstellen neuer Versionen automatisch verknüpft und aktualisiert werden.
 
-In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446170?captions=ger&quality=12&learn=on&hidetitle=true)

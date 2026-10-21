@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Erfahrt, wie Teams für verteiltes Field Marketing Content für lokale Marketing-Kampagnen an ihre Region anpassen können. In diesem Workflow erstellt das globale Marketing-Team Branding-Assets und veröffentlicht Inhalte als [Vorlagen](create-templates.md) in der Adobe Expreß. Außendienstmitarbeiter verwenden Adobe Expreß, um auf Kampagnenelemente zuzugreifen und ihre Designs an die Anforderungen der Region anzupassen. Andere Teams in der Region starten neue Express-Projekte anhand markenkonformer Vorlagen für neue Flyer, Web-Banner und andere Inhalte.
 
-In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433995?captions=ger&quality=12&learn=on&hidetitle=true)

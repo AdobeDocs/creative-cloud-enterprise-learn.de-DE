@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Mehrkanal-HR-Content für Events erstellen.
 
-Erfahren Sie, wie Sie schnell Multi-Channel-HR-Inhalte erstellen können, die der Marke Ihres Unternehmens entsprechen. Durch die schnelle Bereitstellung von Multi-Channel-Content könnt ihr mehr Mitarbeiter mit eurer Kommunikation erreichen und ihnen helfen, über die neuesten Entwicklungen auf dem Laufenden zu bleiben. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/express/) verwendet.
+Erfahren Sie, wie Sie schnell Multi-Channel-HR-Inhalte erstellen können, die der Marke Ihres Unternehmens entsprechen. Durch die schnelle Bereitstellung von Multi-Channel-Content könnt ihr mehr Mitarbeiter mit eurer Kommunikation erreichen und ihnen helfen, über die neuesten Entwicklungen auf dem Laufenden zu bleiben. In diesem Tutorial wird der neue [Adobe Expreß](https://www.adobe.com/de/express/) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434606?captions=ger&quality=12&learn=on&hidetitle=true)
