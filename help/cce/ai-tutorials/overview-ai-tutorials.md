@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
@@ -97,6 +97,38 @@ Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erste
    <a href="retouch-faster.md"><strong>Schneller retuschieren und die Originalpixel beibehalten</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie einem Produktfoto in Photoshop natürliche Schatten hinzufügen, während Ihre Originalpixel intakt bleiben</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Video Editor
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="Fülle Lücken in deinem Schnitt: B-Roll-, Audio- und Clip-Clips, die zu früh enden" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>Lücken in Ihrem Schnitt füllen: B-Roll-, Audio- und Clips, die zu früh enden</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Generative Extend in Premiere verwenden</em>
     <br>
   </td>
   <td>
