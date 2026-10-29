@@ -9,19 +9,20 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: c6178a0e0fe5fd98319a3184530e7a1e62b51236
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '918'
 ht-degree: 3%
-
 ---
 
-
-# Creative Cloud für Enterprise-Tutorials {#cce-learning-hub}
+# Tutorials zu Creative Cloud für Unternehmen. {#cce-learning-hub}
 
 + [Übersicht](overview.md)
 + Creative Cloud für Unternehmen {#cceoverview}
   + [Übersicht](cce/overview-cce.md)
+  + {hide-from-toc}[AI-Tutorials] {#cceaitutorials}
+    + {hide-from-toc}[Übersicht](cce/ai-tutorials/overview-ai-tutorials.md)
+    + {hide-from-toc}[Flache Vektorgrafiken in einen beliebigen Winkel umwandeln - ohne sie neu zu zeichnen](cce/ai-tutorials/turn-flat-vector-art.md)
   + Tutorials {#ccetutorials}
     + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
     + [Verbessern von CC-Workflows mit CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -72,7 +73,7 @@ ht-degree: 3%
     + [Verwenden der generativen Füllung](express/generative-fill.md)
     + [Text-Design mit Gen AI verbessern.](express/gen-text.md)
     + [So verwenden Sie Text-to-Template Gen AI](express/text-to-template.md)
-    + [Massenübersetzung Ihrer Inhalte](express/bulk-translate.md)
+    + [So können Sie Ihre Inhalte in großen Mengen Kamera bewogen haben](express/bulk-translate.md)
     + [Bearbeiten einer PDF](express/edit-a-pdf.md)
     + [Planer für die Buchung verwenden](express/schedule.md)
     + [Gruppieren von Objekten](express/group-objects.md)
@@ -113,7 +114,7 @@ ht-degree: 3%
   + [Übersicht](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+    + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
     + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
     + [Wiederverwendbare Szenen für Merchandise erstellen](firefly/reusable-scenes.md)
     + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -133,17 +134,17 @@ ht-degree: 3%
     + {hide-from-toc}[Vorabvisualisierung von Fotoshootings](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Produktideen ohne Meetings, Marker und Mockups erkunden](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Ein Wort in eine freigegebene kreative Vision umwandeln](firefly/creative-vision.md)
-    + {hide-from-toc}[Ausrichten vor der Kamera &#x200B;](firefly/align-camera-roll.md)
-  + {hide-from-toc} Graph-Tutorials {#firefly-graph}
-    + {hide-from-toc}[Übersicht über Adobe Firefly-Graph](firefly/graph/overview-firefly-graph.md)
+    + {hide-from-toc}[Ausrichten vor der Kamera ](firefly/align-camera-roll.md)
+  + {hide-from-toc} Graf-Tutorials {#firefly-graph}
+    + {hide-from-toc}[Übersicht über den Adobe Firefly-Graf](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Firefly Graph-Schlüsselkonzepte](firefly/graph/key-concepts.md)
-    + {hide-from-toc}[Erstellen Sie Ihr erstes Diagramm](firefly/graph/create-your-first-graph.md)
-    + {hide-from-toc}[Graph freigeben](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[Schlüsselkonzepte für &quot;Firefly Graph&quot;](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[Ersten Graf erstellen](firefly/graph/create-your-first-graph.md)
+    + {hide-from-toc}[Graf freigeben](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[Vorlagenbibliothek](firefly/graph/template-library.md)
     + {hide-from-toc}[Vorlage anpassen](firefly/graph/customize-template.md)
     + {hide-from-toc}[Einführung in das Webinar &quot;Firefly Graph&quot;](firefly/graph/introducing-graph.md)
-    + {hide-from-toc} Diagrammvorlagen {#graph-templates}
+    + {hide-from-toc} Vorlagen für Graf {#graph-templates}
       + {hide-from-toc}[Erste Schritte - Ein Bild generieren](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[Konsistente Zeichengenerierung](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Stilextraktion](firefly/graph/templates/style-extraction.md)
@@ -168,7 +169,7 @@ ht-degree: 3%
       + {hide-from-toc}[Generierung von Porträtfotos](firefly/graph/templates/headshots-generation.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
-    + [Denk laut nach: Setze deine Ideen in professionelle Visuals um.](https://experienceleague.adobe.com/de/on-demand-events/turn-ideas-into-striking-visuals)
+    + [Denk laut nach: Setze deine Ideen in professionelle Visuals um.](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Übersicht](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
@@ -207,7 +208,7 @@ ht-degree: 3%
   + [Übersicht](dva/overview-dva.md)
   + Tutorials {#videotutorials}
     + [Professionelle Animationsvorlagen](dva/motion-graphics-templates.md)
-    + [Videoüberprüfung mit Frame.io](dva/video-review-frame-io.md)
+    + [Videoüberprüfung mit Rahmen.io](dva/video-review-frame-io.md)
   + Kurzanleitungen {#videorefguides}
     + [Video-Handbücher](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
