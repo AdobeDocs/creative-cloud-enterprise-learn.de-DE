@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
@@ -52,3 +52,36 @@ Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erste
   </td>
 </tr>
 </table>
+
+## Creative/Art Director
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="one-brief.md">
+      <img alt="20 Wegbeschreibungen aus einer kurzen, vor dem Mittagessen" src="../../assets/one-brief.png" />
+   </a>
+    <div>
+   <a href="one-brief.md"><strong>20 Wegbeschreibungen aus einem Brief vor dem Mittagessen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie einen kreativen Auftrag in ein gemeinsames Board mit starken visuellen Richtungen verwandeln</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
