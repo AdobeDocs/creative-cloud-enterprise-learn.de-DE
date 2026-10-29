@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
@@ -31,8 +31,13 @@ Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erste
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="Nahtlose Vektormuster in Minuten statt Stunden" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>Nahtlose Vektormuster in Minuten, nicht Stunden</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie in Illustrator ein nahtloses Branding-Muster erstellen, ohne jede Wiederholungskante von Hand prüfen zu müssen</em>
     <br>
   </td>
   <td>

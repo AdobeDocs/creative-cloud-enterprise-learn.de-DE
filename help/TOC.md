@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c6178a0e0fe5fd98319a3184530e7a1e62b51236
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '925'
 ht-degree: 3%
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
   + {hide-from-toc}[AI-Tutorials] {#cceaitutorials}
     + {hide-from-toc}[Übersicht](cce/ai-tutorials/overview-ai-tutorials.md)
     + {hide-from-toc}[Flache Vektorgrafiken in einen beliebigen Winkel umwandeln - ohne sie neu zu zeichnen](cce/ai-tutorials/turn-flat-vector-art.md)
+    + {hide-from-toc}[Nahtlose Vektormuster in Minuten, nicht Stunden](cce/ai-tutorials/seamless-vector.md)
   + Tutorials {#ccetutorials}
     + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
     + [Verbessern von CC-Workflows mit CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -114,7 +115,7 @@ ht-degree: 3%
   + [Übersicht](firefly/overview-firefly.md)
   + Tutorials {#firefly-tutorials}
     + [Übersicht über  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-    + [&#x200B; [!DNL Adobe Firefly] entdecken](firefly/discover.md)
+    + [ [!DNL Adobe Firefly] entdecken](firefly/discover.md)
     + [Ideen schneller umsetzen.](firefly/accelerate-ideas.md)
     + [Wiederverwendbare Szenen für Merchandise erstellen](firefly/reusable-scenes.md)
     + [Erstellen eines benutzerdefinierten Modells](firefly/custom-model.md)
@@ -134,7 +135,7 @@ ht-degree: 3%
     + {hide-from-toc}[Vorabvisualisierung von Fotoshootings](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Produktideen ohne Meetings, Marker und Mockups erkunden](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Ein Wort in eine freigegebene kreative Vision umwandeln](firefly/creative-vision.md)
-    + {hide-from-toc}[Ausrichten vor der Kamera &#x200B;](firefly/align-camera-roll.md)
+    + {hide-from-toc}[Ausrichten vor der Kamera ](firefly/align-camera-roll.md)
   + {hide-from-toc} Graf-Tutorials {#firefly-graph}
     + {hide-from-toc}[Übersicht über den Adobe Firefly-Graf](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
@@ -169,7 +170,7 @@ ht-degree: 3%
       + {hide-from-toc}[Generierung von Porträtfotos](firefly/graph/templates/headshots-generation.md)
   + Webinare {#firefly-webinars}
     + [Mit Adobe Firefly experimentieren](firefly/webinar-experimenting.md)
-    + [Denk laut nach: Setze deine Ideen in professionelle Visuals um.](https://experienceleague.adobe.com/de/on-demand-events/turn-ideas-into-striking-visuals)
+    + [Denk laut nach: Setze deine Ideen in professionelle Visuals um.](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Übersicht](stock/overview-stock.md)
   + Tutorials {#stocktutorials}
