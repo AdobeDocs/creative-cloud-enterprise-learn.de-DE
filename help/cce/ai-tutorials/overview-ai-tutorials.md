@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
@@ -141,9 +141,14 @@ Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erste
     <em>Erfahren Sie, wie Sie Generative Extend in Premiere verwenden</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="Schneller zum Rohschnitt" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>Schneller zum Rohschnitt</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie in Premiere einen Rohschnitt aus Interviews und B-Roll-Material erstellen können, ohne jeden Clip zu scrubben</em>
     <br>
   </td>
   <td>
