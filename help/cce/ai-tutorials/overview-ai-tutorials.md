@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
+source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '193'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
@@ -84,4 +84,37 @@ Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erste
   </td>
 </tr>
 </table>
+
+## Photoshop Artist/Retoucher
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="retouch-faster.md">
+      <img alt="Schneller retuschieren und Originalpixel beibehalten" src="../../assets/retouch.png" />
+   </a>
+    <div>
+   <a href="retouch-faster.md"><strong>Schneller retuschieren und die Originalpixel beibehalten</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie einem Produktfoto in Photoshop natürliche Schatten hinzufügen, während Ihre Originalpixel intakt bleiben</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 
