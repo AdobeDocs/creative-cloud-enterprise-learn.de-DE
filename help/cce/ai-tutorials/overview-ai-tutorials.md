@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
+source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
@@ -68,8 +68,13 @@ Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erste
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="Vom kurzen zum Storyboard: Erkunde die Anweisungen für Videos vor der Produktion" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>Vom Briefing zum Storyboard: Erkunden Sie die Videorichtungen vor der Produktion</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie einen kreativen Auftrag in ein gemeinsames Board mit starken visuellen Richtungen verwandeln</em>
     <br>
   </td>
   <td>
