@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # Creative Cloud für Unternehmen - KI-Tutorials.
 
-Entdecken Sie Tutorials, die Ihnen helfen können, Ideen zu entdecken, Inhalte zu erstellen und kreative Workflows auf dem Creative Cloud zu optimieren. Diese Tutorials sind nach Rollen gruppiert: Graphic Designer, Creative/Art Director, Photoshop Artist/Retoucher und Video Editor.
+Entdecke Tutorials, die dir helfen können, Ideen zu entdecken, Inhalte zu erstellen und kreative Workflows mit KI auf dem Creative Cloud zu optimieren. Diese Tutorials sind nach Rollen gruppiert: Graphic Designer, Creative/Art Director, Photoshop Artist/Retoucher und Video Editor.
 
 ## Graphic Designer
 
@@ -31,17 +31,17 @@ Entdecken Sie Tutorials, die Ihnen helfen können, Ideen zu entdecken, Inhalte z
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Spacer" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
