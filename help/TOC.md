@@ -9,19 +9,27 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '976'
 ht-degree: 3%
-
 ---
 
-
-# Creative Cloud für Enterprise-Tutorials {#cce-learning-hub}
+# Tutorials zu Creative Cloud für Unternehmen. {#cce-learning-hub}
 
 + [Übersicht](overview.md)
 + Creative Cloud für Unternehmen {#cceoverview}
   + [Übersicht](cce/overview-cce.md)
+  + KI-Tutorials {#cceaitutorials}
+    + [Übersicht](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [Eine Vektorgrafik in einen beliebigen Winkel umwandeln, ohne sie neu zeichnen zu müssen](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [Nahtlose Vektormuster in Minuten statt Stunden](cce/ai-tutorials/seamless-vector.md)
+    + [20 Wegbeschreibungen aus einer kurzen, vor dem Mittagessen](cce/ai-tutorials/one-brief.md)
+    + [Vom kurzen zum Storyboard: Erkunde die Anweisungen für Videos vor der Produktion](cce/ai-tutorials/brief-to-storyboard.md)
+    + [Schneller retuschieren und Originalpixel beibehalten](cce/ai-tutorials/retouch-faster.md)
+    + [Vorgaben für konsistente Farben bei Aufnahmen erstellen.](cce/ai-tutorials/build-presets.md)
+    + [Fülle Lücken in deinem Schnitt: B-Roll-, Audio- und Clip-Clips, die zu früh enden](cce/ai-tutorials/fill-gaps.md)
+    + [Schneller zum Rohschnitt](cce/ai-tutorials/rough-cut.md)
   + Tutorials {#ccetutorials}
     + [Acrobat für Content-Ersteller](cce/acrobat-content-creators.md)
     + [Verbessern von CC-Workflows mit CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -72,7 +80,7 @@ ht-degree: 3%
     + [Verwenden der generativen Füllung](express/generative-fill.md)
     + [Text-Design mit Gen AI verbessern.](express/gen-text.md)
     + [So verwenden Sie Text-to-Template Gen AI](express/text-to-template.md)
-    + [Massenübersetzung Ihrer Inhalte](express/bulk-translate.md)
+    + [So können Sie Ihre Inhalte in großen Mengen Kamera bewogen haben](express/bulk-translate.md)
     + [Bearbeiten einer PDF](express/edit-a-pdf.md)
     + [Planer für die Buchung verwenden](express/schedule.md)
     + [Gruppieren von Objekten](express/group-objects.md)
@@ -134,16 +142,16 @@ ht-degree: 3%
     + {hide-from-toc}[Produktideen ohne Meetings, Marker und Mockups erkunden](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Ein Wort in eine freigegebene kreative Vision umwandeln](firefly/creative-vision.md)
     + {hide-from-toc}[Ausrichten vor der Kamera &#x200B;](firefly/align-camera-roll.md)
-  + {hide-from-toc} Graph-Tutorials {#firefly-graph}
-    + {hide-from-toc}[Übersicht über Adobe Firefly-Graph](firefly/graph/overview-firefly-graph.md)
+  + {hide-from-toc} Graf-Tutorials {#firefly-graph}
+    + {hide-from-toc}[Übersicht über den Adobe Firefly-Graf](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Was ist Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Firefly Graph-Schlüsselkonzepte](firefly/graph/key-concepts.md)
-    + {hide-from-toc}[Erstellen Sie Ihr erstes Diagramm](firefly/graph/create-your-first-graph.md)
-    + {hide-from-toc}[Graph freigeben](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[Schlüsselkonzepte für &quot;Firefly Graph&quot;](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[Ersten Graf erstellen](firefly/graph/create-your-first-graph.md)
+    + {hide-from-toc}[Graf freigeben](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[Vorlagenbibliothek](firefly/graph/template-library.md)
     + {hide-from-toc}[Vorlage anpassen](firefly/graph/customize-template.md)
     + {hide-from-toc}[Einführung in das Webinar &quot;Firefly Graph&quot;](firefly/graph/introducing-graph.md)
-    + {hide-from-toc} Diagrammvorlagen {#graph-templates}
+    + {hide-from-toc} Vorlagen für Graf {#graph-templates}
       + {hide-from-toc}[Erste Schritte - Ein Bild generieren](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[Konsistente Zeichengenerierung](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Stilextraktion](firefly/graph/templates/style-extraction.md)
@@ -207,7 +215,7 @@ ht-degree: 3%
   + [Übersicht](dva/overview-dva.md)
   + Tutorials {#videotutorials}
     + [Professionelle Animationsvorlagen](dva/motion-graphics-templates.md)
-    + [Videoüberprüfung mit Frame.io](dva/video-review-frame-io.md)
+    + [Videoüberprüfung mit Rahmen.io](dva/video-review-frame-io.md)
   + Kurzanleitungen {#videorefguides}
     + [Video-Handbücher](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
